@@ -1,0 +1,3242 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            82.705078125,
+            70.0,
+            529.294921875,
+            97.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Acoustic Fault Screening for Small Industrial Fans",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            109.9,
+            245.9677734375,
+            126.95
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This paper examines a practical",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            126.95,
+            294.833984375,
+            144.0
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "screening method for detecting incipient",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            144.0,
+            295.328125,
+            161.05
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "mechanical faults in small industrial fans",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            161.05,
+            267.85498046875,
+            178.10000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "using airborne acoustic signals. The",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            178.10000000000002,
+            251.73095703125,
+            195.15000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "approach combines time‑domain",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            195.15000000000003,
+            278.74755859375,
+            212.20000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "envelope statistics with spectral band",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            212.20000000000005,
+            244.6357421875,
+            229.25000000000006
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "ratios to flag anomalies without",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            229.25000000000006,
+            272.146484375,
+            246.30000000000007
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "requiring contact sensors. We report",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            246.30000000000007,
+            273.52685546875,
+            263.3500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "simulated observations from 240 fan",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            263.3500000000001,
+            277.9150390625,
+            280.4000000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "units across 4 sites, collected over 12",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            280.4000000000001,
+            241.9072265625,
+            297.4500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "weeks. The study distinguishes",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            297.4500000000001,
+            266.0771484375,
+            314.5000000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "screening performance from causal",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            314.5000000000001,
+            273.693359375,
+            331.5500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "diagnosis, emphasizing that acoustic",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            331.5500000000001,
+            286.390625,
+            348.60000000000014
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "flags indicate candidates for inspection",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            348.60000000000014,
+            279.40283203125,
+            365.65000000000015
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "rather than confirmed root causes. All",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            365.65000000000015,
+            252.43994140625,
+            382.70000000000016
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "numeric results are presented as",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            382.70000000000016,
+            270.0947265625,
+            399.75000000000017
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "simulated indicators to illustrate the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            399.75000000000017,
+            257.0751953125,
+            416.8000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "workflow and decision thresholds.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            422.8000000000002,
+            269.64892578125,
+            439.8500000000002
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            439.8500000000002,
+            114.2578125,
+            456.9000000000002
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Table 4.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            462.9000000000002,
+            269.64892578125,
+            479.9500000000002
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            479.9500000000002,
+            118.619140625,
+            497.0000000000002
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Figure 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            503.0000000000002,
+            296.0,
+            611.0000000000002
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Metric",
+              "Value",
+              "Unit",
+              "Note"
+            ],
+            [
+              "Output",
+              "76.97",
+              "Units",
+              "Simulated"
+            ],
+            [
+              "Cost",
+              "50.03",
+              "Units",
+              "Simulated"
+            ],
+            [
+              "Balance",
+              "26.94",
+              "Units",
+              "Simulated"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            503.0000000000002,
+            296.0,
+            658.0000000000002
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            618.0000000000002,
+            262.324951171875,
+            631.1750000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 1: Simulated program cost and output",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            631.1750000000002,
+            110.109375,
+            644.3500000000003
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "summary",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            109.9,
+            537.59375,
+            131.6
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Screening Framework and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            131.6,
+            456.0205078125,
+            153.29999999999998
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Signal Processing",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            157.29999999999998,
+            515.01513671875,
+            174.35
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The screening framework processes",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            174.35,
+            532.82568359375,
+            191.4
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "short acoustic recordings captured at a",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            191.4,
+            524.14599609375,
+            208.45000000000002
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "fixed distance from each fan housing.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            208.45000000000002,
+            504.40185546875,
+            225.50000000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Signals are band‑pass filtered and",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            225.50000000000003,
+            526.03125,
+            242.55000000000004
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "segmented into overlapping windows;",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            242.55000000000004,
+            508.54296875,
+            259.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "for each window we compute crest",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            259.6,
+            490.83984375,
+            276.65000000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "factor, kurtosis, and the ratio of",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            276.65000000000003,
+            541.0810546875,
+            293.70000000000005
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "high‑frequency to low‑frequency energy.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            293.70000000000005,
+            540.19482421875,
+            310.75000000000006
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "A two‑stage classifier first applies robust",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            310.75000000000006,
+            522.3251953125,
+            327.80000000000007
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "z‑scores against a baseline built from",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            327.80000000000007,
+            521.19189453125,
+            344.8500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "known‑good units, then a lightweight",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            344.8500000000001,
+            526.26220703125,
+            361.9000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "decision tree refines borderline cases.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            361.9000000000001,
+            540.49560546875,
+            378.9500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "This design prioritizes low false‑negative",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            378.9500000000001,
+            499.75048828125,
+            396.0000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "rates for screening while keeping",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            396.0000000000001,
+            516.041015625,
+            413.0500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "computational cost modest for edge",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            413.0500000000001,
+            385.29248046875,
+            430.10000000000014
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "deployment.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            436.10000000000014,
+            501.23046875,
+            454.70000000000016
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Feature Extraction and",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            454.70000000000016,
+            468.294921875,
+            473.3000000000002
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "Baseline Construction",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            477.3000000000002,
+            525.04833984375,
+            494.3500000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Baseline construction uses recordings",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            494.3500000000002,
+            489.63134765625,
+            511.4000000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "from fans confirmed healthy by",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            511.4000000000002,
+            500.21240234375,
+            528.4500000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "maintenance records. We extract",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            528.4500000000002,
+            508.2099609375,
+            545.5000000000001
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "features in the time and frequency",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            545.5000000000001,
+            513.892578125,
+            562.5500000000001
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "domains, then normalize per unit to",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            562.5500000000001,
+            535.5166015625,
+            579.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "reduce sensitivity to mounting and load",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            579.6,
+            508.91357421875,
+            596.65
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "variations. The baseline is updated",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            596.65,
+            506.79736328125,
+            613.6999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "incrementally as new healthy data",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            613.6999999999999,
+            496.95751953125,
+            630.7499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "arrive, with a forgetting factor to",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            630.7499999999999,
+            515.67041015625,
+            647.7999999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "accommodate gradual drift. Feature",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            647.7999999999998,
+            505.900390625,
+            664.8499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "stability is assessed via intra‑class",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            664.8499999999998,
+            521.44970703125,
+            681.8999999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "correlation across repeated sessions;",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            681.8999999999997,
+            479.58203125,
+            698.9499999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "features with low stability are",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            263.86962890625,
+            87.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "down‑weighted. This step is critical",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            252.22509765625,
+            104.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "because small fans exhibit broad",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            104.1,
+            278.5703125,
+            121.14999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "unit‑to‑unit variability even within the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            121.14999999999999,
+            141.19921875,
+            138.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "same model.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            144.2,
+            263.22265625,
+            162.79999999999998
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.2 Threshold Selection and",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            162.79999999999998,
+            147.078125,
+            181.39999999999998
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Alert Logic",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            185.39999999999998,
+            274.95556640625,
+            202.45
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Alert thresholds are derived from the",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            202.45,
+            278.828125,
+            219.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "distribution of baseline scores using a",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            219.5,
+            290.23095703125,
+            236.55
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "percentile‑based rule, supplemented by",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            236.55,
+            283.20556640625,
+            253.60000000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "a persistence requirement to suppress",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            253.60000000000002,
+            278.87109375,
+            270.65000000000003
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "transient noise. An alert is raised only",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            270.65000000000003,
+            280.71337890625,
+            287.70000000000005
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "when the score exceeds the threshold",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            287.70000000000005,
+            287.185546875,
+            304.75000000000006
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "for consecutive windows. We tuned the",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            304.75000000000006,
+            288.3671875,
+            321.80000000000007
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "persistence length and percentile using",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            321.80000000000007,
+            269.396484375,
+            338.8500000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "simulated data to balance detection",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            338.8500000000001,
+            269.27294921875,
+            355.9000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "latency against nuisance alerts. The",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            355.9000000000001,
+            245.3876953125,
+            372.9500000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "alert logic parameters and their",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            372.9500000000001,
+            287.42724609375,
+            390.0000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "qualitative rationale are summarized in",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            390.0000000000001,
+            260.22265625,
+            407.0500000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "the accompanying table. The logic",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            407.0500000000001,
+            259.77685546875,
+            424.10000000000014
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "intentionally favors early, low‑cost",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            424.10000000000014,
+            277.92578125,
+            441.15000000000015
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "inspection over immediate shutdown.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            447.15000000000015,
+            269.64892578125,
+            464.20000000000016
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            464.20000000000016,
+            114.2578125,
+            481.25000000000017
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Table 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            487.25000000000017,
+            296.0,
+            621.2500000000002
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Parameter",
+              "Setting",
+              "Rationale",
+              "Adjustment"
+            ],
+            [
+              "Score threshold",
+              "High percentile",
+              "Limit nuisance alerts",
+              "Site‑specific"
+            ],
+            [
+              "Persistence",
+              "Consecutive windows",
+              "Suppress transients",
+              "Tune by noise"
+            ],
+            [
+              "Baseline update",
+              "Slow forgetting",
+              "Adapt to drift",
+              "Monitor stability"
+            ],
+            [
+              "Alert routing",
+              "Maintenance queue",
+              "Fit workflow",
+              "Integrate tickets"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            487.25000000000017,
+            296.0,
+            668.2500000000002
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            628.2500000000002,
+            268.600341796875,
+            641.4250000000002
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 1: Alert logic parameters and qualitative",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            641.4250000000002,
+            107.78515625,
+            654.6000000000003
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "rationale",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            316.0,
+            70,
+            542.0,
+            204
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Fault category",
+              "Alerts",
+              "Confirmed",
+              "Nuisance"
+            ],
+            [
+              "Bearing wear",
+              "Moderate",
+              "Most",
+              "Few"
+            ],
+            [
+              "Imbalance",
+              "Low",
+              "Some",
+              "Some"
+            ],
+            [
+              "Looseness",
+              "Moderate",
+              "Some",
+              "Many"
+            ],
+            [
+              "No fault",
+              "Low",
+              "None",
+              "Most"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            316.0,
+            70,
+            542.0,
+            251
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            211.0,
+            523.220703125,
+            224.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Figure 2: Simulated screening outcomes by fault",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            224.175,
+            353.565185546875,
+            237.35
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "category",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            251,
+            488.9013671875,
+            272.7
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "2 Field Validation and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            272.7,
+            502.7783203125,
+            294.4
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Operational Integration",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            298.4,
+            529.0068359375,
+            315.45
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Field validation involved deploying the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            315.45,
+            505.49755859375,
+            332.5
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "screening prototype at 4 sites and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            332.5,
+            528.96923828125,
+            349.55
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "comparing alerts against maintenance",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            349.55,
+            512.732421875,
+            366.6
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "findings over 12 weeks. Alerts were",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            366.6,
+            507.576171875,
+            383.65000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "logged and routed to maintenance",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            383.65000000000003,
+            527.71240234375,
+            400.70000000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "coordinators, who recorded inspection",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            400.70000000000005,
+            528.416015625,
+            417.75000000000006
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "outcomes. The integration aimed to fit",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            417.75000000000006,
+            503.95068359375,
+            434.80000000000007
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "existing workflows without adding",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            434.80000000000007,
+            528.33544921875,
+            451.8500000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "specialized hardware. We also tracked",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            451.8500000000001,
+            528.97998046875,
+            468.9000000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "response times and alert‑to‑inspection",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            468.9000000000001,
+            484.244140625,
+            485.9500000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "intervals to assess operational",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            485.9500000000001,
+            518.0712890625,
+            503.0000000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "feasibility. The following subsections",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            503.0000000000001,
+            520.466796875,
+            520.0500000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "detail the validation protocol and the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            520.0500000000001,
+            498.1123046875,
+            537.1
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "observed outcomes, with explicit",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            537.1,
+            527.34716796875,
+            554.15
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "caveats about the simulated nature of",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            554.15,
+            365.822265625,
+            571.1999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "the data.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            577.1999999999999,
+            515.64892578125,
+            594.2499999999999
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            594.2499999999999,
+            364.619140625,
+            611.2999999999998
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Figure 2.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            617.2999999999998,
+            515.64892578125,
+            634.3499999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            634.3499999999998,
+            360.2578125,
+            651.3999999999997
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Table 2.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            70,
+            296.0,
+            204
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Aspect",
+              "Current",
+              "Desired",
+              "Gap"
+            ],
+            [
+              "Alert routing",
+              "Email",
+              "Ticket system",
+              "API needed"
+            ],
+            [
+              "Inspection timing",
+              "Ad hoc",
+              "Scheduled",
+              "Policy"
+            ],
+            [
+              "Data storage",
+              "Local",
+              "Central",
+              "Infrastructure"
+            ],
+            [
+              "Training",
+              "Brief",
+              "Formal",
+              "Materials"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            70,
+            296.0,
+            237
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            271.11962890625,
+            224.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 2: Operational integration considerations",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            237,
+            294.435546875,
+            255.6
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "2.1 Validation Protocol and Data",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            255.6,
+            141.166015625,
+            274.2
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Collection",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            278.2,
+            249.48046875,
+            295.25
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The validation protocol specified",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            295.25,
+            289.90869140625,
+            312.3
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "recording schedules, sensor placement,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            312.3,
+            273.40869140625,
+            329.35
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and inspection procedures. Each site",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            329.35,
+            267.3876953125,
+            346.40000000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "received a handheld recorder and a",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            346.40000000000003,
+            263.7568359375,
+            363.45000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "simple app that guided technicians",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            363.45000000000005,
+            235.29541015625,
+            380.50000000000006
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "through a 12‑week campaign.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            380.50000000000006,
+            283.85546875,
+            397.55000000000007
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Inspections were triggered by alerts or",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            397.55000000000007,
+            290.2041015625,
+            414.6000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "by routine schedules, and findings were",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            414.6000000000001,
+            294.2646484375,
+            431.6500000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "categorized as bearing wear, imbalance,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            431.6500000000001,
+            262.49462890625,
+            448.7000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "looseness, or no fault. Data quality",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            448.7000000000001,
+            271.39990234375,
+            465.7500000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "checks included signal‑to‑noise ratio",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            465.7500000000001,
+            279.60693359375,
+            482.8000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "thresholds and rejection of recordings",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            482.8000000000001,
+            279.72509765625,
+            499.85000000000014
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "with excessive background noise. The",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            499.85000000000014,
+            279.859375,
+            516.9000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "protocol steps and responsibilities are",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            516.9000000000001,
+            268.76806640625,
+            533.95
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "outlined in the accompanying table.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            539.95,
+            269.64892578125,
+            557.0
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            557.0,
+            114.2578125,
+            574.05
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Table 3.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            316.0,
+            70,
+            542.0,
+            230
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Step",
+              "Action",
+              "Responsible",
+              "Timing"
+            ],
+            [
+              "Baseline",
+              "Record healthy fans",
+              "Technician",
+              "Week one"
+            ],
+            [
+              "Screening",
+              "Weekly recordings",
+              "Technician",
+              "Weeks two to end"
+            ],
+            [
+              "Alert review",
+              "Confirm and route",
+              "Coordinator",
+              "Within 2 days"
+            ],
+            [
+              "Inspection",
+              "Perform check",
+              "Maintenance",
+              "Within 5 days"
+            ],
+            [
+              "Outcome log",
+              "Record findings",
+              "Technician",
+              "After inspection"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            316.0,
+            70,
+            542.0,
+            277
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            237.0,
+            477.466796875,
+            250.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 3: Validation protocol steps and",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            250.175,
+            379.75830078125,
+            263.35
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "responsibilities",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            277,
+            481.89453125,
+            295.6
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2.2 Observed Screening",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            295.6,
+            497.19921875,
+            314.20000000000005
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Outcomes and Limitations",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            318.20000000000005,
+            514.44580078125,
+            335.25000000000006
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Across the simulated campaign, the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            335.25000000000006,
+            525.00537109375,
+            352.30000000000007
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "screening method flagged a subset of",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            352.30000000000007,
+            500.23388671875,
+            369.3500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "units for inspection, with a mix of",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            369.3500000000001,
+            520.91796875,
+            386.4000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "confirmed faults and nuisance alerts.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            386.4000000000001,
+            505.384765625,
+            403.4500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Detection was more consistent for",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            403.4500000000001,
+            519.7578125,
+            420.5000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "bearing‑related faults than for subtle",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            420.5000000000001,
+            520.60107421875,
+            437.5500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "imbalance. We emphasize that these",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            437.5500000000001,
+            529.05517578125,
+            454.60000000000014
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "observations are simulated and do not",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            454.60000000000014,
+            533.013671875,
+            471.65000000000015
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "establish causal links between acoustic",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            471.65000000000015,
+            469.419921875,
+            488.70000000000016
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "features and specific failure",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            488.70000000000016,
+            529.39892578125,
+            505.75000000000017
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "mechanisms. Limitations include small",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            505.75000000000017,
+            474.23779296875,
+            522.8000000000002
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "sample size per site, varying",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            522.8000000000002,
+            526.89599609375,
+            539.8500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "background noise, and the absence of",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            539.8500000000001,
+            532.25634765625,
+            556.9000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "long‑term follow‑up. Outcomes by fault",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            556.9000000000001,
+            480.19970703125,
+            573.95
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "category are compared in the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            573.95,
+            431.349609375,
+            591.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "accompanying table.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            70,
+            296.0,
+            204
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Output",
+              "Cost",
+              "Balance"
+            ],
+            [
+              "2022",
+              "76.97",
+              "50.03",
+              "26.94"
+            ],
+            [
+              "2023",
+              "95.43",
+              "62.03",
+              "33.40"
+            ],
+            [
+              "2024",
+              "109.07",
+              "70.90",
+              "38.17"
+            ],
+            [
+              "2025",
+              "121.61",
+              "79.05",
+              "42.56"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            70,
+            296.0,
+            251
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            284.30126953125,
+            224.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 4: Simulated annual operating indicators for",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            224.175,
+            167.40966796875,
+            237.35
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "the screening program",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

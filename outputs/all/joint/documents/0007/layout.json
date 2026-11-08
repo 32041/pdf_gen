@@ -1,0 +1,2254 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            106.40997265624998,
+            70.0,
+            488.86602734375,
+            97.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Fictional Equipment Maintenance Services",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            247.45684765624998,
+            97.9,
+            347.81915234375,
+            125.80000000000001
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Agreement",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            137.8,
+            504.38720703125,
+            154.85000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This agreement records the simulated maintenance arrangement between the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            154.85000000000002,
+            509.08154296875,
+            171.90000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "service provider and the equipment owner for the covered production assets at",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            171.90000000000003,
+            473.48193359375,
+            188.95000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the named sites. It sets out the service scope, response duties, reporting",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            188.95000000000005,
+            485.50244140625,
+            206.00000000000006
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "expectations and payment terms that govern the working relationship. The",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            206.00000000000006,
+            473.00390625,
+            223.05000000000007
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "parties acknowledge that all figures used in this document are simulated",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            223.05000000000007,
+            522.09033203125,
+            240.10000000000008
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "indicators prepared for drafting review and do not describe real operating results.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            246.10000000000008,
+            356.220703125,
+            267.80000000000007
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Service Scope and Covered Assets",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            271.80000000000007,
+            511.0849609375,
+            288.8500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The provider shall maintain the covered equipment listed in the asset schedule,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            288.8500000000001,
+            506.5732421875,
+            305.9000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "including routine inspection, lubrication, calibration checks and replacement of",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            305.9000000000001,
+            489.955078125,
+            322.9500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "consumable parts. Coverage extends to the named production lines at each",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            322.9500000000001,
+            471.02197265625,
+            340.0000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "registered site. Any asset added after signature requires a written scope",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            340.0000000000001,
+            483.56884765625,
+            357.0500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "amendment signed by both parties before maintenance duties attach to it.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            363.0500000000001,
+            311.59765625,
+            381.65000000000015
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Preventive Maintenance Duties",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            385.65000000000015,
+            506.66455078125,
+            402.70000000000016
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "The provider shall perform preventive maintenance visits on a published cycle,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            402.70000000000016,
+            492.68896484375,
+            419.75000000000017
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "following the manufacturer checklist for each asset class. Each visit includes",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            419.75000000000017,
+            503.25927734375,
+            436.8000000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "inspection, cleaning, adjustment and a written condition note. The owner shall",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            436.8000000000002,
+            506.541015625,
+            453.8500000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "grant access during agreed windows and shall not operate covered assets with",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            453.8500000000002,
+            348.85107421875,
+            470.9000000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "known safety defects pending provider inspection.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            476.9000000000002,
+            327.45703125,
+            493.9500000000002
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Inspection Checklists and Records",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            497.9500000000002,
+            511.7939453125,
+            515.0000000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Every preventive visit shall be documented on the standard checklist, recording",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            515.0000000000002,
+            511.24072265625,
+            532.0500000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "asset condition, parts replaced and any defects observed. Completed checklists",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            532.0500000000002,
+            490.814453125,
+            549.1000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "are delivered to the owner within the reporting window stated in the service",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            549.1000000000001,
+            506.5517578125,
+            566.1500000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "schedule. Records are retained for the agreement term and made available for",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            566.1500000000001,
+            200.49072265625,
+            583.2
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "joint review on request.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            70,
+            525.276,
+            204
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Part group",
+              "Buffer held",
+              "Replaced by",
+              "Note"
+            ],
+            [
+              "Filters",
+              "Stocked",
+              "Provider",
+              "Checklist"
+            ],
+            [
+              "Belts",
+              "Stocked",
+              "Provider",
+              "Checklist"
+            ],
+            [
+              "Sensors",
+              "Limited",
+              "Provider",
+              "Approval"
+            ],
+            [
+              "Motors",
+              "On order",
+              "Provider",
+              "Owner approval"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            70,
+            525.276,
+            237
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            289.410400390625,
+            224.175
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 1: Spare parts buffer and replacement notes",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            237,
+            300.96142578125,
+            254.05
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.2 Consumables and Spare Parts",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            258.05,
+            506.34765625,
+            275.1
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "The provider supplies standard consumables and holds a minimum spare parts",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            275.1,
+            522.35888671875,
+            292.15000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "buffer for critical assets. Parts beyond the buffer are procured on owner approval,",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            292.15000000000003,
+            507.5185546875,
+            309.20000000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "with cost passed through at documented supplier rates. Replaced parts remain",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            309.20000000000005,
+            506.94384765625,
+            326.25000000000006
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "the owner's property unless the parties agree otherwise in a signed parts note.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            332.25000000000006,
+            321.7646484375,
+            349.30000000000007
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            355.30000000000007,
+            388.701171875,
+            373.9000000000001
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.2 Corrective Repairs and Response Windows",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            377.9000000000001,
+            484.3583984375,
+            394.9500000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "On notification of a fault, the provider shall acknowledge within 2 days and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            394.9500000000001,
+            478.375,
+            412.0000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "dispatch a technician to the affected site. Corrective work is prioritized by",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            412.0000000000001,
+            520.99462890625,
+            429.0500000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "production impact, with safety faults treated first. The provider shall report repair",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            429.0500000000001,
+            491.21728515625,
+            446.10000000000014
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "progress and any parts delay to the owner until the asset returns to service.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            452.10000000000014,
+            321.7646484375,
+            469.15000000000015
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            475.15000000000015,
+            525.276,
+            609.1500000000001
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Fault class",
+              "Acknowledge",
+              "Dispatch",
+              "Report"
+            ],
+            [
+              "Safety",
+              "Immediate",
+              "Same day",
+              "Written"
+            ],
+            [
+              "Production",
+              "2 days",
+              "Scheduled",
+              "Log entry"
+            ],
+            [
+              "Minor",
+              "5 days",
+              "Next visit",
+              "Checklist"
+            ],
+            [
+              "Cosmetic",
+              "Next cycle",
+              "Next visit",
+              "Checklist"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            475.15000000000015,
+            525.276,
+            642.1500000000001
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            616.1500000000001,
+            285.9697265625,
+            629.325
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Figure 2: Response and repair duties by fault class",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            642.1500000000001,
+            364.1630859375,
+            659.2
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "1.2.1 Fault Notification and Dispatch Protocol",
+          "parent_id": "h0006",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            663.2,
+            513.33544921875,
+            680.25
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "The owner shall submit fault notifications through the designated service portal,",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            680.25,
+            505.49365234375,
+            697.3
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "including the asset identifier, observed symptoms, and production impact. The",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            697.3,
+            509.22119140625,
+            714.3499999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "provider acknowledges each notification within 2 days and assigns a technician",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            714.3499999999999,
+            511.24072265625,
+            731.3999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "based on priority ranking. For safety-critical faults, dispatch occurs immediately",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            731.3999999999999,
+            492.39892578125,
+            748.4499999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "regardless of queue. The provider logs all notifications and dispatches in the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            484.798828125,
+            87.05
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "maintenance record system, and the owner may audit these entries during",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            175.62255859375,
+            104.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "scheduled reviews.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            110.1,
+            357.10009765625,
+            127.14999999999999
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "1.2.2 Repair Progress Reporting and Closure",
+          "parent_id": "h0006",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            131.14999999999998,
+            523.599609375,
+            148.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Throughout corrective work, the provider updates the owner at least every 2 days",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            148.2,
+            524.9423828125,
+            165.25
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "until the asset returns to service, noting parts ordered, estimated completion, and",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            165.25,
+            524.05615234375,
+            182.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "any temporary mitigation. Upon completion, the provider submits a closure report",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            182.3,
+            508.83447265625,
+            199.35000000000002
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "describing the root cause, parts replaced, and verification tests performed. The",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            199.35000000000002,
+            522.6328125,
+            216.40000000000003
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "owner reviews the report within 5 days and may request rework if the fault recurs",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            216.40000000000003,
+            262.02197265625,
+            233.45000000000005
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "within the agreed warranty period.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            239.45000000000005,
+            315.341796875,
+            261.15000000000003
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2 Service Levels and Reporting",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            265.15000000000003,
+            466.13427734375,
+            282.20000000000005
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Service performance is measured against the schedule of response and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            282.20000000000005,
+            510.66064453125,
+            299.25000000000006
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "completion targets attached to this agreement. The provider submits a periodic",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            299.25000000000006,
+            489.1064453125,
+            316.30000000000007
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "service report summarizing visits, faults, downtime and outstanding actions",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            316.30000000000007,
+            522.9013671875,
+            333.3500000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "across the registered sites. The owner may request a joint review within 5 days of",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            333.3500000000001,
+            185.2314453125,
+            350.4000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "receiving any report.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            356.4000000000001,
+            321.7646484375,
+            373.4500000000001
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            379.4500000000001,
+            317.4033203125,
+            396.5000000000001
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            402.5000000000001,
+            341.767578125,
+            421.10000000000014
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1 Performance Review and Escalation",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            425.10000000000014,
+            512.52978515625,
+            442.15000000000015
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "The parties shall hold a scheduled performance review each quarter to examine",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            442.15000000000015,
+            508.30810546875,
+            459.20000000000016
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "service reports, recurring faults and open corrective actions. Where targets are",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            459.20000000000016,
+            522.90673828125,
+            476.25000000000017
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "missed, the provider presents a written recovery plan. Unresolved issues escalate",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            476.25000000000017,
+            512.0087890625,
+            493.3000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "to the designated contacts for both parties, who meet within the review window",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            493.3000000000002,
+            204.943359375,
+            510.3500000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "to agree remedial steps.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            516.3500000000001,
+            317.4033203125,
+            533.4000000000001
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            539.4000000000001,
+            317.4033203125,
+            556.45
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            562.45,
+            525.276,
+            696.45
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Item",
+              "Cause noted",
+              "Action",
+              "Status"
+            ],
+            [
+              "Response",
+              "Dispatch delay",
+              "Roster change",
+              "Open"
+            ],
+            [
+              "Repeat fault",
+              "Wear pattern",
+              "Part review",
+              "Open"
+            ],
+            [
+              "Records",
+              "Missing notes",
+              "Checklist fix",
+              "Closed"
+            ],
+            [
+              "Parts",
+              "Buffer short",
+              "Restock",
+              "Open"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            562.45,
+            525.276,
+            729.45
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            703.45,
+            277.291259765625,
+            716.625
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 1: Remedial plan tracking for review items",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            70,
+            295.7890625,
+            87.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.1 Review Metrics and Evidence",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            91.05,
+            508.0126953125,
+            108.1
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "The review examines response times, completion rates and repeat-fault counts",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            108.1,
+            488.6123046875,
+            125.14999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "drawn from the service log. Evidence consists of signed checklists, dispatch",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            125.14999999999999,
+            484.98681640625,
+            142.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "records and the periodic service report. Metrics are treated as indicators of",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            142.2,
+            522.396484375,
+            159.25
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "service quality, not proof of causation, and the parties shall note any data gaps in",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            159.25,
+            179.6884765625,
+            176.3
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "the review minutes.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            182.3,
+            302.79296875,
+            199.35000000000002
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1.2 Remedial Plans and Follow-Up",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            203.35000000000002,
+            495.26171875,
+            220.40000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Where review metrics fall below target, the provider submits a remedial plan",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            220.40000000000003,
+            493.7685546875,
+            237.45000000000005
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "naming the cause, the corrective action and the completion date. The owner",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            237.45000000000005,
+            493.9833984375,
+            254.50000000000006
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "tracks each plan item to closure and records verification evidence. Items not",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            254.50000000000006,
+            500.83154296875,
+            271.55000000000007
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "closed by the stated date are carried into the next review with an explanation",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            271.55000000000007,
+            170.45556640625,
+            288.6000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "from the provider.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            294.6000000000001,
+            290.2578125,
+            313.2000000000001
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.2 Term, Fees and Termination",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            317.2000000000001,
+            499.4404296875,
+            334.2500000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "This agreement runs for 12 months from the effective date unless renewed in",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            334.2500000000001,
+            484.3154296875,
+            351.3000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "writing. Fees are invoiced monthly against completed service records, with",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            351.3000000000001,
+            503.80712890625,
+            368.35000000000014
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "payment due within the stated period. Either party may terminate for material",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            368.35000000000014,
+            520.140625,
+            385.40000000000015
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "breach after written notice and a cure period, or on insolvency of the other party.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70,
+            70,
+            525.276,
+            204
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Site",
+              "Visits logged",
+              "Open faults",
+              "Report status"
+            ],
+            [
+              "North line",
+              "77.91",
+              "50.64",
+              "Submitted"
+            ],
+            [
+              "East line",
+              "91.12",
+              "59.23",
+              "Submitted"
+            ],
+            [
+              "South line",
+              "102.12",
+              "66.38",
+              "Pending"
+            ],
+            [
+              "West line",
+              "122.05",
+              "79.33",
+              "Submitted"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70,
+            70,
+            525.276,
+            237
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70,
+            211.0,
+            314.155029296875,
+            224.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Figure 3: Service report indicators across registered sites",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70,
+            237,
+            525.276,
+            371
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Metric",
+              "Target",
+              "Observed",
+              "Evidence"
+            ],
+            [
+              "Response",
+              "2 days",
+              "27.27",
+              "Dispatch log"
+            ],
+            [
+              "Completion",
+              "5 days",
+              "31.89",
+              "Checklists"
+            ],
+            [
+              "Repeat faults",
+              "Low",
+              "35.74",
+              "Service log"
+            ],
+            [
+              "Open actions",
+              "Closed",
+              "42.72",
+              "Review minutes"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70,
+            237,
+            525.276,
+            404
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70,
+            378.0,
+            282.728271484375,
+            391.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 2: Review metrics with supporting evidence",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70,
+            404,
+            525.276,
+            538
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Step",
+              "Trigger",
+              "Owner",
+              "Timing"
+            ],
+            [
+              "Notice",
+              "Target missed",
+              "Provider",
+              "Immediate"
+            ],
+            [
+              "Review",
+              "No recovery",
+              "Both parties",
+              "5 days"
+            ],
+            [
+              "Plan",
+              "Repeat miss",
+              "Provider",
+              "Written"
+            ],
+            [
+              "Closure",
+              "Verified",
+              "Owner",
+              "Recorded"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70,
+            404,
+            525.276,
+            571
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70,
+            545.0,
+            285.359619140625,
+            558.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 3: Escalation steps and responsible contacts",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

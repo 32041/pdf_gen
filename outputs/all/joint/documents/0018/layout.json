@@ -1,0 +1,2614 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            77.93341015624998,
+            62.0,
+            517.3425898437499,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Technical Writing and Evidence: Course Syllabus",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            524.117919921875,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This course develops the ability to produce technical documents that are clear, precise,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            491.254150390625,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and grounded in verifiable evidence. Over 12 weeks, students attend 24 sessions",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            482.845947265625,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "totaling 48 teaching hours, engaging with real-world writing tasks and evidence",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            520.467529296875,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "evaluation. The syllabus outlines learning outcomes, assessment methods, and weekly",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            486.609130859375,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "topics, with a focus on practical skills for professional contexts. All materials and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            430.2998046875,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "activities are designed to foster critical thinking and ethical reporting.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            205.55000000000004,
+            302.32080078125,
+            221.82500000000005
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            227.82500000000005,
+            298.15771484375,
+            244.10000000000005
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            250.10000000000005,
+            353.71484375,
+            268.70000000000005
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Course Overview and Learning Outcomes",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            272.70000000000005,
+            533.276,
+            432.70000000000005
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Grade",
+              "Band",
+              "Descriptor",
+              "Outcome"
+            ],
+            [
+              "A",
+              "Top",
+              "Exemplary",
+              "Mastery"
+            ],
+            [
+              "B",
+              "High",
+              "Proficient",
+              "Competent"
+            ],
+            [
+              "C",
+              "Middle",
+              "Developing",
+              "Satisfactory"
+            ],
+            [
+              "D",
+              "Low",
+              "Emerging",
+              "Marginal"
+            ],
+            [
+              "F",
+              "Below",
+              "Insufficient",
+              "Fail"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            272.70000000000005,
+            533.276,
+            465.70000000000005
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.70000000000005,
+            347.360107421875,
+            452.87500000000006
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 1: Grading scale and corresponding performance descriptors",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            465.70000000000005,
+            510.833984375,
+            481.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The course provides a comprehensive introduction to technical writing principles and",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            481.975,
+            528.116943359375,
+            498.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "evidence-based practices. Students will learn to craft various technical documents, from",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            498.25,
+            522.60546875,
+            514.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "reports to proposals, while integrating credible evidence. Emphasis is placed on clarity,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            514.525,
+            516.166015625,
+            530.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "audience analysis, and ethical standards. By the end, students should be able to plan,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            530.8,
+            504.1484375,
+            547.0749999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "draft, and revise technical texts that meet professional requirements and withstand",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            547.0749999999999,
+            107.45556640625,
+            563.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "scrutiny.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            569.3499999999999,
+            296.67919921875,
+            586.3999999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Module Structure and Sequencing",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            590.3999999999999,
+            508.860107421875,
+            606.6749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "The course is organized into sequential modules that build upon each other. Starting",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            606.6749999999998,
+            530.20361328125,
+            622.9499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "with foundational concepts, students progress to complex document types and evidence",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            622.9499999999998,
+            502.94873046875,
+            639.2249999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "synthesis. Each module includes readings, exercises, and discussions that reinforce",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            639.2249999999998,
+            528.01953125,
+            655.4999999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "learning. The sequencing ensures that students develop skills incrementally, with ample",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            655.4999999999998,
+            474.09423828125,
+            671.7749999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "opportunity to apply feedback and refine their work before advancing to more",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            671.7749999999997,
+            195.931396484375,
+            688.0499999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "challenging assignments.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            694.0499999999997,
+            410.830078125,
+            711.0999999999997
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Core Module: Evidence Gathering and Evaluation",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            715.0999999999997,
+            503.85107421875,
+            731.3749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "This module focuses on identifying, collecting, and assessing evidence from various",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            731.3749999999997,
+            530.77783203125,
+            747.6499999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "sources. Students learn to distinguish between primary and secondary sources, evaluate",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            747.6499999999996,
+            488.936767578125,
+            763.9249999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "credibility, and avoid bias. Practical activities include source audits and evidence",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            532.259521484375,
+            78.275
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "mapping. The module emphasizes the importance of transparency in citing evidence and",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            531.941650390625,
+            94.55000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "the consequences of misrepresentation, preparing students for rigorous technical writing",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            92.910400390625,
+            110.82500000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "tasks.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            116.82500000000002,
+            298.15771484375,
+            133.10000000000002
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            139.10000000000002,
+            533.276,
+            273.1
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Emerging",
+              "Proficient",
+              "Exemplary"
+            ],
+            [
+              "Relevance",
+              "Limited",
+              "Adequate",
+              "Strong"
+            ],
+            [
+              "Credibility",
+              "Unverified",
+              "Verified",
+              "Cross-checked"
+            ],
+            [
+              "Synthesis",
+              "Lists",
+              "Connects",
+              "Integrates"
+            ],
+            [
+              "Citation",
+              "Errors",
+              "Mostly correct",
+              "Flawless"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            139.10000000000002,
+            533.276,
+            306.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.1,
+            321.3330078125,
+            293.27500000000003
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 2: Evidence evaluation criteria and performance levels",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            306.1,
+            341.357421875,
+            322.375
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 Source Credibility and Bias Assessment",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            326.375,
+            531.4033203125,
+            342.65
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Students examine criteria for evaluating source credibility, including authority, accuracy,",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            342.65,
+            500.082763671875,
+            358.92499999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "and currency. They practice assessing bias in both obvious and subtle forms, using",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            358.92499999999995,
+            491.807861328125,
+            375.19999999999993
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "checklists and peer review. Case studies illustrate how biased sources can distort",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            375.19999999999993,
+            527.173583984375,
+            391.4749999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "technical conclusions. The goal is to equip students with systematic methods for vetting",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            391.4749999999999,
+            514.90478515625,
+            407.7499999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "evidence before incorporation into their writing, ensuring that their documents reflect",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            407.7499999999999,
+            242.9814453125,
+            424.02499999999986
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "balanced and reliable information.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            430.02499999999986,
+            381.486083984375,
+            446.29999999999984
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.2 Data Collection and Documentation Standards",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            450.29999999999984,
+            498.23193359375,
+            466.5749999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "This section covers best practices for collecting and documenting data in technical",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.5749999999998,
+            481.010498046875,
+            482.8499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "contexts. Students learn to design simple data collection instruments, maintain",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            482.8499999999998,
+            455.22705078125,
+            499.1249999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "meticulous records, and adhere to documentation standards that facilitate",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            499.1249999999998,
+            522.1953125,
+            515.3999999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "reproducibility. Emphasis is placed on ethical considerations, such as informed consent",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            515.3999999999997,
+            530.47021484375,
+            531.6749999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and data privacy, and on the importance of clear metadata to support evidence integrity",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            531.6749999999997,
+            228.02099609375,
+            547.9499999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "throughout the writing process.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            553.9499999999997,
+            392.6220703125,
+            570.9999999999997
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.2 Applied Module: Technical Document Drafting",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            574.9999999999997,
+            490.408203125,
+            591.2749999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "In this applied module, students draft a variety of technical documents, including",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            591.2749999999996,
+            511.28515625,
+            607.5499999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "memos, reports, and instructions. They apply evidence evaluation skills to select and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            607.5499999999996,
+            525.189453125,
+            623.8249999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "integrate appropriate sources. Peer review and instructor feedback guide revisions. The",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            623.8249999999996,
+            467.454833984375,
+            640.0999999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "module culminates in a portfolio of drafts that demonstrate growth in clarity,",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            640.0999999999996,
+            513.212890625,
+            656.3749999999995
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "organization, and evidence use, preparing students for professional writing demands.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            662.3749999999995,
+            298.98876953125,
+            679.4249999999995
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.2 Module Assessment and Feedback",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            683.4249999999995,
+            497.83203125,
+            699.6999999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Assessment in the module structure is continuous and formative. Students receive",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            699.6999999999995,
+            486.239990234375,
+            715.9749999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "feedback on exercises and drafts through peer review and instructor comments.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            715.9749999999995,
+            500.7236328125,
+            732.2499999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Summative assessments include a midterm evidence evaluation project and a final",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            732.2499999999994,
+            488.80859375,
+            748.5249999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "document portfolio. Feedback is aligned with learning outcomes and emphasizes",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            748.5249999999994,
+            475.832275390625,
+            764.7999999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "actionable improvements. The assessment strategy ensures that students can",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            440.3486328125,
+            78.275
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "demonstrate mastery of both writing and evidence skills by course end.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            298.68359375,
+            102.875
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2 Assessment and Grading Policies",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            106.875,
+            493.530517578125,
+            123.15
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Assessment comprises several components designed to measure both theoretical",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            123.15,
+            460.548828125,
+            139.425
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "understanding and practical application. Grades are based on participation,",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            139.425,
+            529.56787109375,
+            155.70000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "assignments, a midterm project, and a final portfolio. Clear rubrics are provided for each",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            155.70000000000002,
+            532.47998046875,
+            171.97500000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "task, detailing expectations for evidence use, clarity, and accuracy. Late submissions are",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            171.97500000000002,
+            523.553955078125,
+            188.25000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "penalized unless prior arrangements are made. The policies aim to be fair, transparent,",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            188.25000000000003,
+            247.62646484375,
+            204.52500000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "and supportive of student learning.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            210.52500000000003,
+            290.8515625,
+            227.57500000000005
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1 Assignment Types and Deadlines",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            231.57500000000005,
+            526.65576171875,
+            247.85000000000005
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Students complete a range of assignments, including weekly writing exercises, a source",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.85000000000005,
+            497.96533203125,
+            264.12500000000006
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "evaluation report, a technical instructions draft, and a final evidence-based report.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.12500000000006,
+            514.63818359375,
+            280.40000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Deadlines are spaced to allow for feedback and revision. The table below outlines key",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.40000000000003,
+            507.147705078125,
+            296.675
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "assignments and their due weeks. Each assignment builds toward the final portfolio,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            296.675,
+            392.873046875,
+            312.95
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "ensuring steady progress and opportunities to apply feedback.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            318.95,
+            302.32080078125,
+            335.22499999999997
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            341.22499999999997,
+            533.276,
+            501.22499999999997
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Assignment",
+              "Due week",
+              "Weight",
+              "Format"
+            ],
+            [
+              "Source evaluation",
+              "Early",
+              "Moderate",
+              "Report"
+            ],
+            [
+              "Technical instructions",
+              "Mid",
+              "Moderate",
+              "Draft"
+            ],
+            [
+              "Midterm project",
+              "Mid",
+              "Heavy",
+              "Report"
+            ],
+            [
+              "Final portfolio",
+              "Final",
+              "Heavy",
+              "Portfolio"
+            ],
+            [
+              "Participation",
+              "Ongoing",
+              "Light",
+              "In-class"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            341.22499999999997,
+            533.276,
+            534.2249999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            508.22499999999997,
+            241.707763671875,
+            521.4
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Figure 1: Key assignments and due weeks",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            534.2249999999999,
+            284.03466796875,
+            551.2749999999999
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.1.1 Grading Rubrics and Criteria",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            555.2749999999999,
+            501.877197265625,
+            571.5499999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Rubrics for each assignment specify criteria such as evidence quality, organization,",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            571.5499999999998,
+            490.577392578125,
+            587.8249999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "clarity, and adherence to conventions. Performance levels are described for each",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            587.8249999999998,
+            485.563232421875,
+            604.0999999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "criterion, enabling students to self-assess and target improvements. Rubrics are",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            604.0999999999998,
+            511.146728515625,
+            620.3749999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "discussed in class and available online. Consistency in grading is maintained through",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            620.3749999999998,
+            521.544189453125,
+            636.6499999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "calibration among instructors and moderation of sample assignments, ensuring that all",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.6499999999997,
+            217.023681640625,
+            652.9249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "students are evaluated fairly.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            658.9249999999997,
+            292.533447265625,
+            675.1999999999997
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1.1.1 Rubric for Evidence Integration",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            679.1999999999997,
+            489.013671875,
+            695.4749999999997
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "The evidence integration rubric assesses how well students select, evaluate, and",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            695.4749999999997,
+            494.6123046875,
+            711.7499999999997
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "incorporate evidence. Criteria include relevance, credibility, synthesis, and proper",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            711.7499999999997,
+            526.117431640625,
+            728.0249999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "citation. Each criterion is rated on a scale from emerging to exemplary, with descriptors",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            728.0249999999996,
+            508.501220703125,
+            744.2999999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "clarifying expectations. Students receive this rubric early and use it for self and peer",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            744.2999999999996,
+            485.10693359375,
+            760.5749999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "review, fostering a clear understanding of standards for evidence-based writing.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            291.969482421875,
+            78.275
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1.2 Rubric for Clarity and Precision",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            82.275,
+            530.12158203125,
+            98.55000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "This rubric focuses on language use, structure, and audience awareness. Criteria include",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            98.55000000000001,
+            486.475830078125,
+            114.82500000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "conciseness, logical flow, correct terminology, and formatting. Descriptors guide",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            114.82500000000002,
+            511.02880859375,
+            131.10000000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "students in producing documents that are easy to read and understand. The rubric is",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.10000000000002,
+            466.808837890625,
+            147.37500000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "applied to all written assignments, and feedback highlights specific areas for",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            147.37500000000003,
+            420.71240234375,
+            163.65000000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "improvement, helping students develop a professional writing style.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            169.65000000000003,
+            298.15771484375,
+            185.92500000000004
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            191.92500000000004,
+            533.276,
+            325.92500000000007
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Emerging",
+              "Proficient",
+              "Exemplary"
+            ],
+            [
+              "Conciseness",
+              "Wordy",
+              "Clear",
+              "Tight"
+            ],
+            [
+              "Flow",
+              "Disjointed",
+              "Logical",
+              "Seamless"
+            ],
+            [
+              "Terminology",
+              "Inconsistent",
+              "Consistent",
+              "Precise"
+            ],
+            [
+              "Formatting",
+              "Poor",
+              "Adequate",
+              "Professional"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            191.92500000000004,
+            533.276,
+            358.92500000000007
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            332.92500000000007,
+            247.08251953125,
+            346.1000000000001
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 3: Clarity and precision rubric criteria",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            358.92500000000007,
+            379.4306640625,
+            375.9750000000001
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.2 Peer Review and Self-Assessment Protocols",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            379.9750000000001,
+            506.706787109375,
+            396.25000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Peer review is integral to the course. Students follow structured protocols to provide",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            396.25000000000006,
+            520.68798828125,
+            412.52500000000003
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "constructive feedback on drafts, focusing on evidence use and clarity. Self-assessment",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            412.52500000000003,
+            513.238525390625,
+            428.8
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "checklists help students reflect on their own work before submission. These protocols",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            428.8,
+            479.11865234375,
+            445.075
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "cultivate critical evaluation skills and prepare students for collaborative writing",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            445.075,
+            391.422119140625,
+            461.34999999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "environments, where giving and receiving feedback is routine.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            467.34999999999997,
+            373.90478515625,
+            484.4
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.2 Academic Integrity and Submission Guidelines",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            488.4,
+            488.044677734375,
+            504.67499999999995
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Academic integrity is paramount. All work must be original, and sources must be",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            504.67499999999995,
+            507.46044921875,
+            520.9499999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "properly cited. Students are required to submit assignments through the designated",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            520.9499999999999,
+            529.66015625,
+            537.2249999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "platform, which checks for plagiarism. Guidelines for collaboration and use of generative",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            537.2249999999999,
+            525.307373046875,
+            553.4999999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "tools are clearly stated. Violations result in disciplinary action as per institutional policy.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.4999999999999,
+            511.9619140625,
+            569.7749999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The course emphasizes ethical writing practices and respect for intellectual property.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            575.7749999999999,
+            302.32080078125,
+            592.0499999999998
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            598.0499999999998,
+            533.276,
+            732.0499999999998
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Item",
+              "Requirement",
+              "Check",
+              "Notes"
+            ],
+            [
+              "Original work",
+              "Yes",
+              "Done",
+              "Draft saved"
+            ],
+            [
+              "Citations",
+              "All sources",
+              "Done",
+              "Style guide"
+            ],
+            [
+              "AI disclosure",
+              "If used",
+              "Done",
+              "Form filed"
+            ],
+            [
+              "Collaboration",
+              "As allowed",
+              "Done",
+              "Group log"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            598.0499999999998,
+            533.276,
+            765.0499999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            739.0499999999998,
+            289.287841796875,
+            752.2249999999998
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 2: Checklist for academic integrity compliance",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            222
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Week",
+              "Topic",
+              "Activity",
+              "Assessment"
+            ],
+            [
+              "Early",
+              "Foundations",
+              "Readings",
+              "Quiz"
+            ],
+            [
+              "Early-mid",
+              "Evidence",
+              "Workshop",
+              "Source eval"
+            ],
+            [
+              "Mid",
+              "Drafting",
+              "Peer review",
+              "Instructions"
+            ],
+            [
+              "Mid-late",
+              "Midterm",
+              "Project",
+              "Report"
+            ],
+            [
+              "Late",
+              "Portfolio",
+              "Revision",
+              "Final"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            255
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229.0,
+            214.132568359375,
+            242.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Figure 3: Course schedule overview",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

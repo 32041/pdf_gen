@@ -1,0 +1,824 @@
+{
+  "doc_id": "0037",
+  "kind": "report",
+  "domain": "report",
+  "language": "zh",
+  "title": "市政供水韧性评估",
+  "seed": 78,
+  "target_depth": 6,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "市政供水韧性评估",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "市政供水韧性评估",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "评估背景与目标",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 评估背景与目标",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "评估范围与对象界定",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 评估范围与对象界定",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "关键设施与系统边界",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 关键设施与系统边界",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "取水与净水环节",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1 取水与净水环节",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "取水口冗余配置",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1.1 取水口冗余配置",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "净水工艺冗余与药剂储备",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.1.2 净水工艺冗余与药剂储备",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "输配与加压环节",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.2 输配与加压环节",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "管网连通与故障隔离",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 管网连通与故障隔离",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "评估方法与数据来源",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 评估方法与数据来源",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "韧性指标体系与分级",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 韧性指标体系与分级",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "指标构成与权重说明",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 指标构成与权重说明",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "数据采集与质量控制",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 数据采集与质量控制",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "现场核查与记录复核",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1 现场核查与记录复核",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "情景推演设置",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1.1 情景推演设置",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "推演结果与流程断点",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.1.2 推演结果与流程断点",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "评估结果与薄弱环节",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.2 评估结果与薄弱环节",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "分级结果与横向比较",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 分级结果与横向比较",
+      "is_document_title": false
+    },
+    {
+      "id": "h0019",
+      "title": "改进建议与后续跟踪",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 改进建议与后续跟踪",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      76.66,
+      95.92,
+      102.01,
+      118.67
+    ],
+    "cost": [
+      49.83,
+      62.35,
+      66.31,
+      77.14
+    ],
+    "balance": [
+      26.83,
+      33.57,
+      35.7,
+      41.53
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0017",
+      "target_previous_id": "h0017",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "评估结果与薄弱环节",
+      "caption": "表 5：薄弱环节与整改优先顺序对照",
+      "rows": [
+        [
+          "薄弱环节",
+          "影响范围",
+          "整改类型",
+          "优先级别"
+        ],
+        [
+          "备用取水口",
+          "取水片区",
+          "限期整改",
+          "高"
+        ],
+        [
+          "老旧阀门",
+          "多个片区",
+          "限期整改",
+          "高"
+        ],
+        [
+          "药剂储备",
+          "全厂范围",
+          "年度计划",
+          "中"
+        ],
+        [
+          "通报模板",
+          "跨部门",
+          "立即可办",
+          "中"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 5。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "薄弱环节与整改优先顺序对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0002",
+      "target_previous_id": "h0003",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "评估背景与目标",
+      "caption": "表 2：评估目标与范围界定要点",
+      "rows": [
+        [
+          "要素",
+          "界定内容",
+          "证据要求",
+          "责任岗位"
+        ],
+        [
+          "设施范围",
+          "主城区及两片区",
+          "产权清单",
+          "运行管理"
+        ],
+        [
+          "数据范围",
+          "连续运行记录",
+          "日志留存",
+          "值班班组"
+        ],
+        [
+          "外部依赖",
+          "电力与通信",
+          "联动记录",
+          "应急协调"
+        ],
+        [
+          "排除对象",
+          "自备水源",
+          "边界说明",
+          "评估组"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "评估目标与范围界定要点",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0010",
+      "target_previous_id": "h0010",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "评估方法与数据来源",
+      "caption": "表 3：评估方法与证据来源对照",
+      "rows": [
+        [
+          "方法",
+          "主要用途",
+          "证据类型",
+          "结论限定"
+        ],
+        [
+          "现场核查",
+          "确认设施状态",
+          "巡检记录",
+          "事实描述"
+        ],
+        [
+          "记录复核",
+          "验证响应表现",
+          "运行日志",
+          "事实描述"
+        ],
+        [
+          "情景推演",
+          "检验处置流程",
+          "推演纪要",
+          "流程检验"
+        ],
+        [
+          "交叉验证",
+          "核对矛盾信息",
+          "多源比对",
+          "审慎判断"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "评估方法与证据来源对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "市政供水韧性评估",
+      "caption": "表 1：报告结构与阅读指引",
+      "rows": [
+        [
+          "部分",
+          "核心内容",
+          "使用者",
+          "阅读重点"
+        ],
+        [
+          "背景目标",
+          "评估目的",
+          "管理层",
+          "范围与边界"
+        ],
+        [
+          "方法指标",
+          "证据与分级",
+          "评估组",
+          "可复核性"
+        ],
+        [
+          "结果建议",
+          "薄弱环节",
+          "运行部门",
+          "整改顺序"
+        ],
+        [
+          "跟踪机制",
+          "复核周期",
+          "责任岗位",
+          "闭环记录"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "报告结构与阅读指引",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0011",
+      "target_previous_id": "h0019",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "韧性指标体系与分级",
+      "caption": "图 1：韧性指标维度与证据要求",
+      "rows": [
+        [
+          "维度",
+          "观测条目",
+          "证据要求",
+          "分级方式"
+        ],
+        [
+          "吸收能力",
+          "水源与工艺冗余",
+          "试运行记录",
+          "定性描述"
+        ],
+        [
+          "适应能力",
+          "调度与通报",
+          "推演纪要",
+          "定性描述"
+        ],
+        [
+          "恢复能力",
+          "隔离与修复",
+          "处置记录",
+          "定性描述"
+        ],
+        [
+          "外部依赖",
+          "电力与通信",
+          "联动记录",
+          "定性描述"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "韧性指标维度与证据要求",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional report document. Document: 市政供水韧性评估. Section: 韧性指标体系与分级. Caption: 韧性指标维度与证据要求. Article context: 指标体系围绕吸收能力、适应能力与恢复能力三个维度构建，每个维度下设若干可观测条目。分级采用定性描述与记录佐证相结合的方式，避免单纯依赖主观打分。指标设计强调可复核性，每个等级均对应明确的证据要求，便于不同片区之间横向比较与年度纵向跟踪。. Supporting records: [[\"维度\", \"观测条目\", \"证据要求\", \"分级方式\"], [\"吸收能力\", \"水源与工艺冗余\", \"试运行记录\", \"定性描述\"], [\"适应能力\", \"调度与通报\", \"推演纪要\", \"定性描述\"], [\"恢复能力\", \"隔离与修复\", \"处置记录\", \"定性描述\"], [\"外部依赖\", \"电力与通信\", \"联动记录\", \"定性描述\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0015",
+      "target_previous_id": "h0016",
+      "target_subtype": "after_section",
+      "target_relation": "siblings",
+      "topic": "情景推演设置",
+      "caption": "表 4：情景推演设置与检验要点",
+      "rows": [
+        [
+          "情景",
+          "触发条件",
+          "检验要点",
+          "记录内容"
+        ],
+        [
+          "主干管破裂",
+          "压力骤降",
+          "隔离顺序",
+          "决策节点"
+        ],
+        [
+          "取水中断",
+          "水源受限",
+          "切换时限",
+          "操作步骤"
+        ],
+        [
+          "电力受限",
+          "供电中断",
+          "备用启动",
+          "信息传递"
+        ],
+        [
+          "通信中断",
+          "链路故障",
+          "通报路径",
+          "响应时长"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "情景推演设置与检验要点",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "市政供水韧性评估",
+        "paragraph": "本报告面向城市供水系统的运行管理者与应急协调部门，系统评估水源、输配、调度与恢复四个环节的韧性表现，并给出可核查的改进建议。评估以240份现场记录和4个代表性片区的连续观测为基础，区分模拟推演结果与实际观测证据，避免将情景假设误读为因果结论。报告同时说明数据边界、责任分工与复核周期，供后续年度滚动更新使用。"
+      },
+      "h0002": {
+        "title": "评估背景与目标",
+        "paragraph": "近年来极端天气与突发污染事件对供水连续性提出更高要求，单一水源与长距离输配的脆弱点逐渐显现。本次评估的目标是识别关键薄弱环节、量化恢复能力、明确改进优先级，而非评价具体人员绩效。评估范围覆盖取水、净水、加压与配水全过程，重点考察故障发生后的响应速度与替代供给能力，相关结论以可复核的记录为依据。"
+      },
+      "h0003": {
+        "title": "评估范围与对象界定",
+        "paragraph": "评估对象限定为城市主城区及相邻两个供水片区的公共供水设施，不含自备水源与工业专线。范围界定遵循三个原则：设施产权归属清晰、运行数据可连续获取、应急职责可追溯到具体岗位。边界之外的设施仅作为外部依赖记录，不纳入韧性评分，以免因数据缺失造成误判。"
+      },
+      "h0004": {
+        "title": "关键设施与系统边界",
+        "paragraph": "系统边界以水厂出水口为起点，经主干管、加压泵站至用户接入点为止。关键设施包括取水泵站、净水构筑物、清水池、加压泵站与主干管网节点。边界划定需同时考虑电力供应与通信链路等外部依赖，因为这些依赖中断往往比管道本身故障更早触发供水中断。"
+      },
+      "h0005": {
+        "title": "取水与净水环节",
+        "paragraph": "取水环节的韧性主要取决于水源数量与切换条件，净水环节则取决于工艺冗余与药剂储备。评估中发现，部分水厂在单一水源受限时缺乏明确的切换时限要求，导致决策延迟。建议为每个水厂明确备用取水启用条件、切换操作步骤与验证方式，并将切换演练纳入常规运行计划。"
+      },
+      "h0006": {
+        "title": "取水口冗余配置",
+        "paragraph": "取水口冗余配置应回答三个问题：备用取水口是否具备独立取水能力、切换所需时间是否可接受、切换后水质是否仍满足净水工艺要求。评估记录显示，部分备用取水口长期未启用，设备状态与操作熟练度均存在不确定性，需要通过定期试运行与记录留存加以验证。"
+      },
+      "h0007": {
+        "title": "净水工艺冗余与药剂储备",
+        "paragraph": "净水工艺冗余体现为构筑物可并联运行、关键设备可快速替换、药剂储备满足连续运行需要。评估建议按最不利工况确定药剂最低库存线，并明确补货触发条件与责任人。储备量应以记录形式固化，避免因临时调拨导致账面与实际不符，影响应急判断。"
+      },
+      "h0008": {
+        "title": "输配与加压环节",
+        "paragraph": "输配环节的韧性集中体现在管网连通度与加压泵站的备用能力。环状管网比例较高、阀门分区合理的区域，故障隔离范围更小，恢复更快。评估建议对关键干管节点开展连通性复核，明确故障时的隔离顺序与替代路径，并将操作步骤写入现场处置卡，减少临场判断压力。"
+      },
+      "h0009": {
+        "title": "管网连通与故障隔离",
+        "paragraph": "管网连通性评估以节点间是否存在可切换路径为核心指标，故障隔离则以阀门可关闭范围为判断依据。评估发现部分老旧片区阀门锈蚀、关闭不严，实际隔离范围大于设计预期，导致影响用户数增加。建议建立阀门状态台账，按区域分批检修，并在检修后复核隔离效果。"
+      },
+      "h0010": {
+        "title": "评估方法与数据来源",
+        "paragraph": "评估采用现场核查、运行记录复核与情景推演相结合的方法。现场核查确认设施状态，记录复核验证历史响应表现，情景推演用于检验在假设故障下的处置流程是否顺畅。三类证据分别标注来源与置信程度，推演结果仅用于流程检验，不作为因果结论使用，避免过度解读。"
+      },
+      "h0011": {
+        "title": "韧性指标体系与分级",
+        "paragraph": "指标体系围绕吸收能力、适应能力与恢复能力三个维度构建，每个维度下设若干可观测条目。分级采用定性描述与记录佐证相结合的方式，避免单纯依赖主观打分。指标设计强调可复核性，每个等级均对应明确的证据要求，便于不同片区之间横向比较与年度纵向跟踪。"
+      },
+      "h0012": {
+        "title": "指标构成与权重说明",
+        "paragraph": "指标构成包括水源冗余、工艺冗余、管网连通、应急响应与恢复时限五类。权重设置依据故障影响范围与恢复难度确定，影响面广、恢复慢的条目权重相对较高。权重不追求精确数值，而以排序方式表达优先级，减少因权重微调引起的结论波动，便于管理者理解与执行。"
+      },
+      "h0013": {
+        "title": "数据采集与质量控制",
+        "paragraph": "数据采集以运行日志、巡检记录与演练记录为主要来源，辅以现场抽查核实。质量控制包括来源登记、异常值复核与交叉验证三个步骤。对于记录缺失或前后矛盾的条目，评估组不进行推测填补，而是标注为证据不足，并在结论中降低相应条目的可信等级，保持评估的审慎性。"
+      },
+      "h0014": {
+        "title": "现场核查与记录复核",
+        "paragraph": "现场核查重点确认设备实际状态与台账记录是否一致，记录复核重点检查响应时间、处置步骤与结果描述是否完整。两者结合可发现纸面合规而实际失效的情况。评估组对发现的差异逐项登记，明确整改责任岗位与复核时限，确保问题不被遗漏在汇总环节。"
+      },
+      "h0015": {
+        "title": "情景推演设置",
+        "paragraph": "情景推演设置三类假设：主干管破裂、取水中断与电力供应受限。每类情景明确触发条件、影响范围假设与处置流程检验要点。推演以桌面方式进行，参与人员按实际岗位分工，记录决策节点与信息传递路径。推演结果用于发现流程断点，不作为对真实事件后果的预测。"
+      },
+      "h0016": {
+        "title": "推演结果与流程断点",
+        "paragraph": "推演显示，流程断点多出现在跨部门信息传递与替代方案确认两个环节，而非技术操作本身。部分参与人员在信息不完整时倾向于等待指令，延长了处置窗口。建议明确授权边界与信息通报模板，使一线人员在规定条件下可先行处置，事后补充报告，缩短决策链条。"
+      },
+      "h0017": {
+        "title": "评估结果与薄弱环节",
+        "paragraph": "综合现场核查与记录复核，薄弱环节集中在备用取水口长期未试运行、老旧片区阀门状态不明、药剂储备下限缺乏书面依据三个方面。上述问题均属于可通过管理措施改进的范畴，不涉及大规模工程改造。评估建议按影响范围排序，优先处理影响用户数最多、恢复时间最长的条目。"
+      },
+      "h0018": {
+        "title": "分级结果与横向比较",
+        "paragraph": "分级结果显示，新建片区在管网连通与响应速度方面表现较好，老旧片区在阀门状态与替代路径方面存在明显短板。横向比较需注意片区规模与用户结构差异，避免简单排名。评估建议以同类片区为参照组进行比较，并将比较结果用于确定整改顺序，而非用于绩效评价。"
+      },
+      "h0019": {
+        "title": "改进建议与后续跟踪",
+        "paragraph": "改进建议分为立即可办、限期整改与纳入年度计划三类。立即可办事项包括完善现场处置卡与信息通报模板；限期整改事项包括阀门台账建立与备用取水口试运行；纳入年度计划事项包括药剂储备下限的书面化与演练常态化。跟踪机制按5日复核周期执行，责任岗位逐项确认闭环。"
+      }
+    },
+    "continuations": [
+      "评估记录应注明观测时间与记录人，便于后续复核时追溯信息来源与判断依据。",
+      "情景推演的结论仅用于检验流程顺畅程度，不应被引用为真实故障后果的预测。",
+      "片区之间的比较需考虑用户结构与管网年限差异，避免以单一指标下结论。",
+      "阀门台账建立后应定期抽查，确认记录状态与现场实际情况保持一致。",
+      "备用取水口的试运行应形成书面记录，包含操作步骤、耗时与异常处理情况。",
+      "药剂储备下限的确定需结合最不利工况，并以书面形式明确补货触发条件。",
+      "现场处置卡应简明扼要，突出隔离顺序与替代路径，减少临场判断负担。",
+      "信息通报模板需明确通报对象、内容要素与时限要求，避免信息遗漏。",
+      "授权边界的设定应兼顾效率与安全，明确一线人员可先行处置的具体情形。",
+      "演练频次应与设施风险等级相匹配，高风险环节适当增加演练次数。",
+      "评估结论发布前应经过内部复核，确认证据充分且表述审慎。",
+      "对于证据不足的条目，应标注说明而非推测填补，保持评估的严谨性。",
+      "年度滚动更新时应保留历史分级结果，便于观察改进措施的实际效果。",
+      "跨部门协调机制的有效性可通过推演中的信息传递时长间接观察。",
+      "管网连通性复核应覆盖关键干管节点，并记录可切换路径的实际可用状态。",
+      "加压泵站的备用能力需定期验证，包括设备启动测试与切换操作演练。",
+      "水质监测记录应与取水切换记录相互印证，确认切换后工艺仍可稳定运行。",
+      "整改事项的责任岗位应具体到人，避免出现职责模糊导致的推进迟缓。",
+      "复核周期内未完成的事项应说明原因，并重新确定完成时限。",
+      "评估方法的稳定性依赖于记录质量的持续提升，需长期坚持。",
+      "外部依赖如电力与通信的中断风险应纳入情景设置，检验联动处置能力。",
+      "片区划分应保持相对稳定，避免频繁调整影响纵向比较的可比性。",
+      "演练参与人员应覆盖实际值班岗位，确保流程检验贴近真实运行状态。",
+      "改进建议的优先级排序可随观测结果调整，但调整理由需记录在案。",
+      "评估报告的使用者包括运行管理与应急协调部门，表述应兼顾专业与可读。",
+      "对于长期未启用的设备，应评估其恢复可用所需时间并纳入应急预案。",
+      "现场核查发现的问题应逐项登记，明确整改责任与复核时限。",
+      "横向比较结果宜作为整改顺序参考，不宜直接用于人员绩效评价。",
+      "记录复核中发现的矛盾信息应交叉验证，必要时安排现场复查。",
+      "评估结论应区分已证实事实与待验证假设，避免混淆两类信息。",
+      "后续跟踪应形成闭环记录，确保每项建议都有明确的落实状态。",
+      "报告更新时应同步修订指标说明，保持方法与结论之间的一致性。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1828,
+        "completion_tokens": 2888,
+        "total_tokens": 4716,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1316
+      },
+      "finish_reason": "stop",
+      "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 4,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

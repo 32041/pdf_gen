@@ -1,0 +1,2668 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            103.66339062499998,
+            62.0,
+            491.612609375,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Community Emergency Drill Arrangements",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            528.470703125,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This document sets out the arrangements for the upcoming community emergency drill,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            509.06005859375,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "a simulated exercise designed to test local response coordination. It covers purpose,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            532.638916015625,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "participating roles, scheduling, safety protocols, evaluation methods, and record-keeping",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            515.8583984375,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "duties. The drill is not a real emergency activation; all observations are simulated and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            525.491943359375,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "any performance indicators are for internal learning only. No causal claims about actual",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            522.12353515625,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "incident outcomes are made. The arrangements apply to all volunteers, observers, and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.55000000000004,
+            283.16650390625,
+            215.82500000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "partner agencies involved in the exercise.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            221.82500000000005,
+            266.8046875,
+            243.52500000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "A Drill Purpose and Scope",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.52500000000003,
+            505.73779296875,
+            263.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The drill aims to practise evacuation, communication, and resource allocation under",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            263.8,
+            518.708984375,
+            280.075
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "simulated pressure. Scope is limited to the designated community zones and excludes",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.075,
+            496.432373046875,
+            296.34999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "real emergency dispatch. Participating households receive advance notice, and all",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            296.34999999999997,
+            526.947998046875,
+            312.62499999999994
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "activities remain within the exercise boundary. The exercise does not test real response",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.62499999999994,
+            508.71142578125,
+            328.8999999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "times as causal measures; instead, it records simulated observations for after-action",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.8999999999999,
+            506.809326171875,
+            345.1749999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "review. The scope also defines which agencies may observe and which may actively",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            345.1749999999999,
+            122.154541015625,
+            361.4499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "participate.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            367.4499999999999,
+            272.490234375,
+            386.0499999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "A.1 Planning and Coordination",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            390.0499999999999,
+            530.521484375,
+            406.3249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "A planning committee coordinates logistics, volunteer assignments, and safety briefings.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            406.3249999999999,
+            514.57666015625,
+            422.59999999999985
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "The committee meets regularly during the preparation period and maintains a shared",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            422.59999999999985,
+            516.181396484375,
+            438.87499999999983
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "checklist. Coordination includes confirming venue permissions, first-aid coverage, and",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            438.87499999999983,
+            492.2744140625,
+            455.1499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "communication channels. All planning decisions are documented and shared with",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            455.1499999999998,
+            523.687255859375,
+            471.4249999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "participants in advance. The committee also prepares contingency plans for weather or",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            471.4249999999998,
+            490.4287109375,
+            487.69999999999976
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "other disruptions, ensuring the drill remains safe and within the simulated scope.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            493.69999999999976,
+            270.880859375,
+            510.7499999999998
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "A.1.1 Roles and Responsibilities",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            514.7499999999998,
+            521.2109375,
+            531.0249999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Clear role assignment is essential for a safe and orderly drill. The following subsections",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            531.0249999999997,
+            510.53662109375,
+            547.2999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "define the duties of controllers, safety officers, and evaluators. Each role has specific",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            547.2999999999997,
+            523.4052734375,
+            563.5749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "authorities and limits, and all role holders receive a briefing before the exercise begins.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            563.5749999999997,
+            527.7119140625,
+            579.8499999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Role holders must not exceed their simulated authority or interfere with real emergency",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.8499999999997,
+            504.163818359375,
+            596.1249999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "services. The table below summarises the main duty categories and reporting lines.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            602.1249999999997,
+            302.32080078125,
+            618.3999999999996
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Role",
+              "Main duty",
+              "Authority",
+              "Briefing"
+            ],
+            [
+              "Controller",
+              "Manage exercise flow",
+              "Simulated directs",
+              "Required"
+            ],
+            [
+              "Safety officer",
+              "Monitor hazards",
+              "Stop drill",
+              "Required"
+            ],
+            [
+              "Evaluator",
+              "Observe and record",
+              "No intervention",
+              "Required"
+            ],
+            [
+              "Zone leader",
+              "Coordinate participants",
+              "Local direction",
+              "Required"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            277.47998046875,
+            216.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 1: Role categories and main responsibilities",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            229,
+            346.16015625,
+            245.275
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "A.1.1.1 Controller Duties and Communication",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            249.275,
+            491.223388671875,
+            265.55
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Controllers manage the exercise flow, issue simulated injects, and maintain radio",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            265.55,
+            499.826416015625,
+            281.825
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "discipline. They must log every inject and response observation using the provided",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.825,
+            503.035888671875,
+            298.09999999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "forms. Controllers do not direct real emergency resources and must clearly label all",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            298.09999999999997,
+            504.830322265625,
+            314.37499999999994
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "messages as exercise traffic. They report to the chief controller and coordinate with",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            314.37499999999994,
+            519.657470703125,
+            330.6499999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "safety officers before any scenario escalation. Controllers also ensure that participants",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            330.6499999999999,
+            417.764404296875,
+            346.9249999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "understand the difference between simulated and real instructions.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            352.9249999999999,
+            298.15771484375,
+            369.1999999999999
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            375.1999999999999,
+            533.276,
+            509.1999999999999
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Duty",
+              "Description",
+              "Reports to",
+              "Limit"
+            ],
+            [
+              "Inject control",
+              "Issue simulated events",
+              "Chief controller",
+              "No real resources"
+            ],
+            [
+              "Radio discipline",
+              "Enforce phrasing",
+              "Chief controller",
+              "Exercise only"
+            ],
+            [
+              "Log keeping",
+              "Record actions",
+              "Chief controller",
+              "Timestamped"
+            ],
+            [
+              "Escalation",
+              "Coordinate with safety",
+              "Safety officer",
+              "Safety overrides"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            375.1999999999999,
+            533.276,
+            542.1999999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            516.1999999999998,
+            253.054931640625,
+            529.3749999999998
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 1: Controller duties and reporting lines",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            542.1999999999998,
+            265.313232421875,
+            558.4749999999998
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "A.1.1.2 Safety Officer Authority",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.4749999999998,
+            514.40234375,
+            578.7499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Safety officers have absolute authority to pause or stop the drill if they observe a real",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            578.7499999999998,
+            521.85693359375,
+            595.0249999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "hazard. They conduct pre-drill safety checks, monitor participant welfare, and maintain",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            595.0249999999997,
+            493.981689453125,
+            611.2999999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "contact with on-site first aid. Safety officers wear distinctive identification and are",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            611.2999999999997,
+            516.273681640625,
+            627.5749999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "briefed on all simulated hazards. Their stop authority overrides controller instructions.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            627.5749999999997,
+            513.699951171875,
+            643.8499999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Any safety intervention is recorded and reviewed after the exercise to improve future",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            643.8499999999997,
+            139.55029296875,
+            660.1249999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "arrangements.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            666.1249999999997,
+            298.15771484375,
+            682.3999999999996
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Responsibility",
+              "Timing",
+              "Action if failed"
+            ],
+            [
+              "Exits clear",
+              "Safety officer",
+              "Before start",
+              "Pause drill"
+            ],
+            [
+              "First aid ready",
+              "Safety officer",
+              "Before start",
+              "Pause drill"
+            ],
+            [
+              "Hazards marked",
+              "Safety officer",
+              "Before start",
+              "Remediate"
+            ],
+            [
+              "Welfare check",
+              "Safety officer",
+              "During drill",
+              "Stop drill"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            304.968017578125,
+            216.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 2: Safety officer pre-drill checks and stop authority",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            229,
+            304.181640625,
+            246.05
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "A.1.2 Evaluator Observation Methods",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            250.05,
+            531.7109375,
+            266.325
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Evaluators use structured observation forms to record simulated actions, communication",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            266.325,
+            499.641845703125,
+            282.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "clarity, and adherence to procedures. They do not intervene in the exercise except",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            282.59999999999997,
+            486.46044921875,
+            298.87499999999994
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "through safety channels. Observations are timestamped and cross-checked with",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            298.87499999999994,
+            515.248291015625,
+            315.1499999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "controller logs. Evaluators focus on learning points rather than pass or fail judgments.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            315.1499999999999,
+            521.933837890625,
+            331.4249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Their notes feed into the after-action review and help identify training needs. The table",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            331.4249999999999,
+            371.5244140625,
+            347.6999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "below outlines the observation criteria used by evaluators.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            353.6999999999999,
+            298.15771484375,
+            369.97499999999985
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            375.97499999999985,
+            533.276,
+            509.97499999999985
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Focus",
+              "Method",
+              "Record"
+            ],
+            [
+              "Communication",
+              "Clarity",
+              "Direct observation",
+              "Timestamped note"
+            ],
+            [
+              "Procedure",
+              "Adherence",
+              "Checklist",
+              "Yes or no"
+            ],
+            [
+              "Safety",
+              "Awareness",
+              "Observation",
+              "Narrative"
+            ],
+            [
+              "Coordination",
+              "Teamwork",
+              "Cross-check",
+              "Log comparison"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            375.97499999999985,
+            533.276,
+            542.9749999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            516.9749999999999,
+            295.837158203125,
+            530.1499999999999
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 3: Evaluator observation criteria and focus areas",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            542.9749999999999,
+            313.927734375,
+            561.5749999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "A.2 Participant Briefing and Consent",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            565.5749999999999,
+            523.143798828125,
+            581.8499999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "All participants attend a briefing that explains the exercise objectives, safety rules, and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            581.8499999999999,
+            514.633056640625,
+            598.1249999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "the voluntary nature of involvement. Consent forms are collected before the drill, and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.1249999999999,
+            530.1318359375,
+            614.3999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "participants may withdraw at any time without penalty. The briefing clarifies that no real",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            614.3999999999999,
+            498.40625,
+            630.6749999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "emergency services will be dispatched and that all communications are simulated.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            630.6749999999998,
+            531.259765625,
+            646.9499999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Participants receive written materials in accessible formats. The table below lists the key",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            646.9499999999998,
+            264.8427734375,
+            663.2249999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "briefing topics and confirmation steps.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            669.2249999999998,
+            298.15771484375,
+            685.4999999999998
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Topic",
+              "Content",
+              "Confirmation",
+              "Responsible"
+            ],
+            [
+              "Objectives",
+              "Purpose and scope",
+              "Sign-off",
+              "Briefing lead"
+            ],
+            [
+              "Safety rules",
+              "Stop authority",
+              "Verbal check",
+              "Safety officer"
+            ],
+            [
+              "Communication",
+              "Exercise phrase",
+              "Practice",
+              "Controller"
+            ],
+            [
+              "Consent",
+              "Voluntary nature",
+              "Form collected",
+              "Admin"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            309.151611328125,
+            216.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 4: Participant briefing topics and confirmation steps",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229,
+            258.669921875,
+            250.7
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "B Schedule and Logistics",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            254.7,
+            492.81787109375,
+            270.97499999999997
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "The drill schedule is designed to minimise disruption to community routines while",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            270.97499999999997,
+            487.029541015625,
+            287.24999999999994
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "allowing sufficient time for setup and debrief. Logistics cover venue preparation,",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            287.24999999999994,
+            512.42333984375,
+            303.5249999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "equipment distribution, and refreshment arrangements. The schedule includes buffer",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            303.5249999999999,
+            514.771484375,
+            319.7999999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "periods for safety checks and unexpected delays. All timing is communicated through",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            319.7999999999999,
+            515.23291015625,
+            336.0749999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "multiple channels. The subsections below detail the phased timeline and the resource",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            336.0749999999999,
+            142.35986328125,
+            352.34999999999985
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "allocation plan.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            358.34999999999985,
+            235.962890625,
+            376.9499999999999
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "B.1 Phased Drill Timeline",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            380.9499999999999,
+            502.8359375,
+            397.22499999999985
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "The timeline is divided into preparation, execution, and debrief phases. Preparation",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            397.22499999999985,
+            506.03515625,
+            413.49999999999983
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "includes site setup and final safety checks. Execution follows a scripted sequence of",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            413.49999999999983,
+            490.690185546875,
+            429.7749999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "simulated events. Debrief occurs immediately after the exercise to capture initial",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            429.7749999999998,
+            491.736083984375,
+            446.0499999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "observations. Each phase has designated leads and checkpoints. The table below",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            446.0499999999998,
+            441.88671875,
+            462.32499999999976
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "presents the phase schedule with responsible parties and key activities.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            468.32499999999976,
+            261.8681640625,
+            485.3749999999998
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "B.1.1 Resource Allocation Plan",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            489.3749999999998,
+            525.88671875,
+            505.64999999999975
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Resources include volunteers, communication equipment, first-aid supplies, and printed",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            505.64999999999975,
+            510.341796875,
+            521.9249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "materials. Allocation is based on zone needs and simulated scenario requirements. A",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.9249999999997,
+            498.380615234375,
+            538.1999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "central cache manages equipment check-in and check-out. Resource shortfalls are",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            538.1999999999997,
+            495.478759765625,
+            554.4749999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "logged for future planning. The plan ensures that no zone is over-resourced at the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            554.4749999999997,
+            517.38623046875,
+            570.7499999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "expense of another. The subsections below describe equipment staging and volunteer",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            570.7499999999997,
+            126.409912109375,
+            587.0249999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "assignment.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            593.0249999999996,
+            321.412353515625,
+            609.2999999999996
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "B.1.1.1 Equipment Staging and Checkout",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            613.2999999999996,
+            511.741455078125,
+            629.5749999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Equipment is staged at the command post and distributed to zone leaders before the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            629.5749999999996,
+            502.7333984375,
+            645.8499999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "drill starts. Checkout logs record item, quantity, and responsible person. Radios are",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            645.8499999999996,
+            499.631591796875,
+            662.1249999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "tested on designated channels, and spare batteries are available. After the drill, all",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            662.1249999999995,
+            508.819091796875,
+            678.3999999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "equipment is returned and inspected. Damaged or missing items are reported to the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            678.3999999999995,
+            505.168701171875,
+            694.6749999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "logistics lead. Staging follows a simple layout that keeps walkways clear and access",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            694.6749999999995,
+            135.310302734375,
+            710.9499999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "unobstructed.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            716.9499999999995,
+            335.398681640625,
+            733.2249999999995
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "B.1.1.2 Volunteer Assignment and Rotation",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            737.2249999999995,
+            522.93359375,
+            753.4999999999994
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Volunteers are assigned to zones based on training and availability. Rotation schedules",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            528.701416015625,
+            78.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "prevent fatigue during the exercise. Each volunteer receives a role card and knows their",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            523.082275390625,
+            94.55000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "reporting point. Relief volunteers are on standby for unexpected absences. Assignment",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            493.017822265625,
+            110.82500000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "adjustments are made through the zone leader and logged at the command post.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            110.82500000000002,
+            511.679931640625,
+            127.10000000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Volunteers are reminded that their participation is simulated and that they may raise",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            127.10000000000002,
+            212.183837890625,
+            143.37500000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "safety concerns at any time.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            149.37500000000003,
+            353.8642578125,
+            166.42500000000004
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "B.1.2 Communication Channels and Protocols",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.42500000000004,
+            511.474853515625,
+            186.70000000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Communication protocols define primary and backup channels for exercise traffic. All",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            186.70000000000005,
+            514.971435546875,
+            202.97500000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "messages begin and end with the phrase exercise, exercise to prevent confusion with",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            202.97500000000005,
+            524.7177734375,
+            219.25000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "real incidents. Radio discipline is enforced, and sensitive information is not transmitted.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            219.25000000000006,
+            511.77734375,
+            235.52500000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "The table below summarises the communication channels and their designated uses.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            241.52500000000006,
+            298.15771484375,
+            257.80000000000007
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            263.80000000000007,
+            533.276,
+            397.80000000000007
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Channel",
+              "Primary use",
+              "Backup",
+              "Notes"
+            ],
+            [
+              "Radio A",
+              "Command traffic",
+              "Radio B",
+              "Exercise phrase"
+            ],
+            [
+              "Radio B",
+              "Zone coordination",
+              "Radio A",
+              "Monitor at all times"
+            ],
+            [
+              "Phone tree",
+              "Safety alerts",
+              "Radio A",
+              "Test before drill"
+            ],
+            [
+              "Notice board",
+              "Public updates",
+              "Phone tree",
+              "Accessible format"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            263.80000000000007,
+            533.276,
+            430.80000000000007
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.80000000000007,
+            297.7587890625,
+            417.9750000000001
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 5: Communication channels and designated uses",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            430.80000000000007,
+            308.765625,
+            449.4000000000001
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "B.2 Post-Drill Review and Reporting",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            453.4000000000001,
+            491.9873046875,
+            469.67500000000007
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "After the drill, the planning committee compiles observations, safety reports, and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            469.67500000000007,
+            499.9853515625,
+            485.95000000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "participant feedback into an after-action report. The report distinguishes simulated",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            485.95000000000005,
+            506.7119140625,
+            502.225
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "observations from any real-world claims and avoids causal conclusions. Findings are",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            502.225,
+            491.392578125,
+            518.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "shared with participants and partner agencies. Recommendations are tracked for",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            518.5,
+            529.234619140625,
+            534.775
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "implementation. The review process emphasises learning, transparency, and continuous",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            534.775,
+            285.34033203125,
+            551.05
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "improvement of future drill arrangements.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+count: 5
+max_attempts: 1
+document_retries: 6
+content_provider: llm
+llm:
+  model: deepseek-flash
+  table_mode: llm
+  workers: 2
+  timeout_seconds: 180
+  max_tokens: 14000
+  continuation_count: 32
+  validation_retries: 2
+  library_dir: content_library
+  credentials_file: configs/providers.local.yaml
+  api_key_env: DEEPSEEK_API_KEY
+dpi: 96
+auto_balance_levels: true
+level_share_constraints:
+  1,2:
+  - 0
+  - 0.3
+  4,5:
+  - 0.4
+  - 0.5

@@ -1,0 +1,2866 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            81.80938671874998,
+            52.0,
+            513.4666132812499,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Warehouse Shift Handover and Inventory Guide",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            519.3193359375,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This guide sets out how shift supervisors at our distribution sites conduct handover and keep",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            531.873046875,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "inventory records consistent between crews. It covers the handover sequence, counting duties,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            533.5234375,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "discrepancy escalation and the records that must survive each transition. Every procedure here",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            519.568359375,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "applies across the 4 operating sites and is reviewed on a 12-month cycle. Supervisors should",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            541.39453125,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "treat the written handover as the single authoritative record of what one shift passes to the next.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            175.4,
+            347.177734375,
+            194.0
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Handover Principles and Shift Boundaries",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            198.0,
+            527.6640625,
+            213.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Handover is a controlled transfer of responsibility, not a conversation. The outgoing supervisor",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            213.5,
+            530.505859375,
+            229.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "remains accountable until the incoming supervisor signs the handover sheet, and the incoming",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            229.0,
+            536.5703125,
+            244.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "supervisor assumes custody of keys, seals and open tasks at that moment. Boundaries are fixed",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            244.5,
+            532.6787109375,
+            260.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "by roster, and no shift may close without a countersigned sheet. Where a boundary is disputed,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            260.0,
+            309.3291015625,
+            275.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "the site manager decides and records the decision.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            281.5,
+            276.912109375,
+            297.0
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            303.0,
+            269.0673828125,
+            320.05
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Preparing Before the Boundary",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            324.05,
+            543.276,
+            432.05
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Role",
+              "Before boundary",
+              "At boundary",
+              "After boundary"
+            ],
+            [
+              "Outgoing supervisor",
+              "Prepare sheet",
+              "Brief and sign",
+              "Release crew"
+            ],
+            [
+              "Incoming supervisor",
+              "Review log",
+              "Walk and sign",
+              "Assume custody"
+            ],
+            [
+              "Site manager",
+              "Decide disputes",
+              "Receive escalations",
+              "Review outcomes"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            324.05,
+            543.276,
+            465.05
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            439.05,
+            250.309814453125,
+            452.225
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 1: Shift boundary responsibilities by role",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            465.05,
+            536.78515625,
+            480.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Preparation begins well before the boundary. The outgoing supervisor confirms that pick queues",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            480.55,
+            535.349609375,
+            496.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "are cleared or explicitly carried forward, that damaged goods are segregated, and that the dock",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            496.05,
+            528.2255859375,
+            511.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "area is secured. Preparation checklists are completed in sequence so that nothing is signed off",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            511.55,
+            524.705078125,
+            527.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "prematurely. Any task that cannot be finished is written as a carry-forward item with a named",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            527.05,
+            259.998046875,
+            542.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "owner and a realistic completion window.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            548.55,
+            342.5751953125,
+            565.5999999999999
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 The Handover Walk and Verbal Briefing",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            569.5999999999999,
+            515.06640625,
+            585.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "The walk follows a fixed route through receiving, storage, packing and dispatch so that both",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            585.0999999999999,
+            534.724609375,
+            600.5999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "supervisors see the same conditions. The briefing then covers open orders, safety observations,",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            600.5999999999999,
+            535.017578125,
+            616.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "equipment faults and staffing gaps. Neither the walk nor the briefing replaces the written sheet.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            616.0999999999999,
+            524.490234375,
+            631.5999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Supervisors should keep the walk brisk but complete, pausing only where a physical condition",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            631.5999999999999,
+            261.6044921875,
+            647.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "needs to be shown rather than described.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            653.0999999999999,
+            276.912109375,
+            668.5999999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            212
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Checkpoint",
+              "Confirms",
+              "Owner",
+              "Record"
+            ],
+            [
+              "Receiving dock",
+              "Seals intact",
+              "Outgoing",
+              "Sheet"
+            ],
+            [
+              "Storage aisles",
+              "Stock located",
+              "Both",
+              "Sheet"
+            ],
+            [
+              "Quarantine cage",
+              "Cage locked",
+              "Outgoing",
+              "Register"
+            ],
+            [
+              "Dispatch area",
+              "Orders cleared",
+              "Both",
+              "System"
+            ],
+            [
+              "Equipment bay",
+              "Devices docked",
+              "Incoming",
+              "Register"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            245
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            219.0,
+            311.237548828125,
+            232.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 2: Handover walk checkpoints and what each confirms",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            245,
+            329.7373046875,
+            261.275
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 Confirming Physical and System Status",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            265.275,
+            507.693359375,
+            280.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Physical status and system status are confirmed separately, then reconciled. The outgoing",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            280.775,
+            541.1064453125,
+            296.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "supervisor demonstrates that seals are intact, that quarantine cages are locked and that scanner",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            296.275,
+            532.9912109375,
+            311.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "devices are docked and charging. The incoming supervisor checks the warehouse management",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            311.775,
+            527.849609375,
+            327.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "system for open tasks and confirms that the system view matches what was seen on the walk.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            327.275,
+            316.6875,
+            342.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Differences are noted before either supervisor signs.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            348.775,
+            330.657470703125,
+            365.04999999999995
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 Seals, Keys and Equipment Custody",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            369.04999999999995,
+            529.2412109375,
+            384.54999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Custody of seals, keys and powered equipment transfers only against a signature. Each item is",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            384.54999999999995,
+            540.33984375,
+            400.04999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "listed with its identifier and condition, and any missing item is escalated immediately rather than",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            400.04999999999995,
+            524.1533203125,
+            415.54999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "noted for later. Equipment with a reported fault is tagged out and removed from the available",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            415.54999999999995,
+            535.4716796875,
+            431.04999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "pool. The incoming supervisor confirms that chargers, batteries and access cards are accounted",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            431.04999999999995,
+            247.87890625,
+            446.54999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "for before releasing the outgoing crew.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            452.54999999999995,
+            345.171875,
+            468.82499999999993
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 Open Orders and Carry-Forward Tasks",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            472.82499999999993,
+            486.1650390625,
+            488.32499999999993
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Open orders are listed with order reference, priority and the reason they remain open.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            488.32499999999993,
+            538.0205078125,
+            503.82499999999993
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Carry-forward tasks are limited to those that genuinely cannot be completed within the outgoing",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            503.82499999999993,
+            526.27734375,
+            519.3249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "shift, and each carries an owner and a deadline. The incoming supervisor may re-prioritise but",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            519.3249999999999,
+            528.6015625,
+            534.8249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "must record the change. Tasks carried forward repeatedly across shifts should be raised to the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            534.8249999999999,
+            223.3427734375,
+            550.3249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "site manager as a capacity signal.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            556.3249999999999,
+            356.751220703125,
+            572.5999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 Handover Sheet Completion and Signatures",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            576.5999999999999,
+            528.6357421875,
+            592.0999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "The handover sheet is completed in full before either supervisor leaves the floor. It records the",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            592.0999999999999,
+            533.5869140625,
+            607.5999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "boundary time, the walk findings, open orders, equipment condition and any escalations raised.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            607.5999999999999,
+            532.712890625,
+            623.0999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Both supervisors sign and time-stamp the sheet, and the incoming supervisor files it in the shift",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            623.0999999999999,
+            512.41015625,
+            638.5999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "log. Incomplete sheets are not accepted; a supervisor who cannot complete the sheet must",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            638.5999999999999,
+            286.55078125,
+            654.0999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "escalate to the site manager before departing.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            660.0999999999999,
+            280.876953125,
+            675.5999999999999
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Field",
+              "Purpose",
+              "Completed by",
+              "Checked by"
+            ],
+            [
+              "Boundary time",
+              "Custody point",
+              "Both",
+              "Site manager"
+            ],
+            [
+              "Walk findings",
+              "Condition record",
+              "Both",
+              "Incoming"
+            ],
+            [
+              "Open orders",
+              "Continuity",
+              "Outgoing",
+              "Incoming"
+            ],
+            [
+              "Escalations",
+              "Response trail",
+              "Outgoing",
+              "Site manager"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            263.9853515625,
+            206.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 1: Handover sheet fields and their purpose",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            219,
+            270.23193359375,
+            236.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 Escalation During Handover",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            240.05,
+            533.7822265625,
+            255.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Some conditions cannot wait for the next routine review. Safety hazards, suspected theft, failed",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            255.55,
+            526.08203125,
+            271.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "seals and system outages are escalated to the site manager during handover, not after it. The",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.05,
+            541.70703125,
+            286.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "escalation is recorded with the time raised and the response received. Where the site manager is",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            286.55,
+            511.248046875,
+            302.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "unreachable, the duty manager acts, and the attempt and outcome are both written on the",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            302.05,
+            82.9521484375,
+            317.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "sheet.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            323.55,
+            280.63134765625,
+            340.6
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 Handover Records and Retention",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            344.6,
+            540.935546875,
+            360.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Completed handover sheets are retained in the shift log for audit and dispute resolution. Records",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            360.1,
+            521.7509765625,
+            375.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "are stored so that any past shift can be reconstructed from the sheet, the system log and the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            375.6,
+            497.830078125,
+            391.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "equipment register. Retention periods are set by site policy and reviewed with the cycle.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            391.1,
+            520.837890625,
+            406.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Supervisors should treat the log as evidence, writing entries that a reader unfamiliar with the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            406.6,
+            268.0107421875,
+            422.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "shift could follow without asking questions.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            428.1,
+            324.109375,
+            446.70000000000005
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 Inventory Counting and Reconciliation",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            450.70000000000005,
+            503.7529296875,
+            466.20000000000005
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Inventory accuracy depends on disciplined counting and honest reconciliation. Counts are",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            466.20000000000005,
+            528.0693359375,
+            481.70000000000005
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "scheduled by zone and product class, and each count is performed by someone other than the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            481.70000000000005,
+            513.4794921875,
+            497.20000000000005
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "person who last handled the stock where staffing allows. Results are compared with system",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            497.20000000000005,
+            524.1923828125,
+            512.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "balances, and every variance is investigated before an adjustment is posted. The guide treats",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            512.7,
+            303.1181640625,
+            528.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "counting as a control activity, not a clerical chore.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            534.2,
+            280.876953125,
+            549.7
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            555.7,
+            543.276,
+            689.7
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Zone",
+              "Method",
+              "Frequency",
+              "Counter"
+            ],
+            [
+              "High velocity",
+              "Blind count",
+              "Frequent",
+              "Rotated"
+            ],
+            [
+              "Slow storage",
+              "Cycle count",
+              "Periodic",
+              "Rotated"
+            ],
+            [
+              "Quarantine",
+              "Full count",
+              "Each shift",
+              "Supervisor"
+            ],
+            [
+              "Overflow",
+              "Spot check",
+              "Periodic",
+              "Rotated"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            555.7,
+            543.276,
+            722.7
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            696.7,
+            211.00146484375,
+            709.875
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 2: Count method by zone type",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            722.7,
+            262.095703125,
+            739.75
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 Count Scheduling and Method",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            743.75,
+            514.001953125,
+            759.25
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Counts are scheduled so that high-velocity zones are checked more often than slow-moving",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            759.25,
+            517.0439453125,
+            774.75
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "storage. Counters use the approved method for each zone, whether full count, spot check or",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            520.33984375,
+            67.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "cycle count, and record the method used. Blind counts are preferred so that counters are not",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            532.4052734375,
+            83.0
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "anchored by expected figures. The schedule is published in advance and adjusted only with the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            187.546875,
+            98.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "site manager's agreement.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            104.5,
+            250.02587890625,
+            121.55
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 Recording Count Results",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            125.55,
+            520.232421875,
+            141.05
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Count results are recorded at the point of counting, not reconstructed afterwards. Each entry",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            141.05,
+            542.439453125,
+            156.55
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "shows the location, product reference, quantity observed and the counter's identifier. Corrections",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            156.55,
+            536.3505859375,
+            172.05
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "are made by annotation rather than overwriting, so the original observation remains visible. The",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            172.05,
+            497.9423828125,
+            187.55
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "incoming supervisor reviews recorded results during handover and flags any zone where",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            187.55,
+            273.2109375,
+            203.05
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "counting was interrupted or left incomplete.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            209.05,
+            328.450439453125,
+            225.32500000000002
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 Variance Investigation and Adjustment",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            229.32500000000002,
+            507.9228515625,
+            244.82500000000002
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "A variance is investigated before any adjustment is posted. The investigator checks recent",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            244.82500000000002,
+            528.15234375,
+            260.32500000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "movements, misplacements, unrecorded returns and possible scanning errors, and documents",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            260.32500000000005,
+            519.9736328125,
+            275.82500000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "which explanations were tested. Adjustments require approval from a supervisor who did not",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            275.82500000000005,
+            490.6181640625,
+            291.32500000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "perform the count. Where the cause cannot be established, the variance is recorded as",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            291.32500000000005,
+            480.994140625,
+            306.82500000000005
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "unexplained and monitored across subsequent counts rather than written off silently.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.82500000000005,
+            268.63671875,
+            329.1
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 Locating Misplaced Stock",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            333.1,
+            540.408203125,
+            348.6
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Misplaced stock is the most common explanation for a variance and should be sought before any",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            348.6,
+            518.748046875,
+            364.1
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "adjustment. The investigator searches adjacent locations, overflow areas and the quarantine",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            364.1,
+            536.2236328125,
+            379.6
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "cage, and checks whether a put-away was scanned to the wrong bin. Findings are recorded with",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            379.6,
+            508.9970703125,
+            395.1
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "the location where stock was actually found. Repeated misplacements in one zone point to",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            395.1,
+            334.71484375,
+            410.6
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "labelling or layout problems rather than individual error.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            416.6,
+            339.260498046875,
+            432.875
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 Approval and Posting of Adjustments",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            436.875,
+            535.0126953125,
+            452.375
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Adjustment approval is separated from counting and from stock handling. The approver reviews",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            452.375,
+            533.513671875,
+            467.875
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "the investigation record, confirms that plausible explanations were tested, and either approves,",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            467.875,
+            521.580078125,
+            483.375
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "queries or rejects the adjustment. Approved adjustments are posted promptly so that system",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            483.375,
+            542.3076171875,
+            498.875
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "balances reflect reality before the next shift. Rejected adjustments return to the investigator with",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            498.875,
+            367.3369140625,
+            514.375
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "a written reason, and the stock remains flagged until resolved.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            520.375,
+            276.912109375,
+            535.875
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            541.875,
+            543.276,
+            675.875
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0016",
+          "belongs_to": "h0016",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Pass",
+              "Fail",
+              "Action"
+            ],
+            [
+              "Investigation",
+              "Recorded",
+              "Missing",
+              "Query"
+            ],
+            [
+              "Approver",
+              "Independent",
+              "Same counter",
+              "Reassign"
+            ],
+            [
+              "Cause",
+              "Tested",
+              "Assumed",
+              "Reopen"
+            ],
+            [
+              "Posting",
+              "Prompt",
+              "Delayed",
+              "Escalate"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            541.875,
+            543.276,
+            708.875
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            682.875,
+            248.608154296875,
+            696.05
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 3: Adjustment approval decision criteria",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            708.875,
+            311.008544921875,
+            725.15
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 Cycle Count Sampling and Coverage",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            729.15,
+            527.078125,
+            744.65
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Cycle counting samples a rotating portion of locations so that every zone is covered within the",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            744.65,
+            516.1650390625,
+            760.15
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "review cycle. Sampling is planned rather than opportunistic, and coverage is tracked so that",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            760.15,
+            506.74609375,
+            775.65
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "neglected zones become visible. A sample of 240 location checks per cycle is the planning",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            518.25,
+            67.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "reference for coverage across the 4 sites. Counters should not select their own samples, and",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            258.6845703125,
+            83.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "coverage gaps are reported at handover.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            89.0,
+            373.24951171875,
+            106.05
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 Discrepancy Escalation and Fraud Indicators",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            110.05,
+            533.044921875,
+            125.55
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Most discrepancies are errors, but some patterns warrant escalation. Repeated shortfalls in one",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            125.55,
+            528.8408203125,
+            141.05
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "product class, missing seals, or stock found outside recorded locations without explanation are",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            141.05,
+            523.46484375,
+            156.55
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "referred to the site manager. The guide does not treat these patterns as proof of wrongdoing;",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            156.55,
+            526.2724609375,
+            172.05
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "they are indicators that require a documented review. Escalation records distinguish observed",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            172.05,
+            251.8388671875,
+            187.55
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "facts from inferences drawn from them.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.55,
+            329.23974609375,
+            210.60000000000002
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 Improving Handover and Count Accuracy",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            214.60000000000002,
+            483.8896484375,
+            230.10000000000002
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Accuracy improves through small, sustained changes rather than periodic campaigns.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            230.10000000000002,
+            508.2353515625,
+            245.60000000000002
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Supervisors should review handover sheets and count variances together to spot recurring",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            245.60000000000002,
+            535.5498046875,
+            261.1
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "causes, such as unclear labelling or rushed boundaries. Suggestions are logged and reviewed at",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            261.1,
+            515.8671875,
+            276.6
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "the cycle review, and adopted changes are briefed at handover. Progress is judged by fewer",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            276.6,
+            426.384765625,
+            292.1
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "repeat variances and cleaner handover sheets, not by a single good week.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            298.1,
+            276.912109375,
+            313.6
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            319.6,
+            543.276,
+            453.6
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0019",
+          "belongs_to": "h0019",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Signal",
+              "Direction",
+              "Reviewer",
+              "Frequency"
+            ],
+            [
+              "Repeat variances",
+              "Falling",
+              "Site manager",
+              "Cycle"
+            ],
+            [
+              "Carry-forward tasks",
+              "Falling",
+              "Supervisor",
+              "Shift"
+            ],
+            [
+              "Escalation closures",
+              "Rising",
+              "Duty manager",
+              "Cycle"
+            ],
+            [
+              "Sheet completeness",
+              "Rising",
+              "Site manager",
+              "Cycle"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            319.6,
+            543.276,
+            486.6
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            460.6,
+            331.271484375,
+            473.77500000000003
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 4: Signals that handover and count accuracy are improving",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

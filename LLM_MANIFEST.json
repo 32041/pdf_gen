@@ -1,0 +1,402 @@
+[
+  {
+    "doc_id": "0001",
+    "kind": "official",
+    "language": "zh",
+    "title": "公共设施巡检试点工作通知",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0002",
+    "kind": "paper",
+    "language": "zh",
+    "title": "仓储机器人的充电与任务分配",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0003",
+    "kind": "annual_report",
+    "language": "zh",
+    "title": "寒驰冷链物流有限公司年度经营报告",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0004",
+    "kind": "exam_paper",
+    "language": "zh",
+    "title": "服务运营情境考核试卷",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "ae6e6a65e388fa4a7782cd09b993f278d13a55e4f032fb9dd5e3fb3e1d438cd9",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0005",
+    "kind": "course_syllabus",
+    "language": "en",
+    "title": "Discrete Event Simulation Course Syllabus",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0006",
+    "kind": "manual_guide",
+    "language": "zh",
+    "title": "土壤水分监测控制器操作手册",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "2d948033306ea6cb29b27e5506e5bd2e6c42fa063017fe02d5572212e78b3644",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0007",
+    "kind": "legal_contract",
+    "language": "en",
+    "title": "Fictional Equipment Maintenance Services Agreement",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0008",
+    "kind": "annual_report",
+    "language": "zh",
+    "title": "区域供水服务企业年度运营报告",
+    "target_depth": 5,
+    "explicit_hierarchy": false,
+    "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0009",
+    "kind": "paper",
+    "language": "en",
+    "title": "Urban Heat Sensing with Sparse Monitoring Sites",
+    "target_depth": 5,
+    "explicit_hierarchy": false,
+    "request_hash": "92593bdf2ec9d5923114849e6110679274b490180abd0529138459992d31ac45",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0010",
+    "kind": "legal_contract",
+    "language": "en",
+    "title": "Fictional Document Annotation Services Agreement",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "3a34b488093aad7aa460ecaf56b5b17e4dde6a63e315e2bb48fcd6792d1ca350",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0011",
+    "kind": "manual_guide",
+    "language": "en",
+    "title": "Service Ticket Triage and Handover Guide",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0012",
+    "kind": "course_syllabus",
+    "language": "zh",
+    "title": "环境监测方法课程教学大纲",
+    "target_depth": 4,
+    "explicit_hierarchy": false,
+    "request_hash": "3cfcc385cca3e6518fa62be7b5e8d9a2f056442b4404c2a1326cf8fafdae7c99",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0013",
+    "kind": "manual_guide",
+    "language": "en",
+    "title": "Warehouse Shift Handover and Inventory Guide",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "edaa4e3a3c3260db7ae7366ccf8d46a831f4ca81b57de373739f8eafed1fba04",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0014",
+    "kind": "report",
+    "language": "zh",
+    "title": "社区出行与换乘可达性调研报告",
+    "target_depth": 5,
+    "explicit_hierarchy": false,
+    "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0015",
+    "kind": "annual_report",
+    "language": "en",
+    "title": "Meridian Forge Industrial Software Annual Review",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0016",
+    "kind": "legal_contract",
+    "language": "zh",
+    "title": "虚构仓储保管服务协议",
+    "target_depth": 3,
+    "explicit_hierarchy": false,
+    "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0017",
+    "kind": "exam_paper",
+    "language": "en",
+    "title": "Environmental Monitoring Scenario Assessment",
+    "target_depth": 6,
+    "explicit_hierarchy": false,
+    "request_hash": "ce34502c9f4499fd40d02cb37e50f61c9577f5d6a21c34ef4be21c9ed0da85e5",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0018",
+    "kind": "course_syllabus",
+    "language": "en",
+    "title": "Technical Writing and Evidence: Course Syllabus",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "534666f84335ac00adb6b0777d25dcad7e795ae358a0dc7102b7b9c04354c2c5",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0019",
+    "kind": "annual_report",
+    "language": "en",
+    "title": "Annual Report of the Willowbridge Community Service Network",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0020",
+    "kind": "manual_guide",
+    "language": "en",
+    "title": "Indoor Air Quality Station Maintenance Manual",
+    "target_depth": 5,
+    "explicit_hierarchy": false,
+    "request_hash": "1c41a81c65c0d5ade98a31b695eda45773d19f50d74fe34fc09fd2dcf1b349da",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0021",
+    "kind": "manual_guide",
+    "language": "zh",
+    "title": "小型光伏发电记录仪操作手册",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "478faf4af036945627ff077c5e927660fe81d0109cfd3d80ea6e8f5744902934",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0022",
+    "kind": "legal_contract",
+    "language": "en",
+    "title": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0023",
+    "kind": "exam_paper",
+    "language": "en",
+    "title": "Data Quality Reasoning Assessment",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "e54aae0d8561ca75791334dc2a6658fc42e85bbbfa974b0bb8aa61f913ec9260",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0024",
+    "kind": "course_syllabus",
+    "language": "zh",
+    "title": "数据质量工程课程教学大纲",
+    "target_depth": 3,
+    "explicit_hierarchy": false,
+    "request_hash": "76552e2ce1ec277914ac63242273e4f160eae29d3a7298053ad538d392807da1",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0025",
+    "kind": "report",
+    "language": "zh",
+    "title": "公共图书馆容量与服务评估",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0026",
+    "kind": "report",
+    "language": "zh",
+    "title": "办公建筑能源绩效评估报告",
+    "target_depth": 4,
+    "explicit_hierarchy": false,
+    "request_hash": "4f1258e55262c655364195923666ab5f7eae4f64eded434e21ea68e51ae2e7ae",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0027",
+    "kind": "exam_paper",
+    "language": "zh",
+    "title": "仓储协同运作能力综合考核试卷",
+    "target_depth": 6,
+    "explicit_hierarchy": false,
+    "request_hash": "f0e52f05d4ccb6e779a1553c837f58b6cc4e9cda89b38878d43656dde272f39b",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0028",
+    "kind": "legal_contract",
+    "language": "en",
+    "title": "Professional Training Delivery Agreement",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0029",
+    "kind": "paper",
+    "language": "en",
+    "title": "Acoustic Fault Screening for Small Industrial Fans",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "d97d9c3e608bcba7cb36a6d05aa991fcc6c7556c5be4d1872e4c91c732147d3f",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0030",
+    "kind": "paper",
+    "language": "zh",
+    "title": "河流水质的自适应采样",
+    "target_depth": 5,
+    "explicit_hierarchy": false,
+    "request_hash": "53692f3887884e7df3f63f2e652541e99e9fdb0a21158ed50e4df26b7be772a1",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0031",
+    "kind": "exam_paper",
+    "language": "zh",
+    "title": "技术证据解读能力考核试卷",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0032",
+    "kind": "course_syllabus",
+    "language": "zh",
+    "title": "公共服务评价课程教学大纲",
+    "target_depth": 3,
+    "explicit_hierarchy": true,
+    "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0033",
+    "kind": "official",
+    "language": "en",
+    "title": "Vocational Skills Training Implementation Notice",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "6c08cac6b33c7bc902dfcbda1cf47292c850cae8cfa389fc6e6d4fdac31f246d",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0034",
+    "kind": "official",
+    "language": "zh",
+    "title": "公共服务数据质量管理办法",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "e14588364633c688c5fca0a04d4f2afdc61870428bcecbc282360bea53c5bc5d",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0035",
+    "kind": "official",
+    "language": "en",
+    "title": "Community Emergency Drill Arrangements",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0036",
+    "kind": "annual_report",
+    "language": "en",
+    "title": "LuminaLite Manufacturing Annual Report 2025",
+    "target_depth": 5,
+    "explicit_hierarchy": true,
+    "request_hash": "a7a8146d160abf6f49222dcacd8b597328bdf9ef43c0e86533478374f2565564",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0037",
+    "kind": "report",
+    "language": "zh",
+    "title": "市政供水韧性评估",
+    "target_depth": 6,
+    "explicit_hierarchy": true,
+    "request_hash": "a2d84fd24b7d0e2b139453d4f952b2bb042be7c34029e1c3346c3c724170f7a8",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0038",
+    "kind": "report",
+    "language": "zh",
+    "title": "基层服务中心无障碍审查报告",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0039",
+    "kind": "paper",
+    "language": "en",
+    "title": "Demand Forecasting for Public Library Services",
+    "target_depth": 4,
+    "explicit_hierarchy": true,
+    "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae",
+    "model": "deepseek-flash"
+  },
+  {
+    "doc_id": "0040",
+    "kind": "official",
+    "language": "en",
+    "title": "Recycling Service Pilot Implementation",
+    "target_depth": 6,
+    "explicit_hierarchy": false,
+    "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b",
+    "model": "deepseek-flash"
+  }
+]

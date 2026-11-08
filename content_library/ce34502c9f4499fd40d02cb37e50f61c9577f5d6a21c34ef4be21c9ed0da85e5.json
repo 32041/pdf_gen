@@ -1,0 +1,605 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "exam_paper",
+    "language": "en",
+    "subject": "Environmental monitoring scenario assessment",
+    "seed": 58,
+    "has_title": false,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0012",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0013",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0014",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0016",
+        "parent_id": "h0015",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0017",
+        "parent_id": "h0016",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0018",
+        "parent_id": "h0016",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0019",
+        "parent_id": "h0015",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0020",
+        "parent_id": "h0014",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0021",
+        "parent_id": "h0013",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0022",
+        "parent_id": "h0012",
+        "level": 2,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0020",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0008",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0008",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0008",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0001",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0007",
+        "cell_width": 56.5,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "81.75",
+      "output_2": "92.83",
+      "output_3": "108.64",
+      "output_4": "119.72",
+      "cost_1": "53.14",
+      "cost_2": "60.34",
+      "cost_3": "70.62",
+      "cost_4": "77.82",
+      "balance_1": "28.61",
+      "balance_2": "32.49",
+      "balance_3": "38.02",
+      "balance_4": "41.90",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "46.4"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Environmental Monitoring Scenario Assessment",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Environmental Monitoring Scenario Assessment",
+        "paragraph": "This examination paper presents a fictional monitoring scenario for candidate assessors working with simulated observations. Candidates must read the case materials carefully, separate measured signals from inferred causes, and justify each conclusion with evidence drawn only from the supplied scenario. Answers should identify data gaps, propose proportionate follow-up, and state clearly where a causal claim cannot yet be supported. All figures are simulated and must be cited as scenario values rather than real measurements."
+      },
+      {
+        "id": "h0002",
+        "title": "Scenario Background and Site Context",
+        "paragraph": "The scenario concerns a fictional lowland catchment monitored across [[F:sites_count]] stations over a campaign of [[F:sample_count]] samples. Land use is mixed, with seasonal irrigation and a small processing facility upstream of the main intake. Candidates should note that station placement was chosen for accessibility rather than representativeness, a limitation that shapes every later inference. The brief states that no baseline survey preceded the campaign, so any comparison to prior conditions is provisional."
+      },
+      {
+        "id": "h0003",
+        "title": "Monitoring Objectives and Assessment Boundaries",
+        "paragraph": "The commissioning body asks whether observed conditions are consistent with the stated environmental objectives for the catchment. Boundaries are deliberately narrow: surface water chemistry, sediment load and riparian condition only. Groundwater, air quality and noise are outside scope. Candidates must decide which objectives are directly testable with available data and which require additional sampling before any judgement is defensible."
+      },
+      {
+        "id": "h0004",
+        "title": "Sampling Design and Field Records",
+        "paragraph": "Field records include station logs, chain-of-custody sheets and instrument calibration notes. Sampling followed a fixed interval schedule, with [[F:sample_count]] samples distributed unevenly because two stations were inaccessible during part of the campaign. Candidates should evaluate whether this uneven coverage biases the pooled results and should recommend how a stratified design would improve comparability in future rounds."
+      },
+      {
+        "id": "h0005",
+        "title": "Laboratory Analysis and Quality Control",
+        "paragraph": "Laboratory results are accompanied by method blanks, duplicates and a certified reference material run at intervals. Candidates must inspect the quality-control record before interpreting any analyte trend. Where duplicate agreement is weak, the associated result should be flagged rather than discarded. The scenario supplies simulated recovery values only for a subset of analytes, so candidates should state which conclusions rest on incomplete verification."
+      },
+      {
+        "id": "h0006",
+        "title": "Detection Limits and Censored Results",
+        "paragraph": "Several analytes fall below the reporting limit at upstream stations. Candidates must choose an explicit treatment for these censored results, such as substitution, interval methods or exclusion, and justify the choice. Treating all non-detects as zero is unacceptable here because it would understate downstream concentrations and could distort the comparison between stations."
+      },
+      {
+        "id": "h0007",
+        "title": "Instrument Calibration and Drift",
+        "paragraph": "Calibration records show a drift pattern on one field meter during the middle of the campaign. Candidates should assess whether the drift is large enough to affect classification of station status and should propose a correction or a sensitivity check. The scenario does not provide a second independent meter, so any correction must be documented as an assumption with stated uncertainty."
+      },
+      {
+        "id": "h0008",
+        "title": "Data Screening and Comparability Checks",
+        "paragraph": "Before analysis, candidates must screen the dataset for transcription errors, unit mismatches and duplicate sample identifiers. Comparability across stations depends on consistent filtration and preservation methods, and the scenario records one deviation at a downstream station. Candidates should decide whether that station remains in the pooled analysis or is reported separately with a caveat."
+      },
+      {
+        "id": "h0009",
+        "title": "Uncertainty and Bias in Interpretation",
+        "paragraph": "Every conclusion carries uncertainty from sampling, analysis and the censored results described earlier. Candidates should express uncertainty qualitatively or through stated ranges and must avoid overstating precision. A useful answer distinguishes bias, which shifts results systematically, from random error, which affects reproducibility, and explains how the chosen design addresses each."
+      },
+      {
+        "id": "h0010",
+        "title": "Candidate Tasks and Deliverables",
+        "paragraph": "Candidates must produce a short assessment note, a station comparison table and a prioritised list of follow-up actions. The note should state which objectives are met, which are unresolved and which require further evidence. Marks are awarded for explicit reasoning and for honest acknowledgement of limits, not for confident conclusions unsupported by the scenario record."
+      },
+      {
+        "id": "h0011",
+        "title": "Marking Criteria and Submission Rules",
+        "paragraph": "Marks are allocated across evidence use, treatment of uncertainty, clarity of causal language and feasibility of recommendations. Submissions must be completed within the stated examination period and may not consult external datasets. Answers citing figures not present in the scenario will be treated as unsupported. A brief statement of assumptions is required at the start of each response."
+      },
+      {
+        "id": "h0012",
+        "title": "Scenario Questions",
+        "paragraph": "The following questions test whether candidates can move from observation to defensible judgement. Each question supplies a distinct situation and expects a reasoned answer rather than a summary of the case. Candidates should answer all questions and label any assumption they introduce."
+      },
+      {
+        "id": "h0013",
+        "title": "Question Set on Observations and Causes",
+        "paragraph": "This set asks candidates to separate what was observed from what might explain it. Answers should identify the evidence supporting each observation, name plausible alternative explanations, and state what additional measurement would discriminate between them. Candidates who assert causation without such evidence will lose marks under the causal-language criterion."
+      },
+      {
+        "id": "h0014",
+        "title": "Question One: Downstream Load Increase",
+        "paragraph": "Downstream sediment load appears elevated relative to upstream stations. Candidates must decide whether the data support a claim that the processing facility caused the increase, or whether erosion, resuspension or sampling timing offer equally plausible explanations. A complete answer names the specific evidence that would be needed before a causal attribution could be made."
+      },
+      {
+        "id": "h0015",
+        "title": "Question Two: Station Comparability Dispute",
+        "paragraph": "A stakeholder argues that the downstream station should be excluded because of the recorded method deviation. Candidates must weigh the loss of spatial coverage against the risk of biased comparison and recommend a course of action. The answer should state how the recommendation would change if the deviation proved minor on review."
+      },
+      {
+        "id": "h0016",
+        "title": "Question Three: Censored Analyte Interpretation",
+        "paragraph": "Several upstream results fall below the reporting limit while downstream results are quantified. Candidates must explain how their chosen treatment of censored values affects the comparison and whether the pattern supports any conclusion about source or dilution. The answer should identify the assumption most likely to change the result."
+      },
+      {
+        "id": "h0017",
+        "title": "Question Four: Calibration Drift Response",
+        "paragraph": "The field meter drifted during the middle of the campaign. Candidates must propose a defensible response, such as a sensitivity analysis or a flagged caveat, and explain how the drift affects confidence in station classification. Answers should note what record evidence would confirm or rule out a systematic shift."
+      },
+      {
+        "id": "h0018",
+        "title": "Question Five: Communicating Uncertainty",
+        "paragraph": "Candidates must draft a short statement for a non-specialist audience explaining what the campaign shows and what it does not. The statement must avoid causal language that the evidence cannot support and must indicate the main limitation. Clarity and honesty are weighted more heavily than completeness."
+      },
+      {
+        "id": "h0019",
+        "title": "Question Six: Follow-Up Sampling Plan",
+        "paragraph": "Candidates must design a follow-up sampling round that addresses the largest identified gaps, specifying stations, timing and quality-control measures. The plan should be feasible within the stated resources and should explain how results would resolve the unresolved objectives. Justification of design choices carries most of the marks."
+      },
+      {
+        "id": "h0020",
+        "title": "Reference Table for Scenario Judgements",
+        "paragraph": "The table summarises the judgement categories candidates should use when classifying each station and objective. It is a reference aid only and does not supply answers. Candidates should apply the categories consistently and state which category applies to each conclusion in their assessment note."
+      },
+      {
+        "id": "h0021",
+        "title": "Administrative Notes for Candidates",
+        "paragraph": "Candidates should write their identifier on every page and keep responses legible. Clarifications requested during the examination will be recorded and shared with all candidates. Answers submitted after the closing time will not be marked. Candidates are reminded that the scenario is fictional and that no external verification of the figures is possible or expected."
+      },
+      {
+        "id": "h0022",
+        "title": "End of Examination Paper",
+        "paragraph": "This concludes the examination paper. Candidates should check that all questions have been attempted and that assumptions are clearly labelled. The scenario record, quality-control notes and reference table remain available throughout the examination period. No further materials will be issued."
+      }
+    ],
+    "continuations": [
+      "Candidates should record the version of the scenario brief they used, since later clarifications may alter the interpretation of station coverage and comparability.",
+      "Where a conclusion depends on a single sample, the answer should say so explicitly rather than presenting the result as a stable station characteristic.",
+      "Reviewers should check that each recommendation names an owner and a time frame, because feasibility is part of the marking criteria.",
+      "A short assumptions register at the start of the answer helps markers follow the reasoning and distinguishes evidence from inference.",
+      "If a candidate changes the treatment of censored values midway, the revised treatment should be applied consistently and the change noted.",
+      "Answers that compare stations should confirm that the same filtration and preservation methods were used before drawing conclusions.",
+      "The quality-control record should be cited directly when a result is flagged, rather than described in general terms.",
+      "Candidates may propose additional measurements, but should explain how each would discriminate between competing explanations.",
+      "Statements intended for non-specialists should define technical terms briefly and avoid implying precision the data cannot support.",
+      "Where the scenario is silent on a relevant detail, candidates should state the gap and proceed on an explicit, reasonable assumption.",
+      "Marks are not awarded for length; a concise answer that addresses evidence and uncertainty will score well.",
+      "Candidates should avoid attributing observed patterns to a specific source unless the scenario provides discriminating evidence.",
+      "Any correction applied to drifted readings should be documented alongside the original value so reviewers can trace the change.",
+      "The assessment note should distinguish objectives that were tested directly from those inferred through proxy indicators.",
+      "Follow-up plans should specify how many samples per station are needed to resolve the largest remaining uncertainty.",
+      "Candidates should confirm that station identifiers in the dataset match those in the field logs before pooling results.",
+      "Where duplicate agreement is weak, the answer should state how the flagged result affects the overall station classification.",
+      "A sensitivity analysis should show whether the conclusion survives a reasonable alternative treatment of censored values.",
+      "Recommendations should be proportionate to the evidence; a single ambiguous result rarely justifies an immediate intervention.",
+      "Answers should acknowledge that accessibility-driven station placement limits how far catchment-wide conclusions can extend.",
+      "The written statement for non-specialists should name the main limitation before presenting any conclusion.",
+      "Candidates should note whether the processing facility operated throughout the campaign or only during part of it.",
+      "Timing of sampling relative to rainfall events should be considered when comparing upstream and downstream results.",
+      "Any proposed exclusion of a station should be justified against the loss of spatial coverage it creates.",
+      "Markers will check that causal language is qualified wherever the supporting evidence is only partial.",
+      "The follow-up plan should include a quality-control component sized to the number of samples proposed.",
+      "Candidates should state whether their conclusions would change if the method deviation proved negligible on review.",
+      "A brief summary table of conclusions can help markers verify that each objective received an explicit judgement.",
+      "Answers should avoid presenting simulated scenario values as verified environmental measurements.",
+      "Where objectives remain unresolved, the answer should explain what evidence would be sufficient to close them.",
+      "Candidates should describe how they would store and version the revised dataset after screening corrections.",
+      "The examination rewards clear separation between observation, inference and recommendation throughout the response."
+    ],
+    "tables": [
+      {
+        "id": "o0005",
+        "caption": "Judgement categories for station and objective classification",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Category",
+            "Evidence needed",
+            "Causal language",
+            "Follow-up"
+          ],
+          [
+            "Supported",
+            "Consistent records",
+            "Permitted",
+            "Routine"
+          ],
+          [
+            "Provisional",
+            "Partial records",
+            "Qualified",
+            "Targeted"
+          ],
+          [
+            "Unresolved",
+            "Insufficient data",
+            "Avoided",
+            "Priority"
+          ],
+          [
+            "Excluded",
+            "Deviation noted",
+            "None",
+            "Separate report"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Calibration drift review checklist for the field meter",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Check",
+            "Record source",
+            "Outcome",
+            "Action"
+          ],
+          [
+            "Drift magnitude",
+            "Calibration log",
+            "Pending",
+            "Flag"
+          ],
+          [
+            "Duration",
+            "Field notes",
+            "Pending",
+            "Assess"
+          ],
+          [
+            "Independent check",
+            "None",
+            "Unavailable",
+            "Caveat"
+          ],
+          [
+            "Sensitivity test",
+            "Derived",
+            "Pending",
+            "Report"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Data screening checks before pooled analysis",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Check",
+            "Criterion",
+            "Status",
+            "Owner"
+          ],
+          [
+            "Units",
+            "Consistent",
+            "Pending",
+            "Analyst"
+          ],
+          [
+            "Duplicates",
+            "Unique",
+            "Pending",
+            "Analyst"
+          ],
+          [
+            "Filtration",
+            "Uniform",
+            "Deviation",
+            "Reviewer"
+          ],
+          [
+            "Transcription",
+            "Verified",
+            "Pending",
+            "Clerk"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Quality-control evidence available for interpretation",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Control",
+            "Coverage",
+            "Strength",
+            "Use"
+          ],
+          [
+            "Blanks",
+            "Partial",
+            "Moderate",
+            "Flag"
+          ],
+          [
+            "Duplicates",
+            "Subset",
+            "Weak",
+            "Caution"
+          ],
+          [
+            "Reference material",
+            "Partial",
+            "Moderate",
+            "Verify"
+          ],
+          [
+            "Recovery data",
+            "Subset",
+            "Limited",
+            "Caveat"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Comparability decision options for the downstream station",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Option",
+            "Coverage",
+            "Bias risk",
+            "Recommendation"
+          ],
+          [
+            "Pool",
+            "Full",
+            "Higher",
+            "Conditional"
+          ],
+          [
+            "Separate",
+            "Reduced",
+            "Lower",
+            "Preferred"
+          ],
+          [
+            "Exclude",
+            "Lost",
+            "Low",
+            "Last resort"
+          ],
+          [
+            "Recheck",
+            "Full",
+            "Lower",
+            "First step"
+          ]
+        ]
+      },
+      {
+        "id": "o0001",
+        "caption": "Reference categories for classifying each station conclusion",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Conclusion",
+            "Category",
+            "Evidence",
+            "Wording"
+          ],
+          [
+            "Load rise",
+            "Provisional",
+            "Partial",
+            "Qualified"
+          ],
+          [
+            "Upstream low",
+            "Unresolved",
+            "Censored",
+            "Avoided"
+          ],
+          [
+            "Drift effect",
+            "Provisional",
+            "Log",
+            "Qualified"
+          ],
+          [
+            "Station status",
+            "Supported",
+            "Records",
+            "Permitted"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4808,
+      "completion_tokens": 3239,
+      "total_tokens": 8047,
+      "prompt_tokens_details": {
+        "cached_tokens": 1792
+      },
+      "prompt_cache_hit_tokens": 1792,
+      "prompt_cache_miss_tokens": 3016
+    },
+    "finish_reason": "stop",
+    "request_hash": "ce34502c9f4499fd40d02cb37e50f61c9577f5d6a21c34ef4be21c9ed0da85e5",
+    "schema": "llm-content-v1",
+    "validation_retries": 1,
+    "cache_hit": false
+  }
+}

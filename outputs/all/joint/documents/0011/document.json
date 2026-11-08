@@ -1,0 +1,903 @@
+{
+  "doc_id": "0011",
+  "kind": "manual_guide",
+  "domain": "manual_guide",
+  "language": "en",
+  "title": "Service Ticket Triage and Handover Guide",
+  "seed": 52,
+  "target_depth": 6,
+  "has_title": false,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 2,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Purpose and Scope of the Triage Guide",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        1
+      ],
+      "text": "A Purpose and Scope of the Triage Guide",
+      "is_document_title": false
+    },
+    {
+      "id": "h0002",
+      "title": "Intake Channels and Ticket Registration",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 Intake Channels and Ticket Registration",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Initial Classification and Severity Rules",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1 Initial Classification and Severity Rules",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Severity Assignment and Escalation Triggers",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1.1 Severity Assignment and Escalation Triggers",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Ownership, Queue Assignment and Response Clock",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1.1.1 Ownership, Queue Assignment and Response Clock",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "First Response and Diagnostic Checklist",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1.1.1.1 First Response and Diagnostic Checklist",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Requester Communication and Expectation Setting",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.1.1.1.2 Requester Communication and Expectation Setting",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Reassignment and Cross Team Handoff",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.1.1.2 Reassignment and Cross Team Handoff",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Documentation Standards for Triage Notes",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.1.2 Documentation Standards for Triage Notes",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Quality Review of Classification Decisions",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.2 Quality Review of Classification Decisions",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Triage Metrics and Reporting Discipline",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 Triage Metrics and Reporting Discipline",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Shift Handover Procedure",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        2
+      ],
+      "text": "B Shift Handover Procedure",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Handover Note Contents and Format",
+      "level": 2,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 Handover Note Contents and Format",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Critical Ticket Continuity Across Shifts",
+      "level": 3,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "B.1.1 Critical Ticket Continuity Across Shifts",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Escalation Paths During Handover",
+      "level": 4,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "B.1.1.1 Escalation Paths During Handover",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "Open Work Tracking and Carryover Rules",
+      "level": 5,
+      "parent_id": "h0015",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "B.1.1.1.1 Open Work Tracking and Carryover Rules",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "Handover Checklist and Sign-Off",
+      "level": 6,
+      "parent_id": "h0016",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "B.1.1.1.1.1 Handover Checklist and Sign-Off",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "Missed Handover and Recovery Steps",
+      "level": 6,
+      "parent_id": "h0016",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "B.1.1.1.1.2 Missed Handover and Recovery Steps",
+      "is_document_title": false
+    },
+    {
+      "id": "h0019",
+      "title": "Training New Staff on Handover Practice",
+      "level": 5,
+      "parent_id": "h0015",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "B.1.1.1.2 Training New Staff on Handover Practice",
+      "is_document_title": false
+    },
+    {
+      "id": "h0020",
+      "title": "Audit Trail and Record Retention",
+      "level": 4,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "B.1.1.2 Audit Trail and Record Retention",
+      "is_document_title": false
+    },
+    {
+      "id": "h0021",
+      "title": "Continuous Improvement of Triage Practice",
+      "level": 3,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "B.1.2 Continuous Improvement of Triage Practice",
+      "is_document_title": false
+    },
+    {
+      "id": "h0022",
+      "title": "Governance, Roles and Review Cycle",
+      "level": 2,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 Governance, Roles and Review Cycle",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      80.79,
+      90.61,
+      103.63,
+      120.77
+    ],
+    "cost": [
+      52.51,
+      58.9,
+      67.36,
+      78.5
+    ],
+    "balance": [
+      28.28,
+      31.71,
+      36.27,
+      42.27
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0017",
+      "target_previous_id": "h0018",
+      "target_subtype": "after_section",
+      "target_relation": "siblings",
+      "topic": "Handover Checklist and Sign-Off",
+      "caption": "Table 4: Checklist items confirmed before an incoming shift accepts a handover",
+      "rows": [
+        [
+          "Item",
+          "By",
+          "When",
+          "Record"
+        ],
+        [
+          "Critical briefed",
+          "Both",
+          "Handover",
+          "Shift log"
+        ],
+        [
+          "Carryover owned",
+          "Incoming",
+          "Handover",
+          "Ticket note"
+        ],
+        [
+          "Promises visible",
+          "Outgoing",
+          "Before exit",
+          "Handover"
+        ],
+        [
+          "Contacts checked",
+          "Duty lead",
+          "Each shift",
+          "Contact list"
+        ],
+        [
+          "Sign-off",
+          "Both",
+          "At end",
+          "Handover"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Checklist items confirmed before an incoming shift accepts a handover",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0013",
+      "target_previous_id": "h0022",
+      "target_subtype": "far_float",
+      "target_relation": "siblings",
+      "topic": "Handover Note Contents and Format",
+      "caption": "Figure 1: Fields that every handover entry must contain",
+      "rows": [
+        [
+          "Field",
+          "Content",
+          "Owner",
+          "Status"
+        ],
+        [
+          "Ticket, severity",
+          "ID and level",
+          "Outgoing",
+          "Required"
+        ],
+        [
+          "Last observation",
+          "Confirmed",
+          "Outgoing",
+          "Required"
+        ],
+        [
+          "Next action",
+          "Step, time",
+          "Incoming",
+          "Required"
+        ],
+        [
+          "Open questions",
+          "Unproven",
+          "Both",
+          "Required"
+        ],
+        [
+          "Requester update",
+          "Last message",
+          "Outgoing",
+          "Required"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Fields that every handover entry must contain",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional manual_guide document. Document: Service Ticket Triage and Handover Guide. Section: Handover Note Contents and Format. Caption: Fields that every handover entry must contain. Article context: Each handover entry names the ticket, its severity, its owner, the last confirmed observation and the next action with a time. It states what the requester was last told, so the next shift does not contradict a promise. Open questions and suspected causes are listed separately from confirmed facts. Entries are short enough to read under pressure but complete enough that no one needs to reopen the whole ticket history.. Supporting records: [[\"Field\", \"Content\", \"Owner\", \"Status\"], [\"Ticket, severity\", \"ID and level\", \"Outgoing\", \"Required\"], [\"Last observation\", \"Confirmed\", \"Outgoing\", \"Required\"], [\"Next action\", \"Step, time\", \"Incoming\", \"Required\"], [\"Open questions\", \"Unproven\", \"Both\", \"Required\"], [\"Requester update\", \"Last message\", \"Outgoing\", \"Required\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0002",
+      "target_previous_id": "h0003",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Intake Channels and Ticket Registration",
+      "caption": "Table 1: Comparison of intake channels and their registration duties",
+      "rows": [
+        [
+          "Channel",
+          "Registrar",
+          "Deadline",
+          "Evidence"
+        ],
+        [
+          "Portal",
+          "Requester",
+          "Same day",
+          "Form fields"
+        ],
+        [
+          "Email",
+          "Desk staff",
+          "Same day",
+          "Mail excerpt"
+        ],
+        [
+          "Phone",
+          "Desk staff",
+          "Same day",
+          "Call note"
+        ],
+        [
+          "Walk-in",
+          "Desk staff",
+          "Same day",
+          "Intake note"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Comparison of intake channels and their registration duties",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0008",
+      "target_previous_id": "h0008",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Reassignment and Cross Team Handoff",
+      "caption": "Table 3: Responsibilities split between outgoing and incoming owners at transfer",
+      "rows": [
+        [
+          "Duty",
+          "Outgoing",
+          "Incoming",
+          "Duty lead"
+        ],
+        [
+          "Write note",
+          "Yes",
+          "No",
+          "Review"
+        ],
+        [
+          "Accept owner",
+          "No",
+          "Yes",
+          "Arbitrate"
+        ],
+        [
+          "Brief critical",
+          "Yes",
+          "Confirm",
+          "Observe"
+        ],
+        [
+          "Resolve dispute",
+          "No",
+          "No",
+          "Decide"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Responsibilities split between outgoing and incoming owners at transfer",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0005",
+      "target_previous_id": "h0005",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Ownership, Queue Assignment and Response Clock",
+      "caption": "Table 2: Severity levels with response expectations and escalation triggers",
+      "rows": [
+        [
+          "Level",
+          "Response",
+          "Trigger",
+          "Owner"
+        ],
+        [
+          "Critical",
+          "Immediate",
+          "Site down",
+          "Duty lead"
+        ],
+        [
+          "High",
+          "Same shift",
+          "No workaround",
+          "Team lead"
+        ],
+        [
+          "Routine",
+          "Queued",
+          "Single user",
+          "Queue owner"
+        ],
+        [
+          "Parked",
+          "Follow-up",
+          "Awaiting input",
+          "Queue owner"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Severity levels with response expectations and escalation triggers",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0020",
+      "target_previous_id": "h0020",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Audit Trail and Record Retention",
+      "caption": "Table 5: Records retained for audit and the reason each is kept",
+      "rows": [
+        [
+          "Record",
+          "Held by",
+          "Purpose",
+          "Correction"
+        ],
+        [
+          "Triage notes",
+          "Service desk",
+          "Show decisions",
+          "Append only"
+        ],
+        [
+          "Handover",
+          "Shift lead",
+          "Show transfers",
+          "Append only"
+        ],
+        [
+          "Closure note",
+          "Queue owner",
+          "Show outcome",
+          "Append only"
+        ],
+        [
+          "Review findings",
+          "Desk manager",
+          "Show progress",
+          "Append only"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 5.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "Records retained for audit and the reason each is kept",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Purpose and Scope of the Triage Guide",
+        "paragraph": "This guide sets how incoming service tickets are classified, prioritised and passed between shifts so that nothing is dropped at handover. It applies to every queue in the service desk and to all staff who triage, own or receive tickets. The aim is consistent decisions: the same ticket should reach the same severity and owner regardless of who is on duty. Where local practice differs, the stricter rule applies until the guide is formally revised."
+      },
+      "h0002": {
+        "title": "Intake Channels and Ticket Registration",
+        "paragraph": "Tickets arrive by portal form, email, phone and walk-in. Each channel is registered in the same system within the same working day, and the registrar records the requester, the affected service, the observed symptom and any deadline already promised. Email and phone reports must be transcribed into the ticket body rather than left in a mailbox. Duplicate reports of one incident are linked to a parent ticket so counts stay honest."
+      },
+      "h0003": {
+        "title": "Initial Classification and Severity Rules",
+        "paragraph": "Classification starts with the affected service and the reported impact, not with the loudest requester. Triage assigns a category, a severity and an initial owner, then checks whether an open incident already covers the symptom. Severity reflects breadth and business effect: a single user blocked differs from a whole site unable to work. When evidence is thin, triage records what is unknown and sets a short review point instead of guessing."
+      },
+      "h0004": {
+        "title": "Severity Assignment and Escalation Triggers",
+        "paragraph": "Severity levels run from routine to critical, and each level carries a response expectation and an escalation trigger. Triggers include multiple reports of one symptom, a service with no workaround, or a requester deadline that cannot be met within the normal queue. Escalation moves the ticket to a named senior owner and notifies the duty lead. Downgrades require a written reason, because quiet reclassification hides demand and distorts later reporting."
+      },
+      "h0005": {
+        "title": "Ownership, Queue Assignment and Response Clock",
+        "paragraph": "Every ticket has one accountable owner at any moment, even when several teams contribute. Assignment follows the service catalogue: the queue that owns the failing component takes the ticket, and assisting teams are recorded as contributors. The response clock starts at registration and pauses only for documented requester input. Owners must acknowledge within the published expectation and record the first diagnostic step taken, so the next person inherits evidence rather than a blank page."
+      },
+      "h0006": {
+        "title": "First Response and Diagnostic Checklist",
+        "paragraph": "The first response confirms the symptom, checks the service status page, and runs the standard diagnostic checklist for the category. The owner records what was tested, what was observed, and what was ruled out. If the checklist resolves the issue, the ticket closes with the resolution note; if not, the owner states the next hypothesis and the evidence needed. Speculation is welcome only when labelled as such."
+      },
+      "h0007": {
+        "title": "Requester Communication and Expectation Setting",
+        "paragraph": "Requesters receive a plain-language acknowledgement that names the owner, restates the symptom as understood, and gives the next update point. Updates are sent at each state change and before any promised deadline passes, even when the news is that work continues. Staff avoid promising fix times they do not control; they promise update times instead. Sensitive tickets use approved wording and never expose internal hostnames or colleague names."
+      },
+      "h0008": {
+        "title": "Reassignment and Cross Team Handoff",
+        "paragraph": "Reassignment is a transfer of accountability, not a forward of the ticket. The outgoing owner writes a handoff note covering symptom, evidence gathered, hypotheses tested, current workaround and the exact next action. The incoming owner accepts explicitly before the clock resumes. If the receiving queue disputes ownership, the duty lead decides within the same shift and records the decision, so the ticket never bounces silently between teams."
+      },
+      "h0009": {
+        "title": "Documentation Standards for Triage Notes",
+        "paragraph": "Notes must let a stranger continue the work without asking questions. Each entry states the time, the actor, the action taken and the result observed. Free-text opinions are separated from recorded evidence, and links to logs or screenshots are preferred over pasted excerpts. Notes avoid abbreviations that only one team understands. At closure the resolution note explains the cause as far as it is known and flags anything still unproven."
+      },
+      "h0010": {
+        "title": "Quality Review of Classification Decisions",
+        "paragraph": "A sample of closed tickets is reviewed each period against the severity rules and documentation standards. Reviewers check whether severity matched impact, whether ownership was clear at every stage, and whether handoff notes were sufficient. Findings feed a short coaching note to the relevant team rather than a blame list. Recurring misclassification points to a rule that needs clarifying, and the guide is amended accordingly."
+      },
+      "h0011": {
+        "title": "Triage Metrics and Reporting Discipline",
+        "paragraph": "Reporting covers volume by category, response against expectation, reassignment counts and reopened tickets. Metrics describe the queue, not individual worth, and are read alongside the review findings. A rising reassignment rate usually signals unclear ownership boundaries rather than poor staff. Reports are shared with team leads monthly, and any metric used in planning must be defined in the same document so nobody argues about definitions after the fact."
+      },
+      "h0012": {
+        "title": "Shift Handover Procedure",
+        "paragraph": "Handover happens at fixed times and follows a fixed shape: open critical tickets first, then tickets awaiting requester input, then work in progress. The outgoing shift reads each note aloud and the incoming shift confirms understanding. Anything ambiguous is resolved before the outgoing shift leaves. The handover record lists the tickets discussed, the agreed next actions and who holds each one, and is stored with the shift log."
+      },
+      "h0013": {
+        "title": "Handover Note Contents and Format",
+        "paragraph": "Each handover entry names the ticket, its severity, its owner, the last confirmed observation and the next action with a time. It states what the requester was last told, so the next shift does not contradict a promise. Open questions and suspected causes are listed separately from confirmed facts. Entries are short enough to read under pressure but complete enough that no one needs to reopen the whole ticket history."
+      },
+      "h0014": {
+        "title": "Critical Ticket Continuity Across Shifts",
+        "paragraph": "Critical tickets never wait for a convenient handover. The outgoing owner briefs the incoming owner directly, confirms access to the working channels, and stays reachable for a short overlap. The incoming owner restates the current hypothesis and the next diagnostic step before taking over. If no incoming owner is available, the duty lead is named as interim owner and that decision is recorded with a time."
+      },
+      "h0015": {
+        "title": "Escalation Paths During Handover",
+        "paragraph": "During handover the escalation path must be known without consulting a directory. The handover record names the duty lead, the on-call engineer for each affected service and the communications contact for requester updates. If an escalation trigger fires mid-handover, the incoming shift owns it from the moment of acceptance, and the outgoing shift supports until the duty lead confirms the transfer is complete."
+      },
+      "h0016": {
+        "title": "Open Work Tracking and Carryover Rules",
+        "paragraph": "Work that cannot finish within a shift is carried over deliberately, not by default. Carryover requires a live owner, a stated next action and a reason the work paused. Tickets awaiting requester input are parked with a follow-up date rather than carried as active work. The handover record distinguishes active carryover from parked items, so the incoming shift knows what genuinely needs attention first."
+      },
+      "h0017": {
+        "title": "Handover Checklist and Sign-Off",
+        "paragraph": "The checklist is short and mandatory: every critical ticket briefed, every carryover item owned, every promise to a requester visible, and every escalation contact confirmed. Both shifts sign the handover record, and the signature means the incoming shift accepts the listed items, not that the outgoing shift is absolved of errors found later. Unsigned handovers are treated as incomplete and raised with the duty lead."
+      },
+      "h0018": {
+        "title": "Missed Handover and Recovery Steps",
+        "paragraph": "When a handover is missed, the incoming shift reconstructs state from the ticket notes and the shift log before touching any ticket. The duty lead is informed immediately, and any requester promise that has already lapsed is addressed first. The recovery record notes the gap, what was reconstructed and what remains uncertain. A repeated missed handover triggers a review of shift scheduling rather than a reminder to try harder."
+      },
+      "h0019": {
+        "title": "Training New Staff on Handover Practice",
+        "paragraph": "New staff shadow two handovers before leading one, and their first led handover is observed by a senior colleague. Training covers note writing, the checklist, escalation contacts and the difference between active carryover and parked work. Trainees practise reconstructing a ticket from notes alone, which exposes gaps quickly. Competence is confirmed by the observer, not by attendance at a briefing session."
+      },
+      "h0020": {
+        "title": "Audit Trail and Record Retention",
+        "paragraph": "Handover records, triage notes and closure summaries form the audit trail and are retained under the records schedule. Records must show who decided what and when, without exposing unnecessary personal data. Corrections are appended, never overwritten, and the reason for each correction is stated. Audit requests are answered from these records, so completeness at the time of writing matters more than tidiness later."
+      },
+      "h0021": {
+        "title": "Continuous Improvement of Triage Practice",
+        "paragraph": "Improvements come from review findings, recurring ticket patterns and staff suggestions gathered at handover. Each proposed change names the problem it solves and the evidence behind it, and is trialled for a defined period before adoption. The guide is versioned, and every change is announced with the date it takes effect. Practices that no longer earn their effort are retired openly rather than left to linger."
+      },
+      "h0022": {
+        "title": "Governance, Roles and Review Cycle",
+        "paragraph": "The service desk manager owns this guide, team leads maintain the category and severity rules, and the duty lead arbitrates ownership disputes. The guide is reviewed on a fixed cycle and after any critical incident that exposed a gap. Proposed amendments are circulated to all queues for comment before approval. Approved changes are communicated, trained where needed, and recorded in the version history with the effective date."
+      }
+    },
+    "continuations": [
+      "Where a ticket spans several services, record the primary failing component first and list the others as contributors, so ownership stays unambiguous during handover.",
+      "Staff should treat the guide as a floor rather than a ceiling: good judgement that exceeds the written rules is welcome when the reasoning is recorded.",
+      "Reviewers should compare the severity recorded at intake with the severity at closure, since drift between the two often reveals unclear impact criteria.",
+      "Handover records kept in free text are useful but hard to audit; a fixed set of fields makes later reconstruction far more reliable.",
+      "When a requester supplies new evidence mid-shift, the owner should restate the current hypothesis before changing direction, so the record shows why.",
+      "Any workaround offered to a requester should be written into the ticket with its limits, so the next shift does not present it as a permanent fix.",
+      "Category rules that grow beyond a page are rarely read under pressure; splitting them by service usually improves consistency more than adding detail.",
+      "Escalation contacts change often, so the handover checklist should confirm them live rather than trusting a printed directory.",
+      "Tickets parked awaiting requester input still need a follow-up date, otherwise they quietly age and reappear as complaints.",
+      "A short overlap between shifts costs little and prevents most of the contradictions that arise when promises are made twice.",
+      "Observations recorded during triage should be separated from conclusions, because later readers tend to treat confident wording as verified fact.",
+      "Where several queues dispute ownership, the duty lead should decide within the shift and write the reason, not merely the outcome.",
+      "New staff often under-report what they tried; observers should ask for the diagnostic steps explicitly during their first led handover.",
+      "Metrics shared without their definitions invite argument; publish the definition beside the number and the argument mostly disappears.",
+      "Closure notes should state what remains unproven, so future incidents are not diagnosed from an overconfident summary.",
+      "Handover checklists work best when short enough to complete honestly; a long checklist invites tick-box compliance.",
+      "When a critical ticket changes owner mid-incident, the requester should be told who now holds it and when the next update comes.",
+      "Review findings land better as coaching notes to a team than as individual rankings circulated to managers.",
+      "Retention rules should be checked before deleting old handover records, since audit requests often arrive long after closure.",
+      "A missed handover is usually a scheduling problem first and a discipline problem second; investigate in that order.",
+      "Trial periods for new triage rules should be long enough to cover a full shift cycle, otherwise the evidence is thin.",
+      "Requesters remember update times more than fix times, so promising updates is the safer commitment.",
+      "Duplicate reports linked to a parent ticket keep volume honest without hiding how many people were affected.",
+      "Notes written in shared shorthand should be expanded at handover, because the next shift may not share the same vocabulary.",
+      "Any change to severity rules should be announced with an effective date, so old and new tickets are not judged by different standards.",
+      "Trainees who reconstruct a ticket from notes alone quickly learn which details they habitually omit.",
+      "Duty leads should record interim ownership decisions even when the dispute resolves itself, since patterns emerge only from written records.",
+      "Sensitive tickets need approved wording at handover, because informal summaries can leak details the requester should not see.",
+      "A reopened ticket deserves a fresh look at the original closure note; the gap is often there rather than in the fix.",
+      "Carryover items should be counted separately from parked items in reporting, or the queue looks busier than it truly is.",
+      "When the guide and local practice conflict, staff should follow the stricter rule and raise the conflict for review.",
+      "Version history is only useful if it names what changed and why; dates alone tell the next reader very little."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 5834,
+        "completion_tokens": 3844,
+        "total_tokens": 9678,
+        "prompt_tokens_details": {
+          "cached_tokens": 5632
+        },
+        "prompt_cache_hit_tokens": 5632,
+        "prompt_cache_miss_tokens": 202
+      },
+      "finish_reason": "stop",
+      "request_hash": "618de9d3d01873c90ce49e98d80230ffb40e468d2cbd7bf272ab0327800fbd90",
+      "schema": "llm-content-v1",
+      "validation_retries": 1,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 2,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

@@ -1,0 +1,2602 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            209.6269998733997,
+            52.0,
+            385.64900012660024,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "1 课程概览与教学目标",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            532.0,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本课程系统讲授公共服务评价的理论框架、方法工具与实践应用，旨在培养学生在公共管理场景中设计评价方",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            542.0,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "案、采集与分析数据、撰写评价报告的能力。课程强调证据导向与伦理规范，要求学生理解评价指标构建的逻辑",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            542.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "链条，并能区分描述性发现与因果推断。通过案例研讨与模拟实训，学生将掌握面向不同公共服务领域的评价流",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            252.0,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "程，形成严谨的批判性思维与政策建议能力。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            159.9,
+            179.34400022029877,
+            178.5
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1.1 理论模块与核心概念",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            182.5,
+            542.0,
+            198.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "理论模块聚焦公共服务评价的基本概念、价值取向与制度背景，涵盖绩效维度、公平性、回应性与满意度等核心",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            198.0,
+            542.0,
+            213.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "范畴。教学将引导学生辨析投入、产出、结果与影响之间的逻辑关系，讨论评价标准的多源冲突与权衡策略。课",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            213.5,
+            542.0,
+            229.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "堂采用文献精读与概念辨析相结合的方式，要求学生在每次研讨前提交概念图，以检验其对评价术语与理论假设",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            229.0,
+            112.0,
+            244.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "的理解深度。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            250.5,
+            159.79000014066696,
+            266.0
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            272.0,
+            543.276,
+            406.0
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "核心概念",
+              "关注焦点",
+              "常见误区",
+              "辨析要点"
+            ],
+            [
+              "绩效维度",
+              "投入产出",
+              "混淆产出结果",
+              "区分层次"
+            ],
+            [
+              "公平性",
+              "分配与可及",
+              "等同平均",
+              "识别差异"
+            ],
+            [
+              "回应性",
+              "服务及时性",
+              "忽视对象",
+              "关注反馈"
+            ],
+            [
+              "满意度",
+              "主观感受",
+              "替代质量",
+              "结合客观"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            272.0,
+            543.276,
+            439.0
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            413.0,
+            160.62150011956692,
+            426.175
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 1：理论模块核心概念对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            439.0,
+            199.89500024914742,
+            456.05
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1.1 评价指标设计与效度检验",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            460.05,
+            542.0,
+            475.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "本单元讲授指标设计的原则、流程与常见陷阱，包括指标筛选、权重确定与效度信度检验方法。学生需针对给定",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            475.55,
+            542.0,
+            491.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "公共服务场景提出候选指标集，运用专家咨询与层次分析进行筛选，并说明内容效度与结构效度的检验路径。教",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            491.05,
+            542.0,
+            506.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "师将提供模拟评价数据集供练习，要求学生在报告中明确区分指标测量误差与真实差异，避免将相关关系误读为",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            506.55,
+            102.0,
+            522.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "因果效应。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            528.05,
+            199.89500024914742,
+            545.0999999999999
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.2 数据采集方法与质量控制",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            549.0999999999999,
+            542.0,
+            564.5999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "本单元介绍问卷调查、深度访谈、观察法与行政数据二次利用等采集方法，重点讨论抽样设计、样本量确定与无",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            564.5999999999999,
+            542.0,
+            580.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "应答偏差控制。课程安排现场模拟演练，要求学生制定采集方案并说明质量控制节点，如访员培训、逻辑校验与",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            580.0999999999999,
+            542.0,
+            595.5999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "复核比例。教师强调数据伦理与知情同意，要求学生在方案中列明隐私保护措施与数据保存期限，确保采集过程",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            595.5999999999999,
+            132.0,
+            611.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "可追溯、可复核。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            617.0999999999999,
+            179.34400022029877,
+            635.6999999999999
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.2 案例研讨与实务反思",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            639.6999999999999,
+            542.0,
+            655.1999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "案例研讨选取教育、医疗、交通与社区服务等领域的模拟评价情境，要求学生分组诊断评价方案的设计缺陷并提",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            655.1999999999999,
+            542.0,
+            670.6999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "出改进建议。研讨重点包括利益相关者识别、评价问题界定与建议可行性分析。每组需提交研讨纪要，记录不同",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            670.6999999999999,
+            542.0,
+            686.1999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "观点的交锋与共识形成过程。教师引导学生在反思中理解评价工作的政治与伦理张力，避免将技术方法简单化约",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            686.1999999999999,
+            142.0,
+            701.6999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "为价值中立的工具。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            228.02200025320053,
+            79.9
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "2 教学安排与考核方式",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.9,
+            535.3000004291534,
+            99.4
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "课程共安排12周、24次课，合计48学时，采用讲授、研讨与实训相结合的方式。考核由平时参与、阶段作业与",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            99.4,
+            537.5500000715256,
+            114.9
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "期末评价方案设计三部分构成，分别侧重概念理解、方法应用与综合设计能力。学生须在2个工作日内提交作业",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            114.9,
+            497.5500000715256,
+            130.4
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "初稿，教师于5个工作日内反馈。课程强调学术诚信，所有引用数据须注明来源，禁止虚构评价结果。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            136.4,
+            159.79000014066696,
+            151.9
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            157.9,
+            159.79000014066696,
+            173.4
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            179.4,
+            179.34400022029877,
+            198.0
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2.1 教学进度与周次安排",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            202.0,
+            532.0,
+            217.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "教学进度按理论讲授、方法训练与综合实训三个阶段推进，前段侧重概念与指标设计，中段聚焦数据采集与分",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            217.5,
+            542.0,
+            233.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "析，后段用于方案设计与展示。每周安排阅读任务与小组讨论，学生需在课前完成指定文献摘要。教师根据课堂",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            233.0,
+            542.0,
+            248.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "反馈动态调整案例难度，并在期中设置一次形成性评估，帮助学生及时发现方法应用中的薄弱环节，为期末方案",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            248.5,
+            122.0,
+            264.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "设计奠定基础。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            270.0,
+            159.79000014066696,
+            285.5
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            291.5,
+            543.276,
+            425.5
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "周次",
+              "核心主题",
+              "阅读任务",
+              "课堂活动"
+            ],
+            [
+              "第一周",
+              "课程导论",
+              "指定文献",
+              "概念辨析"
+            ],
+            [
+              "第二周",
+              "指标设计",
+              "方法章节",
+              "工作坊"
+            ],
+            [
+              "第三周",
+              "数据采集",
+              "案例材料",
+              "模拟访谈"
+            ],
+            [
+              "第四周",
+              "案例分析",
+              "评价报告",
+              "小组研讨"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            291.5,
+            543.276,
+            458.5
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            432.5,
+            169.12150011956692,
+            445.675
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 1：周次安排与核心主题对应",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            458.5,
+            177.89500024914742,
+            475.55
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1.1 课堂活动与作业要求",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            479.55,
+            542.0,
+            495.05
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "课堂活动包括概念辩论、指标设计工作坊与模拟访谈，作业要求涵盖文献综述、指标设计说明与数据分析练习。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            495.05,
+            542.0,
+            510.55
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "每次作业均需附方法反思，说明选择该方法的理由与局限。小组作业要求明确分工并提交贡献说明，避免搭便车",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            510.55,
+            542.0,
+            526.05
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "现象。教师提供作业评分细则，强调论证逻辑、证据充分性与表达规范性，鼓励学生在作业中呈现对评价伦理的",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            526.05,
+            102.0,
+            541.55
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "自觉思考。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            547.55,
+            159.79000014066696,
+            563.05
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            569.05,
+            543.276,
+            703.05
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "活动类型",
+              "主要形式",
+              "提交要求",
+              "反馈方式"
+            ],
+            [
+              "概念研讨",
+              "小组辩论",
+              "概念图",
+              "课堂点评"
+            ],
+            [
+              "指标工作坊",
+              "同伴互评",
+              "指标集",
+              "书面反馈"
+            ],
+            [
+              "模拟访谈",
+              "角色演练",
+              "访谈记录",
+              "逐组点评"
+            ],
+            [
+              "方案设计",
+              "小组合作",
+              "完整方案",
+              "答辩质询"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            569.05,
+            543.276,
+            736.05
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            710.05,
+            169.12150011956692,
+            723.2249999999999
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 2：课堂活动与作业类型说明",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            199.89500024914742,
+            69.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.2 考核评分标准与反馈机制",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            73.05,
+            542.0,
+            88.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "评分标准从概念准确性、方法适切性、证据充分性与表达规范性四个维度设定等级描述，各维度权重在开课时公",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            88.55,
+            537.5500000715256,
+            104.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "布。期末评价方案设计要求包含问题界定、指标设计、采集计划与伦理审查说明。教师于5个工作日内提供书面",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            104.05,
+            537.5500000715256,
+            119.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "反馈，并安排一次集体讲评。学生如对评分有异议，可在2个工作日内提出复核申请，由课程团队集体审议并给",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            119.55,
+            112.0,
+            135.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "出书面答复。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            141.05,
+            159.79000014066696,
+            156.55
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            162.55,
+            543.276,
+            296.55
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "考核维度",
+              "优秀表现",
+              "合格表现",
+              "待改进表现"
+            ],
+            [
+              "概念准确性",
+              "概念清晰准确",
+              "基本概念正确",
+              "概念混淆"
+            ],
+            [
+              "方法适切性",
+              "方法选择有据",
+              "方法基本可行",
+              "方法不当"
+            ],
+            [
+              "证据充分性",
+              "证据链完整",
+              "证据基本支持",
+              "证据不足"
+            ],
+            [
+              "表达规范性",
+              "结构严谨规范",
+              "表达基本清楚",
+              "表述混乱"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            162.55,
+            543.276,
+            329.55
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            303.55,
+            169.12150011956692,
+            316.725
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 3：考核维度与等级描述对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            329.55,
+            179.34400022029877,
+            348.15000000000003
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.2 学习资源与支持保障",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            352.15000000000003,
+            542.0,
+            367.65000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "课程提供阅读清单、模拟数据集与评价工具模板，学生可通过教学平台获取。教师每周安排固定答疑时间，并鼓",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.65000000000003,
+            542.0,
+            383.15000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "励学生组成学习小组开展互助研讨。对于数据分析基础薄弱的学生，课程提供补充练习与操作指南。所有教学资",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            383.15000000000003,
+            412.0,
+            398.65000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "源均标注使用许可与引用规范，提醒学生在作业中正确引用，避免学术不端行为。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            404.65000000000003,
+            542.0,
+            420.15000000000003
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "课程强调评价方案的可操作性，要求学生在设计时明确责任主体、时间节点与资源约束，避免提出脱离实际的建",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            420.15000000000003,
+            322.0,
+            435.65000000000003
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "议。教师将在研讨中引导学生对照模拟场景检验方案可行性。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            441.65000000000003,
+            542.0,
+            457.15000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "学生在采集数据前须完成伦理自查清单，说明知情同意获取方式与数据脱敏措施。教师提醒，涉及弱势群体的评",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            457.15000000000003,
+            292.0,
+            472.65000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "价活动应额外评估潜在风险，并制定相应的保护预案。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            478.65000000000003,
+            542.0,
+            494.15000000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "指标设计工作坊采用同伴互评方式，各组交换指标集并提出质疑。互评记录纳入平时成绩，重点考察学生能否识",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            494.15000000000003,
+            262.0,
+            509.65000000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "别指标重叠、口径模糊与权重失衡等常见问题。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            515.6500000000001,
+            542.0,
+            531.1500000000001
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "课程鼓励学生关注评价结果的使用场景，讨论评价报告如何服务于管理改进与公众沟通。教师提示，同一组数据",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            531.1500000000001,
+            302.0,
+            546.6500000000001
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "面向不同受众时需调整呈现方式，但不得改变事实结论。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            552.6500000000001,
+            542.0,
+            568.1500000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "模拟访谈环节要求学生练习开放式提问与追问技巧，避免诱导性表述。教师将在演练后逐组点评，重点分析提问",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            568.1500000000001,
+            192.0,
+            583.6500000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "顺序对受访者回答质量的影响。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            589.6500000000001,
+            542.0,
+            605.1500000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "期末方案展示采用答辩形式，每组需回应教师与同伴的质询。答辩重点考察学生能否清晰说明方法选择依据，并",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            605.1500000000001,
+            212.0,
+            620.6500000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "诚实交代方案局限与未解决的问题。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            626.6500000000001,
+            542.0,
+            642.1500000000001
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "课程阅读材料兼顾经典理论与近期讨论，教师提醒学生注意区分规范性主张与实证发现，在文献综述中明确标注",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            642.1500000000001,
+            152.0,
+            657.6500000000001
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "作者观点与证据类型。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            663.6500000000001,
+            542.0,
+            679.1500000000001
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "对于数据分析练习，教师提供操作指引但不提供标准答案，鼓励学生比较不同分析路径的结果差异，并在报告中",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            679.1500000000001,
+            202.0,
+            694.6500000000001
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "说明选择理由与稳健性检验思路。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            700.6500000000001,
+            542.0,
+            716.1500000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "小组作业要求提交会议记录与任务分工表，作为过程性证据。教师将抽查记录真实性，并提醒学生过程材料同样",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            716.1500000000001,
+            162.0,
+            731.6500000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "纳入学术诚信审查范围。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            737.6500000000001,
+            542.0,
+            753.1500000000001
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "课程中期设置匿名反馈渠道，收集学生对教学节奏与难度的意见。教师根据反馈调整后续案例难度，并在课堂上",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            753.1500000000001,
+            222.0,
+            768.6500000000001
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "说明调整依据，体现教学相长的原则。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            532.0,
+            67.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "评价方案设计须包含风险预案，说明数据采集受阻或样本偏差过大时的应对措施。教师强调，预案应具体可执",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            202.0,
+            83.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "行，而非泛泛而谈的原则性表述。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            89.0,
+            543.276,
+            197.0
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "教学阶段",
+              "周次范围",
+              "主要任务",
+              "考核关联"
+            ],
+            [
+              "理论讲授",
+              "前期",
+              "概念与文献",
+              "平时参与"
+            ],
+            [
+              "方法训练",
+              "中期",
+              "指标与采集",
+              "阶段作业"
+            ],
+            [
+              "综合实训",
+              "后期",
+              "方案设计",
+              "期末设计"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            89.0,
+            543.276,
+            230.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            204.0,
+            169.12150011956692,
+            217.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 4：教学阶段与学时分配概览",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            230.0,
+            532.0,
+            245.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "课程鼓励学生结合自身专业背景选择评价场景，但要求在同一小组内保持场景多样性，以促进跨领域比较与讨",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            245.5,
+            72.0,
+            261.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "论。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            267.0,
+            542.0,
+            282.5
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "教师在讲授因果推断时反复提醒，模拟数据中的统计关联不能直接推广为现实政策效果，学生须在报告中明确区",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            282.5,
+            172.0,
+            298.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "分描述性结论与因果主张。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            304.0,
+            542.0,
+            319.5
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "作业提交采用统一模板，包含封面、正文与附录三部分。教师提醒学生附录应完整呈现采集工具与编码手册，确",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            319.5,
+            142.0,
+            335.0
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "保评价过程可复现。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            341.0,
+            542.0,
+            356.5
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "课程安排一次跨组交流活动，各组展示指标设计初稿并接受跨组质询。教师观察发现，跨组质询有助于暴露本组",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            356.5,
+            152.0,
+            372.0
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "习以为常的设计盲点。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            378.0,
+            542.0,
+            393.5
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "学生在撰写评价报告时须区分发现、解释与建议三个层次，避免将建议表述为已被证实的结论。教师将在讲评中",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.5,
+            142.0,
+            409.0
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "提供分层写作范例。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            415.0,
+            542.0,
+            430.5
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "课程强调时间管理，建议学生为数据采集与清洗预留充足时间。教师提醒，模拟数据虽已预处理，但真实场景中",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            430.5,
+            192.0,
+            446.0
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "的数据清理往往占据更多工时。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            452.0,
+            542.0,
+            467.5
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "评价伦理讨论涵盖利益冲突披露、评价结果保密与弱势群体保护等议题。教师要求学生结合模拟情境撰写伦理反",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            467.5,
+            162.0,
+            483.0
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "思短文，纳入平时成绩。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            489.0,
+            542.0,
+            504.5
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "课程提供评价工具模板库，涵盖问卷、访谈提纲与观察记录表。教师提醒模板仅作参考，学生须根据具体场景调",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            504.5,
+            192.0,
+            520.0
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "整题项与表述，避免生搬硬套。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            526.0,
+            542.0,
+            541.5
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "教师在答疑中鼓励学生提出方法上的困惑，而非仅关注分数。课程团队将常见问题整理为问答文档，供全体学生",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            541.5,
+            182.0,
+            557.0
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "参考，减少重复性答疑负担。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            563.0,
+            542.0,
+            578.5
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "期末答辩评分包含回应质询的表现，教师提醒学生诚实承认方案局限比强行辩护更能体现专业素养，也更容易获",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            578.5,
+            152.0,
+            594.0
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "得同伴与教师的认可。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            600.0,
+            542.0,
+            615.5
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "课程建议学生在小组内建立版本管理习惯，保留方案修改记录。教师指出，过程文档不仅有助于分工协作，也是",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            615.5,
+            172.0,
+            631.0
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "学术诚信审查的重要依据。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            637.0,
+            542.0,
+            652.5
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "模拟评价数据集仅用于教学练习，教师明确提醒学生不得将其用于课程之外的分析或发表，以免造成对模拟结果",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            652.5,
+            142.0,
+            668.0
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "的误读与不当传播。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            674.0,
+            542.0,
+            689.5
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "课程在最后阶段安排一次整体回顾，梳理评价流程各环节的衔接关系。教师引导学生绘制个人知识地图，识别自",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            689.5,
+            172.0,
+            705.0
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "身在方法链上的薄弱环节。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            711.0,
+            542.0,
+            726.5
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "教师提醒学生在引用文献时核对原始出处，避免转引导致的观点失真。课程阅读清单标注了文献类型，帮助学生",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            726.5,
+            172.0,
+            742.0
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "区分理论论述与实证研究。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            748.0,
+            532.0,
+            763.5
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "小组互评采用结构化量表，涵盖指标合理性、采集可行性与伦理考量等维度。教师强调互评意见应具体、可操",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            142.0,
+            67.5
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "作，避免笼统褒贬。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            73.5,
+            543.276,
+            181.5
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "考核部分",
+              "主要形式",
+              "侧重能力",
+              "反馈时限"
+            ],
+            [
+              "平时参与",
+              "课堂研讨",
+              "概念理解",
+              "即时反馈"
+            ],
+            [
+              "阶段作业",
+              "方法练习",
+              "方法应用",
+              "5日"
+            ],
+            [
+              "期末设计",
+              "方案答辩",
+              "综合设计",
+              "5日"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            73.5,
+            543.276,
+            214.5
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            188.5,
+            152.12150011956692,
+            201.675
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 5：考核构成与权重安排",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

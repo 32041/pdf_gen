@@ -1,0 +1,1248 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            180.63799999999998,
+            62.0,
+            414.638,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "仓储机器人的充电与任务分配",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            524.0,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本文围绕仓储机器人在连续作业中的电量约束与任务分配展开，重点讨论充电决策如何影响拣选效率",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            526.3100003004074,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "与车队均衡。研究以240个模拟任务片段与4个模拟作业区为对象，区分可观测的调度记录与因果推断",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            524.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "的边界。全文先说明问题背景与观测口径，再给出充电阈值与任务派发的联合规则，最后报告模拟结",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            188.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "果并列出尚待验证的问题。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            173.00000000000003,
+            175.1795001477003,
+            189.27500000000003
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            195.27500000000003,
+            175.1795001477003,
+            211.55000000000004
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            217.55000000000004,
+            179.98399984836578,
+            236.15000000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "A 问题背景与观测口径",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            240.15000000000003,
+            533.276,
+            374.15000000000003
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "分组",
+              "调整对象",
+              "观察指标",
+              "周期"
+            ],
+            [
+              "对照组",
+              "不变",
+              "等待时长",
+              "12"
+            ],
+            [
+              "实验组一",
+              "充电阈值",
+              "积压数量",
+              "12"
+            ],
+            [
+              "实验组二",
+              "派发规则",
+              "完成比例",
+              "12"
+            ],
+            [
+              "复核组",
+              "记录口径",
+              "缺失条目",
+              "5"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            240.15000000000003,
+            533.276,
+            407.15000000000003
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            381.15000000000003,
+            204.62150011956692,
+            394.32500000000005
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 1：后续验证的分组安排与观察指标",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            407.15000000000003,
+            524.0,
+            423.425
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "仓储机器人电量耗尽会导致任务中断与通道拥堵，因此充电时机与任务派发必须协同考虑。本文采用",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            423.425,
+            524.0,
+            439.7
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "模拟观测口径，记录每台机器人的电量区间、等待时长与任务完成情况，但不把相关性直接解释为因",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.7,
+            461.0,
+            455.97499999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "果效应。为避免口径漂移，所有记录均按统一时间窗对齐，并保留原始日志以便复核。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            461.97499999999997,
+            175.1795001477003,
+            478.24999999999994
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            484.24999999999994,
+            533.276,
+            618.25
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "条目",
+              "界定内容",
+              "依据",
+              "备注"
+            ],
+            [
+              "样本",
+              "240",
+              "模拟日志",
+              "片段"
+            ],
+            [
+              "作业区",
+              "4",
+              "场景设定",
+              "分区"
+            ],
+            [
+              "时间窗",
+              "统一对齐",
+              "记录规范",
+              "复核"
+            ],
+            [
+              "结论",
+              "限定范围",
+              "方法说明",
+              "谨慎"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            484.24999999999994,
+            533.276,
+            651.25
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            625.25,
+            204.62150011956692,
+            638.425
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 2：研究范围与观测口径的界定条目",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            651.25,
+            179.31499990820885,
+            668.3
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "A.1 充电阈值与排队规则",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            672.3,
+            524.0,
+            688.5749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "充电决策采用分级阈值：电量低于警戒值时进入充电队列，高于恢复值时返回任务池。排队规则按剩",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            688.5749999999999,
+            524.0,
+            704.8499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "余任务紧迫度与充电桩占用情况排序，避免多台机器人同时涌向同一充电位。该规则为可调参数，本",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            704.8499999999999,
+            282.5,
+            721.1249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "文仅说明其设定逻辑，不宣称其优于其他策略。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            179.31499990820885,
+            79.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "A.2 任务派发的匹配方法",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            524.0,
+            99.325
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "任务派发采用就近匹配与电量约束联合筛选：先按距离生成候选集合，再剔除电量不足以完成往返的",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            524.0,
+            115.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "机器人。匹配结果记录候选数量与被剔除原因，用于后续分析。该方法属于启发式规则，本文不将其",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            261.5,
+            131.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "表述为最优解，只作为可复现的模拟基线。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.875,
+            175.1795001477003,
+            154.15
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            160.15,
+            533.276,
+            294.15
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "判定项",
+              "条件",
+              "处理",
+              "记录"
+            ],
+            [
+              "距离",
+              "就近优先",
+              "纳入候选",
+              "是"
+            ],
+            [
+              "电量",
+              "不足往返",
+              "剔除",
+              "是"
+            ],
+            [
+              "紧迫度",
+              "高优先",
+              "前排",
+              "是"
+            ],
+            [
+              "充电位",
+              "占用中",
+              "延后",
+              "是"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            160.15,
+            533.276,
+            327.15
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            301.15,
+            196.12150011956692,
+            314.325
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 3：任务派发候选筛选的判定条件",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            327.15,
+            156.57200014591217,
+            345.75
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "B 模拟结果与讨论",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            349.75,
+            524.0,
+            366.025
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "模拟结果显示，充电等待与任务积压存在同步波动，但这一同步并不能直接证明充电规则导致了积压",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.025,
+            524.0,
+            382.29999999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "变化。讨论部分区分两类结论：一类是可从日志直接核对的观测事实，另一类是需对照实验才能支持",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            382.29999999999995,
+            345.5,
+            398.57499999999993
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "的因果主张。本文仅报告前者，并把后者列为后续验证方向。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.57499999999993,
+            175.1795001477003,
+            420.8499999999999
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            426.8499999999999,
+            179.8540001809597,
+            443.8999999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "B.1 指标对照与记录检查",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            447.8999999999999,
+            524.0,
+            464.1749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "指标对照表用于检查各作业区的记录完整性与口径一致性，包括充电次数、平均等待与任务完成比例",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            464.1749999999999,
+            524.0,
+            480.4499999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "等条目。表中数值均来自模拟记录，用于内部核对，不作为对外绩效结论。若某作业区记录缺失，应",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            480.4499999999999,
+            188.0,
+            496.72499999999985
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "在复核后补齐再纳入对照。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            502.72499999999985,
+            175.1795001477003,
+            518.9999999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            524.9999999999999,
+            157.8540001809597,
+            542.0499999999998
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "B.2 局限与后续验证",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.0499999999998,
+            524.0,
+            562.3249999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "本文的局限在于模拟环境简化了通道拥堵与人工干预，样本覆盖也有限。后续工作拟引入对照分组，",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.3249999999998,
+            524.0,
+            578.5999999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "分别调整充电阈值与派发规则，以分离各自影响。在完成对照之前，任何关于效率提升的表述都应保",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            578.5999999999998,
+            230.0,
+            594.8749999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "持谨慎，并明确标注为待验证假设。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "作业区",
+              "充电次数",
+              "平均等待",
+              "记录状态"
+            ],
+            [
+              "一区",
+              "80.60",
+              "52.39",
+              "完整"
+            ],
+            [
+              "二区",
+              "92.02",
+              "59.81",
+              "完整"
+            ],
+            [
+              "三区",
+              "102.39",
+              "66.55",
+              "待复核"
+            ],
+            [
+              "四区",
+              "115.49",
+              "75.07",
+              "完整"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            203.0,
+            221.62150011956692,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 1：各作业区充电与任务记录的核对条目",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            229,
+            533.276,
+            363
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "类别",
+              "证据来源",
+              "表述方式",
+              "状态"
+            ],
+            [
+              "观测",
+              "日志记录",
+              "描述性",
+              "可核对"
+            ],
+            [
+              "相关",
+              "对照汇总",
+              "谨慎",
+              "待验证"
+            ],
+            [
+              "因果",
+              "分组实验",
+              "限定条件",
+              "未开展"
+            ],
+            [
+              "推断",
+              "模型假设",
+              "假设性",
+              "需说明"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            229,
+            533.276,
+            396
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            370.0,
+            204.62150011956692,
+            383.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 2：模拟观测与因果主张的区分要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            396,
+            533.276,
+            530
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "参数",
+              "设定方式",
+              "调整范围",
+              "备注"
+            ],
+            [
+              "警戒阈值",
+              "分级设定",
+              "可调",
+              "需校准"
+            ],
+            [
+              "恢复阈值",
+              "分级设定",
+              "可调",
+              "防闲置"
+            ],
+            [
+              "候选距离",
+              "就近筛选",
+              "固定",
+              "路径距离"
+            ],
+            [
+              "剔除条件",
+              "电量约束",
+              "固定",
+              "记录原因"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            396,
+            533.276,
+            563
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            537.0,
+            221.62150011956692,
+            550.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 3：充电阈值与派发规则的参数设定概览",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

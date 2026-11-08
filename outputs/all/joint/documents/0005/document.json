@@ -1,0 +1,740 @@
+{
+  "doc_id": "0005",
+  "kind": "course_syllabus",
+  "domain": "course_syllabus",
+  "language": "en",
+  "title": "Discrete Event Simulation Course Syllabus",
+  "seed": 46,
+  "target_depth": 4,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Discrete Event Simulation Course Syllabus",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Discrete Event Simulation Course Syllabus",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Course Design and Learning Outcomes",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 Course Design and Learning Outcomes",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Weekly Topic Sequence",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 Weekly Topic Sequence",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Event Scheduling and Queue Mechanics",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 Event Scheduling and Queue Mechanics",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Random Variates and Input Modeling",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 Random Variates and Input Modeling",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Validation and Sensitivity Checks",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 Validation and Sensitivity Checks",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Trace-Driven Validation Exercises",
+      "level": 4,
+      "parent_id": "h0006",
+      "path": [
+        1,
+        2,
+        1
+      ],
+      "text": "1.2.1 Trace-Driven Validation Exercises",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Sensitivity Sweeps and Reporting Ranges",
+      "level": 4,
+      "parent_id": "h0006",
+      "path": [
+        1,
+        2,
+        2
+      ],
+      "text": "1.2.2 Sensitivity Sweeps and Reporting Ranges",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Assessment and Laboratory Schedule",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 Assessment and Laboratory Schedule",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Assessment Components and Weightings",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 Assessment Components and Weightings",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Laboratory Submissions",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 Laboratory Submissions",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Final Project and Presentation",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 Final Project and Presentation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Policies and Support Resources",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 Policies and Support Resources",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      79.55,
+      94.73,
+      103.23,
+      119.76
+    ],
+    "cost": [
+      51.71,
+      61.57,
+      67.1,
+      77.84
+    ],
+    "balance": [
+      27.84,
+      33.16,
+      36.13,
+      41.92
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0001",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Discrete Event Simulation Course Syllabus",
+      "caption": "Table 3: Course-level planning parameters used throughout the syllabus",
+      "rows": [
+        [
+          "Parameter",
+          "Planned value",
+          "Owner",
+          "Review point"
+        ],
+        [
+          "Term length",
+          "12 weeks",
+          "Coordinator",
+          "Orientation"
+        ],
+        [
+          "Sessions",
+          "24",
+          "Coordinator",
+          "Midterm"
+        ],
+        [
+          "Teaching hours",
+          "48",
+          "Coordinator",
+          "Term end"
+        ],
+        [
+          "Response window",
+          "2 days",
+          "Instructor",
+          "Weekly"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": "plate-5",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Course-level planning parameters used throughout the syllabus",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0001",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Discrete Event Simulation Course Syllabus",
+      "caption": "Figure 2: Assessment components with weightings and feedback timing",
+      "rows": [
+        [
+          "Component",
+          "Focus",
+          "Feedback",
+          "Weight basis"
+        ],
+        [
+          "Laboratories",
+          "Implementation",
+          "5 days",
+          "Frequent"
+        ],
+        [
+          "Midterm task",
+          "Modeling judgment",
+          "5 days",
+          "Moderate"
+        ],
+        [
+          "Final report",
+          "End-to-end reasoning",
+          "Term end",
+          "Major"
+        ],
+        [
+          "Presentation",
+          "Defense of choices",
+          "Same day",
+          "Minor"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": "plate-5",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Assessment components with weightings and feedback timing",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional course_syllabus document. Document: Discrete Event Simulation Course Syllabus. Section: Discrete Event Simulation Course Syllabus. Caption: Assessment components with weightings and feedback timing. Article context: This syllabus defines a 12-week course in discrete event simulation delivered across 24 sessions and 48 teaching hours. It sets out learning outcomes, the weekly schedule, laboratory expectations, assessment weightings and academic conduct rules. Students learn to model queueing and service systems, build event calendars, validate models against observations and report findings with appropriate uncertainty language. All figures in this document are simulated planning values for instructional design purposes.. Supporting records: [[\"Component\", \"Focus\", \"Feedback\", \"Weight basis\"], [\"Laboratories\", \"Implementation\", \"5 days\", \"Frequent\"], [\"Midterm task\", \"Modeling judgment\", \"5 days\", \"Moderate\"], [\"Final report\", \"End-to-end reasoning\", \"Term end\", \"Major\"], [\"Presentation\", \"Defense of choices\", \"Same day\", \"Minor\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Assessment and Laboratory Schedule",
+      "caption": "Figure 3: Weekly assessment and laboratory schedule with due windows",
+      "rows": [
+        [
+          "Week block",
+          "Activity",
+          "Due",
+          "Submission form"
+        ],
+        [
+          "Early",
+          "Scheduling lab",
+          "2 days",
+          "Script and memo"
+        ],
+        [
+          "Middle",
+          "Input modeling lab",
+          "2 days",
+          "Script and memo"
+        ],
+        [
+          "Later",
+          "Validation lab",
+          "2 days",
+          "Log and memo"
+        ],
+        [
+          "Final",
+          "Project report",
+          "Term end",
+          "Repository"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 3.",
+      "plate_group": "plate-5",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Weekly assessment and laboratory schedule with due windows",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional course_syllabus document. Document: Discrete Event Simulation Course Syllabus. Section: Assessment and Laboratory Schedule. Caption: Weekly assessment and laboratory schedule with due windows. Article context: Assessment combines laboratory submissions, a midterm modeling task and a final project with a written report and short presentation. Weights and due dates appear in the schedule table below. Late work is accepted within 2 days of the deadline with a documented penalty, and regrade requests must be filed within 5 days of feedback release. The final project replaces a traditional closed-book examination.. Supporting records: [[\"Week block\", \"Activity\", \"Due\", \"Submission form\"], [\"Early\", \"Scheduling lab\", \"2 days\", \"Script and memo\"], [\"Middle\", \"Input modeling lab\", \"2 days\", \"Script and memo\"], [\"Later\", \"Validation lab\", \"2 days\", \"Log and memo\"], [\"Final\", \"Project report\", \"Term end\", \"Repository\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0002",
+      "target_previous_id": "h0011",
+      "target_subtype": "far_float",
+      "target_relation": "cross_branch",
+      "topic": "Course Design and Learning Outcomes",
+      "caption": "Table 2: Mapping of weekly topics to learning outcomes and laboratory work",
+      "rows": [
+        [
+          "Topic",
+          "Outcome",
+          "Lab focus",
+          "Evidence"
+        ],
+        [
+          "Scheduling",
+          "Build models",
+          "Event trace",
+          "Trace log"
+        ],
+        [
+          "Input modeling",
+          "Justify inputs",
+          "Distribution fit",
+          "Fit memo"
+        ],
+        [
+          "Validation",
+          "Test models",
+          "Sensitivity sweep",
+          "Validation log"
+        ],
+        [
+          "Reporting",
+          "Explain limits",
+          "Caveat writing",
+          "Final report"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Mapping of weekly topics to learning outcomes and laboratory work",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Validation and Sensitivity Checks",
+      "caption": "Figure 1: Validation checks and the evidence each check produces",
+      "rows": [
+        [
+          "Check",
+          "Purpose",
+          "Evidence",
+          "Decision"
+        ],
+        [
+          "Face review",
+          "Plausibility",
+          "Reviewer notes",
+          "Accept or revise"
+        ],
+        [
+          "Trace comparison",
+          "Behavior match",
+          "Comparison table",
+          "Accept or revise"
+        ],
+        [
+          "Sensitivity sweep",
+          "Robustness",
+          "Parameter ranges",
+          "Report caveats"
+        ],
+        [
+          "Assumption audit",
+          "Transparency",
+          "Assumption list",
+          "Publish"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Validation checks and the evidence each check produces",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional course_syllabus document. Document: Discrete Event Simulation Course Syllabus. Section: Validation and Sensitivity Checks. Caption: Validation checks and the evidence each check produces. Article context: Validation activities compare model behavior with recorded system observations and structured expert review. Students perform face validation, trace-driven checks and simple sensitivity sweeps on key parameters. The unit emphasizes reporting ranges and caveats alongside point estimates, and it explicitly separates what the simulation observed from what may be inferred about the real system. Deliverables include a validation log with decisions and rejected alternatives.. Supporting records: [[\"Check\", \"Purpose\", \"Evidence\", \"Decision\"], [\"Face review\", \"Plausibility\", \"Reviewer notes\", \"Accept or revise\"], [\"Trace comparison\", \"Behavior match\", \"Comparison table\", \"Accept or revise\"], [\"Sensitivity sweep\", \"Robustness\", \"Parameter ranges\", \"Report caveats\"], [\"Assumption audit\", \"Transparency\", \"Assumption list\", \"Publish\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0003",
+      "target_previous_id": "h0006",
+      "target_subtype": "after_section",
+      "target_relation": "siblings",
+      "topic": "Weekly Topic Sequence",
+      "caption": "Table 1: Weekly topic sequence with conceptual and laboratory emphasis",
+      "rows": [
+        [
+          "Phase",
+          "Concept focus",
+          "Lab emphasis",
+          "Deliverable"
+        ],
+        [
+          "Opening",
+          "Event mechanics",
+          "Priority queue",
+          "Trace log"
+        ],
+        [
+          "Middle",
+          "Input modeling",
+          "Distribution fitting",
+          "Fit memo"
+        ],
+        [
+          "Closing",
+          "Validation",
+          "Sensitivity checks",
+          "Validation log"
+        ],
+        [
+          "Final",
+          "Communication",
+          "Caveat writing",
+          "Project report"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Weekly topic sequence with conceptual and laboratory emphasis",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Discrete Event Simulation Course Syllabus",
+        "paragraph": "This syllabus defines a 12-week course in discrete event simulation delivered across 24 sessions and 48 teaching hours. It sets out learning outcomes, the weekly schedule, laboratory expectations, assessment weightings and academic conduct rules. Students learn to model queueing and service systems, build event calendars, validate models against observations and report findings with appropriate uncertainty language. All figures in this document are simulated planning values for instructional design purposes."
+      },
+      "h0002": {
+        "title": "Course Design and Learning Outcomes",
+        "paragraph": "The course is organized around a build-measure-explain cycle. Each week pairs a short conceptual lecture with a hands-on laboratory, so students encounter theory and implementation together. By the end, learners should be able to translate a process description into an event-driven model, justify input distributions, and distinguish simulated outputs from causal claims about real systems. Instructors review drafts within 5 working days to keep feedback timely."
+      },
+      "h0003": {
+        "title": "Weekly Topic Sequence",
+        "paragraph": "Topics progress from foundational mechanics to interpretation. Early weeks cover event scheduling, random number generation and entity flow; middle weeks address input modeling, warm-up periods and replication; later weeks focus on validation, sensitivity analysis and communicating results. The sequence assumes no prior simulation software experience but expects comfort with basic probability and programming constructs such as loops and records."
+      },
+      "h0004": {
+        "title": "Event Scheduling and Queue Mechanics",
+        "paragraph": "This unit examines the event calendar as the engine of any discrete event model. Students implement a priority queue of events, trace entity arrivals and departures, and observe how service discipline changes waiting behavior. Laboratory exercises require a trace log showing each event time and state change, so that instructors can verify understanding of simultaneity and tie-breaking rules rather than only final averages."
+      },
+      "h0005": {
+        "title": "Random Variates and Input Modeling",
+        "paragraph": "Students generate variates from uniform, exponential and empirical distributions, then fit candidate distributions to provided arrival and service records. The unit stresses documenting assumptions and testing fit rather than selecting a distribution by convenience. Exercises ask learners to compare fitted models against held-out observations and to explain, in plain language, why a good fit does not by itself prove the underlying process behaves that way."
+      },
+      "h0006": {
+        "title": "Validation and Sensitivity Checks",
+        "paragraph": "Validation activities compare model behavior with recorded system observations and structured expert review. Students perform face validation, trace-driven checks and simple sensitivity sweeps on key parameters. The unit emphasizes reporting ranges and caveats alongside point estimates, and it explicitly separates what the simulation observed from what may be inferred about the real system. Deliverables include a validation log with decisions and rejected alternatives."
+      },
+      "h0012": {
+        "title": "Trace-Driven Validation Exercises",
+        "paragraph": "Students replay recorded system traces through their models and compare simulated outputs against observed values. Exercises use a sample of 240 observations drawn from 4 sites across 2022 to 2025, giving a realistic basis for discrepancy analysis. Teams document each mismatch, classify its likely source, and decide whether to adjust logic, parameters, or accept the deviation with a stated caveat in the validation log."
+      },
+      "h0013": {
+        "title": "Sensitivity Sweeps and Reporting Ranges",
+        "paragraph": "Sensitivity sessions vary key inputs across plausible bounds and record how outputs respond, such as output values moving from 79.55 to 119.76 and costs from 51.71 to 77.84. Students summarize results as ranges with caveats rather than single point estimates, and they practice separating what the simulation observed from what may be inferred about the real system when presenting findings."
+      },
+      "h0007": {
+        "title": "Assessment and Laboratory Schedule",
+        "paragraph": "Assessment combines laboratory submissions, a midterm modeling task and a final project with a written report and short presentation. Weights and due dates appear in the schedule table below. Late work is accepted within 2 days of the deadline with a documented penalty, and regrade requests must be filed within 5 days of feedback release. The final project replaces a traditional closed-book examination."
+      },
+      "h0008": {
+        "title": "Assessment Components and Weightings",
+        "paragraph": "Each component targets a distinct skill: laboratories test implementation discipline, the midterm tests modeling judgment under time pressure, and the final project tests end-to-end reasoning from problem framing to reported conclusions. Rubrics are published at the start of term. Students receive formative feedback on at least two laboratory submissions before the midterm, ensuring they can adjust before higher-stakes work begins."
+      },
+      "h0009": {
+        "title": "Laboratory Submissions",
+        "paragraph": "Laboratories are submitted as reproducible scripts plus a short memo. The memo must state model scope, input assumptions, replication count and observed output ranges, using the reporting template distributed in week one. Graders check that scripts run without manual edits and that memos avoid overclaiming. Partial credit is available for correct mechanics with incomplete interpretation, reflecting the course emphasis on both building and explaining."
+      },
+      "h0010": {
+        "title": "Final Project and Presentation",
+        "paragraph": "The final project asks teams to model a chosen service process, validate it against supplied or collected observations, and present findings with explicit limitations. Presentations are brief and followed by questions on assumptions and alternative explanations. Teams must show at least one sensitivity check and one rejected modeling choice, demonstrating that conclusions were tested rather than asserted. A shared repository preserves scripts and logs for review."
+      },
+      "h0011": {
+        "title": "Policies and Support Resources",
+        "paragraph": "The course follows institutional policies on academic integrity, accessibility and respectful conduct. Students may collaborate on conceptual discussion but must submit individually authored laboratory memos unless a project is explicitly team-based. Office hours run weekly, and a discussion forum supports asynchronous questions with responses typically within 2 days. Accommodation requests are handled through the standard institutional process and kept confidential."
+      }
+    },
+    "continuations": [
+      "Instructors should record which software versions were used for each laboratory so that results remain reproducible when the course is offered again in later terms.",
+      "Students who lack programming background may need an optional refresher session before the first laboratory; coordinators should gauge demand during orientation.",
+      "Model scope statements should name the system boundary explicitly, since many disagreements in project reviews trace back to unstated assumptions about what is inside the model.",
+      "Replication counts should be justified in memos rather than chosen by habit; a short justification paragraph is sufficient for most laboratory submissions.",
+      "Graders benefit from a shared rubric calibration meeting before the midterm, reducing variance in how interpretation quality is scored across sections.",
+      "Sensitivity checks are most informative when one parameter changes at a time; combined sweeps can be introduced later once students understand single-factor effects.",
+      "The discussion forum should be monitored for requests to share complete solution scripts, which fall outside permitted collaboration under the conduct policy.",
+      "Project teams should schedule a brief check-in with the instructor midway through the term to confirm scope is realistic for the remaining weeks.",
+      "Validation logs should include rejected alternatives, because documenting what was tried and discarded demonstrates rigor more clearly than final results alone.",
+      "When presenting findings, students should state observed output ranges and separately label any inference about the real process as tentative rather than established.",
+      "Laboratory machines and personal laptops may produce slightly different timing behavior; memos should note the environment when runtime matters to the exercise.",
+      "Accessibility accommodations for timed assessments should be requested early so that alternative arrangements can be scheduled without conflict.",
+      "Teaching assistants should keep a running list of common modeling errors observed in submissions to inform short review segments at the start of later sessions.",
+      "A brief peer review of draft project reports in the final weeks helps teams identify unclear assumptions before the graded submission deadline.",
+      "Attendance expectations should be stated plainly, noting that laboratory sessions are difficult to replicate independently because of live debugging support.",
+      "Archived scripts and memos from prior offerings can serve as calibration examples only if anonymized and stripped of graded feedback annotations.",
+      "Students should be reminded that simulation outputs describe model behavior, and that model behavior depends on the assumptions they themselves selected.",
+      "Office hours near project deadlines tend to be oversubscribed; instructors may add a drop-in review session during the final two weeks.",
+      "Input data provided for exercises should be accompanied by provenance notes so students learn to question source quality before fitting distributions.",
+      "Rubric language should distinguish implementation correctness from interpretive quality, allowing graders to award partial credit consistently.",
+      "Teams should designate a repository owner responsible for preserving final scripts, logs and presentation slides after the term ends.",
+      "Midterm feedback should be returned quickly enough to influence project planning; coordinators should confirm grading capacity before the term begins.",
+      "Where students collect their own observations, instructors should approve the collection plan in advance to avoid privacy or consent problems.",
+      "Warm-up period choices deserve explicit justification in reports, since truncating early observations can materially change reported averages.",
+      "The final presentation schedule should leave buffer time for technical difficulties, as live demonstrations of simulation software occasionally fail.",
+      "Students repeating the course should be told which laboratory materials changed, so prior submissions are not resubmitted unchanged.",
+      "Instructors may wish to publish a short glossary of simulation terms early, reducing confusion in forum questions about events, entities and replications.",
+      "Grading records should note the rubric version applied to each submission in case criteria are revised between offerings of the course.",
+      "Project topics touching operational decisions in real organizations require careful framing so that reports describe simulated scenarios rather than prescribing actions.",
+      "A closing reflection exercise asking students to name one assumption they would test next reinforces the course habit of questioning model outputs.",
+      "Coordinators should review laboratory timing after each offering, since debugging support needs vary with cohort programming experience.",
+      "Any guest sessions or software vendor demonstrations should be optional and clearly separated from graded content to avoid conflicts of interest."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1581,
+        "completion_tokens": 2467,
+        "total_tokens": 4048,
+        "prompt_tokens_details": {
+          "cached_tokens": 1408
+        },
+        "prompt_cache_hit_tokens": 1408,
+        "prompt_cache_miss_tokens": 173
+      },
+      "finish_reason": "stop",
+      "request_hash": "07ff80836f08da54a0fcc75febe5a47f524696b40384e813665d7e20f0b39668",
+      "schema": "llm-content-v1",
+      "validation_retries": 2,
+      "cache_hit": true,
+      "base_request_hash": "b88e84ea4d1d23920a5b5a83272d08c6ea43a93e3673238d3cab780a22bcc05e",
+      "augmentation_usage": {
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 732,
+          "completion_tokens": 224,
+          "total_tokens": 956,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 732
+        },
+        "finish_reason": "stop"
+      }
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [
+    "h0012",
+    "h0013"
+  ],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

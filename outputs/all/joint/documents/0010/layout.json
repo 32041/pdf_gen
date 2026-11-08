@@ -1,0 +1,2290 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.5625,
+            62.0,
+            539.4375,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Fictional Document Annotation Services Agreement",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            528.1015625,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This agreement governs the provision of document annotation services by AnnotaWorks",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            530.864990234375,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "Ltd. to the Client for a term of 12 months, with a total projected service output of 119.39",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            498.037109375,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "thousand annotated units and a corresponding cost of 77.60 thousand, yielding an",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            546.0869140625,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "operating surplus of 41.79 thousand as simulated in the pricing model. The parties agree to",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            480.810546875,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the scope, obligations, and quality standards set forth in the following sections.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            189.27500000000003,
+            298.15771484375,
+            205.55000000000004
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            211.55000000000004,
+            298.15771484375,
+            227.82500000000005
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            233.82500000000005,
+            550.0,
+            367.82500000000005
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Milestone",
+              "Due Date",
+              "Payment Amount",
+              "Deliverable"
+            ],
+            [
+              "Contract signing",
+              "Day 2",
+              "53.23",
+              "Signed agreement"
+            ],
+            [
+              "First batch",
+              "Week 12",
+              "61.97",
+              "Annotated batch"
+            ],
+            [
+              "Midterm review",
+              "Week 12",
+              "66.86",
+              "Review report"
+            ],
+            [
+              "Final delivery",
+              "Week 12",
+              "77.60",
+              "Final deliverables"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            233.82500000000005,
+            550.0,
+            400.82500000000005
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            374.82500000000005,
+            263.8916015625,
+            388.00000000000006
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 1: Key milestones and payment schedule",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            400.82500000000005,
+            216.123046875,
+            422.52500000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Scope of Services",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            426.52500000000003,
+            550.0,
+            560.5250000000001
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Output (thousand units)",
+              "Cost (thousand)",
+              "Operating Surplus (thousand)"
+            ],
+            [
+              "2022",
+              "81.89",
+              "53.23",
+              "28.66"
+            ],
+            [
+              "2023",
+              "95.34",
+              "61.97",
+              "33.37"
+            ],
+            [
+              "2024",
+              "102.86",
+              "66.86",
+              "36.00"
+            ],
+            [
+              "2025",
+              "119.39",
+              "77.60",
+              "41.79"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            426.52500000000003,
+            550.0,
+            593.5250000000001
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            567.5250000000001,
+            341.192626953125,
+            580.7
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 2: Projected annual output and cost for annotation services",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            593.5250000000001,
+            537.786376953125,
+            609.8000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The scope defines the annotation tasks, volume, and delivery schedule. The Provider shall",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            609.8000000000001,
+            528.947509765625,
+            626.075
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "annotate documents according to the guidelines and quality thresholds specified herein,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            626.075,
+            505.3583984375,
+            642.35
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "ensuring timely delivery and adherence to the agreed standards across every batch",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            642.35,
+            201.201904296875,
+            658.625
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "produced during the term.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            62,
+            327.123046875,
+            80.6
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Annotation Tasks and Deliverables",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.6,
+            515.47900390625,
+            100.875
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "This section details the specific annotation tasks, including entity recognition, relation",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.875,
+            503.968994140625,
+            117.15
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "extraction, and classification, and the format of deliverables. Each task is subject to",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            117.15,
+            513.5205078125,
+            133.425
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "acceptance criteria and review procedures before any batch is deemed complete and",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            133.425,
+            171.506591796875,
+            149.70000000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "eligible for invoicing.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            155.70000000000002,
+            313.591796875,
+            172.75000000000003
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Task Descriptions and Guidelines",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            176.75000000000003,
+            523.12841796875,
+            193.02500000000003
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "The Provider shall perform annotation tasks as described in the guidelines, which cover",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            193.02500000000003,
+            532.433837890625,
+            209.30000000000004
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "labeling conventions, edge cases, and quality checks. The guidelines are incorporated by",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            209.30000000000004,
+            514.448486328125,
+            225.57500000000005
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "reference and may be updated by mutual written agreement of the parties when task",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.57500000000005,
+            158.258544921875,
+            241.85000000000005
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "definitions evolve.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            247.85000000000005,
+            302.093994140625,
+            264.12500000000006
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 Quality Assurance and Review",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            268.12500000000006,
+            529.044921875,
+            284.40000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "The Provider shall implement a quality assurance process, including sample reviews and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            284.40000000000003,
+            539.17578125,
+            300.675
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "feedback loops, to maintain annotation accuracy and consistency. The Client may conduct",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            300.675,
+            487.89599609375,
+            316.95
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "periodic audits to verify compliance with the agreed thresholds and documented",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            316.95,
+            129.1015625,
+            333.22499999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "conventions.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            339.22499999999997,
+            312.2080078125,
+            354.72499999999997
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 Sampling and Accuracy Checks",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            358.72499999999997,
+            531.08544921875,
+            374.99999999999994
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The Provider shall perform sampling on 240 units per batch and report accuracy metrics.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            374.99999999999994,
+            540.175537109375,
+            391.2749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The Client may request additional checks if accuracy falls below the agreed threshold, and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            391.2749999999999,
+            420.927734375,
+            407.5499999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "the Provider shall bear the cost of any expanded sampling required.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            413.5499999999999,
+            298.5849609375,
+            429.0499999999999
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 Error Correction and Rework",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            433.0499999999999,
+            537.560791015625,
+            449.3249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Errors identified during reviews shall be corrected within 5 business days. Rework shall be",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            449.3249999999999,
+            542.656982421875,
+            465.59999999999985
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "at the Provider's expense if errors exceed the agreed error rate, and repeated failures may",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            465.59999999999985,
+            427.06982421875,
+            481.87499999999983
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "trigger the service credit remedies described later in this agreement.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            487.87499999999983,
+            301.6171875,
+            504.1499999999998
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 Delivery Schedule and Format",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            508.1499999999998,
+            542.50830078125,
+            524.4249999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Deliverables shall be submitted according to the schedule set out in the milestone table, in",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            524.4249999999998,
+            510.92626953125,
+            540.6999999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "the specified electronic format. Late deliveries may incur penalties as set forth in the",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            540.6999999999998,
+            444.034912109375,
+            556.9749999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "service levels, and the Client may reject batches that fail format checks.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            562.9749999999998,
+            245.421875,
+            580.0249999999997
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 Client Responsibilities",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            584.0249999999997,
+            539.8935546875,
+            600.2999999999997
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "The Client shall provide timely access to source documents, guidelines, and feedback, and",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            600.2999999999997,
+            523.236083984375,
+            616.5749999999997
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "shall designate a point of contact for approvals and clarifications. Delays caused by the",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            616.5749999999997,
+            405.51611328125,
+            632.8499999999997
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Client shall extend affected deadlines by a corresponding period.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Requirement",
+              "Verification Method",
+              "Pass/Fail"
+            ],
+            [
+              "Format compliance",
+              "XML schema",
+              "Automated check",
+              "Pass"
+            ],
+            [
+              "Accuracy threshold",
+              "41.79%",
+              "Sampling",
+              "Pass"
+            ],
+            [
+              "Completeness",
+              "All fields",
+              "Manual review",
+              "Pass"
+            ],
+            [
+              "Timeliness",
+              "Per schedule",
+              "Timestamp",
+              "Pass"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            550.0,
+            229
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            290.42919921875,
+            216.175
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 3: Acceptance criteria checklist for deliverables",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            229,
+            224.326171875,
+            247.6
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 Acceptance Criteria",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            251.6,
+            504.297119140625,
+            267.875
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Acceptance of deliverables is conditional on meeting the quality metrics and format",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            267.875,
+            507.306640625,
+            284.15
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "requirements. The Client shall notify the Provider of acceptance or rejection within 2",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            284.15,
+            474.735107421875,
+            300.42499999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "business days, and silence beyond that period shall be treated as acceptance.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            306.42499999999995,
+            298.15771484375,
+            322.69999999999993
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.69999999999993,
+            330.1123046875,
+            350.3999999999999
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 Service Levels and Performance",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            354.3999999999999,
+            530.680419921875,
+            370.6749999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "The Provider shall meet the service levels specified herein, including response times and",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            370.6749999999999,
+            527.276123046875,
+            386.9499999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "accuracy targets, to ensure reliable and consistent service delivery throughout the term",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            386.9499999999999,
+            283.49462890625,
+            403.22499999999985
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "and across all workstreams assigned to it.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            409.22499999999985,
+            333.046875,
+            427.8249999999999
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 Performance Metrics and Reporting",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            431.8249999999999,
+            537.4326171875,
+            448.09999999999985
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "The Provider shall report monthly on key performance indicators, including output volume",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            448.09999999999985,
+            493.443359375,
+            464.37499999999983
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "and accuracy. The metrics are used to assess service levels and identify areas for",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            464.37499999999983,
+            451.930419921875,
+            480.6499999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "improvement, and the reporting format is set out in the metrics template.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            486.6499999999998,
+            298.15771484375,
+            502.9249999999998
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            508.9249999999998,
+            292.408203125,
+            525.9749999999998
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 Service Credits and Remedies",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            529.9749999999998,
+            517.01708984375,
+            546.2499999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "If the Provider fails to meet service levels, service credits may apply as a remedy. The",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.2499999999998,
+            543.3798828125,
+            562.5249999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "credits are calculated based on the extent of the shortfall and are subject to the limitations",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.5249999999997,
+            337.69677734375,
+            578.7999999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "described in the credit provisions of this agreement.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            584.7999999999997,
+            325.083251953125,
+            601.0749999999997
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 Credit Calculation and Application",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            605.0749999999997,
+            538.401611328125,
+            621.3499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Service credits are calculated as a percentage of the monthly fee, as detailed in the credit",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            621.3499999999997,
+            497.755126953125,
+            637.6249999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "schedule table. Credits are applied to the next invoice and are the sole remedy for",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            637.6249999999997,
+            392.99609375,
+            653.8999999999996
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "performance shortfalls, except where termination rights apply.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.8999999999996,
+            298.15771484375,
+            676.1749999999996
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Shortfall Level",
+              "Credit Percentage",
+              "Notification Period",
+              "Maximum Credit"
+            ],
+            [
+              "Minor",
+              "28.66%",
+              "2 days",
+              "28.66% of fee"
+            ],
+            [
+              "Moderate",
+              "33.37%",
+              "2 days",
+              "33.37% of fee"
+            ],
+            [
+              "Major",
+              "36.00%",
+              "2 days",
+              "36.00% of fee"
+            ],
+            [
+              "Critical",
+              "41.79%",
+              "2 days",
+              "41.79% of fee"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            550.0,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            334.867431640625,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 4: Service credit schedule based on performance shortfall",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            229,
+            282.955078125,
+            244.5
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 Credit Request Procedure",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            248.5,
+            527.41455078125,
+            264.775
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The Client must request service credits within 2 business days of the shortfall, providing",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.775,
+            545.599853515625,
+            281.04999999999995
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "evidence. The Provider shall verify and apply credits promptly, and disputed claims shall be",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.04999999999995,
+            235.64990234375,
+            297.32499999999993
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "escalated to the review meeting.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            303.32499999999993,
+            550.0,
+            437.32499999999993
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0016",
+          "belongs_to": "h0016",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Shortfall Type",
+              "Credit Cap",
+              "Exclusions",
+              "Remedy"
+            ],
+            [
+              "Accuracy",
+              "41.79%",
+              "Force majeure",
+              "Credit only"
+            ],
+            [
+              "Timeliness",
+              "36.00%",
+              "Client delay",
+              "Credit only"
+            ],
+            [
+              "Completeness",
+              "33.37%",
+              "Guideline changes",
+              "Credit only"
+            ],
+            [
+              "Format",
+              "28.66%",
+              "Tool failure",
+              "Credit only"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            303.32499999999993,
+            550.0,
+            470.32499999999993
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            444.32499999999993,
+            299.767578125,
+            457.49999999999994
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 1: Limitations on service credits by shortfall type",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            470.32499999999993,
+            262.115234375,
+            485.82499999999993
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 Limitations on Credits",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            489.82499999999993,
+            515.432861328125,
+            506.0999999999999
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Service credits shall not exceed the total fees paid for the affected month and are not",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.0999999999999,
+            523.174560546875,
+            522.3749999999999
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "available for force majeure events or Client-caused delays. The limitation table lists the",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            522.3749999999999,
+            262.192138671875,
+            538.6499999999999
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "caps that apply to each shortfall type.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            544.6499999999999,
+            302.32080078125,
+            560.9249999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            566.9249999999998,
+            302.98095703125,
+            583.1999999999998
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 Performance Review Meetings",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            587.1999999999998,
+            530.977783203125,
+            603.4749999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "The parties shall hold quarterly performance review meetings to discuss metrics, resolve",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            603.4749999999998,
+            539.82177734375,
+            619.7499999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "issues, and plan improvements. Minutes shall be recorded and signed by both parties, and",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            619.7499999999998,
+            298.798583984375,
+            636.0249999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "agreed actions shall be tracked until closure.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            642.0249999999997,
+            243.52587890625,
+            659.0749999999997
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 Reporting Obligations",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            663.0749999999997,
+            541.908447265625,
+            679.3499999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "The Provider shall submit monthly reports on annotation output, accuracy, and compliance",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            679.3499999999997,
+            543.4619140625,
+            695.6249999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "with service levels. Reports shall be in a format agreed by the parties and shall accompany",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            695.6249999999997,
+            310.03173828125,
+            711.8999999999996
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "each invoice submitted for the relevant period.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            62,
+            262.67578125,
+            80.6
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 Continuous Improvement",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.6,
+            536.97119140625,
+            100.875
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "The Provider shall propose and implement continuous improvement initiatives to enhance",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.875,
+            549.527099609375,
+            117.15
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "quality and efficiency, subject to the Client's approval. Progress on approved initiatives shall",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            117.15,
+            322.203125,
+            133.425
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "be summarized in the quarterly review meetings.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            139.425,
+            550.0,
+            273.425
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Metric",
+              "Target",
+              "Actual",
+              "Status"
+            ],
+            [
+              "Output volume",
+              "119.39",
+              "119.39",
+              "On track"
+            ],
+            [
+              "Accuracy",
+              "41.79%",
+              "41.79%",
+              "Met"
+            ],
+            [
+              "Response time",
+              "2 days",
+              "2 days",
+              "Met"
+            ],
+            [
+              "Review time",
+              "5 days",
+              "5 days",
+              "Met"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            139.425,
+            550.0,
+            306.425
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.425,
+            307.9521484375,
+            293.6
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 5: Monthly performance metrics reporting template",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

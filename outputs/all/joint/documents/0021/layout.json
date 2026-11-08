@@ -1,0 +1,2182 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            189.0,
+            52.0,
+            423.0,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "小型光伏发电记录仪操作手册",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            552.0,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本手册面向安装于屋顶与庭院的小型光伏发电记录仪，说明从开箱验收、现场安装、参数配置到日常巡检与数据导",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            552.0,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "出的完整操作流程。手册以现场运维人员为主要读者，强调安全前提下的可重复操作与记录一致性。凡涉及设备性",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            512.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "能的数值，均以出厂标定与现场实测记录为准，读者应结合自身站点条件核对，不得直接套用他站结论。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            144.4,
+            188.90600019693375,
+            166.1
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 适用范围与设备概述",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            170.1,
+            552.0,
+            185.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本记录仪适用于单相并网的小型光伏系统，采集直流侧电压电流、交流侧功率以及组件温度与环境照度等信号，并",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            185.6,
+            552.0,
+            201.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "按设定间隔写入本地存储。设备由采集板、通信模块、显示面板与防护外壳组成，支持本地读取与远程上传两种方",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            201.1,
+            472.0,
+            216.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "式。读者应先确认本站系统的容量与接线形式落在适用范围内，再按后续章节执行安装与配置。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            222.6,
+            183.34400022029877,
+            241.2
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 整机组成与接口说明",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            245.2,
+            552.0,
+            260.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "整机正面为显示面板与状态指示灯，底部为接线端子区，侧面设有通信天线接口与存储卡槽。端子区按功能分为直",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            260.7,
+            552.0,
+            276.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "流采样、交流采样、温度探头与辅助电源四组，每组均有丝印标识。操作前应核对丝印与随箱接线图一致，若发现",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            276.2,
+            432.0,
+            291.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "标识磨损或与图纸不符，应停止接线并联系供货方确认，避免误接造成采样通道损坏。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            297.7,
+            187.89500024914742,
+            314.75
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 采集通道与信号定义",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            318.75,
+            552.0,
+            334.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "采集通道分为电压、电流、温度与照度四类，每类通道在配置界面中以固定编号呈现，编号与端子丝印一一对应。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            334.25,
+            552.0,
+            349.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "电压通道采用差分输入，电流通道依赖外置分流器或互感器，温度通道适配标准探头。配置时应逐通道填写量程与",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            349.75,
+            422.0,
+            365.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "变比，未使用的通道须显式关闭，以免空载噪声被计入统计，影响后续发电量核算。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            371.25,
+            186.41900028288364,
+            387.525
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 电压电流采样通道",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            391.525,
+            552.0,
+            407.025
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "电压与电流通道是发电量计算的核心输入，采样周期与滤波档位需与现场负载特性匹配。对于逆变器输出波动较大",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            407.025,
+            552.0,
+            422.525
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "的站点，可适当提高滤波强度以抑制瞬时尖峰，但会略微降低对快速变化的响应。通道启用后应观察显示面板的实",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            422.525,
+            392.0,
+            438.025
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "时值是否与钳形表读数接近，若偏差持续存在，应检查变比设置与接线极性。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            444.025,
+            185.11000031232834,
+            459.525
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 直流侧采样接线",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            463.525,
+            552.0,
+            479.025
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "直流侧采样应接在组件串与逆变器之间的汇流处，正负极严格对应端子标识，接线前须断开组串开关并使用仪表确",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            479.025,
+            542.0,
+            494.525
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "认无残压。导线应选用耐候护套并沿支架固定，避免长期晃动导致端子松动。接线完成后先恢复单串供电观察读",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            494.525,
+            382.0,
+            510.025
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "数，确认极性与量程无误后再逐串恢复，减少一次性送电带来的排查困难。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            516.025,
+            185.11000031232834,
+            531.525
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 交流侧采样接线",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            535.525,
+            552.0,
+            551.025
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "交流侧采样接入逆变器出线与并网点之间，需由具备资质的人员在断电并验电后操作。电流互感器方向应与能量流",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            551.025,
+            552.0,
+            566.525
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "向一致，方向装反会使功率显示为负值。接线后应核对功率因数显示是否合理，并与电表读数做短时比对。若发现",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            566.525,
+            352.0,
+            582.025
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "三相不平衡或读数跳变，应优先排查互感器二次侧接触与屏蔽接地。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            588.025,
+            196.91900028288364,
+            604.3
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 温度与照度探头接入",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            608.3,
+            552.0,
+            623.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "温度探头应贴附于组件背板中部并做遮阳处理，照度探头应与组件同倾角安装，避免阴影与反光干扰。两支探头的",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            623.8,
+            552.0,
+            639.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "线缆应单独走线，不与功率线并行捆扎，以减少干扰。接入后在配置界面选择对应探头类型，并观察短时间内数值",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            639.3,
+            362.0,
+            654.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "是否随环境合理变化，若读数长期不变，应检查探头供电与插头接触。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            660.8,
+            159.79000014066696,
+            676.3
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            560.0,
+            186
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "探头",
+              "安装位置",
+              "走线要求",
+              "验证方法"
+            ],
+            [
+              "温度",
+              "背板中部",
+              "单独走线",
+              "观察变化"
+            ],
+            [
+              "照度",
+              "同倾角",
+              "避开遮挡",
+              "对比日照"
+            ],
+            [
+              "插头",
+              "端子紧固",
+              "不并功率线",
+              "轻拉检查"
+            ],
+            [
+              "屏蔽",
+              "单端接地",
+              "远离干扰源",
+              "读数稳定"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            560.0,
+            219
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            177.62150011956692,
+            206.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 1：温度与照度探头接入检查项",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            219,
+            198.89500024914742,
+            236.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 指示灯与面板状态识别",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            240.05,
+            552.0,
+            255.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "面板指示灯以颜色与闪烁节奏表达运行状态，常亮表示供电正常，慢闪表示正在记录，快闪表示通信尝试中，红色",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            255.55,
+            552.0,
+            271.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "常亮表示存在需要处理的故障。显示面板可翻页查看实时功率、当日累计与故障代码。运维人员应熟悉各状态的含",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.05,
+            422.0,
+            286.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "义，在巡检记录中写明观察到的状态与时间，便于后续对照日志判断问题发生时序。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            292.55,
+            159.79000014066696,
+            308.05
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            314.05,
+            207.34400022029877,
+            332.65000000000003
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 开箱验收与随机附件核对",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            336.65000000000003,
+            560.0,
+            470.65000000000003
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "状态",
+              "含义",
+              "建议动作",
+              "升级条件"
+            ],
+            [
+              "常亮",
+              "供电正常",
+              "无需处理",
+              "无"
+            ],
+            [
+              "慢闪",
+              "正在记录",
+              "例行巡检",
+              "无"
+            ],
+            [
+              "快闪",
+              "通信尝试",
+              "查网络",
+              "多次失败"
+            ],
+            [
+              "红常亮",
+              "存在故障",
+              "读代码排查",
+              "反复出现"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            336.65000000000003,
+            560.0,
+            503.65000000000003
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            477.65000000000003,
+            169.12150011956692,
+            490.82500000000005
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 2：面板状态含义与处置建议",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            503.65000000000003,
+            542.0,
+            519.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "开箱应在干燥环境进行，先核对包装外观有无受潮或挤压痕迹，再按装箱单清点主机、天线、探头、端子与说明",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            519.1500000000001,
+            552.0,
+            534.6500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "书。每件附件应检查外观与接口完整性，存储卡与通信模块需确认已插紧。验收结果应逐项登记并由验收人签字，",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            534.6500000000001,
+            357.5500000715256,
+            550.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "若发现缺件或损伤，应在到货后2日内提出，避免影响后续安装进度。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            556.1500000000001,
+            202.90600019693375,
+            577.8500000000001
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 安装前准备与安全要求",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            581.8500000000001,
+            552.0,
+            597.3500000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "安装前应完成现场勘查，确认安装位置通风、避雨且便于观察与取数，并核实供电回路与接地条件。作业人员须穿",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            597.3500000000001,
+            552.0,
+            612.8500000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "戴防护用品，涉及直流与交流接线时严格执行断电、验电、挂牌步骤。工具与仪表应在有效校准期内，登高作业须",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            612.8500000000001,
+            452.0,
+            628.3500000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "有可靠支撑。准备工作完成后填写开工确认单，明确作业负责人、监护人与应急联系方式。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            634.3500000000001,
+            159.79000014066696,
+            649.8500000000001
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            655.8500000000001,
+            183.34400022029877,
+            674.4500000000002
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 安装位置与固定方式",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            678.4500000000002,
+            552.0,
+            693.9500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "记录仪宜安装在逆变器附近的阴凉处，避免阳光直射与雨水积聚，外壳与墙面之间保留散热间隙。固定采用膨胀螺",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            693.9500000000002,
+            552.0,
+            709.4500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "栓或导轨卡扣，安装面应平整且能承受设备自重与线缆拉力。天线应朝上并远离金属遮挡，存储卡槽一侧留出操作",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            709.4500000000002,
+            362.0,
+            724.9500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "空间。位置确定后先做临时固定并试接线，确认走线顺畅再最终紧固。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            52,
+            165.89500024914742,
+            69.05
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 供电与接地连接",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            73.05,
+            552.0,
+            88.55
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "设备供电取自辅助电源端子，接线前确认电压等级与极性，严禁将交流电源直接接入直流辅助端子。接地端子应以",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            88.55,
+            552.0,
+            104.05
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "足够截面的导线连接至站点等电位接地排，接地电阻应符合现场规程要求。上电前再次检查端子紧固与线序，上电",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            104.05,
+            402.0,
+            119.55
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "后观察指示灯与面板启动过程，若出现异常复位或反复重启，应立即断电排查。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            125.55,
+            196.91900028288364,
+            141.825
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 上电自检与初始配置",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            145.825,
+            552.0,
+            161.325
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "首次上电后设备执行自检，依次检查存储、时钟、采集通道与通信模块。自检通过后进入初始配置，需设置站点编",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            161.325,
+            552.0,
+            176.825
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "号、时区、采样间隔与上传周期。站点编号应与管理台账一致，避免多站数据混淆。配置完成后保存并重启一次，",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.825,
+            382.0,
+            192.325
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "确认参数持久保存。此阶段建议记录配置清单，作为后续变更比对的基线。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            198.325,
+            159.79000014066696,
+            213.825
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            219.825,
+            159.79000014066696,
+            235.325
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            241.325,
+            560.0,
+            375.325
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "检查项",
+              "观察内容",
+              "通过标准",
+              "异常处理"
+            ],
+            [
+              "存储",
+              "卡识别状态",
+              "可读写",
+              "重插或换卡"
+            ],
+            [
+              "时钟",
+              "当前时间",
+              "与标准一致",
+              "重新校准"
+            ],
+            [
+              "通道",
+              "各通道读数",
+              "在量程内",
+              "核对变比"
+            ],
+            [
+              "通信",
+              "握手结果",
+              "连接成功",
+              "查参数"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            241.325,
+            560.0,
+            408.325
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            382.325,
+            186.12150011956692,
+            395.5
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 3：首次上电自检项目与确认要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            408.325,
+            225.11000031232834,
+            423.825
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 时钟校准与采样间隔设定",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            427.825,
+            552.0,
+            443.325
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "时钟准确性直接影响发电量按时段归集，首次配置应通过通信模块或手动方式校准时钟，并在巡检中定期核对。采",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            443.325,
+            552.0,
+            458.825
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "样间隔需在存储容量与数据精度之间权衡，间隔过短会加快存储写满，过长则可能遗漏功率波动。设定后应观察数",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            458.825,
+            292.0,
+            474.325
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "个周期的记录完整性，确认无丢点后再投入正式运行。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            480.325,
+            205.11000031232834,
+            495.825
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 站点编号与通信参数",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            499.825,
+            552.0,
+            515.325
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "站点编号、通信地址与上传周期共同决定数据能否正确归入管理平台。编号规则由运维方统一制定，填写时逐位核",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            515.325,
+            552.0,
+            530.825
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "对，避免相似字符混用。通信参数包括服务器地址、端口与重传次数，修改后应先做连通性测试，确认握手成功再",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            530.825,
+            412.0,
+            546.325
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "保存。若网络不稳定，可适当增加重传次数，但需评估对功耗与数据时效的影响。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            52,
+            217.91900028288364,
+            68.275
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 运行状态巡检与数据读取",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            72.275,
+            560.0,
+            206.275
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "参数",
+              "设置依据",
+              "核对方式",
+              "变更要求"
+            ],
+            [
+              "站点编号",
+              "管理台账",
+              "逐位核对",
+              "登记备案"
+            ],
+            [
+              "采样间隔",
+              "存储容量",
+              "观察周期",
+              "记录前后值"
+            ],
+            [
+              "上传周期",
+              "网络条件",
+              "连通测试",
+              "评估功耗"
+            ],
+            [
+              "时区",
+              "现场位置",
+              "比对时钟",
+              "重新校准"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            72.275,
+            560.0,
+            239.275
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            213.275,
+            169.12150011956692,
+            226.45000000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 1：初始配置参数与核对方式",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            239.275,
+            552.0,
+            254.775
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "日常巡检应查看指示灯状态、面板实时值与存储余量，并按周读取当日与累计发电记录。读取时可使用面板翻页或",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            254.775,
+            552.0,
+            270.275
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "存储卡导出，导出后与平台数据做交叉核对。巡检记录应包含时间、环境状况、读数与异常描述，形成可追溯的现",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            270.275,
+            332.0,
+            285.775
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "场证据。发现读数长期偏离同型站点时，应列入重点核查清单。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            291.775,
+            159.79000014066696,
+            307.275
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            313.275,
+            560.0,
+            447.275
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0017",
+          "belongs_to": "h0017",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "观察项",
+              "正常表现",
+              "异常表现",
+              "记录要求"
+            ],
+            [
+              "指示灯",
+              "慢闪",
+              "红常亮",
+              "记状态时刻"
+            ],
+            [
+              "实时值",
+              "随日照变化",
+              "长期不变",
+              "抄录读数"
+            ],
+            [
+              "存储",
+              "余量充足",
+              "接近写满",
+              "记余量"
+            ],
+            [
+              "通信",
+              "连接稳定",
+              "频繁重连",
+              "记次数"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            313.275,
+            560.0,
+            480.275
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            454.275,
+            177.62150011956692,
+            467.45
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 2：日常巡检观察项与记录要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            480.275,
+            187.89500024914742,
+            497.325
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 常见异常与处理流程",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            501.325,
+            552.0,
+            516.825
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "常见异常包括读数不变、功率为负、通信中断与存储写满。处理时先记录故障现象与代码，再按由外及内的顺序排",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            516.825,
+            552.0,
+            532.325
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "查接线、探头与参数，最后考虑模块更换。任何涉及开盖或更换部件的操作均须断电执行。处理后应复测并留存前",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            532.325,
+            332.0,
+            547.825
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "后对比数据，若同类故障反复出现，应升级至供货方技术支持。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            553.825,
+            183.34400022029877,
+            572.4250000000001
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 数据导出与维护记录",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            576.4250000000001,
+            552.0,
+            591.9250000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "数据导出应按固定周期执行，导出文件以站点编号与日期命名，存放于受控目录并做备份。维护记录需登记巡检、",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            591.9250000000001,
+            552.0,
+            607.4250000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "配置变更、故障处理与部件更换，注明操作人与时间。记录应保存至设备退役后一段时间，以备发电量核对与责任",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            607.4250000000001,
+            382.0,
+            622.9250000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "追溯。导出与记录流程应形成书面清单，新接手人员按清单即可独立完成。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            52,
+            560.0,
+            186
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "条件",
+              "确认方式",
+              "责任岗位",
+              "记录形式"
+            ],
+            [
+              "供电",
+              "验电确认",
+              "电工",
+              "开工单"
+            ],
+            [
+              "接地",
+              "电阻测试",
+              "电工",
+              "测试记录"
+            ],
+            [
+              "位置",
+              "现场勘查",
+              "负责人",
+              "勘查表"
+            ],
+            [
+              "工具",
+              "校准检查",
+              "作业人",
+              "工具清单"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            52,
+            560.0,
+            219
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            169.12150011956692,
+            206.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "图 3：安装前现场条件核对清单",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3162 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            121.43487499999998,
+            70.0,
+            473.841125,
+            97.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Recycling Service Pilot Implementation",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            109.9,
+            525.25927734375,
+            126.95
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This document sets out how the recycling service pilot will be implemented across",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            126.95,
+            516.9716796875,
+            144.0
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the participating collection sites, from mobilisation through review. It defines the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            144.0,
+            479.69091796875,
+            161.05
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "operating scope, the duties of the delivery team, the evidence that will be",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            161.05,
+            515.6826171875,
+            178.10000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "gathered and the questions the review must answer. The pilot runs for 12 weeks",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            178.10000000000002,
+            514.619140625,
+            195.15000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and is treated as a learning exercise: observations are recorded separately from",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            195.15000000000003,
+            441.77099609375,
+            212.20000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "any causal claims about household behaviour or material recovery.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            218.20000000000005,
+            346.4658203125,
+            239.90000000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Pilot Purpose and Operating Scope",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            243.90000000000003,
+            489.60595703125,
+            260.95000000000005
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The pilot tests whether a revised collection and sorting arrangement can be",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            260.95000000000005,
+            496.35205078125,
+            278.00000000000006
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "delivered reliably at the participating sites within the agreed service window.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            278.00000000000006,
+            523.943359375,
+            295.05000000000007
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Scope covers kerbside set-out, transfer to the sorting point, contamination checks",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            295.05000000000007,
+            509.9462890625,
+            312.1000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "and resident communication. Activities outside this scope, including permanent",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            312.1000000000001,
+            491.8994140625,
+            329.1500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "fleet procurement and long-term contract changes, are excluded and will be",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            329.1500000000001,
+            521.89697265625,
+            346.2000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "considered only after the review reports its findings to the sponsoring committee.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            352.2000000000001,
+            321.06640625,
+            370.8000000000001
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "Service Model and Collection Routes",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            374.8000000000001,
+            507.421875,
+            391.85000000000014
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "The service model uses a fixed weekly route pattern with two collection passes",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            391.85000000000014,
+            484.53564453125,
+            408.90000000000015
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "per site and a shared transfer point. Route sequencing was chosen to keep",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            408.90000000000015,
+            523.81982421875,
+            425.95000000000016
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "vehicle dwell time short and to allow sorting staff to receive material in consistent",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            425.95000000000016,
+            501.56201171875,
+            443.00000000000017
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "batches. Route supervisors record arrival and departure times at each stop so",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            443.00000000000017,
+            474.20703125,
+            460.0500000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "that the review can compare planned and actual service delivery without",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            460.0500000000002,
+            306.650390625,
+            477.1000000000002
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "attributing differences to any single cause.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            483.1000000000002,
+            269.2880859375,
+            500.1500000000002
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Site Readiness and Equipment",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            504.1500000000002,
+            521.8271484375,
+            521.2000000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Each site must be confirmed ready before collections begin. Readiness covers bin",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            521.2000000000002,
+            520.91943359375,
+            538.2500000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "placement, signage, access for collection vehicles, staff briefing and a dry sorting",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            538.2500000000001,
+            489.38037109375,
+            555.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "area. Site leads sign a readiness checklist and report exceptions to the pilot",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            555.3000000000001,
+            492.5654296875,
+            572.35
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "coordinator, who decides whether a site starts on schedule or joins in a later",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            572.35,
+            499.171875,
+            589.4
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "wave. Equipment shortfalls are logged and resolved before the first collection",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            589.4,
+            98.681640625,
+            606.4499999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "pass.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            612.4499999999999,
+            345.08544921875,
+            628.7249999999999
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Bin Allocation and Resident Communication",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            632.7249999999999,
+            495.81494140625,
+            649.7749999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Bin allocation follows household size bands agreed with site leads, and every",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            649.7749999999999,
+            488.1611328125,
+            666.8249999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "household receives a short printed guide in plain language. Communication",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            666.8249999999998,
+            477.04833984375,
+            683.8749999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "covers set-out times, accepted materials and what happens when a bin is",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            683.8749999999998,
+            523.857421875,
+            700.9249999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "rejected. Residents can raise questions through a local phone line, with responses",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            700.9249999999997,
+            521.7412109375,
+            717.9749999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "targeted within 2 working days. Messages are kept consistent across sites so that",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            717.9749999999997,
+            308.56787109375,
+            735.0249999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "the review can compare experiences fairly.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            92.0,
+            70,
+            279.8271484375,
+            85.5
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Contamination Checks at Set-Out",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            89.5,
+            506.48193359375,
+            106.55
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Collection crews carry out a visual contamination check at set-out and tag bins",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            106.55,
+            490.88427734375,
+            123.6
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "that contain clearly non-accepted material. Tagged bins are recorded with a",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            123.6,
+            516.080078125,
+            140.65
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "reason code and left for the household to correct before the next pass. Crews do",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            140.65,
+            452.0673828125,
+            157.70000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "not open sealed bags. The check is a service quality measure, not an",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            157.70000000000002,
+            490.083984375,
+            174.75000000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "enforcement action, and households receive a follow-up note explaining the",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            174.75000000000003,
+            173.94140625,
+            191.80000000000004
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "correction needed.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            197.80000000000004,
+            321.7646484375,
+            214.85000000000005
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            220.85000000000005,
+            525.276,
+            354.85
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Code",
+              "Meaning",
+              "Action",
+              "Follow-up"
+            ],
+            [
+              "C1",
+              "Bagged waste",
+              "Tag bin",
+              "Note"
+            ],
+            [
+              "C2",
+              "Non-accepted item",
+              "Tag bin",
+              "Note"
+            ],
+            [
+              "C3",
+              "Mixed material",
+              "Tag bin",
+              "Guide"
+            ],
+            [
+              "C4",
+              "Unclear",
+              "Inspect",
+              "Review"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            220.85000000000005,
+            525.276,
+            387.85
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            361.85,
+            248.935791015625,
+            375.02500000000003
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 1: Contamination tag reason codes",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            92.0,
+            387.85,
+            254.5830078125,
+            403.35
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Sorting Point Intake Records",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            407.35,
+            494.1767578125,
+            424.40000000000003
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "The sorting point keeps an intake record for every batch, noting arrival time,",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            424.40000000000003,
+            482.9189453125,
+            441.45000000000005
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "source site, estimated weight band and visible contamination. Records are",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            441.45000000000005,
+            516.4775390625,
+            458.50000000000006
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "entered on the same day and cross-checked by a second staff member. Where a",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            458.50000000000006,
+            487.48974609375,
+            475.55000000000007
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "batch is held back for inspection, the reason is written on the record. These",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            475.55000000000007,
+            509.32861328125,
+            492.6000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "entries form the main evidence base for the review and are retained for the full",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            492.6000000000001,
+            136.171875,
+            509.6500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "pilot period.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            515.6500000000001,
+            317.4033203125,
+            532.7
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            538.7,
+            525.276,
+            672.7
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Entry",
+              "Detail",
+              "Owner",
+              "Retention"
+            ],
+            [
+              "Arrival time",
+              "Clock time",
+              "Sorting staff",
+              "Pilot"
+            ],
+            [
+              "Source site",
+              "Site code",
+              "Sorting staff",
+              "Pilot"
+            ],
+            [
+              "Weight band",
+              "Estimated",
+              "Sorting staff",
+              "Pilot"
+            ],
+            [
+              "Hold reason",
+              "Written note",
+              "Reviewer",
+              "Pilot"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            538.7,
+            525.276,
+            705.7
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            679.7,
+            261.017578125,
+            692.875
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 1: Sorting point intake record contents",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            705.7,
+            255.645751953125,
+            721.975
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Temporary Site Adjustments",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            725.975,
+            517.94384765625,
+            743.025
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Site leads may request temporary adjustments, such as a moved collection point",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            485.37353515625,
+            87.05
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "or an extra bin, when access or weather conditions require it. Requests are",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            521.11279296875,
+            104.1
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "submitted in writing and approved by the pilot coordinator within 5 working days.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            104.1,
+            523.02490234375,
+            121.14999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Approved adjustments are logged with the date, reason and expected duration so",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            121.14999999999999,
+            462.82568359375,
+            138.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "that the review can distinguish planned service design from short-term",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            138.2,
+            165.541015625,
+            155.25
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "operational fixes.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            161.25,
+            289.923828125,
+            178.3
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "Route Contingency Arrangements",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            182.3,
+            513.13671875,
+            199.35000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "When a route cannot be completed, the supervisor activates a contingency plan",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            199.35000000000002,
+            504.11865234375,
+            216.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "that prioritises households missed on the previous pass and defers non-urgent",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            216.40000000000003,
+            507.7119140625,
+            233.45000000000005
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "transfers. Affected residents are notified the same day through the local phone",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            233.45000000000005,
+            481.94140625,
+            250.50000000000006
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "line and printed notice where needed. Each activation is recorded with the",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            250.50000000000006,
+            508.66796875,
+            267.55000000000007
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "trigger, the stops affected and the recovery date, allowing the review to assess",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            267.55000000000007,
+            355.7421875,
+            284.6000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "how often contingency arrangements were needed.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            290.6000000000001,
+            320.099609375,
+            309.2000000000001
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "Site Readiness Evidence and Checks",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            313.2000000000001,
+            501.10009765625,
+            330.2500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Readiness evidence is collected through signed checklists, photographs of bin",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            330.2500000000001,
+            524.77587890625,
+            347.3000000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "placement and brief notes from site briefings. The coordinator samples completed",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            347.3000000000001,
+            477.11279296875,
+            364.35000000000014
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "checklists to confirm that entries are consistent and that exceptions were",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            364.35000000000014,
+            504.96728515625,
+            381.40000000000015
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "resolved. Evidence is filed by site and week, so that any later question about a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            381.40000000000015,
+            481.705078125,
+            398.45000000000016
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "site's starting condition can be answered from the record rather than from",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            398.45000000000016,
+            137.56298828125,
+            415.50000000000017
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "recollection.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            421.50000000000017,
+            347.443359375,
+            443.20000000000016
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Monitoring, Records and Reporting",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            447.20000000000016,
+            520.9462890625,
+            464.25000000000017
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Monitoring combines route logs, sorting point intake records and resident contact",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            464.25000000000017,
+            502.2333984375,
+            481.3000000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "notes. The pilot coordinator compiles a short weekly summary for the delivery",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            481.3000000000002,
+            486.34033203125,
+            498.3500000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "team and a fuller report at the end of the pilot. Records are kept in a single",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            498.3500000000002,
+            510.4619140625,
+            515.4000000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "shared register with clear ownership, and any gap is flagged at the next weekly",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            515.4000000000002,
+            496.87841796875,
+            532.4500000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "meeting so that it can be corrected while the relevant staff are still available.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            538.4500000000002,
+            321.7646484375,
+            555.5000000000001
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            561.5000000000001,
+            317.4033203125,
+            578.5500000000001
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            584.5500000000001,
+            525.276,
+            718.5500000000001
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Field",
+              "Owner",
+              "Frequency",
+              "Check"
+            ],
+            [
+              "Route completion",
+              "Supervisor",
+              "Each pass",
+              "Daily"
+            ],
+            [
+              "Tagged bins",
+              "Crew lead",
+              "Each pass",
+              "Daily"
+            ],
+            [
+              "Intake batch",
+              "Sorting staff",
+              "Each batch",
+              "Same day"
+            ],
+            [
+              "Resident contact",
+              "Phone line",
+              "As raised",
+              "Weekly"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            584.5500000000001,
+            525.276,
+            751.5500000000001
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            725.5500000000001,
+            334.130859375,
+            738.725
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Figure 2: Weekly monitoring register fields and record owners",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            70,
+            525.276,
+            204
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Product",
+              "Audience",
+              "Timing",
+              "Owner"
+            ],
+            [
+              "Weekly summary",
+              "Delivery team",
+              "Weekly",
+              "Coordinator"
+            ],
+            [
+              "Checkpoint note",
+              "Committee",
+              "Mid-pilot",
+              "Coordinator"
+            ],
+            [
+              "Final report",
+              "Committee",
+              "End",
+              "Review team"
+            ],
+            [
+              "Register extract",
+              "Auditors",
+              "On request",
+              "Coordinator"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            70,
+            525.276,
+            237
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            275.979736328125,
+            224.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 2: Reporting products and their audiences",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            237,
+            308.697265625,
+            255.6
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "Sampling and Observation Method",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            259.6,
+            511.90673828125,
+            276.65000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Observation uses a structured sampling approach across the participating sites,",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            276.65000000000003,
+            507.6259765625,
+            293.70000000000005
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "with checks spread over the pilot period rather than concentrated in one week.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            293.70000000000005,
+            506.33154296875,
+            310.75000000000006
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Observers follow a written checklist and record what they see without inferring",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            310.75000000000006,
+            522.203125,
+            327.80000000000007
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "household intent. Simulated observations are labelled as such in the register, and",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            327.80000000000007,
+            506.86328125,
+            344.8500000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "the review team is instructed not to treat observed associations as evidence of",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            344.8500000000001,
+            165.08447265625,
+            361.9000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "cause and effect.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            367.9000000000001,
+            311.9345703125,
+            384.9500000000001
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "Data Handling and Quality Assurance",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            388.9500000000001,
+            518.59375,
+            406.0000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Data handling follows a simple rule: one entry, one owner, one date. The register",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            406.0000000000001,
+            503.5546875,
+            423.0500000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "is reviewed weekly for missing fields, duplicate batch records and inconsistent",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            423.0500000000001,
+            520.84423828125,
+            440.10000000000014
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "reason codes. A second reviewer checks a sample of entries against paper forms.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            440.10000000000014,
+            513.50732421875,
+            457.15000000000015
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Corrections are made by annotation rather than deletion, so that the review can",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            457.15000000000015,
+            413.3310546875,
+            474.20000000000016
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "see what changed and why, and the audit trail remains intact.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            480.20000000000016,
+            317.4033203125,
+            497.25000000000017
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            503.25000000000017,
+            525.276,
+            637.2500000000002
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Method",
+              "Reviewer",
+              "Action"
+            ],
+            [
+              "Missing field",
+              "Weekly scan",
+              "Coordinator",
+              "Follow-up"
+            ],
+            [
+              "Duplicate entry",
+              "Cross-check",
+              "Second reviewer",
+              "Annotate"
+            ],
+            [
+              "Code mismatch",
+              "Sample",
+              "Second reviewer",
+              "Correct"
+            ],
+            [
+              "Paper match",
+              "Sample",
+              "Reviewer",
+              "Annotate"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            503.25000000000017,
+            525.276,
+            670.2500000000002
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            644.2500000000002,
+            296.723388671875,
+            657.4250000000002
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 3: Quality assurance checks on register entries",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            670.2500000000002,
+            279.045166015625,
+            686.5250000000002
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "Weekly Summary and Escalation",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            690.5250000000002,
+            465.47900390625,
+            707.5750000000002
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Each week the coordinator issues a short summary covering collections",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            707.5750000000002,
+            505.68701171875,
+            724.6250000000001
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "completed, tagged bins, held batches and open resident questions. Issues that",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            724.6250000000001,
+            496.2177734375,
+            741.6750000000001
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "affect safety or service continuity are escalated to the sponsoring committee",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            457.3203125,
+            87.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "immediately rather than waiting for the weekly cycle. The summary is",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            511.890625,
+            104.1
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "deliberately brief so that the delivery team reads it, and detailed figures remain",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            104.1,
+            258.71337890625,
+            121.14999999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "in the register for the final review.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            92.0,
+            127.14999999999999,
+            311.0087890625,
+            142.64999999999998
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "Observation Log and Sample Coverage",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            146.64999999999998,
+            515.564453125,
+            163.7
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The observation log records what was seen at each check, the time, the site and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            163.7,
+            456.13330078125,
+            180.75
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "the observer. Coverage is tracked against the planned sample so that",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            180.75,
+            479.2880859375,
+            197.8
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "under-observed periods are visible early. The table below summarises the",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            197.8,
+            500.546875,
+            214.85000000000002
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "planned observation schedule and the type of evidence each check produces,",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            214.85000000000002,
+            490.34716796875,
+            231.90000000000003
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "distinguishing recorded observations from later interpretation by the review",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            231.90000000000003,
+            102.033203125,
+            248.95000000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "team.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            254.95000000000005,
+            317.4033203125,
+            272.00000000000006
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            278.00000000000006,
+            525.276,
+            412.00000000000006
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Timing",
+              "Evidence",
+              "Use"
+            ],
+            [
+              "Set-out review",
+              "Morning",
+              "Photo note",
+              "Coverage"
+            ],
+            [
+              "Bin tagging",
+              "Each pass",
+              "Reason code",
+              "Quality"
+            ],
+            [
+              "Batch intake",
+              "Arrival",
+              "Intake record",
+              "Traceability"
+            ],
+            [
+              "Resident call",
+              "As raised",
+              "Contact note",
+              "Concerns"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            278.00000000000006,
+            525.276,
+            445.00000000000006
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            419.00000000000006,
+            328.951171875,
+            432.17500000000007
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 4: Planned observation checks and evidence produced",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            92.0,
+            445.00000000000006,
+            292.2978515625,
+            460.50000000000006
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "Record Gaps and Follow-Up Actions",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            464.50000000000006,
+            517.05224609375,
+            481.55000000000007
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "When a record is missing, the coordinator raises a follow-up action with a named",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            481.55000000000007,
+            520.59716796875,
+            498.6000000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "owner and a due date. Actions are closed only when the missing entry is restored",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            498.6000000000001,
+            499.03759765625,
+            515.6500000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "or the gap is explained in writing. Recurring gaps are discussed at the weekly",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            515.6500000000001,
+            491.0615234375,
+            532.7
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "meeting, since they often point to a form design problem or an unclear duty",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            532.7,
+            237.80908203125,
+            549.75
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "rather than to individual error.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            555.75,
+            272.75439453125,
+            572.025
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "Interpreting Observed Patterns",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            576.025,
+            500.375,
+            593.0749999999999
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Observed patterns, such as a rise in tagged bins during a particular week, are",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            593.0749999999999,
+            513.19580078125,
+            610.1249999999999
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "reported as observations and not as proof that a communication change caused",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            610.1249999999999,
+            517.23486328125,
+            627.1749999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "the difference. The review team compares records across sites and weeks, notes",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            627.1749999999998,
+            504.14013671875,
+            644.2249999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "plausible alternative explanations and states clearly where the evidence is too",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            644.2249999999998,
+            311.59716796875,
+            661.2749999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "thin to support any conclusion about cause.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            667.2749999999997,
+            316.4677734375,
+            684.3249999999997
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "Review Questions for the Final Report",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            688.3249999999997,
+            516.18212890625,
+            705.3749999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "The final report must answer a fixed set of questions: whether the service ran as",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            705.3749999999997,
+            511.82080078125,
+            722.4249999999996
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "designed, where records were incomplete, which adjustments were needed and",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            722.4249999999996,
+            509.6884765625,
+            739.4749999999996
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "what residents asked about most often. It must also state what the pilot cannot",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            739.4749999999996,
+            499.794921875,
+            756.5249999999995
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "tell us, particularly about long-term behaviour change. Recommendations are",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            485.40576171875,
+            87.05
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "separated from findings so that decision-makers can see the basis for each",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            120.9716796875,
+            104.1
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "proposal.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            110.1,
+            346.396484375,
+            128.7
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "Reporting Calendar and Responsibilities",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            132.7,
+            520.74755859375,
+            149.75
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Reporting follows a fixed calendar: weekly summaries during delivery, a mid-pilot",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            149.75,
+            507.85693359375,
+            166.8
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "checkpoint and a final report after the last collection. The coordinator owns the",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            166.8,
+            489.525390625,
+            183.85000000000002
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "calendar, site leads supply site records and the review team drafts findings.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            183.85000000000002,
+            490.599609375,
+            200.90000000000003
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Drafts are circulated for correction before publication, and the final report is",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            200.90000000000003,
+            501.42236328125,
+            217.95000000000005
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "presented to the sponsoring committee with the underlying register attached.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 11,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

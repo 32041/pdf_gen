@@ -1,0 +1,2488 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.43212890625,
+            62.0,
+            545.56787109375,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Software Acceptance and Support Agreement for the",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            183.38818359375,
+            89.9,
+            428.61181640625,
+            117.80000000000001
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Larkspur Dispatch Platform",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            129.8,
+            535.397216796875,
+            146.07500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This agreement records the binding understanding between Corvid Logistics Cooperative,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            146.07500000000002,
+            544.687255859375,
+            162.35000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the licensee, and Tesselwick Software Studio, the licensor, concerning delivery, acceptance",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            162.35000000000002,
+            508.357666015625,
+            178.62500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and ongoing support of the Larkspur Dispatch Platform. It fixes the scope of licensed",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            178.62500000000003,
+            539.06298828125,
+            194.90000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "modules, the acceptance procedure with its review periods, the support service levels and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            194.90000000000003,
+            549.865478515625,
+            211.17500000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the commercial terms for a term of 12 months. Both parties confirm that no other document",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            211.17500000000004,
+            270.774658203125,
+            227.45000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "supersedes the obligations stated here.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            233.45000000000005,
+            298.15771484375,
+            249.72500000000005
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 6.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            255.72500000000005,
+            298.15771484375,
+            272.00000000000006
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            278.00000000000006,
+            379.63671875,
+            296.6000000000001
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Scope of Licensed Software and Deliverables",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            300.6000000000001,
+            550.0,
+            434.6000000000001
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Item",
+              "Position",
+              "Notice",
+              "Record"
+            ],
+            [
+              "Term",
+              "12 months",
+              "Not applicable",
+              "Signed deed"
+            ],
+            [
+              "Renewal",
+              "Written agreement",
+              "Before expiry",
+              "Addendum"
+            ],
+            [
+              "Breach",
+              "Cure period",
+              "Written notice",
+              "Letter"
+            ],
+            [
+              "Wind-down",
+              "Data extract",
+              "On termination",
+              "Handover note"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            300.6000000000001,
+            550.0,
+            467.6000000000001
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            441.6000000000001,
+            272.296142578125,
+            454.7750000000001
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 1: Term, renewal and termination positions",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            467.6000000000001,
+            512.42333984375,
+            483.87500000000006
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The licensor shall deliver the dispatch scheduling module, the driver communications",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            483.87500000000006,
+            501.9541015625,
+            500.15000000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "module and the reporting console described in the delivery schedule, together with",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            500.15000000000003,
+            538.145263671875,
+            516.4250000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "installation notes, an administrator handbook and test data. Source code is held in escrow",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            516.4250000000001,
+            542.123779296875,
+            532.7
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "but not transferred. The licensee receives a non-exclusive, non-transferable licence for use",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            532.7,
+            541.149658203125,
+            548.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "at 4 operating sites. Any module not expressly listed remains outside scope and requires a",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            548.975,
+            297.311767578125,
+            565.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "written change order signed by both parties.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            571.25,
+            359.89697265625,
+            588.3
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Delivery Milestones and Acceptance Testing",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            592.3,
+            540.647216796875,
+            608.5749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Delivery proceeds in staged milestones so that the licensee can verify each module before",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            608.5749999999999,
+            531.96728515625,
+            624.8499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "the next is installed. The licensor gives written notice when a milestone is ready, and the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            624.8499999999999,
+            542.677490234375,
+            641.1249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "licensee then runs the acceptance tests described in the test plan. Acceptance depends on",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            641.1249999999999,
+            513.58203125,
+            657.3999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "documented results, not on impressions. Milestone dates, responsible parties and the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            657.3999999999999,
+            513.033447265625,
+            673.6749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "evidence each party must produce are set out in the schedule of delivery obligations.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            362.962890625,
+            79.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Acceptance Test Procedure and Evidence",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            503.128173828125,
+            99.325
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "The acceptance test procedure defines the test cases, the expected results and the",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            511.1416015625,
+            115.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "recording format. The licensee executes the cases on its own equipment and records",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            533.23876953125,
+            131.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "observations in a shared log. Each observation is tagged as a simulated test result rather",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            524.179443359375,
+            148.15
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "than a production measurement, and no causal claim about business outcomes may be",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            148.15,
+            472.5869140625,
+            164.425
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "drawn from it. Discrepancies are logged with severity and reproduction steps.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.425,
+            298.15771484375,
+            186.70000000000002
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            192.70000000000002,
+            550.0,
+            326.70000000000005
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Area",
+              "Evidence",
+              "Pass stance",
+              "Owner"
+            ],
+            [
+              "Scheduling",
+              "Test log",
+              "All critical pass",
+              "Licensee"
+            ],
+            [
+              "Communications",
+              "Test log",
+              "No top defect",
+              "Licensee"
+            ],
+            [
+              "Reporting",
+              "Sample output",
+              "Reconciles",
+              "Joint"
+            ],
+            [
+              "Security",
+              "Access review",
+              "Approved",
+              "Joint"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            192.70000000000002,
+            550.0,
+            359.70000000000005
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            333.70000000000005,
+            328.74560546875,
+            346.87500000000006
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 2: Acceptance coverage areas with evidence and stance",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            359.70000000000005,
+            328.46826171875,
+            375.975
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 Test Case Coverage and Pass Criteria",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            379.975,
+            544.9384765625,
+            396.25
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Pass criteria are agreed per test case before execution begins. A milestone passes when all",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            396.25,
+            540.421630859375,
+            412.525
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "critical cases succeed and no open defect of the highest severity remains. The table below",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            412.525,
+            545.62548828125,
+            428.79999999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "summarises the coverage areas, the evidence required and the acceptance stance for each",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            428.79999999999995,
+            412.206787109375,
+            445.07499999999993
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "area, so that reviewers apply the same standard across all 4 sites.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            451.07499999999993,
+            359.717041015625,
+            467.3499999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.2 Defect Severity and Remediation Windows",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            471.3499999999999,
+            486.055419921875,
+            487.6249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Each defect is classified by severity at logging, and the licensor may contest the",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            487.6249999999999,
+            545.117919921875,
+            503.89999999999986
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "classification only in writing within 2 days. Critical defects block acceptance until remedied.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            503.89999999999986,
+            539.708984375,
+            520.1749999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The licensor must acknowledge every defect within 2 days and provide a remediation plan",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            520.1749999999998,
+            504.271484375,
+            536.4499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "for high-severity items. Retesting follows the same recording discipline, and closure",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            536.4499999999998,
+            294.379150390625,
+            552.7249999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "requires the licensee's written confirmation.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            558.7249999999998,
+            376.02001953125,
+            575.7749999999997
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.2 Acceptance Decision and Deemed Approval",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.7749999999997,
+            540.4267578125,
+            596.0499999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "The licensee issues an acceptance decision within 5 days of receiving the milestone notice",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            596.0499999999997,
+            530.352294921875,
+            612.3249999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "and test materials. The decision states acceptance, conditional acceptance with a defect",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            612.3249999999997,
+            511.900390625,
+            628.5999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "list, or rejection with reasons. Silence beyond the review period counts as conditional",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            628.5999999999997,
+            502.769287109375,
+            644.8749999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "acceptance only where the licensee has received complete test materials. Rejected",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.8749999999997,
+            444.404052734375,
+            661.1499999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "milestones are resubmitted with a fresh notice and a new review period.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            389.873046875,
+            79.05
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.2 Outstanding Defects and Conditional Acceptance",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            532.362060546875,
+            99.325
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Conditional acceptance allows operations to begin while listed defects are corrected. The",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            525.1484375,
+            115.60000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "parties record each outstanding defect, its severity, the agreed correction date and any",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            525.051025390625,
+            131.875
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "interim workaround. Support obligations commence at conditional acceptance, but final",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            535.427978515625,
+            148.15
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "acceptance is withheld until the defect list is cleared or formally waived. Waivers must be",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            148.15,
+            343.485107421875,
+            164.425
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "written and do not extinguish latent defect remedies.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.425,
+            320.650390625,
+            189.025
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2 Support Services and Service Levels",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            193.025,
+            524.507568359375,
+            209.3
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Following acceptance, the licensor provides support for the remainder of the term of 12",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            209.3,
+            541.057373046875,
+            225.57500000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "months. Support covers incident intake, diagnosis, workarounds and corrections within the",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.57500000000002,
+            541.44189453125,
+            241.85000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "licensed scope. The service levels distinguish critical, high and routine incidents, each with",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            241.85000000000002,
+            479.89794921875,
+            258.125
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "an acknowledgement target and a restoration target. Support excludes custom",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            258.125,
+            530.998291015625,
+            274.4
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "development, third-party hardware faults and misuse, which are handled under separate",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            274.4,
+            139.55029296875,
+            290.67499999999995
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "arrangements.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            296.67499999999995,
+            298.15771484375,
+            312.94999999999993
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            318.94999999999993,
+            550.0,
+            452.94999999999993
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Channel",
+              "Availability",
+              "Response duty",
+              "Evidence"
+            ],
+            [
+              "Service portal",
+              "Business hours",
+              "Acknowledge in 2 days",
+              "Ticket timestamp"
+            ],
+            [
+              "Telephone line",
+              "Business hours",
+              "Log and triage",
+              "Call record"
+            ],
+            [
+              "Out-of-hours route",
+              "Critical only",
+              "Page on-call engineer",
+              "Paging log"
+            ],
+            [
+              "Quarterly review",
+              "Scheduled",
+              "Confirm actions",
+              "Meeting minutes"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            318.94999999999993,
+            550.0,
+            485.94999999999993
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            459.94999999999993,
+            342.75732421875,
+            473.12499999999994
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Support channels, availability and response expectations",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            485.94999999999993,
+            289.7666015625,
+            502.99999999999994
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1 Incident Handling and Escalation",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.99999999999994,
+            504.717529296875,
+            523.275
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Incidents are logged through the shared service desk with a unique reference and a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            523.275,
+            538.42724609375,
+            539.55
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "severity assigned at intake. The licensor acknowledges critical incidents within 2 days and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            539.55,
+            533.42333984375,
+            555.8249999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "provides updates at agreed intervals until restoration. If progress stalls, the licensee may",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            555.8249999999999,
+            539.3603515625,
+            572.0999999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "escalate to the licensor's named service manager, then to the account director. Escalation",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            572.0999999999999,
+            363.7109375,
+            588.3749999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "does not alter the underlying service level commitments.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            594.3749999999999,
+            403.91748046875,
+            611.4249999999998
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.1.1 Support Channels, Hours and Response Targets",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            615.4249999999998,
+            523.384765625,
+            631.6999999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Support is available through the service desk portal and a telephone line during agreed",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            631.6999999999998,
+            511.351806640625,
+            647.9749999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "business hours, with an out-of-hours route for critical incidents. Response targets are",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            647.9749999999998,
+            506.470947265625,
+            664.2499999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "measured from logged intake to first substantive reply. The table below sets out the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            664.2499999999998,
+            494.10986328125,
+            680.5249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "channels, the hours and the response expectations so that both parties share one",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            680.5249999999997,
+            179.0380859375,
+            696.7999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "operational reference.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            382.4755859375,
+            78.275
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1.1.1 Response and Restoration Targets by Severity",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            82.275,
+            534.0078125,
+            98.55000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Severity determines the urgency of the response and the restoration expectation. Critical",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            98.55000000000001,
+            524.697265625,
+            114.82500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "incidents receive continuous attention until a workaround is in place. High incidents are",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            114.82500000000002,
+            539.4013671875,
+            131.10000000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "worked during business hours with daily updates. Routine incidents are scheduled into the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.10000000000002,
+            538.6015625,
+            147.37500000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "normal release cycle. The table below records the targets and the reporting duty attached",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            147.37500000000003,
+            179.802001953125,
+            163.65000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "to each severity band.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            169.65000000000003,
+            298.15771484375,
+            185.92500000000004
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            191.92500000000004,
+            394.672607421875,
+            208.20000000000005
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1.2 Monthly Service Reporting and Review Meetings",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            212.20000000000005,
+            550.0,
+            346.20000000000005
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Severity",
+              "Response target",
+              "Restoration aim",
+              "Report duty"
+            ],
+            [
+              "Critical",
+              "2 days",
+              "Continuous work",
+              "Daily update"
+            ],
+            [
+              "High",
+              "2 days",
+              "Business hours",
+              "Daily update"
+            ],
+            [
+              "Routine",
+              "5 days",
+              "Next release",
+              "Monthly summary"
+            ],
+            [
+              "Cosmetic",
+              "5 days",
+              "Scheduled fix",
+              "Monthly summary"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            212.20000000000005,
+            550.0,
+            379.20000000000005
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            353.20000000000005,
+            306.06787109375,
+            366.37500000000006
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 4: Severity bands with targets and reporting duties",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            379.20000000000005,
+            500.12890625,
+            395.475
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "The licensor submits a monthly service report covering incident volumes, response",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            395.475,
+            524.76904296875,
+            411.75
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "performance against targets, open defects and planned maintenance. The parties meet",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            411.75,
+            546.38427734375,
+            428.025
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "quarterly to review the report, confirm corrective actions and agree improvement priorities.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            428.025,
+            533.838623046875,
+            444.29999999999995
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Reports distinguish logged observations from inferred causes, and no report may present",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            444.29999999999995,
+            453.38134765625,
+            460.57499999999993
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "simulated figures as measured production outcomes without a clear label.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.57499999999993,
+            298.15771484375,
+            482.8499999999999
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            488.8499999999999,
+            550.0,
+            622.8499999999999
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Stage",
+              "Trigger",
+              "Responsible",
+              "Output"
+            ],
+            [
+              "Intake",
+              "Ticket logged",
+              "Service desk",
+              "Severity set"
+            ],
+            [
+              "First escalation",
+              "Target missed",
+              "Service manager",
+              "Recovery plan"
+            ],
+            [
+              "Second escalation",
+              "Plan fails",
+              "Account director",
+              "Joint review"
+            ],
+            [
+              "Closure",
+              "Fix verified",
+              "Licensee",
+              "Closure note"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            488.8499999999999,
+            550.0,
+            655.8499999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            629.8499999999999,
+            295.31005859375,
+            643.0249999999999
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 5: Incident escalation stages and responsibilities",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            655.8499999999999,
+            373.189453125,
+            672.8999999999999
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.2 Maintenance Windows and Change Control",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            676.8999999999999,
+            504.061279296875,
+            693.1749999999998
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Planned maintenance occurs in agreed windows notified at least 5 days in advance.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            693.1749999999998,
+            545.62548828125,
+            709.4499999999998
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Emergency maintenance is permitted for critical security or stability matters, with notice as",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            543.549072265625,
+            78.275
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "soon as practicable. Changes to the licensed software follow the change control procedure,",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            513.65380859375,
+            94.55000000000001
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "including impact assessment, rollback plan and post-change verification. Unapproved",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            405.47509765625,
+            110.82500000000002
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "changes that cause incidents are remedied at the licensor's cost.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            116.82500000000002,
+            320.822265625,
+            133.87500000000003
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.2 Fees, Term, Renewal and Termination",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.87500000000003,
+            527.194091796875,
+            154.15000000000003
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Support fees are invoiced annually in advance and are payable within the stated period.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            154.15000000000003,
+            537.95556640625,
+            170.42500000000004
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The agreement runs for 12 months and renews only by written agreement of both parties.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.42500000000004,
+            541.344482421875,
+            186.70000000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Either party may terminate for material breach that remains uncured after a written notice",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            186.70000000000005,
+            516.858154296875,
+            202.97500000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "period, or for insolvency. On termination the licensee receives a final data extract and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            202.97500000000005,
+            323.848876953125,
+            219.25000000000006
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "continued access for a defined wind-down period.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            225.25000000000006,
+            550.0,
+            359.25000000000006
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Party",
+              "Obligation",
+              "Evidence",
+              "Timing"
+            ],
+            [
+              "Licensor",
+              "Deliver modules",
+              "Delivery notice",
+              "Per milestone"
+            ],
+            [
+              "Licensee",
+              "Run tests",
+              "Acceptance log",
+              "5 days"
+            ],
+            [
+              "Licensor",
+              "Remedy defects",
+              "Defect tickets",
+              "2 days"
+            ],
+            [
+              "Licensee",
+              "Pay fees",
+              "Invoice record",
+              "Annual"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            225.25000000000006,
+            550.0,
+            392.25000000000006
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.25000000000006,
+            290.94384765625,
+            379.42500000000007
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 6: Core obligations and evidence for each party",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "doc_id": "0001",
+  "kind": "official",
+  "domain": "gov_standard",
+  "language": "zh",
+  "title": "公共设施巡检试点工作通知",
+  "seed": 42,
+  "target_depth": 6,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "compact",
+  "columns": 1,
+  "margin_pt": 52,
+  "font_size": 10,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "公共设施巡检试点工作通知",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "公共设施巡检试点工作通知",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "试点目标与总体安排",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 试点目标与总体安排",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "巡检范围与对象分类",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 巡检范围与对象分类",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "巡检组织与职责分工",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 巡检组织与职责分工",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "现场巡检执行要求",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1 现场巡检执行要求",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "巡查路线与频次安排",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1.1 巡查路线与频次安排",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "问题发现与现场处置",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.1.2 问题发现与现场处置",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "记录填报与信息归档",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.2 记录填报与信息归档",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "抽查复核与质量把关",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 抽查复核与质量把关",
+      "is_document_title": false
+    },
+    {
+      "id": "h0020",
+      "title": "复核时限与反馈流程",
+      "level": 5,
+      "parent_id": "h0009",
+      "path": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "text": "1.1.2.1 复核时限与反馈流程",
+      "is_document_title": false
+    },
+    {
+      "id": "h0021",
+      "title": "复核抽样覆盖与样本量",
+      "level": 5,
+      "parent_id": "h0009",
+      "path": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "text": "1.1.2.2 复核抽样覆盖与样本量",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "阶段小结与信息报送",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 阶段小结与信息报送",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "试点评估与数据核验",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 试点评估与数据核验",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "评估指标与观测口径",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 评估指标与观测口径",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "样本抽取与核验方法",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 样本抽取与核验方法",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "核验结果记录与比对",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1 核验结果记录与比对",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "差异说明与整改跟踪",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1.1 差异说明与整改跟踪",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "数据局限与解释边界",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.1.2 数据局限与解释边界",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "评估结论形成与复核",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.2 评估结论形成与复核",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "成果应用与机制完善",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 成果应用与机制完善",
+      "is_document_title": false
+    },
+    {
+      "id": "h0019",
+      "title": "后续推广与工作衔接",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 后续推广与工作衔接",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      80.42,
+      95.64,
+      106.95,
+      121.89
+    ],
+    "cost": [
+      52.27,
+      62.17,
+      69.52,
+      79.23
+    ],
+    "balance": [
+      28.15,
+      33.47,
+      37.43,
+      42.66
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0011",
+      "target_previous_id": "h0019",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "试点评估与数据核验",
+      "caption": "图 3：巡检记录字段与填报要求对照",
+      "rows": [
+        [
+          "字段",
+          "填写内容",
+          "责任岗位",
+          "核对方式"
+        ],
+        [
+          "点位编号",
+          "按片区编码",
+          "记录员",
+          "与清单比对"
+        ],
+        [
+          "查看时间",
+          "当日实际时刻",
+          "巡查员",
+          "抽查复核"
+        ],
+        [
+          "设施状态",
+          "完好或异常",
+          "巡查员",
+          "现场比对"
+        ],
+        [
+          "处置结果",
+          "已处置或待办",
+          "组长",
+          "台账核对"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 3。",
+      "plate_group": "plate-1",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "巡检记录字段与填报要求对照",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: 公共设施巡检试点工作通知. Section: 试点评估与数据核验. Caption: 巡检记录字段与填报要求对照. Article context: 评估围绕巡检覆盖、问题闭环与记录质量三个方面展开，以台账和抽查结果为证据来源。评估应区分观测到的记录情况与对效果的推断，避免将相关性表述为因果结论。核验中发现的口径差异应逐项说明，评估结论须注明适用范围与局限，供后续推广决策参考。. Supporting records: [[\"字段\", \"填写内容\", \"责任岗位\", \"核对方式\"], [\"点位编号\", \"按片区编码\", \"记录员\", \"与清单比对\"], [\"查看时间\", \"当日实际时刻\", \"巡查员\", \"抽查复核\"], [\"设施状态\", \"完好或异常\", \"巡查员\", \"现场比对\"], [\"处置结果\", \"已处置或待办\", \"组长\", \"台账核对\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0011",
+      "target_previous_id": "h0019",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "试点评估与数据核验",
+      "caption": "表 2：试点评估指标与证据来源说明",
+      "rows": [
+        [
+          "指标",
+          "统计基础",
+          "证据来源",
+          "说明"
+        ],
+        [
+          "点位覆盖",
+          "台账记录",
+          "排班表",
+          "按区间统计"
+        ],
+        [
+          "问题上报",
+          "首次登记",
+          "记录表单",
+          "重复不计"
+        ],
+        [
+          "闭环比例",
+          "处置记录",
+          "凭证归档",
+          "注明时点"
+        ],
+        [
+          "记录完整",
+          "字段核对",
+          "抽查结果",
+          "逐项比对"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": "plate-1",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "试点评估指标与证据来源说明",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0012",
+      "target_previous_id": "h0019",
+      "target_subtype": "plate",
+      "target_relation": "siblings",
+      "topic": "评估指标与观测口径",
+      "caption": "表 3：抽样核验差异类型与记录方式",
+      "rows": [
+        [
+          "差异类型",
+          "判定依据",
+          "记录方式",
+          "后续处理"
+        ],
+        [
+          "记录疏漏",
+          "字段空缺",
+          "逐条登记",
+          "退回补填"
+        ],
+        [
+          "信息偏差",
+          "描述不符",
+          "注明差异",
+          "书面说明"
+        ],
+        [
+          "现场变化",
+          "状态改变",
+          "附照片",
+          "更新台账"
+        ],
+        [
+          "无法确认",
+          "证据不足",
+          "标注待核",
+          "下阶段确认"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": "plate-1",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "抽样核验差异类型与记录方式",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0012",
+      "target_previous_id": "h0012",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "评估指标与观测口径",
+      "caption": "表 1：核验比对记录要点与签署要求",
+      "rows": [
+        [
+          "记录项",
+          "内容要求",
+          "签署人",
+          "留存方式"
+        ],
+        [
+          "台账信息",
+          "照录原文",
+          "核验员",
+          "随表归档"
+        ],
+        [
+          "现场情况",
+          "事实描述",
+          "核验员",
+          "附照片"
+        ],
+        [
+          "差异说明",
+          "不预设原因",
+          "核验员",
+          "随表归档"
+        ],
+        [
+          "待核事项",
+          "注明时限",
+          "组长",
+          "台账备注"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "核验比对记录要点与签署要求",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0014",
+      "target_previous_id": "h0014",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "核验结果记录与比对",
+      "caption": "图 1：试点阶段任务与责任分工安排",
+      "rows": [
+        [
+          "阶段",
+          "主要任务",
+          "责任单位",
+          "完成标志"
+        ],
+        [
+          "部署",
+          "明确分工",
+          "牵头单位",
+          "名单确认"
+        ],
+        [
+          "运行",
+          "按路线巡检",
+          "各片区",
+          "记录连续"
+        ],
+        [
+          "评估",
+          "抽样核验",
+          "牵头单位",
+          "结论定稿"
+        ],
+        [
+          "总结",
+          "提出建议",
+          "牵头单位",
+          "简报印发"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "试点阶段任务与责任分工安排",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: 公共设施巡检试点工作通知. Section: 核验结果记录与比对. Caption: 试点阶段任务与责任分工安排. Article context: 核验结果按点位逐条记录，包含台账信息、现场情况与差异说明。比对以事实描述为主，对无法现场确认的事项标注待核，不强行归类。汇总时按差异类型统计出现次数，作为记录质量的观测依据。核验人员应在记录上签署姓名与日期，确保过程可追溯。. Supporting records: [[\"阶段\", \"主要任务\", \"责任单位\", \"完成标志\"], [\"部署\", \"明确分工\", \"牵头单位\", \"名单确认\"], [\"运行\", \"按路线巡检\", \"各片区\", \"记录连续\"], [\"评估\", \"抽样核验\", \"牵头单位\", \"结论定稿\"], [\"总结\", \"提出建议\", \"牵头单位\", \"简报印发\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0015",
+      "target_previous_id": "h0015",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "差异说明与整改跟踪",
+      "caption": "图 2：差异整改跟踪事项与时限要求",
+      "rows": [
+        [
+          "事项",
+          "责任人",
+          "时限要求",
+          "跟踪方式"
+        ],
+        [
+          "补填记录",
+          "记录员",
+          "当日完成",
+          "组长复核"
+        ],
+        [
+          "书面说明",
+          "片区负责人",
+          "限期提交",
+          "汇总登记"
+        ],
+        [
+          "更新台账",
+          "记录员",
+          "整改后",
+          "留存凭证"
+        ],
+        [
+          "进展说明",
+          "片区负责人",
+          "阶段小结",
+          "书面报送"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "差异整改跟踪事项与时限要求",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: 公共设施巡检试点工作通知. Section: 差异说明与整改跟踪. Caption: 差异整改跟踪事项与时限要求. Article context: 对核验中发现的差异，片区应逐项说明形成原因，区分记录疏漏、信息传递偏差与现场变化等情形。整改措施应明确责任人与完成时限，完成后由记录员更新台账并留存凭证。跟踪情况纳入下一阶段小结，未按期完成的应说明进展，不得以口头说明替代书面记录。. Supporting records: [[\"事项\", \"责任人\", \"时限要求\", \"跟踪方式\"], [\"补填记录\", \"记录员\", \"当日完成\", \"组长复核\"], [\"书面说明\", \"片区负责人\", \"限期提交\", \"汇总登记\"], [\"更新台账\", \"记录员\", \"整改后\", \"留存凭证\"], [\"进展说明\", \"片区负责人\", \"阶段小结\", \"书面报送\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "公共设施巡检试点工作通知",
+        "paragraph": "为提升公共设施运行保障水平，现就开展巡检试点工作通知如下。本次试点在4个片区同步实施，周期为12周，覆盖道路照明、护栏、井盖与休憩设施等类别。各参与单位应统一台账口径，明确责任分工，按本通知要求报送巡检记录与问题处置情况，确保试点数据可比、过程可追溯。"
+      },
+      "h0002": {
+        "title": "试点目标与总体安排",
+        "paragraph": "试点以形成可复制的巡检机制为目标，重点验证巡查频次、问题上报与闭环处置的衔接效果。总体安排分为部署、运行、评估三个阶段，各阶段任务由牵头单位统筹推进。参与单位应在本通知印发后按要求启动准备，运行期间保持记录连续，评估阶段提交完整台账，避免中途更换统计口径。"
+      },
+      "h0003": {
+        "title": "巡检范围与对象分类",
+        "paragraph": "巡检范围以试点片区内的公共设施为限，按结构安全、功能完好、外观整洁三类要素划分对象。牵头单位应结合设施分布确定重点点位，对高风险部位提高查看密度。分类结果作为排班与记录的依据，任何调整须经片区负责人确认后生效，并在台账中注明调整原因与时间。"
+      },
+      "h0004": {
+        "title": "巡检组织与职责分工",
+        "paragraph": "试点实行片区负责制，每个片区设巡检小组，由组长、巡查员与记录员构成。组长负责排班与复核，巡查员负责现场查看与初步判定，记录员负责当日录入与凭证归档。牵头单位负责统一标准与抽查，参与单位负责人员到位与设备保障，职责边界应在启动前书面明确。"
+      },
+      "h0005": {
+        "title": "现场巡检执行要求",
+        "paragraph": "现场巡检应按照既定路线逐点查看，重点核对设施完好状态与周边环境风险。发现异常应立即拍照留证并填写问题描述，能够现场处置的当场处理，不能处置的按程序上报。巡查员不得代填他人记录，记录员应在当日完成录入，确保现场情况与台账信息一致、可复核。"
+      },
+      "h0006": {
+        "title": "巡查路线与频次安排",
+        "paragraph": "巡查路线按片区地理顺序编排，兼顾重点点位与盲区覆盖，避免重复往返。频次依据设施类别与风险等级确定，高风险对象加密查看，一般对象按常规节奏执行。路线与频次一经确定应保持稳定，确需调整的由组长提出，经片区负责人同意后更新排班表并通知全体巡查员。"
+      },
+      "h0007": {
+        "title": "问题发现与现场处置",
+        "paragraph": "问题发现后应先判定风险等级，涉及通行安全的立即设置临时警示并通知相关维护力量。轻微缺陷可纳入常规维修计划，重大隐患须在2日内完成上报与初步处置。现场处置情况应如实记录处置人、处置方式与结果，未闭环事项须注明责任单位与预计完成时间。"
+      },
+      "h0008": {
+        "title": "记录填报与信息归档",
+        "paragraph": "巡检记录采用统一表单，包含点位编号、查看时间、设施状态、问题描述与处置结果等字段。记录员应逐项填写，不得空缺关键字段，照片与表单按点位对应归档。归档资料由片区保存备查，牵头单位按需要调阅，凡涉及后续评估的数据应保持原始形态，不得事后修改。"
+      },
+      "h0009": {
+        "title": "抽查复核与质量把关",
+        "paragraph": "牵头单位组织抽查复核，重点核对记录完整性与现场实际情况是否一致。抽查采取随机选点方式，覆盖各片区与各类设施，发现问题应反馈至片区并限期说明。复核结果作为试点评估的重要依据，对记录失实或漏报情形应如实登记，并在阶段小结中说明整改情况。"
+      },
+      "h0020": {
+        "title": "复核时限与反馈流程",
+        "paragraph": "抽查复核的时限要求应明确到日。片区收到复核反馈后，须在2个工作日内就差异情况作出说明；牵头单位在收到说明后5个工作日内完成复核确认，并将结论反馈片区。整个流程应留痕可查，确保每次复核都有明确的责任人与完成时间，避免问题积压影响试点评估进度。"
+      },
+      "h0021": {
+        "title": "复核抽样覆盖与样本量",
+        "paragraph": "为保证复核结果具有代表性，抽查应覆盖全部4个试点片区，累计抽取样本不少于240个，兼顾各类设施与不同巡检时段。抽样时优先选取记录存在疑点或问题上报较集中的点位，同时保留一定比例的常规随机样本，使复核既能发现薄弱环节，又能反映整体记录质量水平。"
+      },
+      "h0010": {
+        "title": "阶段小结与信息报送",
+        "paragraph": "各片区应按阶段提交小结，说明巡检开展情况、发现问题的类别分布与处置进展。报送内容以台账数据为准，避免主观概括替代事实记录。牵头单位汇总后形成试点简报，供参与单位对照改进。报送时间与格式由牵头单位统一通知，逾期未报的应说明原因并补报。"
+      },
+      "h0011": {
+        "title": "试点评估与数据核验",
+        "paragraph": "评估围绕巡检覆盖、问题闭环与记录质量三个方面展开，以台账和抽查结果为证据来源。评估应区分观测到的记录情况与对效果的推断，避免将相关性表述为因果结论。核验中发现的口径差异应逐项说明，评估结论须注明适用范围与局限，供后续推广决策参考。"
+      },
+      "h0012": {
+        "title": "评估指标与观测口径",
+        "paragraph": "评估指标包括点位覆盖情况、问题上报数量与闭环比例、记录完整程度等，均以试点期间台账为统计基础。各指标应明确统计区间与计数规则，同一问题多次上报的按首次登记计。指标数值仅反映试点范围内的观测结果，不宜直接外推至其他片区或更长周期。"
+      },
+      "h0013": {
+        "title": "样本抽取与核验方法",
+        "paragraph": "核验采用抽样方式，从各片区台账中抽取点位进行现场比对，样本总量为240个点位，覆盖各类设施与不同时段。核验人员独立记录比对结果，与原始台账逐项对照。对不一致情形应记录差异类型，不预设原因结论，待汇总后统一分析，避免个别案例影响整体判断。"
+      },
+      "h0014": {
+        "title": "核验结果记录与比对",
+        "paragraph": "核验结果按点位逐条记录，包含台账信息、现场情况与差异说明。比对以事实描述为主，对无法现场确认的事项标注待核，不强行归类。汇总时按差异类型统计出现次数，作为记录质量的观测依据。核验人员应在记录上签署姓名与日期，确保过程可追溯。"
+      },
+      "h0015": {
+        "title": "差异说明与整改跟踪",
+        "paragraph": "对核验中发现的差异，片区应逐项说明形成原因，区分记录疏漏、信息传递偏差与现场变化等情形。整改措施应明确责任人与完成时限，完成后由记录员更新台账并留存凭证。跟踪情况纳入下一阶段小结，未按期完成的应说明进展，不得以口头说明替代书面记录。"
+      },
+      "h0016": {
+        "title": "数据局限与解释边界",
+        "paragraph": "试点数据来源于有限片区与有限周期，样本代表性存在局限，观测到的差异可能受时段、天气与人员安排等因素影响。评估报告应明确说明这些限制，将描述性统计与原因推断分开表述，不得据试点结果直接断言推广后的效果，相关判断需以后续更大范围验证为依据。"
+      },
+      "h0017": {
+        "title": "评估结论形成与复核",
+        "paragraph": "评估结论由牵头单位汇总核验记录后形成，初稿应提交各片区核对事实性内容。复核重点在于数据引用是否准确、表述是否超出证据范围。对存在争议的条目应保留不同意见并注明依据，结论定稿后随试点简报一并印发，作为机制完善的工作参考。"
+      },
+      "h0018": {
+        "title": "成果应用与机制完善",
+        "paragraph": "试点成果主要用于完善巡检标准、优化排班方式与改进记录表单。牵头单位应结合评估结论提出具体修订建议，明确采纳与否的理由。涉及跨片区协同的事项，应在总结中提出衔接安排。成果应用不替代现行管理制度，相关调整按程序报批后实施。"
+      },
+      "h0019": {
+        "title": "后续推广与工作衔接",
+        "paragraph": "试点结束后，牵头单位应提出后续推广的初步意见，说明适用条件与需补充的准备事项。推广前宜先小范围验证修订后的标准与表单，再逐步扩大范围。各参与单位应做好人员交接与资料移交，确保台账连续完整，为后续工作提供可靠基础。"
+      }
+    },
+    "continuations": [
+      "各参与单位在启动前应完成人员名单确认与联系方式更新，确保运行期间指令传达顺畅，避免因人员变动造成记录中断或责任空档。",
+      "巡检设备与表单应在试点开始前统一配发，数量按片区实际需求核定，领用与归还情况登记备查，防止工具缺失影响现场查看质量。",
+      "遇恶劣天气或临时管制，片区可调整当日巡查安排，但应在台账中注明调整原因与补查时间，保证点位覆盖不出现无法说明的空缺。",
+      "记录表单的字段解释应由牵头单位统一编写说明，避免不同片区对同一字段理解不一，导致汇总阶段出现无法比对的口径差异。",
+      "抽查人员应独立于日常巡查岗位，减少自查自评带来的偏差，抽查记录与片区台账分开保存，便于核对时逐项对照。",
+      "问题处置涉及多个维护力量时，应明确牵头协调人，避免上报后无人跟进，处置进展按节点更新并留存沟通凭证。",
+      "阶段小结应以台账数据为依据，文字概括不得替代具体记录，涉及数量表述的应与台账汇总结果保持一致，便于复核。",
+      "评估报告在引用核验结果时应注明抽样范围与时段，避免读者将局部观测理解为整体状况，相关表述宜保持审慎。",
+      "对核验中标注待核的事项，应在下一阶段开始前完成确认，确认结果补充进原记录，不得删除原有标注以保持痕迹完整。",
+      "片区负责人在审阅记录时应关注关键字段是否空缺，发现缺项及时退回补填，避免问题累积到汇总阶段集中返工。",
+      "试点期间的排班表应留存版本记录，调整前后的安排均可追溯，便于评估时判断覆盖情况与人员投入的对应关系。",
+      "记录员轮换时应办理简要交接，说明未完成事项与待核条目，交接情况记入台账备注，减少信息在人员变动中丢失。",
+      "牵头单位可组织片区间互看记录，交流填报做法，但互看结果不作为评比依据，以免影响如实记录的积极性。",
+      "涉及设施状态判定的争议，宜由组长组织现场复看后确定，复看结论与初次记录一并保留，体现判断形成过程。",
+      "试点简报的发放范围应事先明确，涉及具体点位信息的材料按管理要求控制传阅，防止资料外流造成不必要的困扰。",
+      "评估中使用的统计口径应在报告开头集中说明，包括统计区间、计数规则与排除情形，便于读者正确理解各项观测数值。",
+      "对反复出现同类问题的点位，可在小结中单列说明，但不宜据此推断普遍原因，相关分析应待更多证据积累后再行展开。",
+      "推广意见应区分已具备条件的做法与仍需验证的做法，逐项说明依据，避免将试点中的个别经验直接上升为统一要求。",
+      "资料移交时应编制清单，列明台账、照片与核验记录的卷册与数量，双方签字确认，确保后续查阅有据可依。",
+      "参与单位在试点期间新增的临时措施应记录在案，说明实施时间与范围，评估时可据此判断观测结果是否受临时安排影响。",
+      "现场警示设施的设置与撤除应有时间记录，涉及通行安全的点位在撤除前应确认处置完成，避免警示长期滞留或提前撤除。",
+      "评估初稿的事实核对宜由熟悉台账的人员承担，核对意见以书面形式反馈，修改处标注依据，保持文稿修改过程清晰。",
+      "试点结束后的经验交流应聚焦方法层面，如排班组织与记录设计，避免对效果作超出证据范围的概括性评价。",
+      "对未按期完成整改的事项，跟踪记录应说明当前进展与下一步安排，连续多个阶段未完成的应提请片区负责人专门说明。",
+      "表单修订建议应附具体字段示例，说明修改理由与预期作用，便于讨论时对照现行表单逐项比较，减少理解分歧。",
+      "核验人员培训应涵盖比对方法与记录规范，培训情况简要登记，确保不同人员对差异类型的判定标准基本一致。",
+      "试点期间的沟通记录，如通知、回复与协调事项，宜按时间归档，作为过程说明的辅助材料，与台账相互印证。",
+      "评估结论涉及推广建议时，应说明所需的前置条件与资源投入方向，避免仅给出方向性表述而缺少可操作的衔接安排。",
+      "各片区在报送小结前宜自行核对数据与台账的一致性，核对情况可简要注明，减少汇总阶段的反复确认与更正。",
+      "对试点中形成的有效做法，可在总结中列明适用场景与注意事项，供其他片区参考时结合自身条件判断是否采用。",
+      "资料保存期限与存放方式应按现行管理要求执行，电子记录应定期备份，防止因设备故障造成台账缺失而影响评估。",
+      "后续扩大范围前，宜对修订后的表单开展小规模试用，收集填报人员意见后再定稿，降低全面推行时的调整成本。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1806,
+        "completion_tokens": 3554,
+        "total_tokens": 5360,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 1806
+      },
+      "finish_reason": "stop",
+      "request_hash": "de054d936709aa4198b39fbf5d2e1aac6effc487a853cb820395580888b35b82",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true,
+      "base_request_hash": "5df7feebb89185a5c48d2a44960e016dd8ac8d04f188d5122bd72907393fbd72",
+      "augmentation_usage": {
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 786,
+          "completion_tokens": 202,
+          "total_tokens": 988,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 786
+        },
+        "finish_reason": "stop"
+      }
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [
+    "h0020",
+    "h0021"
+  ],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

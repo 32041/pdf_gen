@@ -1,0 +1,25 @@
+# conflict_bench/spec.md §3: source counts among 952 classified documents.
+# other=560 is an unclassified bucket, explicitly NOT a genre in the source.
+# Use --type mixed, not --type all (all means equal counts per genre).
+count: 40
+domains:
+  course_syllabus: 41
+  annual_report: 18
+  paper: 280
+  manual_guide: 102
+  report: 85
+  official: 245
+  legal_contract: 156
+  exam_paper: 25
+content_provider: llm
+title_alignment: center
+heading_numbering:
+  explicit_document_ratio: 0.7
+figures:
+  ratio: 0.3333333333333333
+  mode: placeholder
+
+auto_balance_levels: true
+level_share_constraints:
+  "1,2": [0, 0.3]
+  "4,5": [0.4, 0.5]

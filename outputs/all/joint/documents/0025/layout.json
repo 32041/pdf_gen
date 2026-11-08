@@ -1,0 +1,1760 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            189.63799999999998,
+            62.0,
+            405.638,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "公共图书馆容量与服务评估",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            524.0,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本报告面向市域公共图书馆体系，评估阅览座位、藏书空间与数字服务通道的承载能力，并考察高峰",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            529.8275000751019,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "时段服务供给与实际使用之间的匹配程度。评估以4个馆区为观察范围，结合门禁计数、借阅日志与读",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            524.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "者问卷形成证据链，重点回答容量是否充足、服务是否均衡、扩容应优先投向何处。报告中的产出、",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            377.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "成本与结余均为模拟核算指标，仅用于方法演示，不作为财政承诺。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            173.00000000000003,
+            175.1795001477003,
+            189.27500000000003
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            195.27500000000003,
+            533.276,
+            329.27500000000003
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "年度",
+              "产出",
+              "成本",
+              "结余"
+            ],
+            [
+              "2022",
+              "78.45",
+              "50.99",
+              "27.46"
+            ],
+            [
+              "2023",
+              "91.33",
+              "59.36",
+              "31.97"
+            ],
+            [
+              "2024",
+              "103.59",
+              "67.33",
+              "36.26"
+            ],
+            [
+              "2025",
+              "122.37",
+              "79.54",
+              "42.83"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            195.27500000000003,
+            533.276,
+            362.27500000000003
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            336.27500000000003,
+            170.62150011956692,
+            349.45000000000005
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 1：模拟核算指标年度记录",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            362.27500000000003,
+            198.90600019693375,
+            383.975
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 评估范围与方法说明",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            387.975,
+            530.9825002253056,
+            404.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "评估覆盖总馆与分馆的开放区域，按工作日、周末与考试季三类时段分层抽样，共获得240份有效观察",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.25,
+            524.0,
+            420.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "记录。方法上采用现场计数与系统日志交叉校验，对座位占用、借还周转与数字资源并发访问分别设",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            420.525,
+            524.0,
+            436.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "定判定阈值。凡涉及因果推断的表述均标注为待验证假设，与直接观测到的容量数据严格区分，避免",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            436.79999999999995,
+            188.0,
+            453.07499999999993
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "将相关性误读为扩容效果。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            459.07499999999993,
+            175.1795001477003,
+            475.3499999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            481.3499999999999,
+            157.34400022029877,
+            499.94999999999993
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 容量测量口径",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            503.94999999999993,
+            533.276,
+            637.9499999999999
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "要素",
+              "取值",
+              "证据来源",
+              "备注"
+            ],
+            [
+              "观察馆区",
+              "4个",
+              "门禁日志",
+              "分层抽样"
+            ],
+            [
+              "有效记录",
+              "240份",
+              "现场计数",
+              "交叉校验"
+            ],
+            [
+              "评估周期",
+              "12周",
+              "排期表",
+              "含复测"
+            ],
+            [
+              "时段类型",
+              "三类",
+              "观察表",
+              "分层呈现"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            503.94999999999993,
+            533.276,
+            670.9499999999999
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.9499999999999,
+            179.12150011956692,
+            658.1249999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 2：评估范围与方法要素对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.9499999999999,
+            524.0,
+            687.2249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "容量测量区分设计容量与实际可用容量，前者依据建筑图纸与家具布置，后者扣除维修封闭、设备占",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            687.2249999999999,
+            524.0,
+            703.4999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "用与临时活动区域。测量小组在每个观察时段记录入口人流、座位占用与离馆时间，形成可比的时间",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            703.4999999999999,
+            524.0,
+            719.7749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "序列。口径统一后，不同馆区之间的数据才具备横向比较基础，也便于后续复测时检验变化是否来自",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            719.7749999999999,
+            177.5,
+            736.0499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "真实需求而非统计偏差。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            186.89500024914742,
+            79.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 阅览座位占用观察",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            524.0,
+            99.325
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "座位观察显示，考试季晚间自习区占用率明显高于平日，部分楼层出现短时等候。观察员按半小时间",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            524.0,
+            115.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "隔记录占座与空置情况，并区分长时间离座与短暂离开。该结果属于描述性发现，尚不能断言座位不",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            524.0,
+            131.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "足直接导致读者流失，因为读者流向还受开放时间、交通与馆藏分布影响，需要结合后续访谈进一步",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            93.5,
+            148.15
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "核实。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            154.15,
+            533.276,
+            288.15
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "区域",
+              "满载情况",
+              "周转表现",
+              "处理建议"
+            ],
+            [
+              "学科书架",
+              "接近饱和",
+              "偏慢",
+              "剔旧调拨"
+            ],
+            [
+              "综合阅览",
+              "尚有空位",
+              "正常",
+              "维持观察"
+            ],
+            [
+              "新书待架",
+              "等待偏长",
+              "偏慢",
+              "增派人手"
+            ],
+            [
+              "密集书库",
+              "基本稳定",
+              "正常",
+              "定期盘点"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            154.15,
+            533.276,
+            321.15
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            295.15,
+            179.12150011956692,
+            308.325
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 1：藏书空间与周转观察记录",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            321.15,
+            197.89500024914742,
+            338.2
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.2 藏书空间与周转记录",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            342.2,
+            524.0,
+            358.47499999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "藏书空间评估以书架满载率与年度剔旧量为主要依据，同时记录新书入藏后上架等待时间。观察发现",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            358.47499999999997,
+            524.0,
+            374.74999999999994
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "部分学科书架接近饱和，而综合阅览区仍有空余格位，说明空间压力在馆内分布不均。周转记录用于",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            374.74999999999994,
+            524.0,
+            391.0249999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "判断剔旧与调拨能否缓解局部拥挤，相关结论需在下一轮盘点中复核，避免单次盘点误差被放大为结",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            391.0249999999999,
+            114.5,
+            407.2999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "构性判断。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            413.2999999999999,
+            175.1795001477003,
+            429.5749999999999
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            435.5749999999999,
+            181.34400022029877,
+            454.1749999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.2 数字服务并发测试",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            458.1749999999999,
+            524.0,
+            474.4499999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "数字服务测试在非侵入前提下模拟多终端并发访问，记录检索响应、电子借阅授权与远程续借的成功",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            474.4499999999999,
+            524.0,
+            490.72499999999985
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "情况。测试表明高峰时段部分资源入口响应变慢，但未出现整体不可用。测试结果仅反映特定时段的",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            490.72499999999985,
+            524.0,
+            506.99999999999983
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "通道表现，不能外推为全年服务水平，运维团队据此提出缓存与带宽调整的初步清单，等待实际运行",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.99999999999983,
+            114.5,
+            523.2749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "数据验证。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            529.2749999999999,
+            175.1795001477003,
+            545.5499999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            551.5499999999998,
+            533.276,
+            685.5499999999998
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "测试项",
+              "高峰表现",
+              "影响范围",
+              "处置建议"
+            ],
+            [
+              "检索响应",
+              "变慢",
+              "部分入口",
+              "缓存调整"
+            ],
+            [
+              "电子借阅",
+              "基本正常",
+              "全馆",
+              "持续监测"
+            ],
+            [
+              "远程续借",
+              "正常",
+              "全馆",
+              "维持现状"
+            ],
+            [
+              "并发登录",
+              "短时排队",
+              "部分入口",
+              "带宽评估"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            551.5499999999998,
+            533.276,
+            718.5499999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            692.5499999999998,
+            179.12150011956692,
+            705.7249999999998
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 3：数字服务并发测试观察项",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            198.90600019693375,
+            83.7
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2 服务供给与需求匹配",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            87.7,
+            524.0,
+            103.97500000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "服务匹配分析将容量数据与读者行为数据并置，考察开放时段、馆员配置与活动安排是否贴合需求节",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            103.97500000000001,
+            524.0,
+            120.25000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "律。评估组以时段为单位比较到馆人数与服务窗口数量，识别出若干供需错位点。此类分析属于关联",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            120.25000000000001,
+            524.0,
+            136.525
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "性观察，扩容或延时是否真正提升满意度，仍需通过对照观察与回访确认，报告中不将其表述为既定",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            136.525,
+            114.5,
+            152.8
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "因果结论。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            158.8,
+            175.1795001477003,
+            175.07500000000002
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            181.07500000000002,
+            533.276,
+            315.07500000000005
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "观察项",
+              "高峰表现",
+              "判定",
+              "后续动作"
+            ],
+            [
+              "入口排队",
+              "偏长",
+              "关注",
+              "弹性引导"
+            ],
+            [
+              "座位等候",
+              "局部出现",
+              "关注",
+              "分区分流"
+            ],
+            [
+              "咨询响应",
+              "偏慢",
+              "关注",
+              "排班优化"
+            ],
+            [
+              "数字入口",
+              "部分变慢",
+              "观察",
+              "缓存调整"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            181.07500000000002,
+            533.276,
+            348.07500000000005
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            322.07500000000005,
+            179.12150011956692,
+            335.25000000000006
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 4：供需匹配观察要点与判定",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            348.07500000000005,
+            533.276,
+            482.07500000000005
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "指标",
+              "高峰时段",
+              "观察结论",
+              "待验证假设"
+            ],
+            [
+              "入口排队",
+              "周末午后",
+              "偏长",
+              "引导可缓解"
+            ],
+            [
+              "座位等候",
+              "考试季晚间",
+              "局部",
+              "分区有效"
+            ],
+            [
+              "咨询负荷",
+              "周末午后",
+              "偏高",
+              "排班可改善"
+            ],
+            [
+              "分流接受",
+              "高峰全程",
+              "部分放弃",
+              "指引需加强"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            348.07500000000005,
+            533.276,
+            515.075
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            489.07500000000005,
+            179.12150011956692,
+            502.25000000000006
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 5：高峰压力指标与观察结论",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            515.075,
+            181.34400022029877,
+            533.6750000000001
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1 高峰时段压力分析",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            537.6750000000001,
+            524.0,
+            553.95
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "高峰压力分析聚焦周末午后与考试季晚间，综合入口排队、座位等候与咨询台响应时间三项指标。数",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.95,
+            524.0,
+            570.225
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "据显示压力集中在少数时段与少数楼层，具有明显的时空局部性。评估组据此建议以弹性排班与分区",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            570.225,
+            524.0,
+            586.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "引导先行缓解，而非立即启动大规模改建。该建议基于观察到的分布特征，其有效性尚待实施后的跟",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            586.5,
+            125.0,
+            602.775
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "踪测量检验。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            608.775,
+            175.1795001477003,
+            625.05
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            631.05,
+            175.89500024914742,
+            648.0999999999999
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.1 等候与分流记录",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            652.0999999999999,
+            524.0,
+            668.3749999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "等候记录由入口引导员与自助设备共同采集，区分排队等候、取号等候与自行离开三类情形。分流记",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            668.3749999999999,
+            524.0,
+            684.6499999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "录则追踪读者被引导至其他楼层或其他馆区的路径与结果。观察显示分流可缓解局部拥挤，但部分读",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            684.6499999999999,
+            524.0,
+            700.9249999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "者因不熟悉馆区布局而放弃。该发现提示分流措施需配套指引设计，其实际效果应在下一评估周期用",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            700.9249999999998,
+            135.5,
+            717.1999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "同一口径复测。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            197.89500024914742,
+            79.05
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1.2 馆员配置与咨询负荷",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            524.0,
+            99.325
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "咨询负荷以单位时间受理问题数与平均处理时长衡量，并结合馆员交接班记录判断配置是否合理。观",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            524.0,
+            115.60000000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "察发现高峰时段咨询台负荷偏高，而部分时段人力相对闲置，存在排班优化空间。评估组强调，负荷",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            524.0,
+            131.875
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "指标受问题类型构成影响，简单比较绝对值可能失真，因此建议同时记录问题复杂度分级，供后续排",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            125.0,
+            148.15
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "班模型参考。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            154.15,
+            193.34400022029877,
+            172.75
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.2 改进建议与复测安排",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            176.75,
+            524.0,
+            193.025
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "改进建议按优先级分为即时调整、季度优化与中长期建设三类，分别对应引导标识、弹性排班与空间",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            193.025,
+            524.0,
+            209.3
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "改造。每项建议均附观察依据与待验证假设，明确责任岗位与复测时点。复测沿用本报告口径，重点",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            209.3,
+            524.0,
+            225.57500000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "检验高峰压力是否下降、分流接受度是否提升。评估组提醒，建议实施与效果之间可能存在其他干扰",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.57500000000002,
+            177.5,
+            241.85000000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "因素，结论需谨慎表述。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

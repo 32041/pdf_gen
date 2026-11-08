@@ -1,0 +1,440 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "paper",
+    "language": "en",
+    "subject": "Acoustic fault screening for small industrial fans",
+    "seed": 70,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0005",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0005",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0001",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0004",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0006",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0005",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0001",
+        "cell_width": 56.5,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0005",
+        "cell_width": 56.5,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "76.97",
+      "output_2": "95.43",
+      "output_3": "109.07",
+      "output_4": "121.61",
+      "cost_1": "50.03",
+      "cost_2": "62.03",
+      "cost_3": "70.90",
+      "cost_4": "79.05",
+      "balance_1": "26.94",
+      "balance_2": "33.40",
+      "balance_3": "38.17",
+      "balance_4": "42.56",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "58.0"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Acoustic Fault Screening for Small Industrial Fans",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Acoustic Fault Screening for Small Industrial Fans",
+        "paragraph": "This paper examines a practical screening method for detecting incipient mechanical faults in small industrial fans using airborne acoustic signals. The approach combines time‑domain envelope statistics with spectral band ratios to flag anomalies without requiring contact sensors. We report simulated observations from [[F:sample_count]] fan units across [[F:sites_count]] sites, collected over [[F:duration_weeks]] weeks. The study distinguishes screening performance from causal diagnosis, emphasizing that acoustic flags indicate candidates for inspection rather than confirmed root causes. All numeric results are presented as simulated indicators to illustrate the workflow and decision thresholds."
+      },
+      {
+        "id": "h0002",
+        "title": "Screening Framework and Signal Processing",
+        "paragraph": "The screening framework processes short acoustic recordings captured at a fixed distance from each fan housing. Signals are band‑pass filtered and segmented into overlapping windows; for each window we compute crest factor, kurtosis, and the ratio of high‑frequency to low‑frequency energy. A two‑stage classifier first applies robust z‑scores against a baseline built from known‑good units, then a lightweight decision tree refines borderline cases. This design prioritizes low false‑negative rates for screening while keeping computational cost modest for edge deployment."
+      },
+      {
+        "id": "h0003",
+        "title": "Feature Extraction and Baseline Construction",
+        "paragraph": "Baseline construction uses recordings from fans confirmed healthy by maintenance records. We extract features in the time and frequency domains, then normalize per unit to reduce sensitivity to mounting and load variations. The baseline is updated incrementally as new healthy data arrive, with a forgetting factor to accommodate gradual drift. Feature stability is assessed via intra‑class correlation across repeated sessions; features with low stability are down‑weighted. This step is critical because small fans exhibit broad unit‑to‑unit variability even within the same model."
+      },
+      {
+        "id": "h0004",
+        "title": "Threshold Selection and Alert Logic",
+        "paragraph": "Alert thresholds are derived from the distribution of baseline scores using a percentile‑based rule, supplemented by a persistence requirement to suppress transient noise. An alert is raised only when the score exceeds the threshold for consecutive windows. We tuned the persistence length and percentile using simulated data to balance detection latency against nuisance alerts. The alert logic parameters and their qualitative rationale are summarized in the accompanying table. The logic intentionally favors early, low‑cost inspection over immediate shutdown."
+      },
+      {
+        "id": "h0005",
+        "title": "Field Validation and Operational Integration",
+        "paragraph": "Field validation involved deploying the screening prototype at [[F:sites_count]] sites and comparing alerts against maintenance findings over [[F:duration_weeks]] weeks. Alerts were logged and routed to maintenance coordinators, who recorded inspection outcomes. The integration aimed to fit existing workflows without adding specialized hardware. We also tracked response times and alert‑to‑inspection intervals to assess operational feasibility. The following subsections detail the validation protocol and the observed outcomes, with explicit caveats about the simulated nature of the data."
+      },
+      {
+        "id": "h0006",
+        "title": "Validation Protocol and Data Collection",
+        "paragraph": "The validation protocol specified recording schedules, sensor placement, and inspection procedures. Each site received a handheld recorder and a simple app that guided technicians through a [[F:duration_weeks]]‑week campaign. Inspections were triggered by alerts or by routine schedules, and findings were categorized as bearing wear, imbalance, looseness, or no fault. Data quality checks included signal‑to‑noise ratio thresholds and rejection of recordings with excessive background noise. The protocol steps and responsibilities are outlined in the accompanying table."
+      },
+      {
+        "id": "h0007",
+        "title": "Observed Screening Outcomes and Limitations",
+        "paragraph": "Across the simulated campaign, the screening method flagged a subset of units for inspection, with a mix of confirmed faults and nuisance alerts. Detection was more consistent for bearing‑related faults than for subtle imbalance. We emphasize that these observations are simulated and do not establish causal links between acoustic features and specific failure mechanisms. Limitations include small sample size per site, varying background noise, and the absence of long‑term follow‑up. Outcomes by fault category are compared in the accompanying table."
+      }
+    ],
+    "continuations": [
+      "The screening thresholds were deliberately set to favor sensitivity over specificity, accepting more nuisance alerts to reduce missed faults. This trade-off should be revisited once maintenance feedback accumulates.",
+      "Background noise from adjacent machinery can inflate high‑frequency band ratios. A quiet‑period recording schedule or a reference microphone may mitigate this effect in future deployments.",
+      "Unit‑to‑unit variability in small fans is substantial, so per‑unit baselines are recommended. Pooled baselines may work for identical models under similar mounting conditions.",
+      "The decision tree classifier was kept shallow to avoid overfitting. Deeper models could improve accuracy but would require more labeled fault examples than were available.",
+      "Inspection outcomes were recorded by site technicians with varying experience. A standardized fault‑coding guide would improve consistency in future validation.",
+      "Alert persistence reduced nuisance alerts but increased detection latency. The optimal persistence length depends on the acceptable downtime and inspection capacity.",
+      "Acoustic screening cannot distinguish between bearing wear and looseness with high confidence. Vibration or thermal measurements would be needed for differential diagnosis.",
+      "The forgetting factor in baseline updates controls adaptation speed. Too fast an update may absorb developing faults into the baseline, masking degradation.",
+      "Recording distance and angle were fixed by protocol, but real‑world placements may vary. Robustness to placement should be tested explicitly.",
+      "The simulated data do not include seasonal effects such as humidity or temperature swings, which can alter acoustic propagation and fan load.",
+      "Maintenance coordinators reported that alert fatigue is a key concern. Grouping alerts by site and time window may help prioritize inspections.",
+      "A cost‑benefit analysis of false alarms versus missed faults would guide threshold tuning, but requires maintenance cost data not available in this study.",
+      "Feature importance analysis suggested that kurtosis and high‑frequency ratio contributed most to flags. Crest factor was less discriminative in this dataset.",
+      "The screening app logged recordings with timestamps and unit IDs, enabling traceability. Data storage and privacy considerations were minimal due to non‑human signals.",
+      "Field technicians noted that fan speed settings were not always recorded. Future protocols should capture operating conditions to normalize features.",
+      "The validation period of [[F:duration_weeks]] weeks may be too short to observe progressive faults. Longer campaigns are needed to assess early detection capability.",
+      "Inter‑rater reliability of inspection findings was not formally measured. A subset of inspections could be cross‑checked by a second technician.",
+      "The classifier was trained on data from a subset of sites and tested on held‑out sites. Cross‑site generalization was moderate, suggesting site‑specific calibration.",
+      "Acoustic sensors were low‑cost electret microphones, which have limited dynamic range. Higher‑quality sensors may improve feature stability.",
+      "The alert logic did not incorporate trend analysis over time. Adding a slow‑trend detector could catch gradual degradation missed by point thresholds.",
+      "Site personnel suggested that alerts be integrated into existing maintenance tickets. This would require API access to the ticketing system.",
+      "The study did not include fans with known manufacturing defects, so the method's sensitivity to such defects is unknown.",
+      "Wind and airflow around the fan can create broadband noise that overlaps with fault signatures. Directional shielding may help in outdoor installations.",
+      "The baseline update rule assumed that most units remain healthy. In a fleet with widespread faults, the baseline could drift toward faulty behavior.",
+      "A holdout set of recordings was used to estimate alert rates before field deployment. This reduced the risk of excessive nuisance alerts.",
+      "The screening method is intended for periodic checks, not continuous monitoring. Continuous acoustic monitoring would require different power and processing considerations.",
+      "Technicians preferred a simple red‑yellow‑green indicator over numeric scores. The app was revised to show a three‑level status.",
+      "The study did not evaluate the method's performance on fans with variable frequency drives, which introduce tonal noise that may confuse the classifier.",
+      "Documentation of maintenance actions was inconsistent across sites. A shared template would improve the quality of outcome labels.",
+      "The acoustic features were computed on one‑second windows. Shorter windows may capture impulsive faults but increase variance.",
+      "The screening prototype ran on a smartphone, avoiding additional hardware. This choice limited sampling rate to the phone's microphone capabilities.",
+      "Future work should compare acoustic screening with vibration screening on the same units to quantify relative costs and benefits."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Simulated annual operating indicators for the screening program",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Year",
+            "Output",
+            "Cost",
+            "Balance"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Alert logic parameters and qualitative rationale",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Parameter",
+            "Setting",
+            "Rationale",
+            "Adjustment"
+          ],
+          [
+            "Score threshold",
+            "High percentile",
+            "Limit nuisance alerts",
+            "Site‑specific"
+          ],
+          [
+            "Persistence",
+            "Consecutive windows",
+            "Suppress transients",
+            "Tune by noise"
+          ],
+          [
+            "Baseline update",
+            "Slow forgetting",
+            "Adapt to drift",
+            "Monitor stability"
+          ],
+          [
+            "Alert routing",
+            "Maintenance queue",
+            "Fit workflow",
+            "Integrate tickets"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Validation protocol steps and responsibilities",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Step",
+            "Action",
+            "Responsible",
+            "Timing"
+          ],
+          [
+            "Baseline",
+            "Record healthy fans",
+            "Technician",
+            "Week one"
+          ],
+          [
+            "Screening",
+            "Weekly recordings",
+            "Technician",
+            "Weeks two to end"
+          ],
+          [
+            "Alert review",
+            "Confirm and route",
+            "Coordinator",
+            "Within [[F:response_days]] days"
+          ],
+          [
+            "Inspection",
+            "Perform check",
+            "Maintenance",
+            "Within [[F:review_days]] days"
+          ],
+          [
+            "Outcome log",
+            "Record findings",
+            "Technician",
+            "After inspection"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Simulated screening outcomes by fault category",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Fault category",
+            "Alerts",
+            "Confirmed",
+            "Nuisance"
+          ],
+          [
+            "Bearing wear",
+            "Moderate",
+            "Most",
+            "Few"
+          ],
+          [
+            "Imbalance",
+            "Low",
+            "Some",
+            "Some"
+          ],
+          [
+            "Looseness",
+            "Moderate",
+            "Some",
+            "Many"
+          ],
+          [
+            "No fault",
+            "Low",
+            "None",
+            "Most"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Simulated program cost and output summary",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Metric",
+            "Value",
+            "Unit",
+            "Note"
+          ],
+          [
+            "Output",
+            "[[F:output_1]]",
+            "Units",
+            "Simulated"
+          ],
+          [
+            "Cost",
+            "[[F:cost_1]]",
+            "Units",
+            "Simulated"
+          ],
+          [
+            "Balance",
+            "[[F:balance_1]]",
+            "Units",
+            "Simulated"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Operational integration considerations",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Aspect",
+            "Current",
+            "Desired",
+            "Gap"
+          ],
+          [
+            "Alert routing",
+            "Email",
+            "Ticket system",
+            "API needed"
+          ],
+          [
+            "Inspection timing",
+            "Ad hoc",
+            "Scheduled",
+            "Policy"
+          ],
+          [
+            "Data storage",
+            "Local",
+            "Central",
+            "Infrastructure"
+          ],
+          [
+            "Training",
+            "Brief",
+            "Formal",
+            "Materials"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4053,
+      "completion_tokens": 2557,
+      "total_tokens": 6610,
+      "prompt_tokens_details": {
+        "cached_tokens": 1408
+      },
+      "prompt_cache_hit_tokens": 1408,
+      "prompt_cache_miss_tokens": 2645
+    },
+    "finish_reason": "stop",
+    "request_hash": "d97d9c3e608bcba7cb36a6d05aa991fcc6c7556c5be4d1872e4c91c732147d3f",
+    "schema": "llm-content-v1",
+    "validation_retries": 1,
+    "cache_hit": false
+  }
+}

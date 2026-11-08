@@ -1,0 +1,441 @@
+{
+  "version": "0.5.0",
+  "unit_tests": 24,
+  "unit_tests_passed": true,
+  "batch": {
+    "by_object_type": {
+      "figure": 80,
+      "table": 160
+    },
+    "by_figure_status": {
+      "placeholder": 80
+    },
+    "explicit_hierarchy_documents": 28,
+    "explicit_hierarchy_ratio": 0.7,
+    "title_alignment": {
+      "center": 40
+    },
+    "docs": 40,
+    "pages": 198,
+    "headings": 588,
+    "objects": 240,
+    "by_domain": {
+      "gov_standard": 5,
+      "academic_paper": 5,
+      "annual_report": 5,
+      "exam_paper": 5,
+      "course_syllabus": 5,
+      "manual_guide": 5,
+      "legal_contract": 5,
+      "report": 5
+    },
+    "by_columns": {
+      "1": 31,
+      "2": 9
+    },
+    "by_language": {
+      "zh": 20,
+      "en": 20
+    },
+    "by_numbering": {
+      "numbered": 28,
+      "none": 5,
+      "mixed": 5,
+      "misleading": 2
+    },
+    "by_numbering_family": {
+      "arabic_dotted": 28,
+      "alpha_dotted": 7,
+      "cn_outline": 3,
+      "roman_outline": 2
+    },
+    "by_max_depth": {
+      "6": 12,
+      "3": 8,
+      "4": 8,
+      "5": 12
+    },
+    "by_paper": {
+      "Letter": 17,
+      "A4": 23
+    },
+    "by_style": {
+      "similar": 16,
+      "clear": 24
+    },
+    "by_template": {
+      "compact": 12,
+      "classic": 20,
+      "spacious": 8
+    },
+    "by_title_layer": {
+      "yes": 32,
+      "no": 8
+    },
+    "by_numbered_share": {
+      "most": 30,
+      "none": 5,
+      "some": 5
+    },
+    "by_level": {
+      "1": 48,
+      "2": 96,
+      "3": 160,
+      "4": 132,
+      "5": 104,
+      "6": 48
+    },
+    "by_subtype": {
+      "plate": 24,
+      "normal": 120,
+      "after_section": 36,
+      "far_float": 36,
+      "before_heading": 24
+    },
+    "by_order_relation": {
+      "owner_is_ancestor": 66,
+      "siblings": 31,
+      "same": 120,
+      "cross_branch": 18,
+      "prev_is_ancestor": 5
+    },
+    "by_owner_page_delta": {
+      "3": 22,
+      "0": 132,
+      "1": 45,
+      "2": 28,
+      "4": 11,
+      "5": 2
+    },
+    "by_reference_page_delta": {
+      "3": 21,
+      "0": 142,
+      "1": 39,
+      "2": 26,
+      "4": 10,
+      "5": 2
+    },
+    "by_float_page": {
+      "two_plus_pages_after_owner": 63,
+      "same_owner_page": 132,
+      "one_page_after_owner": 45
+    },
+    "relations_by_subtype": {
+      "after_section": {
+        "owner_is_ancestor": 25,
+        "siblings": 7,
+        "cross_branch": 4
+      },
+      "far_float": {
+        "owner_is_ancestor": 24,
+        "cross_branch": 5,
+        "siblings": 7
+      },
+      "before_heading": {
+        "siblings": 12,
+        "prev_is_ancestor": 5,
+        "cross_branch": 7
+      },
+      "plate": {
+        "owner_is_ancestor": 17,
+        "siblings": 5,
+        "cross_branch": 2
+      }
+    },
+    "conflict_ratio": 0.5,
+    "cross_page_ratio": 0.45,
+    "reference_cross_page_ratio": 0.4083333333333333,
+    "sibling_ratio": 0.25833333333333336,
+    "tolerance": "Exact integer quotas; fractional weights use largest-remainder rounding. Optional level-share bounds are strict.",
+    "hard_ratio": null,
+    "hard_ratio_definition": "Not defined; do not equate hard with conflict.",
+    "units": {
+      "depth": "documents",
+      "level": "headings",
+      "conflict": "objects with owner and preceding heading",
+      "sibling_ratio": "conflicting objects",
+      "cross_page_ratio": "object page differs from OWNER heading page"
+    },
+    "depth_numbering_grid": {
+      "3": {
+        "numbered": 6,
+        "mixed": 2
+      },
+      "4": {
+        "numbered": 6,
+        "mixed": 1,
+        "none": 1
+      },
+      "5": {
+        "none": 3,
+        "misleading": 1,
+        "numbered": 7,
+        "mixed": 1
+      },
+      "6": {
+        "numbered": 9,
+        "misleading": 1,
+        "mixed": 1,
+        "none": 1
+      }
+    },
+    "level_shares": {
+      "1": 0.08163265306122448,
+      "2": 0.16326530612244897,
+      "3": 0.272108843537415,
+      "4": 0.22448979591836735,
+      "5": 0.17687074829931973,
+      "6": 0.08163265306122448
+    }
+  },
+  "stats": {
+    "passed": true,
+    "attempt_seed": 42,
+    "rendered_documents": 40,
+    "rendered_objects": 240,
+    "checks": [
+      "PDF text",
+      "bounds",
+      "caption coupling",
+      "embedded fonts",
+      "float overlap",
+      "reference numbers",
+      "rendered predecessor",
+      "strict ToUnicode UTF-16",
+      "subtype",
+      "tree",
+      "tree relation",
+      "visual object numbering"
+    ],
+    "quota_checks": "Exact integer quota checks passed",
+    "requested_conflict_ratio": 0.5,
+    "actual_conflict_ratio": 0.5,
+    "rounding_resolution": 0.004166666666666667,
+    "baselines": {
+      "nearest_heading": 0.5,
+      "parent_of_nearest": 0.2125,
+      "caption_title_literal": 0.05
+    },
+    "semantic_limit": "LLM prose and tables: numeric tokens, schema and geometry validated; semantic coherence still needs human review.",
+    "content_models": {
+      "deepseek-flash": 40
+    },
+    "attempts": 1,
+    "rejected_attempts": [],
+    "document_repairs": {},
+    "export_validation": {
+      "docs": 40,
+      "headings": 588,
+      "objects": 240,
+      "passed": true
+    }
+  },
+  "offline_replay": {
+    "passed": true,
+    "layout_byte_identical_documents": 40,
+    "original_llm_articles_unchanged": 40,
+    "api_calls": 0,
+    "composition": {
+      "by_object_type": {
+        "figure": 80,
+        "table": 160
+      },
+      "by_figure_status": {
+        "placeholder": 80
+      },
+      "explicit_hierarchy_documents": 28,
+      "explicit_hierarchy_ratio": 0.7,
+      "title_alignment": {
+        "center": 40
+      },
+      "docs": 40,
+      "pages": 198,
+      "headings": 588,
+      "objects": 240,
+      "by_domain": {
+        "gov_standard": 5,
+        "academic_paper": 5,
+        "annual_report": 5,
+        "exam_paper": 5,
+        "course_syllabus": 5,
+        "manual_guide": 5,
+        "legal_contract": 5,
+        "report": 5
+      },
+      "by_columns": {
+        "1": 31,
+        "2": 9
+      },
+      "by_language": {
+        "zh": 20,
+        "en": 20
+      },
+      "by_numbering": {
+        "numbered": 28,
+        "none": 5,
+        "mixed": 5,
+        "misleading": 2
+      },
+      "by_numbering_family": {
+        "arabic_dotted": 28,
+        "alpha_dotted": 7,
+        "cn_outline": 3,
+        "roman_outline": 2
+      },
+      "by_max_depth": {
+        "6": 12,
+        "3": 8,
+        "4": 8,
+        "5": 12
+      },
+      "by_paper": {
+        "Letter": 17,
+        "A4": 23
+      },
+      "by_style": {
+        "similar": 16,
+        "clear": 24
+      },
+      "by_template": {
+        "compact": 12,
+        "classic": 20,
+        "spacious": 8
+      },
+      "by_title_layer": {
+        "yes": 32,
+        "no": 8
+      },
+      "by_numbered_share": {
+        "most": 30,
+        "none": 5,
+        "some": 5
+      },
+      "by_level": {
+        "1": 48,
+        "2": 96,
+        "3": 160,
+        "4": 132,
+        "5": 104,
+        "6": 48
+      },
+      "by_subtype": {
+        "plate": 24,
+        "normal": 120,
+        "after_section": 36,
+        "far_float": 36,
+        "before_heading": 24
+      },
+      "by_order_relation": {
+        "owner_is_ancestor": 66,
+        "siblings": 31,
+        "same": 120,
+        "cross_branch": 18,
+        "prev_is_ancestor": 5
+      },
+      "by_owner_page_delta": {
+        "3": 22,
+        "0": 132,
+        "1": 45,
+        "2": 28,
+        "4": 11,
+        "5": 2
+      },
+      "by_reference_page_delta": {
+        "3": 21,
+        "0": 142,
+        "1": 39,
+        "2": 26,
+        "4": 10,
+        "5": 2
+      },
+      "by_float_page": {
+        "two_plus_pages_after_owner": 63,
+        "same_owner_page": 132,
+        "one_page_after_owner": 45
+      },
+      "relations_by_subtype": {
+        "after_section": {
+          "owner_is_ancestor": 25,
+          "siblings": 7,
+          "cross_branch": 4
+        },
+        "far_float": {
+          "owner_is_ancestor": 24,
+          "cross_branch": 5,
+          "siblings": 7
+        },
+        "before_heading": {
+          "siblings": 12,
+          "prev_is_ancestor": 5,
+          "cross_branch": 7
+        },
+        "plate": {
+          "owner_is_ancestor": 17,
+          "siblings": 5,
+          "cross_branch": 2
+        }
+      },
+      "conflict_ratio": 0.5,
+      "cross_page_ratio": 0.45,
+      "reference_cross_page_ratio": 0.4083333333333333,
+      "sibling_ratio": 0.25833333333333336,
+      "tolerance": "Exact integer quotas; fractional weights use largest-remainder rounding. Optional level-share bounds are strict.",
+      "hard_ratio": null,
+      "hard_ratio_definition": "Not defined; do not equate hard with conflict.",
+      "units": {
+        "depth": "documents",
+        "level": "headings",
+        "conflict": "objects with owner and preceding heading",
+        "sibling_ratio": "conflicting objects",
+        "cross_page_ratio": "object page differs from OWNER heading page"
+      },
+      "depth_numbering_grid": {
+        "3": {
+          "numbered": 6,
+          "mixed": 2
+        },
+        "4": {
+          "numbered": 6,
+          "mixed": 1,
+          "none": 1
+        },
+        "5": {
+          "none": 3,
+          "misleading": 1,
+          "numbered": 7,
+          "mixed": 1
+        },
+        "6": {
+          "numbered": 9,
+          "misleading": 1,
+          "mixed": 1,
+          "none": 1
+        }
+      },
+      "level_shares": {
+        "1": 0.08163265306122448,
+        "2": 0.16326530612244897,
+        "3": 0.272108843537415,
+        "4": 0.22448979591836735,
+        "5": 0.17687074829931973,
+        "6": 0.08163265306122448
+      }
+    }
+  },
+  "source_mix_plan_validation": {
+    "passed": true,
+    "counts": {
+      "paper": 12,
+      "official": 10,
+      "legal_contract": 6,
+      "report": 4,
+      "manual_guide": 4,
+      "course_syllabus": 2,
+      "exam_paper": 1,
+      "annual_report": 1
+    }
+  },
+  "credential_delivery": "User-authorized local YAML in owner-private project ZIP; dataset metadata redacted.",
+  "image_api_live_calls": 0,
+  "image_adapter_validation": "mocked OpenAI images API response; no live image model selected"
+}

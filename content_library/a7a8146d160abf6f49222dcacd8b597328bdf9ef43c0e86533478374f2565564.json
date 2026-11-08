@@ -1,0 +1,516 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "annual_report",
+    "language": "en",
+    "subject": "Fictional efficient lighting manufacturer",
+    "seed": 77,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0015",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0014",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0012",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0015",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0004",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0007",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "83.86",
+      "output_2": "94.92",
+      "output_3": "107.95",
+      "output_4": "121.80",
+      "cost_1": "54.51",
+      "cost_2": "61.70",
+      "cost_3": "70.17",
+      "cost_4": "79.17",
+      "balance_1": "29.35",
+      "balance_2": "33.22",
+      "balance_3": "37.78",
+      "balance_4": "42.63",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "45.2"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "LuminaLite Manufacturing Annual Report 2025",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "LuminaLite Manufacturing Annual Report 2025",
+        "paragraph": "This annual report presents the performance of LuminaLite Manufacturing for the fiscal year ending [[F:year_last]]. LuminaLite designs and produces efficient lighting products for commercial and residential markets. The report covers strategic initiatives, operational achievements, financial results, and governance practices. All financial figures are simulated and expressed in millions of dollars unless otherwise noted. The reporting period spans from [[F:year_1]] to [[F:year_last]], with comparative data provided for prior years. The report aims to provide stakeholders with a transparent view of the company's progress and challenges."
+      },
+      {
+        "id": "h0002",
+        "title": "Strategic Overview and Market Position",
+        "paragraph": "LuminaLite's strategy focuses on innovation in energy-efficient lighting, expansion into new geographic markets, and strengthening partnerships with distributors. In [[F:year_last]], the company continued to invest in research and development to enhance product performance and reduce costs. Market demand for LED and smart lighting solutions grew, driven by regulatory changes and sustainability trends. LuminaLite maintained a competitive position by offering reliable, high-quality products and responsive customer service. The strategic overview section outlines key initiatives and their outcomes."
+      },
+      {
+        "id": "h0003",
+        "title": "Operational Performance and Efficiency Gains",
+        "paragraph": "Operational performance in [[F:year_last]] improved due to streamlined manufacturing processes and supply chain optimization. The company achieved higher output while managing costs effectively. Production volume increased from [[F:output_1]] million units in [[F:year_1]] to [[F:output_4]] million units in [[F:year_last]], representing a cumulative growth of [[F:output_growth_percent]] percent. Cost of goods sold also rose but at a slower pace, leading to improved operating surplus. Efficiency gains were realized through automation, waste reduction, and better inventory management. These efforts contributed to a stronger financial position."
+      },
+      {
+        "id": "h0004",
+        "title": "Manufacturing Output and Cost Management",
+        "paragraph": "Manufacturing output and cost management are central to LuminaLite's operational success. The company monitors production volumes and costs closely to ensure profitability. Over the period from [[F:year_1]] to [[F:year_last]], output grew steadily, and cost per unit declined due to economies of scale and process improvements. The table below summarizes key output and cost metrics for the four-year period. These figures are simulated and used for internal analysis and external reporting."
+      },
+      {
+        "id": "h0005",
+        "title": "Production Volume Trends Across Product Lines",
+        "paragraph": "Production volume trends vary across product lines. Commercial luminaires and smart bulbs showed the strongest growth, while traditional fixtures declined. In [[F:year_last]], total output reached [[F:output_4]] million units, up from [[F:output_1]] million units in [[F:year_1]]. The growth was driven by increased demand for energy-efficient solutions and successful product launches. The company plans to further expand its smart lighting portfolio in the coming year to capitalize on market trends."
+      },
+      {
+        "id": "h0006",
+        "title": "Cost Reduction Initiatives and Supplier Negotiations",
+        "paragraph": "Cost reduction initiatives focused on supplier negotiations, component standardization, and lean manufacturing. By consolidating suppliers and renegotiating contracts, LuminaLite achieved savings on raw materials. Lean practices reduced waste and improved labor productivity. As a result, cost of goods sold increased from [[F:cost_1]] million in [[F:year_1]] to [[F:cost_4]] million in [[F:year_last]], but at a slower rate than output growth. These initiatives are expected to yield further benefits in future periods."
+      },
+      {
+        "id": "h0007",
+        "title": "Supply Chain Resilience and Inventory Practices",
+        "paragraph": "Supply chain resilience remained a priority in [[F:year_last]]. LuminaLite diversified its supplier base and increased safety stock for critical components to mitigate disruptions. Inventory turnover improved slightly, and the company reduced excess stock through better demand forecasting. These practices helped maintain production continuity and control costs. The table below outlines key supply chain metrics and actions taken during the year."
+      },
+      {
+        "id": "h0008",
+        "title": "Workforce Development and Safety Performance",
+        "paragraph": "Workforce development and safety performance are essential to LuminaLite's operations. The company invested in training programs to enhance employee skills in automation and quality control. Safety incidents decreased compared to the prior year, reflecting improved safety protocols and awareness. Employee engagement scores improved, and turnover remained stable. These efforts support operational stability and contribute to a positive workplace culture."
+      },
+      {
+        "id": "h0009",
+        "title": "Financial Results and Analysis",
+        "paragraph": "Financial results for [[F:year_last]] show continued growth in revenue and operating surplus. Revenue, referred to as output value in this report, increased from [[F:output_1]] million in [[F:year_1]] to [[F:output_4]] million in [[F:year_last]]. Operating costs also rose but remained below revenue growth, leading to an operating surplus of [[F:balance_4]] million in [[F:year_last]]. The financial analysis section provides detailed insights into revenue, costs, and surplus trends, along with key performance indicators."
+      },
+      {
+        "id": "h0010",
+        "title": "Revenue and Cost Trends Over Four Years",
+        "paragraph": "Revenue and cost trends over the four-year period from [[F:year_1]] to [[F:year_last]] demonstrate consistent growth. Revenue increased each year, driven by higher sales volumes and favorable product mix. Costs increased in line with production but were managed effectively through efficiency measures. The operating surplus grew from [[F:balance_1]] million in [[F:year_1]] to [[F:balance_4]] million in [[F:year_last]]. These trends are detailed in the following subsections and tables."
+      },
+      {
+        "id": "h0011",
+        "title": "Annual Revenue and Operating Surplus Performance",
+        "paragraph": "Annual revenue and operating surplus performance are key indicators of LuminaLite's financial health. Revenue grew steadily, and operating surplus expanded as a result of cost control and operational leverage. The table below presents the annual figures for revenue, cost, and operating surplus for each year from [[F:year_1]] to [[F:year_last]]. These numbers are simulated and used for illustrative purposes in this report."
+      },
+      {
+        "id": "h0012",
+        "title": "Revenue Growth Drivers and Segment Contributions",
+        "paragraph": "Revenue growth was driven by strong demand in the commercial segment and successful penetration into new markets. Smart lighting products contributed a growing share of total revenue. The table below summarizes segment contributions and growth drivers. These factors are expected to remain important in the upcoming year as the company continues to innovate and expand its customer base."
+      },
+      {
+        "id": "h0013",
+        "title": "Cost Structure and Operating Margin Analysis",
+        "paragraph": "Cost structure analysis reveals that raw materials and labor account for the majority of operating costs. Operating margin improved over the period due to cost efficiency measures and economies of scale. The table below breaks down major cost components and their trends. This analysis helps management identify areas for further optimization and maintain profitability."
+      },
+      {
+        "id": "h0014",
+        "title": "Balance Sheet Strength and Liquidity Position",
+        "paragraph": "Balance sheet strength and liquidity position remained solid in [[F:year_last]]. Cash and cash equivalents increased, and the company maintained low debt levels. Liquidity ratios improved, providing flexibility for future investments. The table below highlights key balance sheet metrics and liquidity indicators. These measures support the company's ability to fund growth initiatives and withstand economic uncertainties."
+      },
+      {
+        "id": "h0015",
+        "title": "Capital Expenditure and Investment Strategy",
+        "paragraph": "Capital expenditure and investment strategy focused on expanding production capacity and upgrading technology. In [[F:year_last]], LuminaLite invested in new automated assembly lines and research facilities. These investments are expected to enhance efficiency and support product innovation. The table below outlines major capital projects and their expected benefits. Funding was sourced from operating cash flow and existing reserves."
+      }
+    ],
+    "continuations": [
+      "The financial figures in this report are simulated and should not be used for investment decisions. They are intended to illustrate the company's performance narrative.",
+      "LuminaLite's board approved the strategic plan for the next fiscal year, emphasizing smart lighting and geographic expansion.",
+      "Employee training programs in [[F:year_last]] covered advanced manufacturing techniques and safety protocols, with high completion rates.",
+      "Customer satisfaction surveys indicated improved scores for product reliability and support responsiveness.",
+      "The company continued to monitor regulatory developments related to energy efficiency standards, which may affect product requirements.",
+      "Supply chain disruptions eased in [[F:year_last]], but the company maintains contingency plans for critical components.",
+      "Research and development expenses increased as a percentage of revenue, reflecting commitment to innovation.",
+      "Marketing initiatives focused on digital channels and trade shows to reach commercial customers.",
+      "LuminaLite's manufacturing facilities achieved certification for environmental management systems.",
+      "The company donated lighting products to community projects as part of its corporate social responsibility efforts.",
+      "Inventory levels were optimized to balance availability and carrying costs.",
+      "Accounts receivable days remained stable, indicating effective credit management.",
+      "The company refinanced a portion of its debt at favorable terms, reducing interest expenses.",
+      "Capital projects completed in [[F:year_last]] are expected to contribute to output growth in the coming year.",
+      "Management identified opportunities to further automate quality inspection processes.",
+      "Supplier partnerships were strengthened through long-term agreements and joint planning.",
+      "The company invested in cybersecurity measures to protect operational technology.",
+      "Workforce diversity initiatives progressed, with increased representation in technical roles.",
+      "Logistics costs were contained through route optimization and carrier negotiations.",
+      "Product returns decreased due to quality improvements and better packaging.",
+      "The company conducted a customer feedback program to inform product development.",
+      "Energy consumption per unit of output declined, supporting sustainability goals.",
+      "LuminaLite participated in industry conferences to showcase its smart lighting solutions.",
+      "The company maintained compliance with all applicable safety and environmental regulations.",
+      "Financial controls were reviewed and enhanced to ensure accurate reporting.",
+      "The board declared no dividends for [[F:year_last]], retaining earnings for growth investments.",
+      "Management is evaluating potential acquisitions to expand market reach.",
+      "The company's credit rating remained stable, reflecting strong financial management.",
+      "Employee turnover was lower than the industry average, indicating good retention.",
+      "Production planning was improved through better forecasting and demand sensing.",
+      "The company continued to invest in employee health and wellness programs.",
+      "Looking ahead, LuminaLite plans to focus on product innovation and operational excellence to drive sustainable growth."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Capital Expenditure Projects and Expected Benefits",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Project",
+            "Investment (M)",
+            "Expected Benefit",
+            "Status"
+          ],
+          [
+            "Automated assembly line",
+            "[[F:cost_4]]",
+            "Increased output",
+            "Completed"
+          ],
+          [
+            "R&D facility upgrade",
+            "[[F:cost_3]]",
+            "Faster innovation",
+            "Ongoing"
+          ],
+          [
+            "Warehouse expansion",
+            "[[F:cost_2]]",
+            "Improved logistics",
+            "Planned"
+          ],
+          [
+            "IT system upgrade",
+            "[[F:cost_1]]",
+            "Better data",
+            "Completed"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Key Balance Sheet and Liquidity Indicators",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Metric",
+            "[[F:year_3]]",
+            "[[F:year_4]]",
+            "Change"
+          ],
+          [
+            "Cash (M)",
+            "[[F:balance_3]]",
+            "[[F:balance_4]]",
+            "Positive"
+          ],
+          [
+            "Debt (M)",
+            "[[F:cost_3]]",
+            "[[F:cost_4]]",
+            "Stable"
+          ],
+          [
+            "Current ratio",
+            "Adequate",
+            "Improved",
+            "Favorable"
+          ],
+          [
+            "Quick ratio",
+            "Sound",
+            "Improved",
+            "Favorable"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Revenue by Segment and Growth Drivers",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Segment",
+            "Revenue (M)",
+            "Growth Driver",
+            "Share"
+          ],
+          [
+            "Commercial",
+            "[[F:output_3]]",
+            "Smart lighting",
+            "High"
+          ],
+          [
+            "Residential",
+            "[[F:output_2]]",
+            "Energy efficiency",
+            "Medium"
+          ],
+          [
+            "Industrial",
+            "[[F:output_1]]",
+            "Durability",
+            "Low"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Annual Revenue, Cost, and Operating Surplus",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Year",
+            "Revenue (M)",
+            "Cost (M)",
+            "Surplus (M)"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Manufacturing Output and Cost Metrics",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Year",
+            "Output (M units)",
+            "Cost (M)",
+            "Surplus (M)"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Supply Chain Metrics and Actions",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Metric",
+            "[[F:year_3]]",
+            "[[F:year_4]]",
+            "Action Taken"
+          ],
+          [
+            "Inventory turns",
+            "Adequate",
+            "Improved",
+            "Improved forecasting"
+          ],
+          [
+            "Supplier count",
+            "[[F:sites_count]]",
+            "[[F:sites_count]]",
+            "Diversified base"
+          ],
+          [
+            "On-time delivery",
+            "Strong",
+            "Stronger",
+            "Carrier negotiations"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4963,
+      "completion_tokens": 3157,
+      "total_tokens": 8120,
+      "prompt_tokens_details": {
+        "cached_tokens": 1664
+      },
+      "prompt_cache_hit_tokens": 1664,
+      "prompt_cache_miss_tokens": 3299
+    },
+    "finish_reason": "stop",
+    "request_hash": "a7a8146d160abf6f49222dcacd8b597328bdf9ef43c0e86533478374f2565564",
+    "schema": "llm-content-v1",
+    "validation_retries": 1,
+    "cache_hit": false
+  }
+}

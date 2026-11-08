@@ -1,0 +1,11 @@
+depths:
+  3: 0.5
+  4: 0.5
+numbering_modes:
+  numbered: 0.6
+  none: 0.1
+  mixed: 0.2
+  misleading: 0.1
+styles:
+  clear: 0.8
+  similar: 0.2

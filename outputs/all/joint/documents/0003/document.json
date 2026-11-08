@@ -1,0 +1,614 @@
+{
+  "doc_id": "0003",
+  "kind": "annual_report",
+  "domain": "annual_report",
+  "language": "zh",
+  "title": "寒驰冷链物流有限公司年度经营报告",
+  "seed": 44,
+  "target_depth": 3,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "寒驰冷链物流有限公司年度经营报告",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "寒驰冷链物流有限公司年度经营报告",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "业务回顾与运营分析",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "A 业务回顾与运营分析",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "仓储与运输网络优化",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 仓储与运输网络优化",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "客户服务与质量管控",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 客户服务与质量管控",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "财务表现与经营成果",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "B 财务表现与经营成果",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "收入与成本结构分析",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 收入与成本结构分析",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "风险因素与应对策略",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 风险因素与应对策略",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      78.16,
+      91.52,
+      109.54,
+      121.57
+    ],
+    "cost": [
+      50.8,
+      59.49,
+      71.2,
+      79.02
+    ],
+    "balance": [
+      27.36,
+      32.03,
+      38.34,
+      42.55
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0001",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "寒驰冷链物流有限公司年度经营报告",
+      "caption": "图 1：公司近四年主要经营指标概览",
+      "rows": [
+        [
+          "年度",
+          "营业收入",
+          "营业成本",
+          "经营结余"
+        ],
+        [
+          "2022",
+          "78.16",
+          "50.80",
+          "27.36"
+        ],
+        [
+          "2023",
+          "91.52",
+          "59.49",
+          "32.03"
+        ],
+        [
+          "2024",
+          "109.54",
+          "71.20",
+          "38.34"
+        ],
+        [
+          "2025",
+          "121.57",
+          "79.02",
+          "42.55"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": "plate-3",
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "公司近四年主要经营指标概览",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: 寒驰冷链物流有限公司年度经营报告. Section: 寒驰冷链物流有限公司年度经营报告. Caption: 公司近四年主要经营指标概览. Article context: 本报告总结寒驰冷链物流有限公司在2025年度的整体经营表现，涵盖业务拓展、运营效率、财务成果与未来规划。报告基于公司内部管理数据与经模拟审计的财务记录编制，旨在向股东、合作伙伴及管理层提供透明、系统的年度回顾。报告期内，公司实现营业收入121.57百万元，营业成本79.02百万元，经营结余42.55百万元，较上年稳步提升，反映出冷链市场需求持续增长与公司服务能力的增强。. Supporting records: [[\"年度\", \"营业收入\", \"营业成本\", \"经营结余\"], [\"2022\", \"78.16\", \"50.80\", \"27.36\"], [\"2023\", \"91.52\", \"59.49\", \"32.03\"], [\"2024\", \"109.54\", \"71.20\", \"38.34\"], [\"2025\", \"121.57\", \"79.02\", \"42.55\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0005",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "财务表现与经营成果",
+      "caption": "表 4：收入与成本变动趋势对比",
+      "rows": [
+        [
+          "年度",
+          "收入增幅",
+          "成本增幅",
+          "结余增幅"
+        ],
+        [
+          "2022",
+          "基期",
+          "基期",
+          "基期"
+        ],
+        [
+          "2023",
+          "上升",
+          "上升",
+          "上升"
+        ],
+        [
+          "2024",
+          "上升",
+          "上升",
+          "上升"
+        ],
+        [
+          "2025",
+          "上升",
+          "上升",
+          "上升"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": "plate-3",
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "收入与成本变动趋势对比",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0006",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "siblings",
+      "topic": "收入与成本结构分析",
+      "caption": "图 2：收入构成与成本项目占比分析",
+      "rows": [
+        [
+          "项目",
+          "占比",
+          "变动趋势",
+          "备注"
+        ],
+        [
+          "食品冷链",
+          "较高",
+          "稳定",
+          "基础业务"
+        ],
+        [
+          "医药冷链",
+          "中等",
+          "上升",
+          "高附加值"
+        ],
+        [
+          "生鲜电商",
+          "中等",
+          "上升",
+          "增长较快"
+        ],
+        [
+          "运输成本",
+          "较高",
+          "上升",
+          "主要支出"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": "plate-3",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "收入构成与成本项目占比分析",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: 寒驰冷链物流有限公司年度经营报告. Section: 收入与成本结构分析. Caption: 收入构成与成本项目占比分析. Article context: 收入构成中，食品冷链服务占比最高，医药冷链与生鲜电商增速较快。成本方面，运输费用与仓储租金为主要支出项，人力成本随业务扩张同步增加。公司通过集中采购与节能改造，部分抵消了成本上涨压力，毛利率维持在合理区间。. Supporting records: [[\"项目\", \"占比\", \"变动趋势\", \"备注\"], [\"食品冷链\", \"较高\", \"稳定\", \"基础业务\"], [\"医药冷链\", \"中等\", \"上升\", \"高附加值\"], [\"生鲜电商\", \"中等\", \"上升\", \"增长较快\"], [\"运输成本\", \"较高\", \"上升\", \"主要支出\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "收入与成本结构分析",
+      "caption": "表 3：成本控制措施与效果评估",
+      "rows": [
+        [
+          "措施",
+          "实施范围",
+          "效果",
+          "后续计划"
+        ],
+        [
+          "集中采购",
+          "全公司",
+          "降低成本",
+          "持续推行"
+        ],
+        [
+          "节能改造",
+          "冷库",
+          "降低能耗",
+          "扩大试点"
+        ],
+        [
+          "路由优化",
+          "运输",
+          "提升装载率",
+          "深化应用"
+        ],
+        [
+          "弹性排班",
+          "仓储",
+          "控制人力成本",
+          "按需调整"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "成本控制措施与效果评估",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0003",
+      "target_previous_id": "h0003",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "仓储与运输网络优化",
+      "caption": "表 1：仓储与运输网络关键节点分布",
+      "rows": [
+        [
+          "区域",
+          "冷库数量",
+          "运输线路",
+          "覆盖范围"
+        ],
+        [
+          "华东",
+          "多个",
+          "密集",
+          "核心城市"
+        ],
+        [
+          "华南",
+          "多个",
+          "较密",
+          "主要城市"
+        ],
+        [
+          "华北",
+          "若干",
+          "适中",
+          "重点城市"
+        ],
+        [
+          "西南",
+          "若干",
+          "拓展中",
+          "区域中心"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "仓储与运输网络关键节点分布",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0003",
+      "target_previous_id": "h0003",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "仓储与运输网络优化",
+      "caption": "表 2：客户服务响应与质量管控指标",
+      "rows": [
+        [
+          "指标",
+          "目标值",
+          "实际值",
+          "状态"
+        ],
+        [
+          "投诉响应",
+          "2日",
+          "达标",
+          "良好"
+        ],
+        [
+          "问题解决",
+          "5日",
+          "达标",
+          "良好"
+        ],
+        [
+          "温控事故",
+          "零起",
+          "零起",
+          "达标"
+        ],
+        [
+          "客户满意度",
+          "高位",
+          "高位",
+          "稳定"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "客户服务响应与质量管控指标",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "寒驰冷链物流有限公司年度经营报告",
+        "paragraph": "本报告总结寒驰冷链物流有限公司在2025年度的整体经营表现，涵盖业务拓展、运营效率、财务成果与未来规划。报告基于公司内部管理数据与经模拟审计的财务记录编制，旨在向股东、合作伙伴及管理层提供透明、系统的年度回顾。报告期内，公司实现营业收入121.57百万元，营业成本79.02百万元，经营结余42.55百万元，较上年稳步提升，反映出冷链市场需求持续增长与公司服务能力的增强。"
+      },
+      "h0002": {
+        "title": "业务回顾与运营分析",
+        "paragraph": "公司业务覆盖食品、医药及生鲜电商三大冷链板块，通过区域仓储网络与干线运输资源整合，为客户提供一体化温控物流解决方案。运营团队持续优化路由规划与库存周转，提升车辆装载率与冷库利用率。年内新增多个长期服务协议，客户结构进一步多元化，为收入增长奠定基础。"
+      },
+      "h0003": {
+        "title": "仓储与运输网络优化",
+        "paragraph": "公司对现有冷库布局进行重新评估，在核心消费区域增设前置仓，缩短末端配送半径。运输环节引入动态温控监测系统，实现全程温度可追溯，降低货损率。通过整合往返线路与提升回程装载率，单位运输成本得到有效控制，客户满意度同步提升。"
+      },
+      "h0004": {
+        "title": "客户服务与质量管控",
+        "paragraph": "公司建立客户服务快速响应机制，设定2个工作日内解决常规投诉的目标，并定期开展客户满意度调研。质量管控方面，严格执行冷链温度记录与异常报警流程，全年未发生重大温控事故。针对医药冷链客户，额外实施专项验证与定期审计，确保合规运营。"
+      },
+      "h0005": {
+        "title": "财务表现与经营成果",
+        "paragraph": "报告期内，公司营业收入达到121.57百万元，较2022年的78.16百万元实现显著增长，年均复合增长率保持稳健。营业成本随业务规模扩大而上升至79.02百万元，但成本增速低于收入增速，推动经营结余提升至42.55百万元。公司现金流状况良好，为后续资本开支提供保障。"
+      },
+      "h0006": {
+        "title": "收入与成本结构分析",
+        "paragraph": "收入构成中，食品冷链服务占比最高，医药冷链与生鲜电商增速较快。成本方面，运输费用与仓储租金为主要支出项，人力成本随业务扩张同步增加。公司通过集中采购与节能改造，部分抵消了成本上涨压力，毛利率维持在合理区间。"
+      },
+      "h0007": {
+        "title": "风险因素与应对策略",
+        "paragraph": "公司面临的主要风险包括燃油价格波动、冷链设施投资回收周期较长以及行业竞争加剧。为此，公司采取签订长期运输协议锁定部分成本、分期投入自动化设备、拓展高附加值医药冷链客户等措施，以增强抗风险能力。同时，持续关注政策变化与市场需求波动，动态调整经营策略。"
+      }
+    },
+    "continuations": [
+      "报告期内，公司对冷链运输车辆进行了预防性维护升级，车辆出勤率保持在较高水平，有效支撑了业务量的增长。",
+      "仓储管理团队通过优化库内作业流程，缩短了货物出入库时间，降低了因操作延误导致的温控风险。",
+      "客户结构方面，长期协议客户贡献了稳定的收入基础，新开发的生鲜电商客户则带来了增量业务机会。",
+      "公司持续投入信息化建设，运输管理系统与仓储管理系统实现数据互通，提升了整体调度效率。",
+      "在成本控制方面，公司通过集中采购制冷设备与节能改造，逐步降低单位仓储能耗，缓解了电费上涨压力。",
+      "医药冷链业务对温控要求严格，公司为此建立了专项操作规范与应急预案，并定期组织员工培训与演练。",
+      "为应对燃油价格波动，公司尝试在部分线路采用新能源车辆，并探索与同行企业的运力共享合作。",
+      "公司重视安全生产，全年组织多次冷链安全专项检查，及时发现并整改隐患，确保运营合规。",
+      "人力资源方面，公司加强了冷链专业人才的引进与培养，通过内部培训提升员工的操作技能与服务意识。",
+      "财务部门强化了应收账款管理，缩短了回款周期，改善了经营性现金流状况，为日常运营提供资金支持。",
+      "公司积极参与行业标准研讨，与行业协会保持沟通，及时了解冷链政策动态，为业务决策提供参考。",
+      "针对客户投诉，公司建立了闭环处理机制，从问题记录、原因分析到改进措施落实，均指定专人跟踪。",
+      "在仓储网络优化过程中，公司对部分老旧冷库进行了技术改造，提升了温控精度与能源利用效率。",
+      "运输环节的温控监测数据实时上传至云端平台，客户可通过端口查询，增强了服务透明度与信任度。",
+      "公司通过定期客户回访收集反馈，将共性需求纳入服务改进计划，持续提升客户体验。",
+      "为降低对单一客户的依赖，公司积极拓展新行业客户，如连锁餐饮与社区团购，分散经营风险。",
+      "公司管理层定期召开经营分析会，对照预算与实际执行情况，及时调整业务策略与资源配置。",
+      "在设备采购方面，公司倾向于选择能效等级较高的制冷机组，虽然初始投资较高，但长期运行成本更低。",
+      "公司建立了供应商评估体系，对运输承运商与设备供应商进行年度评审，确保合作质量与稳定性。",
+      "针对季节性需求波动，公司提前制定运力储备计划，通过临时租赁与弹性排班满足高峰期的服务需求。",
+      "公司注重数据安全与客户隐私保护，对信息系统访问权限进行严格管理，防止数据泄露风险。",
+      "在区域扩张方面，公司优先选择冷链基础设施较为薄弱的地区，以差异化服务建立竞争优势。",
+      "公司鼓励员工提出合理化建议，对采纳的建议给予奖励，营造持续改进的企业文化氛围。",
+      "财务报告显示，公司资产负债结构保持稳健，流动比率与速动比率均处于安全区间。",
+      "公司计划在未来年度加大对自动化分拣与智能仓储的投入，以应对人力成本上升与效率提升需求。",
+      "为提升应急响应能力，公司制定了针对极端天气与设备故障的预案，并定期组织模拟演练。",
+      "公司与多家高校及职业院校建立合作关系，通过实习基地与定向培养方式储备冷链物流专业人才。",
+      "在绿色物流方面，公司推广可循环包装与新能源配送车辆，减少碳排放，履行社会责任。",
+      "公司定期对冷链运输环节进行温度记录抽查，确保全程温控数据完整可追溯，满足客户审计要求。",
+      "针对医药冷链客户，公司按照相关规范要求，对冷藏箱与保温材料进行验证，确保运输条件符合标准。",
+      "公司通过优化仓库照明与制冷系统运行策略，在非高峰时段降低能耗，实现节能降本。",
+      "管理层关注行业并购机会，但现阶段仍以内生增长为主，谨慎评估外部扩张的风险与回报。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1433,
+        "completion_tokens": 2494,
+        "total_tokens": 3927,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 921
+      },
+      "finish_reason": "stop",
+      "request_hash": "6786b987c453314b84f895f40ea75c1d0fecb3f27caf099b2f539272fed02e0d",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

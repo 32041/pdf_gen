@@ -1,0 +1,1946 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            198.0,
+            62.0,
+            414.0,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "公共服务数据质量管理办法",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            545.0,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "为规范公共服务数据的采集、存储、共享与使用，提升数据质量，保障公众利益，依据相关法律法规，制",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            534.5,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "定本办法。本办法适用于各级公共服务机构在提供教育、医疗、交通、社保等领域数据时的质量管理活",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            545.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "动。数据质量管理应遵循准确性、完整性、一致性、及时性和可用性原则，建立覆盖数据全生命周期的责",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            545.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "任体系。各机构应设立数据质量管理岗位，明确职责，定期开展质量评估与改进。本办法自发布之日起施",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            261.5,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "行，由公共服务数据治理委员会负责解释。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            189.27500000000003,
+            175.1795001477003,
+            205.55000000000004
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 4。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            211.55000000000004,
+            175.1795001477003,
+            227.82500000000005
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            233.82500000000005,
+            198.90600019693375,
+            255.52500000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 数据质量组织与职责",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            259.52500000000003,
+            550.0,
+            393.52500000000003
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "管理环节",
+              "核心任务",
+              "输出成果",
+              "监督方式"
+            ],
+            [
+              "组织建设",
+              "设立岗位",
+              "职责文件",
+              "内部审计"
+            ],
+            [
+              "评估监控",
+              "指标监测",
+              "质量报告",
+              "定期评审"
+            ],
+            [
+              "培训宣传",
+              "能力提升",
+              "培训记录",
+              "效果评估"
+            ],
+            [
+              "协作改进",
+              "问题整改",
+              "改进方案",
+              "跟踪验证"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            259.52500000000003,
+            550.0,
+            426.52500000000003
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            400.52500000000003,
+            204.62150011956692,
+            413.70000000000005
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 1：数据质量管理办法实施要点概览",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            426.52500000000003,
+            545.0,
+            442.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "公共服务机构应建立数据质量治理架构，明确决策层、管理层和执行层的职责。决策层负责审批数据质量",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            442.8,
+            534.5,
+            459.075
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "方针和资源分配；管理层负责制定质量标准、协调跨部门工作；执行层负责日常数据质量监控与问题修",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            459.075,
+            503.0,
+            475.34999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "复。各机构应指定数据质量负责人，并建立跨部门协作机制，确保数据质量要求融入业务流程。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            481.34999999999997,
+            205.34400022029877,
+            499.95
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 数据质量管理岗位设置",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            503.95,
+            545.0,
+            520.225
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "各公共服务机构应根据数据规模和业务复杂度设置专职或兼职数据质量管理岗位。岗位职责包括制定数据",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            520.225,
+            545.0,
+            536.5
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "质量规则、执行质量检查、跟踪问题整改、编制质量报告。岗位人员应具备数据管理、统计分析及相关业",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            536.5,
+            429.5,
+            552.775
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "务知识，并定期接受培训。机构应保障岗位人员的工作独立性，避免利益冲突。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            558.775,
+            175.1795001477003,
+            575.05
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            581.05,
+            197.89500024914742,
+            598.0999999999999
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 数据质量负责人职责",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            602.0999999999999,
+            545.0,
+            618.3749999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "数据质量负责人负责组织制定数据质量目标和计划，监督数据质量管理制度执行，协调解决重大数据质量",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            618.3749999999999,
+            545.0,
+            634.6499999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "问题，定期向机构决策层报告数据质量状况。负责人应推动数据质量文化建设，组织培训与宣传，确保全",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            634.6499999999999,
+            461.0,
+            650.9249999999998
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "员参与数据质量管理。负责人离任时，应做好工作交接，保障数据质量管理的连续性。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            656.9249999999998,
+            175.89500024914742,
+            673.9749999999998
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.2 跨部门协作机制",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            677.9749999999998,
+            545.0,
+            694.2499999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "公共服务机构应建立跨部门数据质量协作机制，明确牵头部门和配合部门。协作机制包括定期会议、联合",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            694.2499999999998,
+            545.0,
+            710.5249999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "检查、问题会商和信息共享。对于涉及多个部门的数据质量问题，应成立专项小组，制定解决方案并跟踪",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            545.0,
+            78.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "落实。协作机制应纳入机构绩效考核，确保各部门有效配合。协作流程和结果应记录存档，供后续审计和",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            114.5,
+            94.55000000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "优化参考。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.55000000000001,
+            175.1795001477003,
+            116.82500000000002
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            122.82500000000002,
+            175.1795001477003,
+            139.10000000000002
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            145.10000000000002,
+            550.0,
+            279.1
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "部门",
+              "主要职责",
+              "协作要求",
+              "考核指标"
+            ],
+            [
+              "数据管理部",
+              "制定标准",
+              "牵头协调",
+              "标准覆盖率"
+            ],
+            [
+              "业务部门",
+              "执行采集",
+              "配合检查",
+              "数据准确率"
+            ],
+            [
+              "技术部门",
+              "系统支持",
+              "监控预警",
+              "系统可用率"
+            ],
+            [
+              "监督部门",
+              "独立审计",
+              "反馈问题",
+              "整改完成率"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            145.10000000000002,
+            550.0,
+            312.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            286.1,
+            179.12150011956692,
+            299.27500000000003
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "图 1：跨部门协作职责分工示例",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.1,
+            545.0,
+            328.375
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "数据质量管理办法的实施需要配套细则，各机构应结合业务特点制定操作手册，明确流程和表单。细则应",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.375,
+            230.0,
+            344.65
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "报上级主管部门备案，并定期修订。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.65,
+            503.0,
+            366.92499999999995
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "数据质量评估应避免仅依赖单一指标，需结合业务场景综合判断，防止为追求指标而扭曲数据。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            372.92499999999995,
+            513.5,
+            389.19999999999993
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "跨部门协作中，应明确数据质量问题的首问责任部门，避免推诿。协作结果应纳入部门年度考核。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            395.19999999999993,
+            492.5,
+            411.4749999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "数据质量培训应注重案例教学，使用真实脱敏数据演示常见错误及修复方法，提升培训实效。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            417.4749999999999,
+            482.0,
+            433.7499999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "监控预警阈值应基于历史数据分析和业务容忍度设定，并定期回顾调整，避免误报或漏报。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.7499999999999,
+            419.0,
+            456.02499999999986
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "数据质量负责人应具备跨部门协调能力，机构应赋予其必要的资源调配权限。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            462.02499999999986,
+            461.0,
+            478.29999999999984
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "评估抽样应保证随机性和代表性，样本量应满足统计要求，并记录抽样过程以备核查。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            484.29999999999984,
+            419.0,
+            500.5749999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "对于共享数据，提供方和使用方应签订质量协议，明确质量要求和责任边界。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.5749999999998,
+            440.0,
+            522.8499999999998
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "数据质量报告应简明扼要，突出关键问题和改进建议，便于决策层快速掌握情况。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            528.8499999999998,
+            461.0,
+            545.1249999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "机构应建立数据质量问题的闭环管理机制，从发现、登记、整改到验证形成完整记录。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            551.1249999999998,
+            387.5,
+            567.3999999999997
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "数据质量指标应与业务绩效指标区分，避免因考核压力导致数据造假。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            573.3999999999997,
+            419.0,
+            589.6749999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "新系统上线前应进行数据质量影响评估，确保数据迁移和接口符合质量要求。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            595.6749999999997,
+            408.5,
+            611.9499999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "数据质量培训应覆盖所有接触数据的岗位，包括一线采集人员和管理人员。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            617.9499999999997,
+            345.5,
+            634.2249999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "监控系统应具备日志审计功能，确保预警和处理过程可追溯。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            640.2249999999997,
+            377.0,
+            656.4999999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "跨部门协作会议应形成纪要，明确行动项和完成时限，并跟踪落实。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            662.4999999999997,
+            366.5,
+            678.7749999999996
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "数据质量评估可引入第三方机构进行独立审计，提高评估公信力。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            684.7749999999996,
+            377.0,
+            701.0499999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "机构应定期开展数据质量文化宣传活动，表彰优秀实践，推广经验。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            387.5,
+            78.275
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "数据质量负责人应定期向公众发布数据质量报告摘要，接受社会监督。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            84.275,
+            550.0,
+            192.275
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "会议类型",
+              "频率",
+              "参与部门",
+              "主要议题"
+            ],
+            [
+              "月度例会",
+              "每月",
+              "所有部门",
+              "质量进展"
+            ],
+            [
+              "专项会商",
+              "按需",
+              "相关部门",
+              "重大问题"
+            ],
+            [
+              "年度总结",
+              "每年",
+              "决策层",
+              "年度报告"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            84.275,
+            550.0,
+            225.275
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.275,
+            187.62150011956692,
+            212.45000000000002
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 2：跨部门协作会议与沟通安排",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            225.275,
+            193.34400022029877,
+            243.875
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.2 数据质量培训与宣传",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.875,
+            534.5,
+            264.15
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "公共服务机构应定期开展数据质量培训，提升员工的数据质量意识和技能。培训内容应包括数据质量标",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.15,
+            545.0,
+            280.42499999999995
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "准、操作规范、常见问题及案例。新员工入职时应接受数据质量基础培训。机构还应通过内部宣传、知识",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.42499999999995,
+            503.0,
+            296.69999999999993
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "竞赛等方式营造重视数据质量的氛围。培训计划和效果评估应记录归档，作为持续改进的依据。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            302.69999999999993,
+            175.1795001477003,
+            318.9749999999999
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            324.9749999999999,
+            550.0,
+            432.9749999999999
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "培训对象",
+              "培训内容",
+              "学时安排",
+              "评估方式"
+            ],
+            [
+              "新员工",
+              "基础规范",
+              "48学时",
+              "在线测试"
+            ],
+            [
+              "数据管理员",
+              "高级分析",
+              "48学时",
+              "项目实操"
+            ],
+            [
+              "业务骨干",
+              "质量工具",
+              "48学时",
+              "案例答辩"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            324.9749999999999,
+            550.0,
+            465.9749999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.9749999999999,
+            196.12150011956692,
+            453.1499999999999
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 2：数据质量培训计划与评估方式",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            465.9749999999999,
+            198.90600019693375,
+            487.6749999999999
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2 数据质量评估与监控",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            491.6749999999999,
+            545.0,
+            507.9499999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "公共服务机构应建立数据质量评估与监控体系，定期对数据的准确性、完整性、一致性、及时性和可用性",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            507.9499999999999,
+            545.0,
+            524.2249999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "进行评估。评估应采用定量与定性相结合的方法，覆盖数据采集、处理、存储和共享等环节。监控应实现",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            524.2249999999999,
+            408.5,
+            540.4999999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "自动化，及时发现异常并触发预警。评估结果应形成报告，作为改进依据。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            546.4999999999999,
+            181.34400022029877,
+            565.0999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1 数据质量评估指标",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            569.0999999999999,
+            545.0,
+            585.3749999999999
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "数据质量评估指标应包括准确性、完整性、一致性、及时性、唯一性和有效性等维度。各机构可根据业务",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            585.3749999999999,
+            534.5,
+            601.6499999999999
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "特点细化指标，并设定目标值。指标应可量化、可验证，并定期评审更新。评估指标应覆盖关键数据元",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            601.6499999999999,
+            366.5,
+            617.9249999999998
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "素，并与业务目标对齐。指标数据应来源可靠，采集方法应规范。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            623.9249999999998,
+            175.89500024914742,
+            640.9749999999998
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.1 准确性评估方法",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.9749999999998,
+            534.5,
+            661.2499999999998
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "准确性评估可采用抽样核查、规则校验和对比分析等方法。抽样核查应随机抽取样本，与权威数据源比",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            661.2499999999998,
+            545.0,
+            677.5249999999997
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "对；规则校验应定义业务规则，检查数据是否符合；对比分析应比较不同来源的数据一致性。评估频率应",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            677.5249999999997,
+            450.5,
+            693.7999999999997
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "根据数据重要性和变化程度确定。评估结果应记录并分析误差原因，制定改进措施。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            175.89500024914742,
+            79.05
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1.2 完整性评估方法",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            545.0,
+            99.325
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "完整性评估应检查数据记录是否缺失关键字段、数据集合是否覆盖全部业务对象。可采用字段非空率、记",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            545.0,
+            115.60000000000001
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "录覆盖率等指标。评估时应区分必要字段和可选字段，并考虑业务场景。对于缺失数据，应分析原因并采",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            408.5,
+            131.875
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "取补录或流程优化措施。完整性评估应定期进行，并与数据采集流程结合。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            137.875,
+            193.34400022029877,
+            156.475
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.2 数据质量监控与预警",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            160.475,
+            534.5,
+            176.75
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "公共服务机构应建立数据质量监控系统，对关键数据质量指标进行实时或定期监控。监控系统应设置阈",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            176.75,
+            545.0,
+            193.025
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "值，当指标异常时自动触发预警。预警信息应及时发送至数据质量负责人和相关业务部门。机构应制定预",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            193.025,
+            524.0,
+            209.3
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "警响应流程，明确处理时限和责任人。监控记录和预警处理情况应保存，用于趋势分析和持续改进。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            215.3,
+            550.0,
+            349.3
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "能力维度",
+              "具体要求",
+              "评估方式",
+              "培训支持"
+            ],
+            [
+              "数据知识",
+              "熟悉质量标准",
+              "笔试",
+              "内部课程"
+            ],
+            [
+              "分析技能",
+              "掌握统计方法",
+              "实操",
+              "外部培训"
+            ],
+            [
+              "业务理解",
+              "了解服务流程",
+              "案例评审",
+              "轮岗实践"
+            ],
+            [
+              "沟通协调",
+              "跨部门协作",
+              "多方评估",
+              "工作坊"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            215.3,
+            550.0,
+            382.3
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            356.3,
+            204.62150011956692,
+            369.475
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "图 3：数据质量管理岗位核心能力要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            382.3,
+            550.0,
+            516.3
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "原则",
+              "内涵",
+              "适用环节",
+              "责任主体"
+            ],
+            [
+              "准确性",
+              "数据真实可靠",
+              "采集处理",
+              "业务部门"
+            ],
+            [
+              "完整性",
+              "关键字段齐全",
+              "采集存储",
+              "数据部门"
+            ],
+            [
+              "一致性",
+              "多源数据一致",
+              "共享交换",
+              "协调机构"
+            ],
+            [
+              "及时性",
+              "数据更新及时",
+              "全生命周期",
+              "技术部门"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            382.3,
+            550.0,
+            549.3
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            523.3,
+            230.12150011956692,
+            536.4749999999999
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 4：数据质量管理办法关键原则与适用范围",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

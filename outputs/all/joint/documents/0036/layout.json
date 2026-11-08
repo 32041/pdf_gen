@@ -1,0 +1,3240 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.81036328124998,
+            62.0,
+            508.46563671875,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "LuminaLite Manufacturing Annual Report 2025",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            521.61083984375,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This annual report presents the performance of LuminaLite Manufacturing for the fiscal",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            494.17138671875,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "year ending 2025. LuminaLite designs and produces efficient lighting products for",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            522.036376953125,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "commercial and residential markets. The report covers strategic initiatives, operational",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            496.247802734375,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "achievements, financial results, and governance practices. All financial figures are",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            506.55810546875,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "simulated and expressed in millions of dollars unless otherwise noted. The reporting",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            510.59814453125,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "period spans from 2022 to 2025, with comparative data provided for prior years. The",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.55000000000004,
+            521.498046875,
+            215.82500000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "report aims to provide stakeholders with a transparent view of the company's progress",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            215.82500000000005,
+            144.836181640625,
+            232.10000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and challenges.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            238.10000000000005,
+            344.5390625,
+            256.70000000000005
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Strategic Overview and Market Position",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            260.70000000000005,
+            520.390625,
+            276.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "LuminaLite's strategy focuses on innovation in energy-efficient lighting, expansion into",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            276.975,
+            524.91259765625,
+            293.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "new geographic markets, and strengthening partnerships with distributors. In 2025, the",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            293.25,
+            479.1904296875,
+            309.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "company continued to invest in research and development to enhance product",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            309.525,
+            504.28173828125,
+            325.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "performance and reduce costs. Market demand for LED and smart lighting solutions",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            325.79999999999995,
+            520.159912109375,
+            342.07499999999993
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "grew, driven by regulatory changes and sustainability trends. LuminaLite maintained a",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            342.07499999999993,
+            526.994140625,
+            358.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "competitive position by offering reliable, high-quality products and responsive customer",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            358.3499999999999,
+            498.14990234375,
+            374.6249999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "service. The strategic overview section outlines key initiatives and their outcomes.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            380.6249999999999,
+            371.04736328125,
+            397.6749999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Operational Performance and Efficiency Gains",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            401.6749999999999,
+            529.931884765625,
+            417.9499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Operational performance in 2025 improved due to streamlined manufacturing processes",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            417.9499999999999,
+            510.808349609375,
+            434.22499999999985
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "and supply chain optimization. The company achieved higher output while managing",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            434.22499999999985,
+            532.987548828125,
+            450.49999999999983
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "costs effectively. Production volume increased from 83.86 million units in 2022 to 121.80",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            450.49999999999983,
+            516.93505859375,
+            466.7749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "million units in 2025, representing a cumulative growth of 45.2 percent. Cost of goods",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.7749999999998,
+            510.0751953125,
+            483.0499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "sold also rose but at a slower pace, leading to improved operating surplus. Efficiency",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            483.0499999999998,
+            479.169921875,
+            499.32499999999976
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "gains were realized through automation, waste reduction, and better inventory",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            499.32499999999976,
+            439.5078125,
+            515.5999999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "management. These efforts contributed to a stronger financial position.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            521.5999999999998,
+            388.1533203125,
+            538.6499999999997
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Manufacturing Output and Cost Management",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            542.6499999999997,
+            505.209716796875,
+            558.9249999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Manufacturing output and cost management are central to LuminaLite's operational",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            558.9249999999997,
+            484.98388671875,
+            575.1999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "success. The company monitors production volumes and costs closely to ensure",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            575.1999999999997,
+            524.825439453125,
+            591.4749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "profitability. Over the period from 2022 to 2025, output grew steadily, and cost per unit",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            591.4749999999997,
+            484.537841796875,
+            607.7499999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "declined due to economies of scale and process improvements. The table below",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            607.7499999999997,
+            501.564453125,
+            624.0249999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "summarizes key output and cost metrics for the four-year period. These figures are",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            624.0249999999996,
+            398.19482421875,
+            640.2999999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "simulated and used for internal analysis and external reporting.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            646.2999999999996,
+            298.15771484375,
+            662.5749999999996
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            391.61181640625,
+            78.275
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 Production Volume Trends Across Product Lines",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            82.275,
+            533.276,
+            216.275
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Output (M units)",
+              "Cost (M)",
+              "Surplus (M)"
+            ],
+            [
+              "2022",
+              "83.86",
+              "54.51",
+              "29.35"
+            ],
+            [
+              "2023",
+              "94.92",
+              "61.70",
+              "33.22"
+            ],
+            [
+              "2024",
+              "107.95",
+              "70.17",
+              "37.78"
+            ],
+            [
+              "2025",
+              "121.80",
+              "79.17",
+              "42.63"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            82.275,
+            533.276,
+            249.275
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            223.275,
+            266.68896484375,
+            236.45000000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 1: Manufacturing Output and Cost Metrics",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            249.275,
+            518.00146484375,
+            265.55
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Production volume trends vary across product lines. Commercial luminaires and smart",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            265.55,
+            507.34765625,
+            281.825
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "bulbs showed the strongest growth, while traditional fixtures declined. In 2025, total",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.825,
+            532.244140625,
+            298.09999999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "output reached 121.80 million units, up from 83.86 million units in 2022. The growth was",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            298.09999999999997,
+            491.85400390625,
+            314.37499999999994
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "driven by increased demand for energy-efficient solutions and successful product",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            314.37499999999994,
+            529.60888671875,
+            330.6499999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "launches. The company plans to further expand its smart lighting portfolio in the coming",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            330.6499999999999,
+            250.53857421875,
+            346.9249999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "year to capitalize on market trends.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            352.9249999999999,
+            418.102783203125,
+            369.1999999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.2 Cost Reduction Initiatives and Supplier Negotiations",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            373.1999999999999,
+            522.518310546875,
+            389.47499999999985
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Cost reduction initiatives focused on supplier negotiations, component standardization,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            389.47499999999985,
+            485.4248046875,
+            405.74999999999983
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and lean manufacturing. By consolidating suppliers and renegotiating contracts,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            405.74999999999983,
+            493.058837890625,
+            422.0249999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "LuminaLite achieved savings on raw materials. Lean practices reduced waste and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            422.0249999999998,
+            526.61474609375,
+            438.2999999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "improved labor productivity. As a result, cost of goods sold increased from 54.51 million",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            438.2999999999998,
+            483.54833984375,
+            454.57499999999976
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "in 2022 to 79.17 million in 2025, but at a slower rate than output growth. These",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            454.57499999999976,
+            407.30029296875,
+            470.84999999999974
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "initiatives are expected to yield further benefits in future periods.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            476.84999999999974,
+            406.640625,
+            493.89999999999975
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.2 Supply Chain Resilience and Inventory Practices",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            497.89999999999975,
+            514.72021484375,
+            514.1749999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Supply chain resilience remained a priority in 2025. LuminaLite diversified its supplier",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            514.1749999999997,
+            482.05126953125,
+            530.4499999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "base and increased safety stock for critical components to mitigate disruptions.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            530.4499999999997,
+            515.361083984375,
+            546.7249999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Inventory turnover improved slightly, and the company reduced excess stock through",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.7249999999997,
+            519.924072265625,
+            562.9999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "better demand forecasting. These practices helped maintain production continuity and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.9999999999997,
+            496.411865234375,
+            579.2749999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "control costs. The table below outlines key supply chain metrics and actions taken",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.2749999999996,
+            146.54345703125,
+            595.5499999999996
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "during the year.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            601.5499999999996,
+            302.32080078125,
+            617.8249999999996
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            623.8249999999996,
+            389.80859375,
+            640.8749999999995
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.2 Workforce Development and Safety Performance",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.8749999999995,
+            472.510009765625,
+            661.1499999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Workforce development and safety performance are essential to LuminaLite's",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            661.1499999999995,
+            514.39208984375,
+            677.4249999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "operations. The company invested in training programs to enhance employee skills in",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            677.4249999999995,
+            522.82080078125,
+            693.6999999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "automation and quality control. Safety incidents decreased compared to the prior year,",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            693.6999999999995,
+            501.590087890625,
+            709.9749999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "reflecting improved safety protocols and awareness. Employee engagement scores",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            709.9749999999995,
+            526.296875,
+            726.2499999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "improved, and turnover remained stable. These efforts support operational stability and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            726.2499999999994,
+            284.837890625,
+            742.5249999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "contribute to a positive workplace culture.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            279.541015625,
+            80.6
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2 Financial Results and Analysis",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.6,
+            502.933349609375,
+            100.875
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Financial results for 2025 show continued growth in revenue and operating surplus.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.875,
+            528.229736328125,
+            117.15
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Revenue, referred to as output value in this report, increased from 83.86 million in 2022",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            117.15,
+            532.895263671875,
+            133.425
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "to 121.80 million in 2025. Operating costs also rose but remained below revenue growth,",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            133.425,
+            515.58154296875,
+            149.70000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "leading to an operating surplus of 42.63 million in 2025. The financial analysis section",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            149.70000000000002,
+            489.664794921875,
+            165.97500000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "provides detailed insights into revenue, costs, and surplus trends, along with key",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            165.97500000000002,
+            187.794921875,
+            182.25000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "performance indicators.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            188.25000000000003,
+            347.73681640625,
+            205.30000000000004
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1 Revenue and Cost Trends Over Four Years",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            209.30000000000004,
+            501.8720703125,
+            225.57500000000005
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Revenue and cost trends over the four-year period from 2022 to 2025 demonstrate",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.57500000000005,
+            512.961669921875,
+            241.85000000000005
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "consistent growth. Revenue increased each year, driven by higher sales volumes and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            241.85000000000005,
+            491.766845703125,
+            258.12500000000006
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "favorable product mix. Costs increased in line with production but were managed",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            258.12500000000006,
+            521.246826171875,
+            274.40000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "effectively through efficiency measures. The operating surplus grew from 29.35 million",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            274.40000000000003,
+            521.30322265625,
+            290.675
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "in 2022 to 42.63 million in 2025. These trends are detailed in the following subsections",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            290.675,
+            120.493408203125,
+            306.95
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "and tables.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            312.95,
+            435.18798828125,
+            330.0
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.1.1 Annual Revenue and Operating Surplus Performance",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            334.0,
+            515.299560546875,
+            350.275
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Annual revenue and operating surplus performance are key indicators of LuminaLite's",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.275,
+            518.960205078125,
+            366.54999999999995
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "financial health. Revenue grew steadily, and operating surplus expanded as a result of",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.54999999999995,
+            515.637939453125,
+            382.82499999999993
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "cost control and operational leverage. The table below presents the annual figures for",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            382.82499999999993,
+            518.708984375,
+            399.0999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "revenue, cost, and operating surplus for each year from 2022 to 2025. These numbers",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            399.0999999999999,
+            388.5048828125,
+            415.3749999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "are simulated and used for illustrative purposes in this report.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            421.3749999999999,
+            533.276,
+            529.3749999999999
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Segment",
+              "Revenue (M)",
+              "Growth Driver",
+              "Share"
+            ],
+            [
+              "Commercial",
+              "107.95",
+              "Smart lighting",
+              "High"
+            ],
+            [
+              "Residential",
+              "94.92",
+              "Energy efficiency",
+              "Medium"
+            ],
+            [
+              "Industrial",
+              "83.86",
+              "Durability",
+              "Low"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            421.3749999999999,
+            533.276,
+            562.3749999999999
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            536.3749999999999,
+            279.546875,
+            549.5499999999998
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Figure 1: Revenue by Segment and Growth Drivers",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.3749999999999,
+            418.031005859375,
+            578.6499999999999
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1.1.1 Revenue Growth Drivers and Segment Contributions",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            582.6499999999999,
+            479.11865234375,
+            598.9249999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Revenue growth was driven by strong demand in the commercial segment and",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.9249999999998,
+            525.984130859375,
+            615.1999999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "successful penetration into new markets. Smart lighting products contributed a growing",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            615.1999999999998,
+            521.287841796875,
+            631.4749999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "share of total revenue. The table below summarizes segment contributions and growth",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            631.4749999999998,
+            509.577880859375,
+            647.7499999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "drivers. These factors are expected to remain important in the upcoming year as the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            647.7499999999998,
+            393.801025390625,
+            664.0249999999997
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "company continues to innovate and expand its customer base.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.0249999999997,
+            302.32080078125,
+            686.2999999999997
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            692.2999999999997,
+            379.609619140625,
+            708.5749999999997
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1.2 Cost Structure and Operating Margin Analysis",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            712.5749999999997,
+            521.05712890625,
+            728.8499999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Cost structure analysis reveals that raw materials and labor account for the majority of",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            728.8499999999997,
+            496.32470703125,
+            745.1249999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "operating costs. Operating margin improved over the period due to cost efficiency",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            745.1249999999997,
+            528.537353515625,
+            761.3999999999996
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "measures and economies of scale. The table below breaks down major cost components",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            527.16845703125,
+            78.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "and their trends. This analysis helps management identify areas for further optimization",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            198.443603515625,
+            94.55000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "and maintain profitability.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            100.55000000000001,
+            393.71240234375,
+            117.60000000000001
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.2 Balance Sheet Strength and Liquidity Position",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            121.60000000000001,
+            505.014892578125,
+            137.875
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Balance sheet strength and liquidity position remained solid in 2025. Cash and cash",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.875,
+            505.90185546875,
+            154.15
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "equivalents increased, and the company maintained low debt levels. Liquidity ratios",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            154.15,
+            507.998779296875,
+            170.425
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "improved, providing flexibility for future investments. The table below highlights key",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.425,
+            519.175537109375,
+            186.70000000000002
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "balance sheet metrics and liquidity indicators. These measures support the company's",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            186.70000000000002,
+            437.308349609375,
+            202.97500000000002
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "ability to fund growth initiatives and withstand economic uncertainties.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            208.97500000000002,
+            298.15771484375,
+            225.25000000000003
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            231.25000000000003,
+            533.276,
+            365.25
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Metric",
+              "2024",
+              "2025",
+              "Change"
+            ],
+            [
+              "Cash (M)",
+              "37.78",
+              "42.63",
+              "Positive"
+            ],
+            [
+              "Debt (M)",
+              "70.17",
+              "79.17",
+              "Stable"
+            ],
+            [
+              "Current ratio",
+              "Adequate",
+              "Improved",
+              "Favorable"
+            ],
+            [
+              "Quick ratio",
+              "Sound",
+              "Improved",
+              "Favorable"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            231.25000000000003,
+            533.276,
+            398.25
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            372.25,
+            281.2236328125,
+            385.425
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 2: Key Balance Sheet and Liquidity Indicators",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            398.25,
+            366.91162109375,
+            415.3
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.2 Capital Expenditure and Investment Strategy",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            419.3,
+            525.77392578125,
+            435.575
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Capital expenditure and investment strategy focused on expanding production capacity",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            435.575,
+            511.93115234375,
+            451.84999999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "and upgrading technology. In 2025, LuminaLite invested in new automated assembly",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            451.84999999999997,
+            523.92822265625,
+            468.12499999999994
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "lines and research facilities. These investments are expected to enhance efficiency and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            468.12499999999994,
+            509.126708984375,
+            484.3999999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "support product innovation. The table below outlines major capital projects and their",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            484.3999999999999,
+            528.76806640625,
+            500.6749999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "expected benefits. Funding was sourced from operating cash flow and existing reserves.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.6749999999999,
+            298.15771484375,
+            522.9499999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            528.9499999999999,
+            302.32080078125,
+            545.2249999999999
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            551.2249999999999,
+            533.276,
+            685.2249999999999
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Project",
+              "Investment (M)",
+              "Expected Benefit",
+              "Status"
+            ],
+            [
+              "Automated assembly line",
+              "79.17",
+              "Increased output",
+              "Completed"
+            ],
+            [
+              "R&D facility upgrade",
+              "70.17",
+              "Faster innovation",
+              "Ongoing"
+            ],
+            [
+              "Warehouse expansion",
+              "61.70",
+              "Improved logistics",
+              "Planned"
+            ],
+            [
+              "IT system upgrade",
+              "54.51",
+              "Better data",
+              "Completed"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            551.2249999999999,
+            533.276,
+            718.2249999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            692.2249999999999,
+            318.2783203125,
+            705.3999999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Capital Expenditure Projects and Expected Benefits",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Revenue (M)",
+              "Cost (M)",
+              "Surplus (M)"
+            ],
+            [
+              "2022",
+              "83.86",
+              "54.51",
+              "29.35"
+            ],
+            [
+              "2023",
+              "94.92",
+              "61.70",
+              "33.22"
+            ],
+            [
+              "2024",
+              "107.95",
+              "70.17",
+              "37.78"
+            ],
+            [
+              "2025",
+              "121.80",
+              "79.17",
+              "42.63"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            297.5263671875,
+            216.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Figure 2: Annual Revenue, Cost, and Operating Surplus",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229,
+            522.784912109375,
+            245.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "The financial figures in this report are simulated and should not be used for investment",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            245.275,
+            483.153564453125,
+            261.55
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "decisions. They are intended to illustrate the company's performance narrative.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            267.55,
+            507.342529296875,
+            283.825
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "LuminaLite's board approved the strategic plan for the next fiscal year, emphasizing",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            283.825,
+            281.387451171875,
+            300.09999999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "smart lighting and geographic expansion.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            306.09999999999997,
+            519.92919921875,
+            322.37499999999994
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Employee training programs in 2025 covered advanced manufacturing techniques and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            322.37499999999994,
+            296.8349609375,
+            338.6499999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "safety protocols, with high completion rates.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            344.6499999999999,
+            500.277587890625,
+            360.9249999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Customer satisfaction surveys indicated improved scores for product reliability and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            360.9249999999999,
+            190.096923828125,
+            377.1999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "support responsiveness.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            383.1999999999999,
+            531.74169921875,
+            399.47499999999985
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "The company continued to monitor regulatory developments related to energy efficiency",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            399.47499999999985,
+            332.56982421875,
+            415.74999999999983
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "standards, which may affect product requirements.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            421.74999999999983,
+            519.66259765625,
+            438.0249999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "Supply chain disruptions eased in 2025, but the company maintains contingency plans",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            438.0249999999998,
+            186.487548828125,
+            454.2999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "for critical components.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            460.2999999999998,
+            519.267822265625,
+            476.57499999999976
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "Research and development expenses increased as a percentage of revenue, reflecting",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            476.57499999999976,
+            205.11376953125,
+            492.84999999999974
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "commitment to innovation.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            498.84999999999974,
+            518.437255859375,
+            515.1249999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "Marketing initiatives focused on digital channels and trade shows to reach commercial",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            515.1249999999998,
+            120.25244140625,
+            531.3999999999997
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "customers.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            537.3999999999997,
+            470.274658203125,
+            553.6749999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "LuminaLite's manufacturing facilities achieved certification for environmental",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.6749999999997,
+            182.4423828125,
+            569.9499999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "management systems.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            575.9499999999997,
+            517.87841796875,
+            592.2249999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "The company donated lighting products to community projects as part of its corporate",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            592.2249999999997,
+            206.257080078125,
+            608.4999999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "social responsibility efforts.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            614.4999999999997,
+            452.976318359375,
+            630.7749999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "Inventory levels were optimized to balance availability and carrying costs.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.7749999999996,
+            503.123046875,
+            653.0499999999996
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "Accounts receivable days remained stable, indicating effective credit management.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.0499999999996,
+            497.1552734375,
+            675.3249999999996
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "The company refinanced a portion of its debt at favorable terms, reducing interest",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            675.3249999999996,
+            115.192138671875,
+            691.5999999999996
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "expenses.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            697.5999999999996,
+            515.760986328125,
+            713.8749999999995
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "Capital projects completed in 2025 are expected to contribute to output growth in the",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            713.8749999999995,
+            130.7626953125,
+            730.1499999999995
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "coming year.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            736.1499999999995,
+            520.590576171875,
+            752.4249999999995
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "Management identified opportunities to further automate quality inspection processes.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            493.735595703125,
+            78.275
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "Supplier partnerships were strengthened through long-term agreements and joint",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            110.90087890625,
+            94.55000000000001
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "planning.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            100.55000000000001,
+            533.276,
+            208.55
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Metric",
+              "2024",
+              "2025",
+              "Action Taken"
+            ],
+            [
+              "Inventory turns",
+              "Adequate",
+              "Improved",
+              "Improved forecasting"
+            ],
+            [
+              "Supplier count",
+              "4",
+              "4",
+              "Diversified base"
+            ],
+            [
+              "On-time delivery",
+              "Strong",
+              "Stronger",
+              "Carrier negotiations"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            100.55000000000001,
+            533.276,
+            241.55
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            215.55,
+            244.530029296875,
+            228.72500000000002
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 3: Supply Chain Metrics and Actions",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

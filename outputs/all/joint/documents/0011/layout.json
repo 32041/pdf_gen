@@ -1,0 +1,6240 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            120.85400390625,
+            62.0,
+            491.14599609375,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "A Purpose and Scope of the Triage Guide",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            258.53662109375,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This guide sets how incoming service",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            293.0,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "tickets are classified, prioritised and passed",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            295.199462890625,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "between shifts so that nothing is dropped at",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            283.171630859375,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "handover. It applies to every queue in the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            294.54833984375,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "service desk and to all staff who triage, own",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            271.195068359375,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "or receive tickets. The aim is consistent",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.55000000000004,
+            291.261962890625,
+            215.82500000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "decisions: the same ticket should reach the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            215.82500000000005,
+            291.948974609375,
+            232.10000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "same severity and owner regardless of who",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            232.10000000000005,
+            288.80615234375,
+            248.37500000000006
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "is on duty. Where local practice differs, the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            248.37500000000006,
+            255.634765625,
+            264.65000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "stricter rule applies until the guide is",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.65000000000003,
+            150.3271484375,
+            280.925
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "formally revised.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            286.925,
+            254.322265625,
+            308.625
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "A.1 Intake Channels and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            308.625,
+            212.568359375,
+            330.325
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Ticket Registration",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            334.325,
+            286.8271484375,
+            350.59999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Tickets arrive by portal form, email, phone",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.59999999999997,
+            281.3515625,
+            366.87499999999994
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "and walk-in. Each channel is registered in",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.87499999999994,
+            285.130126953125,
+            383.1499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "the same system within the same working",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            383.1499999999999,
+            239.99755859375,
+            399.4249999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "day, and the registrar records the",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            399.4249999999999,
+            248.32373046875,
+            415.6999999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "requester, the affected service, the",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            415.6999999999999,
+            257.603515625,
+            431.97499999999985
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "observed symptom and any deadline",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            431.97499999999985,
+            290.12890625,
+            448.24999999999983
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "already promised. Email and phone reports",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            448.24999999999983,
+            274.189208984375,
+            464.5249999999998
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "must be transcribed into the ticket body",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            464.5249999999998,
+            266.544921875,
+            480.7999999999998
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "rather than left in a mailbox. Duplicate",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            480.7999999999998,
+            260.83349609375,
+            497.07499999999976
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "reports of one incident are linked to a",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            497.07499999999976,
+            251.1435546875,
+            513.3499999999998
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "parent ticket so counts stay honest.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            519.3499999999998,
+            284.802001953125,
+            535.6249999999998
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            535.6249999999998,
+            72.01806640625,
+            551.8999999999997
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "1.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            101.9,
+            522.646484375,
+            120.5
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "A.1.1 Initial Classification and",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            120.5,
+            417.6875,
+            139.1
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "Severity Rules",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            316.0,
+            143.1,
+            550.0,
+            277.1
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Channel",
+              "Registrar",
+              "Deadline",
+              "Evidence"
+            ],
+            [
+              "Portal",
+              "Requester",
+              "Same day",
+              "Form fields"
+            ],
+            [
+              "Email",
+              "Desk staff",
+              "Same day",
+              "Mail excerpt"
+            ],
+            [
+              "Phone",
+              "Desk staff",
+              "Same day",
+              "Call note"
+            ],
+            [
+              "Walk-in",
+              "Desk staff",
+              "Same day",
+              "Intake note"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            316.0,
+            143.1,
+            550.0,
+            324.1
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            284.1,
+            525.9599609375,
+            297.27500000000003
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 1: Comparison of intake channels and their",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            297.27500000000003,
+            394.064697265625,
+            310.45000000000005
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "registration duties",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            324.1,
+            511.5625,
+            340.375
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Classification starts with the affected",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            340.375,
+            534.99267578125,
+            356.65
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "service and the reported impact, not with",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            356.65,
+            521.611328125,
+            372.92499999999995
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "the loudest requester. Triage assigns a",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            372.92499999999995,
+            531.870361328125,
+            389.19999999999993
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "category, a severity and an initial owner,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            389.19999999999993,
+            517.4892578125,
+            405.4749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "then checks whether an open incident",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            405.4749999999999,
+            516.73046875,
+            421.7499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "already covers the symptom. Severity",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            421.7499999999999,
+            518.904296875,
+            438.02499999999986
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "reflects breadth and business effect: a",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            438.02499999999986,
+            548.666259765625,
+            454.29999999999984
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "single user blocked differs from a whole site",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            454.29999999999984,
+            520.92431640625,
+            470.5749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "unable to work. When evidence is thin,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            470.5749999999998,
+            539.29931640625,
+            486.8499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "triage records what is unknown and sets a",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            486.8499999999998,
+            520.539794921875,
+            503.1249999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "short review point instead of guessing.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            326.0,
+            509.1249999999998,
+            529.3603515625,
+            526.1749999999997
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "A.1.1.1 Severity Assignment and",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            326.0,
+            526.1749999999997,
+            445.32421875,
+            543.2249999999997
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Escalation Triggers",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            547.2249999999997,
+            538.709716796875,
+            563.4999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Severity levels run from routine to critical,",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            563.4999999999997,
+            492.77734375,
+            579.7749999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "and each level carries a response",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            579.7749999999996,
+            516.827880859375,
+            596.0499999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "expectation and an escalation trigger.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            596.0499999999996,
+            524.261962890625,
+            612.3249999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Triggers include multiple reports of one",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            612.3249999999996,
+            544.749267578125,
+            628.5999999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "symptom, a service with no workaround, or",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            628.5999999999996,
+            529.86572265625,
+            644.8749999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "a requester deadline that cannot be met",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            644.8749999999995,
+            543.549560546875,
+            661.1499999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "within the normal queue. Escalation moves",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            661.1499999999995,
+            523.91845703125,
+            677.4249999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "the ticket to a named senior owner and",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            677.4249999999995,
+            541.59619140625,
+            693.6999999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "notifies the duty lead. Downgrades require",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            693.6999999999995,
+            482.784912109375,
+            709.9749999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "a written reason, because quiet",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            284.5712890625,
+            78.275
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "reclassification hides demand and distorts",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            141.45751953125,
+            94.55000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "later reporting.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            100.55000000000001,
+            243.964599609375,
+            116.82500000000002
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "A.1.1.1.1 Ownership, Queue",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            116.82500000000002,
+            269.57373046875,
+            133.10000000000002
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Assignment and Response Clock",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.10000000000002,
+            286.729736328125,
+            153.37500000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Every ticket has one accountable owner at",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            153.37500000000003,
+            270.569580078125,
+            169.65000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "any moment, even when several teams",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            169.65000000000003,
+            285.888916015625,
+            185.92500000000004
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "contribute. Assignment follows the service",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            185.92500000000004,
+            285.46337890625,
+            202.20000000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "catalogue: the queue that owns the failing",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            202.20000000000005,
+            282.556396484375,
+            218.47500000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "component takes the ticket, and assisting",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            218.47500000000005,
+            274.312255859375,
+            234.75000000000006
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "teams are recorded as contributors. The",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            234.75000000000006,
+            274.619873046875,
+            251.02500000000006
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "response clock starts at registration and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            251.02500000000006,
+            266.17578125,
+            267.30000000000007
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "pauses only for documented requester",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            267.30000000000007,
+            293.46142578125,
+            283.57500000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "input. Owners must acknowledge within the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            283.57500000000005,
+            283.45361328125,
+            299.85
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "published expectation and record the first",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            299.85,
+            280.423583984375,
+            316.125
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "diagnostic step taken, so the next person",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            316.125,
+            290.046875,
+            332.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "inherits evidence rather than a blank page.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            338.4,
+            284.802001953125,
+            354.67499999999995
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            354.67499999999995,
+            72.01806640625,
+            370.94999999999993
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "2.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            376.94999999999993,
+            296.0,
+            510.94999999999993
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Level",
+              "Response",
+              "Trigger",
+              "Owner"
+            ],
+            [
+              "Critical",
+              "Immediate",
+              "Site down",
+              "Duty lead"
+            ],
+            [
+              "High",
+              "Same shift",
+              "No workaround",
+              "Team lead"
+            ],
+            [
+              "Routine",
+              "Queued",
+              "Single user",
+              "Queue owner"
+            ],
+            [
+              "Parked",
+              "Follow-up",
+              "Awaiting input",
+              "Queue owner"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            376.94999999999993,
+            296.0,
+            557.9499999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            517.9499999999999,
+            281.252685546875,
+            531.1249999999999
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 2: Severity levels with response expectations",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            531.1249999999999,
+            159.920166015625,
+            544.3
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "and escalation triggers",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            557.9499999999999,
+            257.232421875,
+            573.4499999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "A.1.1.1.1.1 First Response and",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            573.4499999999999,
+            198.599609375,
+            588.9499999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Diagnostic Checklist",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            592.9499999999999,
+            282.053955078125,
+            609.2249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The first response confirms the symptom,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            609.2249999999999,
+            277.757568359375,
+            625.4999999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "checks the service status page, and runs",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            625.4999999999999,
+            274.548095703125,
+            641.7749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "the standard diagnostic checklist for the",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            641.7749999999999,
+            266.1142578125,
+            658.0499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "category. The owner records what was",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            658.0499999999998,
+            282.9921875,
+            674.3249999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "tested, what was observed, and what was",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            674.3249999999998,
+            294.3740234375,
+            690.5999999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "ruled out. If the checklist resolves the issue,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            690.5999999999998,
+            290.246826171875,
+            706.8749999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "the ticket closes with the resolution note; if",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            62,
+            536.0283203125,
+            78.275
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "not, the owner states the next hypothesis",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            78.275,
+            530.05029296875,
+            94.55000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and the evidence needed. Speculation is",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            94.55000000000001,
+            511.3369140625,
+            110.82500000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "welcome only when labelled as such.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            116.82500000000002,
+            460.9931640625,
+            132.32500000000002
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "A.1.1.1.1.2 Requester",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            132.32500000000002,
+            520.451171875,
+            147.82500000000002
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Communication and Expectation",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            147.82500000000002,
+            379.25,
+            163.32500000000002
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Setting",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            167.32500000000002,
+            508.68115234375,
+            183.60000000000002
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Requesters receive a plain-language",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            183.60000000000002,
+            535.515625,
+            199.87500000000003
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "acknowledgement that names the owner,",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            199.87500000000003,
+            536.96142578125,
+            216.15000000000003
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "restates the symptom as understood, and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            216.15000000000003,
+            532.249755859375,
+            232.42500000000004
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "gives the next update point. Updates are",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            232.42500000000004,
+            536.259033203125,
+            248.70000000000005
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "sent at each state change and before any",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            248.70000000000005,
+            537.694580078125,
+            264.975
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "promised deadline passes, even when the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            264.975,
+            526.046142578125,
+            281.25
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "news is that work continues. Staff avoid",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            281.25,
+            524.200439453125,
+            297.525
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "promising fix times they do not control;",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            297.525,
+            503.5234375,
+            313.79999999999995
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "they promise update times instead.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            313.79999999999995,
+            545.9130859375,
+            330.07499999999993
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Sensitive tickets use approved wording and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            330.07499999999993,
+            506.276611328125,
+            346.3499999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "never expose internal hostnames or",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            346.3499999999999,
+            408.628662109375,
+            362.6249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "colleague names.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            332.0,
+            368.6249999999999,
+            534.8837890625,
+            384.89999999999986
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "A.1.1.1.2 Reassignment and Cross",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            332.0,
+            384.89999999999986,
+            415.1796875,
+            401.17499999999984
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Team Handoff",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            405.17499999999984,
+            470.587890625,
+            421.4499999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Reassignment is a transfer of",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            421.4499999999998,
+            537.602294921875,
+            437.7249999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "accountability, not a forward of the ticket.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            437.7249999999998,
+            536.705078125,
+            453.9999999999998
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "The outgoing owner writes a handoff note",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            453.9999999999998,
+            522.836669921875,
+            470.27499999999975
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "covering symptom, evidence gathered,",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            470.27499999999975,
+            547.17431640625,
+            486.5499999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "hypotheses tested, current workaround and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            486.5499999999997,
+            541.5654296875,
+            502.8249999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "the exact next action. The incoming owner",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            502.8249999999997,
+            547.11279296875,
+            519.0999999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "accepts explicitly before the clock resumes.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            519.0999999999997,
+            539.89404296875,
+            535.3749999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "If the receiving queue disputes ownership,",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            535.3749999999997,
+            543.662353515625,
+            551.6499999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "the duty lead decides within the same shift",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            551.6499999999996,
+            517.648193359375,
+            567.9249999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "and records the decision, so the ticket",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            567.9249999999996,
+            522.677734375,
+            584.1999999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "never bounces silently between teams.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            590.1999999999996,
+            538.802001953125,
+            606.4749999999996
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            606.4749999999996,
+            326.01806640625,
+            622.7499999999995
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "3.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            296.0,
+            196
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Duty",
+              "Outgoing",
+              "Incoming",
+              "Duty lead"
+            ],
+            [
+              "Write note",
+              "Yes",
+              "No",
+              "Review"
+            ],
+            [
+              "Accept owner",
+              "No",
+              "Yes",
+              "Arbitrate"
+            ],
+            [
+              "Brief critical",
+              "Yes",
+              "Confirm",
+              "Observe"
+            ],
+            [
+              "Resolve dispute",
+              "No",
+              "No",
+              "Decide"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            296.0,
+            243
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            284.328125,
+            216.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 3: Responsibilities split between outgoing and",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            216.175,
+            181.95458984375,
+            229.35
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "incoming owners at transfer",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            243,
+            282.138671875,
+            260.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "A.1.1.2 Documentation Standards",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            260.05,
+            172.912109375,
+            277.1
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "for Triage Notes",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.1,
+            294.820068359375,
+            297.375
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Notes must let a stranger continue the work",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            297.375,
+            291.88232421875,
+            313.65
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "without asking questions. Each entry states",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            313.65,
+            276.342529296875,
+            329.92499999999995
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "the time, the actor, the action taken and",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            329.92499999999995,
+            287.180908203125,
+            346.19999999999993
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "the result observed. Free-text opinions are",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            346.19999999999993,
+            270.815673828125,
+            362.4749999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "separated from recorded evidence, and",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            362.4749999999999,
+            278.6650390625,
+            378.7499999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "links to logs or screenshots are preferred",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            378.7499999999999,
+            242.371337890625,
+            395.02499999999986
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "over pasted excerpts. Notes avoid",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            395.02499999999986,
+            237.35205078125,
+            411.29999999999984
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "abbreviations that only one team",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            411.29999999999984,
+            290.1494140625,
+            427.5749999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "understands. At closure the resolution note",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            427.5749999999998,
+            291.631103515625,
+            443.8499999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "explains the cause as far as it is known and",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            443.8499999999998,
+            215.229248046875,
+            460.1249999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "flags anything still unproven.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            466.1249999999998,
+            224.267578125,
+            484.7249999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "A.1.2 Quality Review of",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            484.7249999999998,
+            225.287109375,
+            503.3249999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "Classification Decisions",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            507.3249999999998,
+            291.27734375,
+            523.5999999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "A sample of closed tickets is reviewed each",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            523.5999999999998,
+            255.803955078125,
+            539.8749999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "period against the severity rules and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            539.8749999999998,
+            292.02587890625,
+            556.1499999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "documentation standards. Reviewers check",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            556.1499999999997,
+            289.826416015625,
+            572.4249999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "whether severity matched impact, whether",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            572.4249999999997,
+            275.02490234375,
+            588.6999999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "ownership was clear at every stage, and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.6999999999997,
+            265.473388671875,
+            604.9749999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "whether handoff notes were sufficient.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            604.9749999999997,
+            284.771240234375,
+            621.2499999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Findings feed a short coaching note to the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            621.2499999999997,
+            266.898681640625,
+            637.5249999999996
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "relevant team rather than a blame list.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            637.5249999999996,
+            285.847900390625,
+            653.7999999999996
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Recurring misclassification points to a rule",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            653.7999999999996,
+            261.638427734375,
+            670.0749999999996
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "that needs clarifying, and the guide is",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.0749999999996,
+            178.9970703125,
+            686.3499999999996
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "amended accordingly.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            62,
+            494.623046875,
+            83.7
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "A.2 Triage Metrics and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            83.7,
+            476.1044921875,
+            105.4
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Reporting Discipline",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            109.4,
+            517.043212890625,
+            125.67500000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Reporting covers volume by category,",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            125.67500000000001,
+            474.86376953125,
+            141.95000000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "response against expectation,",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            141.95000000000002,
+            544.42626953125,
+            158.22500000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "reassignment counts and reopened tickets.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            158.22500000000002,
+            537.14599609375,
+            174.50000000000003
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Metrics describe the queue, not individual",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            174.50000000000003,
+            533.100830078125,
+            190.77500000000003
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "worth, and are read alongside the review",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            190.77500000000003,
+            544.2314453125,
+            207.05000000000004
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "findings. A rising reassignment rate usually",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            207.05000000000004,
+            514.56689453125,
+            223.32500000000005
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "signals unclear ownership boundaries",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            223.32500000000005,
+            536.730712890625,
+            239.60000000000005
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "rather than poor staff. Reports are shared",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            239.60000000000005,
+            532.906005859375,
+            255.87500000000006
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "with team leads monthly, and any metric",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            255.87500000000006,
+            525.666748046875,
+            272.15000000000003
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "used in planning must be defined in the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            272.15000000000003,
+            531.49609375,
+            288.425
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "same document so nobody argues about",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            288.425,
+            446.52197265625,
+            304.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "definitions after the fact.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            310.7,
+            488.7314453125,
+            338.59999999999997
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "B Shift Handover",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            338.59999999999997,
+            420.09765625,
+            366.49999999999994
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "Procedure",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            370.49999999999994,
+            514.2080078125,
+            386.7749999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Handover happens at fixed times and",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            386.7749999999999,
+            536.376953125,
+            403.0499999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "follows a fixed shape: open critical tickets",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            403.0499999999999,
+            541.3603515625,
+            419.3249999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "first, then tickets awaiting requester input,",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            419.3249999999999,
+            532.926513671875,
+            435.59999999999985
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "then work in progress. The outgoing shift",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            435.59999999999985,
+            528.666015625,
+            451.87499999999983
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "reads each note aloud and the incoming",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            451.87499999999983,
+            521.078125,
+            468.1499999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "shift confirms understanding. Anything",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            468.1499999999998,
+            541.8935546875,
+            484.4249999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "ambiguous is resolved before the outgoing",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            484.4249999999998,
+            537.607421875,
+            500.69999999999976
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "shift leaves. The handover record lists the",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            500.69999999999976,
+            537.9765625,
+            516.9749999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "tickets discussed, the agreed next actions",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            516.9749999999998,
+            544.32373046875,
+            533.2499999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "and who holds each one, and is stored with",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            533.2499999999998,
+            382.10693359375,
+            549.5249999999997
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "the shift log.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            555.5249999999997,
+            541.2099609375,
+            577.2249999999998
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "B.1 Handover Note Contents",
+          "parent_id": "h0012",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            577.2249999999998,
+            407.123046875,
+            598.9249999999998
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "and Format",
+          "parent_id": "h0012",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            602.9249999999998,
+            536.894775390625,
+            619.1999999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Each handover entry names the ticket, its",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            619.1999999999998,
+            515.787109375,
+            635.4749999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "severity, its owner, the last confirmed",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            635.4749999999998,
+            549.98388671875,
+            651.7499999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "observation and the next action with a time.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            651.7499999999998,
+            535.48486328125,
+            668.0249999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "It states what the requester was last told,",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            668.0249999999997,
+            516.633056640625,
+            684.2999999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "so the next shift does not contradict a",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            684.2999999999997,
+            527.5380859375,
+            700.5749999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "promise. Open questions and suspected",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            293.999755859375,
+            78.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "causes are listed separately from confirmed",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            265.55029296875,
+            94.55000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "facts. Entries are short enough to read",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            282.57177734375,
+            110.82500000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "under pressure but complete enough that",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            110.82500000000002,
+            274.953125,
+            127.10000000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "no one needs to reopen the whole ticket",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            127.10000000000002,
+            101.451904296875,
+            143.37500000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "history.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            149.37500000000003,
+            288.965087890625,
+            165.65000000000003
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Figure",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            165.65000000000003,
+            72.01806640625,
+            181.92500000000004
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "1.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            187.92500000000004,
+            272.9765625,
+            206.52500000000003
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "B.1.1 Critical Ticket Continuity",
+          "parent_id": "h0013",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            206.52500000000003,
+            154.423828125,
+            225.12500000000003
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "Across Shifts",
+          "parent_id": "h0013",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229.12500000000003,
+            285.048095703125,
+            245.40000000000003
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Critical tickets never wait for a convenient",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            245.40000000000003,
+            277.101318359375,
+            261.675
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "handover. The outgoing owner briefs the",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            261.675,
+            293.487060546875,
+            277.95
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "incoming owner directly, confirms access to",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            277.95,
+            287.498779296875,
+            294.22499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "the working channels, and stays reachable",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            294.22499999999997,
+            272.856201171875,
+            310.49999999999994
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "for a short overlap. The incoming owner",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            310.49999999999994,
+            271.092529296875,
+            326.7749999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "restates the current hypothesis and the",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            326.7749999999999,
+            282.658935546875,
+            343.0499999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "next diagnostic step before taking over. If",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            343.0499999999999,
+            275.78369140625,
+            359.3249999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "no incoming owner is available, the duty",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            359.3249999999999,
+            275.706787109375,
+            375.59999999999985
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "lead is named as interim owner and that",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            375.59999999999985,
+            233.20947265625,
+            391.87499999999983
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "decision is recorded with a time.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            397.87499999999983,
+            267.9697265625,
+            414.92499999999984
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "B.1.1.1 Escalation Paths During",
+          "parent_id": "h0014",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            414.92499999999984,
+            131.94677734375,
+            431.97499999999985
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "Handover",
+          "parent_id": "h0014",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            435.97499999999985,
+            284.9814453125,
+            452.24999999999983
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "During handover the escalation path must",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            452.24999999999983,
+            276.91162109375,
+            468.5249999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "be known without consulting a directory.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            468.5249999999998,
+            287.2783203125,
+            484.7999999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The handover record names the duty lead,",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            484.7999999999998,
+            260.479736328125,
+            501.07499999999976
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "the on-call engineer for each affected",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            501.07499999999976,
+            293.68701171875,
+            517.3499999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "service and the communications contact for",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            517.3499999999998,
+            284.35595703125,
+            533.6249999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "requester updates. If an escalation trigger",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            533.6249999999998,
+            293.76904296875,
+            549.8999999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "fires mid-handover, the incoming shift owns",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            549.8999999999997,
+            289.395751953125,
+            566.1749999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "it from the moment of acceptance, and the",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            566.1749999999997,
+            283.807373046875,
+            582.4499999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "outgoing shift supports until the duty lead",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            582.4499999999997,
+            240.300048828125,
+            598.7249999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "confirms the transfer is complete.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            604.7249999999997,
+            281.09912109375,
+            620.9999999999997
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "B.1.1.1.1 Open Work Tracking and",
+          "parent_id": "h0015",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            620.9999999999997,
+            172.535888671875,
+            637.2749999999996
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "Carryover Rules",
+          "parent_id": "h0015",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            641.2749999999996,
+            267.78564453125,
+            657.5499999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Work that cannot finish within a shift is",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            657.5499999999996,
+            275.224853515625,
+            673.8249999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "carried over deliberately, not by default.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            673.8249999999996,
+            277.737060546875,
+            690.0999999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Carryover requires a live owner, a stated",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            690.0999999999996,
+            287.406494140625,
+            706.3749999999995
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "next action and a reason the work paused.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            62,
+            546.410400390625,
+            78.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Tickets awaiting requester input are parked",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            78.275,
+            544.77490234375,
+            94.55000000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "with a follow-up date rather than carried as",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            94.55000000000001,
+            493.32080078125,
+            110.82500000000002
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "active work. The handover record",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            110.82500000000002,
+            542.0576171875,
+            127.10000000000002
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "distinguishes active carryover from parked",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            127.10000000000002,
+            527.7841796875,
+            143.37500000000003
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "items, so the incoming shift knows what",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            143.37500000000003,
+            481.072509765625,
+            159.65000000000003
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "genuinely needs attention first.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            165.65000000000003,
+            536.779296875,
+            181.15000000000003
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "B.1.1.1.1.1 Handover Checklist and",
+          "parent_id": "h0016",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            181.15000000000003,
+            384.259765625,
+            196.65000000000003
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "Sign-Off",
+          "parent_id": "h0016",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            200.65000000000003,
+            547.533203125,
+            216.92500000000004
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "The checklist is short and mandatory: every",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            216.92500000000004,
+            541.693603515625,
+            233.20000000000005
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "critical ticket briefed, every carryover item",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            233.20000000000005,
+            510.860107421875,
+            249.47500000000005
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "owned, every promise to a requester",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            249.47500000000005,
+            508.563232421875,
+            265.75000000000006
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "visible, and every escalation contact",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            265.75000000000006,
+            530.650146484375,
+            282.02500000000003
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "confirmed. Both shifts sign the handover",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            282.02500000000003,
+            509.137451171875,
+            298.3
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "record, and the signature means the",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            298.3,
+            543.313720703125,
+            314.575
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "incoming shift accepts the listed items, not",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            314.575,
+            544.359619140625,
+            330.84999999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "that the outgoing shift is absolved of errors",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            330.84999999999997,
+            508.706787109375,
+            347.12499999999994
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "found later. Unsigned handovers are",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            347.12499999999994,
+            536.6435546875,
+            363.3999999999999
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "treated as incomplete and raised with the",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            363.3999999999999,
+            368.802490234375,
+            379.6749999999999
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "duty lead.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            385.6749999999999,
+            538.802001953125,
+            401.9499999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            401.9499999999999,
+            326.01806640625,
+            418.22499999999985
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "4.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            424.22499999999985,
+            524.5966796875,
+            439.72499999999985
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "B.1.1.1.1.2 Missed Handover and",
+          "parent_id": "h0016",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            338.0,
+            439.72499999999985,
+            425.3876953125,
+            455.22499999999985
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "Recovery Steps",
+          "parent_id": "h0016",
+          "level": 6,
+          "size": 10,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            316.0,
+            459.22499999999985,
+            550.0,
+            619.2249999999999
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0017",
+          "belongs_to": "h0017",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Item",
+              "By",
+              "When",
+              "Record"
+            ],
+            [
+              "Critical briefed",
+              "Both",
+              "Handover",
+              "Shift log"
+            ],
+            [
+              "Carryover owned",
+              "Incoming",
+              "Handover",
+              "Ticket note"
+            ],
+            [
+              "Promises visible",
+              "Outgoing",
+              "Before exit",
+              "Handover"
+            ],
+            [
+              "Contacts checked",
+              "Duty lead",
+              "Each shift",
+              "Contact list"
+            ],
+            [
+              "Sign-off",
+              "Both",
+              "At end",
+              "Handover"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            316.0,
+            459.22499999999985,
+            550.0,
+            666.2249999999999
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            626.2249999999999,
+            549.0361328125,
+            639.3999999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 4: Checklist items confirmed before an incoming",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            639.3999999999999,
+            421.092041015625,
+            652.5749999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "shift accepts a handover",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            666.2249999999999,
+            536.83837890625,
+            682.4999999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "When a handover is missed, the incoming",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            682.4999999999999,
+            519.052978515625,
+            698.7749999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "shift reconstructs state from the ticket",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            698.7749999999999,
+            543.52392578125,
+            715.0499999999998
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "notes and the shift log before touching any",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            232.896728515625,
+            78.275
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "ticket. The duty lead is informed",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            276.70654296875,
+            94.55000000000001
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "immediately, and any requester promise",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            282.812744140625,
+            110.82500000000002
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "that has already lapsed is addressed first.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            110.82500000000002,
+            276.9423828125,
+            127.10000000000002
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "The recovery record notes the gap, what",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            127.10000000000002,
+            257.075439453125,
+            143.37500000000003
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "was reconstructed and what remains",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            143.37500000000003,
+            270.467041015625,
+            159.65000000000003
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "uncertain. A repeated missed handover",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            159.65000000000003,
+            286.452880859375,
+            175.92500000000004
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "triggers a review of shift scheduling rather",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            175.92500000000004,
+            220.376708984375,
+            192.20000000000005
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "than a reminder to try harder.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            198.20000000000005,
+            263.99560546875,
+            214.47500000000005
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "B.1.1.1.2 Training New Staff on",
+          "parent_id": "h0015",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            214.47500000000005,
+            187.024658203125,
+            230.75000000000006
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "Handover Practice",
+          "parent_id": "h0015",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            234.75000000000006,
+            273.686767578125,
+            251.02500000000006
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "New staff shadow two handovers before",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            251.02500000000006,
+            285.9453125,
+            267.30000000000007
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "leading one, and their first led handover is",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            267.30000000000007,
+            275.9375,
+            283.57500000000005
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "observed by a senior colleague. Training",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            283.57500000000005,
+            239.910400390625,
+            299.85
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "covers note writing, the checklist,",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            299.85,
+            263.802001953125,
+            316.125
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "escalation contacts and the difference",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            316.125,
+            291.600341796875,
+            332.4
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "between active carryover and parked work.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            332.4,
+            274.845458984375,
+            348.67499999999995
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Trainees practise reconstructing a ticket",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            348.67499999999995,
+            263.6943359375,
+            364.94999999999993
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "from notes alone, which exposes gaps",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            364.94999999999993,
+            277.455078125,
+            381.2249999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "quickly. Competence is confirmed by the",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            381.2249999999999,
+            278.813720703125,
+            397.4999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "observer, not by attendance at a briefing",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            397.4999999999999,
+            104.205078125,
+            413.77499999999986
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "session.",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            419.77499999999986,
+            258.7744140625,
+            436.8249999999999
+          ],
+          "block_id": "h0020",
+          "type": "title",
+          "text": "B.1.1.2 Audit Trail and Record",
+          "parent_id": "h0014",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            436.8249999999999,
+            132.8974609375,
+            453.8749999999999
+          ],
+          "block_id": "h0020",
+          "type": "title",
+          "text": "Retention",
+          "parent_id": "h0014",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            457.8749999999999,
+            290.32373046875,
+            474.14999999999986
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "Handover records, triage notes and closure",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            474.14999999999986,
+            266.560302734375,
+            490.42499999999984
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "summaries form the audit trail and are",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            490.42499999999984,
+            257.177978515625,
+            506.6999999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "retained under the records schedule.",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            506.6999999999998,
+            286.85791015625,
+            522.9749999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "Records must show who decided what and",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            522.9749999999998,
+            257.2138671875,
+            539.2499999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "when, without exposing unnecessary",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            539.2499999999998,
+            281.10546875,
+            555.5249999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "personal data. Corrections are appended,",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            555.5249999999997,
+            288.56005859375,
+            571.7999999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "never overwritten, and the reason for each",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            571.7999999999997,
+            267.216552734375,
+            588.0749999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "correction is stated. Audit requests are",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.0749999999997,
+            234.885986328125,
+            604.3499999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "answered from these records, so",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            604.3499999999997,
+            294.071533203125,
+            620.6249999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "completeness at the time of writing matters",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            620.6249999999997,
+            191.55810546875,
+            636.8999999999996
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "more than tidiness later.",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            642.8999999999996,
+            284.802001953125,
+            659.1749999999996
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.1749999999996,
+            72.01806640625,
+            675.4499999999996
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "5.",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            316.0,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0020",
+          "belongs_to": "h0020",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Record",
+              "Held by",
+              "Purpose",
+              "Correction"
+            ],
+            [
+              "Triage notes",
+              "Service desk",
+              "Show decisions",
+              "Append only"
+            ],
+            [
+              "Handover",
+              "Shift lead",
+              "Show transfers",
+              "Append only"
+            ],
+            [
+              "Closure note",
+              "Queue owner",
+              "Show outcome",
+              "Append only"
+            ],
+            [
+              "Review findings",
+              "Desk manager",
+              "Show progress",
+              "Append only"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            316.0,
+            62,
+            550.0,
+            243
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            203.0,
+            531.5048828125,
+            216.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 5: Records retained for audit and the reason",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            216.175,
+            367.57275390625,
+            229.35
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "each is kept",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            243,
+            548.0234375,
+            261.6
+          ],
+          "block_id": "h0021",
+          "type": "title",
+          "text": "B.1.2 Continuous Improvement of",
+          "parent_id": "h0013",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            261.6,
+            422.24609375,
+            280.20000000000005
+          ],
+          "block_id": "h0021",
+          "type": "title",
+          "text": "Triage Practice",
+          "parent_id": "h0013",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            284.20000000000005,
+            539.171142578125,
+            300.475
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "Improvements come from review findings,",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            300.475,
+            494.294921875,
+            316.75
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "recurring ticket patterns and staff",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            316.75,
+            529.3017578125,
+            333.025
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "suggestions gathered at handover. Each",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            333.025,
+            523.61083984375,
+            349.29999999999995
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "proposed change names the problem it",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            349.29999999999995,
+            531.439697265625,
+            365.57499999999993
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "solves and the evidence behind it, and is",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            365.57499999999993,
+            497.294189453125,
+            381.8499999999999
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "trialled for a defined period before",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            381.8499999999999,
+            547.281982421875,
+            398.1249999999999
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "adoption. The guide is versioned, and every",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            398.1249999999999,
+            543.549560546875,
+            414.39999999999986
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "change is announced with the date it takes",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            414.39999999999986,
+            533.33154296875,
+            430.67499999999984
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "effect. Practices that no longer earn their",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            430.67499999999984,
+            539.765869140625,
+            446.9499999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "effort are retired openly rather than left to",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            446.9499999999998,
+            349.268798828125,
+            463.2249999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "linger.",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            469.2249999999998,
+            527.94140625,
+            490.9249999999998
+          ],
+          "block_id": "h0022",
+          "type": "title",
+          "text": "B.2 Governance, Roles and",
+          "parent_id": "h0012",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            490.9249999999998,
+            419.49609375,
+            512.6249999999998
+          ],
+          "block_id": "h0022",
+          "type": "title",
+          "text": "Review Cycle",
+          "parent_id": "h0012",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            516.6249999999998,
+            544.031494140625,
+            532.8999999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "The service desk manager owns this guide,",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            532.8999999999997,
+            517.62255859375,
+            549.1749999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "team leads maintain the category and",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            549.1749999999997,
+            541.714111328125,
+            565.4499999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "severity rules, and the duty lead arbitrates",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            565.4499999999997,
+            539.95556640625,
+            581.7249999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "ownership disputes. The guide is reviewed",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            581.7249999999997,
+            511.2138671875,
+            597.9999999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "on a fixed cycle and after any critical",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            597.9999999999997,
+            518.822265625,
+            614.2749999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "incident that exposed a gap. Proposed",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            614.2749999999996,
+            532.475341796875,
+            630.5499999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "amendments are circulated to all queues",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            630.5499999999996,
+            527.697021484375,
+            646.8249999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "for comment before approval. Approved",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            646.8249999999996,
+            542.3857421875,
+            663.0999999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "changes are communicated, trained where",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            663.0999999999996,
+            546.9384765625,
+            679.3749999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "needed, and recorded in the version history",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            679.3749999999995,
+            438.3291015625,
+            695.6499999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "with the effective date.",
+          "parent_id": "h0022",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            62,
+            296.0,
+            222
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Field",
+              "Content",
+              "Owner",
+              "Status"
+            ],
+            [
+              "Ticket, severity",
+              "ID and level",
+              "Outgoing",
+              "Required"
+            ],
+            [
+              "Last observation",
+              "Confirmed",
+              "Outgoing",
+              "Required"
+            ],
+            [
+              "Next action",
+              "Step, time",
+              "Incoming",
+              "Required"
+            ],
+            [
+              "Open questions",
+              "Unproven",
+              "Both",
+              "Required"
+            ],
+            [
+              "Requester update",
+              "Last message",
+              "Outgoing",
+              "Required"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            62,
+            296.0,
+            269
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229.0,
+            266.120361328125,
+            242.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Figure 1: Fields that every handover entry must",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            242.175,
+            93.55126953125,
+            255.35
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "contain",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

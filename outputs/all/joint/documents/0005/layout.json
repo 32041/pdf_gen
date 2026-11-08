@@ -1,0 +1,2380 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            114.380859375,
+            62.0,
+            497.619140625,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Discrete Event Simulation Course Syllabus",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            523.564208984375,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This syllabus defines a 12-week course in discrete event simulation delivered across 24",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            506.2197265625,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "sessions and 48 teaching hours. It sets out learning outcomes, the weekly schedule,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            521.81591796875,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "laboratory expectations, assessment weightings and academic conduct rules. Students",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            512.510498046875,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "learn to model queueing and service systems, build event calendars, validate models",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            540.760009765625,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "against observations and report findings with appropriate uncertainty language. All figures",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            491.97705078125,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "in this document are simulated planning values for instructional design purposes.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            205.55000000000004,
+            298.15771484375,
+            221.82500000000005
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            227.82500000000005,
+            302.32080078125,
+            244.10000000000005
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            250.10000000000005,
+            336.962890625,
+            268.70000000000005
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Course Design and Learning Outcomes",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            272.70000000000005,
+            521.164794921875,
+            288.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The course is organized around a build-measure-explain cycle. Each week pairs a short",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            288.975,
+            489.96728515625,
+            305.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "conceptual lecture with a hands-on laboratory, so students encounter theory and",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            305.25,
+            505.4609375,
+            321.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "implementation together. By the end, learners should be able to translate a process",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            321.525,
+            546.276611328125,
+            337.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "description into an event-driven model, justify input distributions, and distinguish simulated",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            337.79999999999995,
+            533.6796875,
+            354.07499999999993
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "outputs from causal claims about real systems. Instructors review drafts within 5 working",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            354.07499999999993,
+            220.766357421875,
+            370.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "days to keep feedback timely.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            376.3499999999999,
+            298.15771484375,
+            392.6249999999999
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            398.6249999999999,
+            231.87158203125,
+            415.6749999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 Weekly Topic Sequence",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            419.6749999999999,
+            526.9736328125,
+            435.9499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Topics progress from foundational mechanics to interpretation. Early weeks cover event",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            435.9499999999999,
+            507.15283203125,
+            452.22499999999985
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "scheduling, random number generation and entity flow; middle weeks address input",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            452.22499999999985,
+            519.031982421875,
+            468.49999999999983
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "modeling, warm-up periods and replication; later weeks focus on validation, sensitivity",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            468.49999999999983,
+            532.105712890625,
+            484.7749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "analysis and communicating results. The sequence assumes no prior simulation software",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            484.7749999999998,
+            544.958984375,
+            501.0499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "experience but expects comfort with basic probability and programming constructs such as",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            501.0499999999998,
+            159.09423828125,
+            517.3249999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "loops and records.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            523.3249999999998,
+            298.15771484375,
+            539.5999999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            545.5999999999998,
+            354.29931640625,
+            562.6499999999997
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Event Scheduling and Queue Mechanics",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            566.6499999999997,
+            543.45166015625,
+            582.9249999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "This unit examines the event calendar as the engine of any discrete event model. Students",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            582.9249999999997,
+            548.7734375,
+            599.1999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "implement a priority queue of events, trace entity arrivals and departures, and observe how",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            599.1999999999997,
+            508.244873046875,
+            615.4749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "service discipline changes waiting behavior. Laboratory exercises require a trace log",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            615.4749999999997,
+            540.626708984375,
+            631.7499999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "showing each event time and state change, so that instructors can verify understanding of",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            631.7499999999997,
+            415.63671875,
+            648.0249999999996
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "simultaneity and tie-breaking rules rather than only final averages.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            654.0249999999996,
+            338.00341796875,
+            671.0749999999996
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.2 Random Variates and Input Modeling",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            675.0749999999996,
+            534.57177734375,
+            691.3499999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Students generate variates from uniform, exponential and empirical distributions, then fit",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            691.3499999999996,
+            486.46044921875,
+            707.6249999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "candidate distributions to provided arrival and service records. The unit stresses",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            480.728515625,
+            78.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "documenting assumptions and testing fit rather than selecting a distribution by",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            548.814453125,
+            94.55000000000001
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "convenience. Exercises ask learners to compare fitted models against held-out observations",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            523.584716796875,
+            110.82500000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "and to explain, in plain language, why a good fit does not by itself prove the underlying",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            110.82500000000002,
+            202.84765625,
+            127.10000000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "process behaves that way.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            133.10000000000002,
+            292.80126953125,
+            150.15000000000003
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.2 Validation and Sensitivity Checks",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            154.15000000000003,
+            550.0,
+            288.15000000000003
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Phase",
+              "Concept focus",
+              "Lab emphasis",
+              "Deliverable"
+            ],
+            [
+              "Opening",
+              "Event mechanics",
+              "Priority queue",
+              "Trace log"
+            ],
+            [
+              "Middle",
+              "Input modeling",
+              "Distribution fitting",
+              "Fit memo"
+            ],
+            [
+              "Closing",
+              "Validation",
+              "Sensitivity checks",
+              "Validation log"
+            ],
+            [
+              "Final",
+              "Communication",
+              "Caveat writing",
+              "Project report"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            154.15000000000003,
+            550.0,
+            321.15000000000003
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            295.15000000000003,
+            376.599609375,
+            308.32500000000005
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 1: Weekly topic sequence with conceptual and laboratory emphasis",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            321.15000000000003,
+            511.761962890625,
+            337.425
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Validation activities compare model behavior with recorded system observations and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            337.425,
+            543.497802734375,
+            353.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "structured expert review. Students perform face validation, trace-driven checks and simple",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            353.7,
+            534.710205078125,
+            369.97499999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "sensitivity sweeps on key parameters. The unit emphasizes reporting ranges and caveats",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            369.97499999999997,
+            527.942626953125,
+            386.24999999999994
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "alongside point estimates, and it explicitly separates what the simulation observed from",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            386.24999999999994,
+            517.396484375,
+            402.5249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "what may be inferred about the real system. Deliverables include a validation log with",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            402.5249999999999,
+            249.538818359375,
+            418.7999999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "decisions and rejected alternatives.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            424.7999999999999,
+            302.32080078125,
+            441.0749999999999
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            447.0749999999999,
+            550.0,
+            581.0749999999998
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Purpose",
+              "Evidence",
+              "Decision"
+            ],
+            [
+              "Face review",
+              "Plausibility",
+              "Reviewer notes",
+              "Accept or revise"
+            ],
+            [
+              "Trace comparison",
+              "Behavior match",
+              "Comparison table",
+              "Accept or revise"
+            ],
+            [
+              "Sensitivity sweep",
+              "Robustness",
+              "Parameter ranges",
+              "Report caveats"
+            ],
+            [
+              "Assumption audit",
+              "Transparency",
+              "Assumption list",
+              "Publish"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            447.0749999999999,
+            550.0,
+            614.0749999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.0749999999998,
+            346.35986328125,
+            601.2499999999998
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 1: Validation checks and the evidence each check produces",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            614.0749999999998,
+            316.02490234375,
+            631.1249999999998
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "1.2.1 Trace-Driven Validation Exercises",
+          "parent_id": "h0006",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            635.1249999999998,
+            514.838134765625,
+            651.3999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Students replay recorded system traces through their models and compare simulated",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            651.3999999999997,
+            544.994873046875,
+            667.6749999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "outputs against observed values. Exercises use a sample of 240 observations drawn from 4",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            667.6749999999997,
+            549.39892578125,
+            683.9499999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "sites across 2022 to 2025, giving a realistic basis for discrepancy analysis. Teams document",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            683.9499999999997,
+            546.973876953125,
+            700.2249999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "each mismatch, classify its likely source, and decide whether to adjust logic, parameters, or",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            391.883544921875,
+            78.275
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "accept the deviation with a stated caveat in the validation log.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            84.275,
+            366.078125,
+            101.325
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "1.2.2 Sensitivity Sweeps and Reporting Ranges",
+          "parent_id": "h0006",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            105.325,
+            507.13232421875,
+            121.60000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Sensitivity sessions vary key inputs across plausible bounds and record how outputs",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            121.60000000000001,
+            513.34619140625,
+            137.875
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "respond, such as output values moving from 79.55 to 119.76 and costs from 51.71 to",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.875,
+            497.652587890625,
+            154.15
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "77.84. Students summarize results as ranges with caveats rather than single point",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            154.15,
+            531.751953125,
+            170.425
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "estimates, and they practice separating what the simulation observed from what may be",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            170.425,
+            362.18310546875,
+            186.70000000000002
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "inferred about the real system when presenting findings.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            192.70000000000002,
+            329.345703125,
+            211.3
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2 Assessment and Laboratory Schedule",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            215.3,
+            542.11865234375,
+            231.57500000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Assessment combines laboratory submissions, a midterm modeling task and a final project",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            231.57500000000002,
+            545.856201171875,
+            247.85000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "with a written report and short presentation. Weights and due dates appear in the schedule",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.85000000000002,
+            505.36865234375,
+            264.125
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "table below. Late work is accepted within 2 days of the deadline with a documented",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.125,
+            526.137939453125,
+            280.4
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "penalty, and regrade requests must be filed within 5 days of feedback release. The final",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.4,
+            352.09326171875,
+            296.67499999999995
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "project replaces a traditional closed-book examination.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            302.67499999999995,
+            302.32080078125,
+            318.94999999999993
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            324.94999999999993,
+            341.9091796875,
+            341.99999999999994
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1 Assessment Components and Weightings",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            345.99999999999994,
+            522.94384765625,
+            362.2749999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Each component targets a distinct skill: laboratories test implementation discipline, the",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            362.2749999999999,
+            494.114990234375,
+            378.5499999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "midterm tests modeling judgment under time pressure, and the final project tests",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            378.5499999999999,
+            542.11865234375,
+            394.8249999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "end-to-end reasoning from problem framing to reported conclusions. Rubrics are published",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            394.8249999999999,
+            503.076904296875,
+            411.09999999999985
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "at the start of term. Students receive formative feedback on at least two laboratory",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            411.09999999999985,
+            510.5263671875,
+            427.37499999999983
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "submissions before the midterm, ensuring they can adjust before higher-stakes work",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            427.37499999999983,
+            100.170166015625,
+            443.6499999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "begins.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            449.6499999999998,
+            256.76025390625,
+            466.6999999999998
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.1 Laboratory Submissions",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            470.6999999999998,
+            522.400390625,
+            486.9749999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Laboratories are submitted as reproducible scripts plus a short memo. The memo must",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            486.9749999999998,
+            544.974365234375,
+            503.2499999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "state model scope, input assumptions, replication count and observed output ranges, using",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            503.2499999999998,
+            517.914306640625,
+            519.5249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "the reporting template distributed in week one. Graders check that scripts run without",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            519.5249999999997,
+            517.924560546875,
+            535.7999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "manual edits and that memos avoid overclaiming. Partial credit is available for correct",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            535.7999999999997,
+            540.14990234375,
+            552.0749999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "mechanics with incomplete interpretation, reflecting the course emphasis on both building",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            552.0749999999997,
+            142.928955078125,
+            568.3499999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "and explaining.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            574.3499999999997,
+            296.01220703125,
+            591.3999999999996
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1.2 Final Project and Presentation",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            595.3999999999996,
+            544.6513671875,
+            611.6749999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "The final project asks teams to model a chosen service process, validate it against supplied",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            611.6749999999996,
+            533.818115234375,
+            627.9499999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "or collected observations, and present findings with explicit limitations. Presentations are",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            627.9499999999996,
+            538.888671875,
+            644.2249999999996
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "brief and followed by questions on assumptions and alternative explanations. Teams must",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.2249999999996,
+            536.06884765625,
+            660.4999999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "show at least one sensitivity check and one rejected modeling choice, demonstrating that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            660.4999999999995,
+            526.681396484375,
+            676.7749999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "conclusions were tested rather than asserted. A shared repository preserves scripts and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            676.7749999999995,
+            142.8828125,
+            693.0499999999995
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "logs for review.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            280.95263671875,
+            79.05
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.2 Policies and Support Resources",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            536.10986328125,
+            99.325
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "The course follows institutional policies on academic integrity, accessibility and respectful",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            534.75634765625,
+            115.60000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "conduct. Students may collaborate on conceptual discussion but must submit individually",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            515.76611328125,
+            131.875
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "authored laboratory memos unless a project is explicitly team-based. Office hours run",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            536.9609375,
+            148.15
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "weekly, and a discussion forum supports asynchronous questions with responses typically",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            148.15,
+            520.33935546875,
+            164.425
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "within 2 days. Accommodation requests are handled through the standard institutional",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            164.425,
+            220.63818359375,
+            180.70000000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "process and kept confidential.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            186.70000000000002,
+            550.0,
+            320.70000000000005
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Topic",
+              "Outcome",
+              "Lab focus",
+              "Evidence"
+            ],
+            [
+              "Scheduling",
+              "Build models",
+              "Event trace",
+              "Trace log"
+            ],
+            [
+              "Input modeling",
+              "Justify inputs",
+              "Distribution fit",
+              "Fit memo"
+            ],
+            [
+              "Validation",
+              "Test models",
+              "Sensitivity sweep",
+              "Validation log"
+            ],
+            [
+              "Reporting",
+              "Explain limits",
+              "Caveat writing",
+              "Final report"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            186.70000000000002,
+            550.0,
+            353.70000000000005
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            327.70000000000005,
+            388.747802734375,
+            340.87500000000006
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 2: Mapping of weekly topics to learning outcomes and laboratory work",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Parameter",
+              "Planned value",
+              "Owner",
+              "Review point"
+            ],
+            [
+              "Term length",
+              "12 weeks",
+              "Coordinator",
+              "Orientation"
+            ],
+            [
+              "Sessions",
+              "24",
+              "Coordinator",
+              "Midterm"
+            ],
+            [
+              "Teaching hours",
+              "48",
+              "Coordinator",
+              "Term end"
+            ],
+            [
+              "Response window",
+              "2 days",
+              "Instructor",
+              "Weekly"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            62,
+            550.0,
+            229
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            203.0,
+            370.91357421875,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Course-level planning parameters used throughout the syllabus",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62,
+            229,
+            550.0,
+            363
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Component",
+              "Focus",
+              "Feedback",
+              "Weight basis"
+            ],
+            [
+              "Laboratories",
+              "Implementation",
+              "5 days",
+              "Frequent"
+            ],
+            [
+              "Midterm task",
+              "Modeling judgment",
+              "5 days",
+              "Moderate"
+            ],
+            [
+              "Final report",
+              "End-to-end reasoning",
+              "Term end",
+              "Major"
+            ],
+            [
+              "Presentation",
+              "Defense of choices",
+              "Same day",
+              "Minor"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62,
+            229,
+            550.0,
+            396
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            370.0,
+            368.568603515625,
+            383.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Figure 2: Assessment components with weightings and feedback timing",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62,
+            396,
+            550.0,
+            530
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "Week block",
+              "Activity",
+              "Due",
+              "Submission form"
+            ],
+            [
+              "Early",
+              "Scheduling lab",
+              "2 days",
+              "Script and memo"
+            ],
+            [
+              "Middle",
+              "Input modeling lab",
+              "2 days",
+              "Script and memo"
+            ],
+            [
+              "Later",
+              "Validation lab",
+              "2 days",
+              "Log and memo"
+            ],
+            [
+              "Final",
+              "Project report",
+              "Term end",
+              "Repository"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62,
+            396,
+            550.0,
+            563
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            537.0,
+            371.639892578125,
+            550.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Figure 3: Weekly assessment and laboratory schedule with due windows",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

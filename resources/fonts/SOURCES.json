@@ -1,0 +1,13 @@
+{
+  "NotoSansSC-Regular.ttf": {
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "upstream_file": "NotoSansSC[wght].ttf",
+    "build": "Static instance at wght=400; full character coverage retained; no runtime fontTools dependency"
+  },
+  "DejaVuSans.ttf": {
+    "source": "https://dejavu-fonts.github.io/"
+  },
+  "DejaVuSans-Bold.ttf": {
+    "source": "https://dejavu-fonts.github.io/"
+  }
+}

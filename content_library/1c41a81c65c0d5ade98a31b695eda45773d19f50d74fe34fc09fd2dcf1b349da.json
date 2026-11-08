@@ -1,0 +1,549 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "manual_guide",
+    "language": "en",
+    "subject": "Indoor air quality station maintenance",
+    "seed": 61,
+    "has_title": false,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0010",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0016",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0017",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0018",
+        "parent_id": "h0010",
+        "level": 2,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0007",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0003",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0001",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0015",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0014",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0006",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "78.94",
+      "output_2": "89.11",
+      "output_3": "105.08",
+      "output_4": "121.80",
+      "cost_1": "51.31",
+      "cost_2": "57.92",
+      "cost_3": "68.30",
+      "cost_4": "79.17",
+      "balance_1": "27.63",
+      "balance_2": "31.19",
+      "balance_3": "36.78",
+      "balance_4": "42.63",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "54.3"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Indoor Air Quality Station Maintenance Manual",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Indoor Air Quality Station Maintenance Manual",
+        "paragraph": "This manual provides a structured framework for maintaining indoor air quality monitoring stations across multiple sites. It covers routine procedures, calibration protocols, data validation, and quality assurance to ensure reliable and accurate measurements. The guidance is designed for facility managers, technicians, and environmental health officers responsible for station upkeep and data integrity."
+      },
+      {
+        "id": "h0002",
+        "title": "Routine Maintenance Procedures",
+        "paragraph": "Routine maintenance is essential for consistent station performance. This section outlines daily, weekly, and monthly tasks, including sensor checks, filter replacements, and software updates. Adherence to these schedules minimizes downtime and ensures data continuity."
+      },
+      {
+        "id": "h0003",
+        "title": "Daily Inspection Checklist",
+        "paragraph": "Daily inspections involve verifying power status, checking for physical obstructions, and confirming data transmission. Technicians should log any anomalies and escalate issues according to the response timeline. A structured checklist helps maintain consistency across all sites."
+      },
+      {
+        "id": "h0004",
+        "title": "Sensor and Filter Checks",
+        "paragraph": "Sensors and filters require regular attention to prevent drift and contamination. This subsection details visual inspection of sensor heads, replacement intervals for particulate filters, and methods to verify airflow. Proper handling and documentation are critical."
+      },
+      {
+        "id": "h0005",
+        "title": "Particulate Sensor Cleaning",
+        "paragraph": "Particulate sensors accumulate dust, affecting accuracy. Cleaning with approved materials and following manufacturer guidelines is necessary. Technicians should record cleaning dates and observe post-cleaning readings to confirm sensor recovery."
+      },
+      {
+        "id": "h0006",
+        "title": "Filter Replacement Schedule",
+        "paragraph": "Filter replacement follows a schedule based on operating hours and environmental conditions. The table below summarizes replacement intervals for different filter types, ensuring consistent maintenance across stations."
+      },
+      {
+        "id": "h0007",
+        "title": "Data Logging and Transmission",
+        "paragraph": "Reliable data logging and transmission are vital for continuous monitoring. This subsection covers checking logger status, verifying network connectivity, and ensuring time synchronization. Regular audits of data completeness help identify gaps early."
+      },
+      {
+        "id": "h0008",
+        "title": "Weekly Performance Verification",
+        "paragraph": "Weekly verification includes comparing station readings with reference instruments and reviewing calibration status. Discrepancies beyond acceptable limits trigger recalibration or repair. Documentation of verification results supports quality assurance."
+      },
+      {
+        "id": "h0009",
+        "title": "Documentation and Record Keeping",
+        "paragraph": "Accurate records of maintenance activities, calibration events, and data quality checks are essential. This section describes logbook formats, digital record systems, and retention policies to support audits and trend analysis."
+      },
+      {
+        "id": "h0010",
+        "title": "Calibration and Quality Assurance",
+        "paragraph": "Calibration and quality assurance activities ensure measurement traceability and accuracy. This part details calibration frequency, reference standards, and corrective actions for out-of-tolerance results."
+      },
+      {
+        "id": "h0011",
+        "title": "Calibration Protocols",
+        "paragraph": "Calibration protocols specify procedures for zero and span checks, use of certified reference materials, and adjustment of sensor responses. Technicians must follow documented steps and record all calibration data."
+      },
+      {
+        "id": "h0012",
+        "title": "Calibration Frequency and Methods",
+        "paragraph": "Calibration frequency depends on sensor type and regulatory requirements. This subsection outlines recommended intervals and methods, including multipoint calibration for critical sensors and single-point checks for others."
+      },
+      {
+        "id": "h0013",
+        "title": "Zero and Span Checks",
+        "paragraph": "Zero and span checks verify sensor baseline and response. Zero checks use clean air, while span checks employ known concentrations. Results outside acceptance criteria require immediate corrective action."
+      },
+      {
+        "id": "h0014",
+        "title": "Reference Standards",
+        "paragraph": "Reference standards must be traceable and within validity. This subsection describes handling, storage, and verification of standard gases and permeation tubes to maintain their integrity."
+      },
+      {
+        "id": "h0015",
+        "title": "Calibration Records",
+        "paragraph": "Calibration records include dates, standards used, results, and technician signatures. These records are retained for audit purposes and to track sensor performance over time."
+      },
+      {
+        "id": "h0016",
+        "title": "Corrective Actions for Drift",
+        "paragraph": "When drift is detected, technicians must investigate root causes, adjust or replace sensors, and document actions. Follow-up checks ensure the issue is resolved and data quality is restored."
+      },
+      {
+        "id": "h0017",
+        "title": "Data Validation and Reporting",
+        "paragraph": "Data validation involves screening for outliers, flagging invalid periods, and applying correction factors. Validated data are compiled into reports for stakeholders, ensuring transparency and reliability."
+      },
+      {
+        "id": "h0018",
+        "title": "Audit and Review Procedures",
+        "paragraph": "Regular audits of maintenance and calibration records ensure compliance with protocols. Review procedures include internal checks and periodic external assessments to identify areas for improvement."
+      }
+    ],
+    "continuations": [
+      "Technicians should verify that all maintenance actions are recorded in the central log before the end of each shift, ensuring traceability and enabling timely follow-up on any unresolved issues.",
+      "When replacing components, use only approved parts and document the replacement date and reason. This practice helps maintain warranty coverage and supports long-term reliability assessments.",
+      "Environmental conditions such as temperature and humidity can affect sensor performance. Record these parameters during maintenance visits to correlate with any data anomalies.",
+      "If a station fails to transmit data for more than the allowed response time, initiate the escalation procedure and notify the site manager to minimize data loss.",
+      "Calibration gases must be stored according to manufacturer specifications and checked for expiration before each use. Expired standards can introduce bias and invalidate calibration results.",
+      "Regular training refreshers for technicians on new procedures and equipment updates are recommended to maintain competency and consistency across all sites.",
+      "Data validation should include cross-checks with nearby stations to identify systematic errors. Collaborative reviews with other site operators can enhance data quality.",
+      "Maintenance schedules should be adjusted based on seasonal variations, such as higher particulate levels during certain periods, to ensure optimal performance.",
+      "All maintenance activities must comply with site-specific safety protocols, including lockout-tagout procedures and use of personal protective equipment.",
+      "Spare parts inventory should be reviewed monthly to avoid shortages. Critical components like filters and sensors should have minimum stock levels defined.",
+      "When a sensor is replaced, perform a full calibration and a zero/span check before returning the station to service. Document the new sensor's serial number and initial readings.",
+      "Audit findings should be addressed through a corrective action plan with assigned responsibilities and deadlines. Follow-up audits verify the effectiveness of actions taken.",
+      "Data loggers should be checked for clock drift monthly. Synchronize with a reliable time source to ensure accurate timestamping of measurements.",
+      "For stations in dusty environments, consider increasing the frequency of particulate sensor cleaning and filter replacements to prevent premature clogging.",
+      "All calibration records must be signed by the technician and reviewed by a supervisor within the specified review period to ensure oversight.",
+      "When installing new firmware or software updates, back up existing data and configurations first. Test the update on a non-critical station if possible.",
+      "Maintain a contact list of vendors and service providers for specialized repairs. Response times should be agreed upon in service contracts.",
+      "Regularly review maintenance logs for recurring issues. Patterns may indicate the need for equipment upgrades or revised procedures.",
+      "Ensure that all personnel involved in maintenance have access to the latest version of this manual and understand any changes.",
+      "During site visits, inspect the physical enclosure for damage or tampering. Report any security concerns immediately.",
+      "Use calibrated handheld instruments for spot checks and compare with station readings. Discrepancies should be investigated promptly.",
+      "Document any deviations from standard procedures, including the reason and approval. This information is valuable for continuous improvement.",
+      "Schedule maintenance activities during low-traffic periods to minimize disruption and allow sufficient time for thorough checks.",
+      "Keep a log of all communications with site occupants regarding maintenance activities to address concerns and maintain good relations.",
+      "After any power outage, verify that the station restarts correctly and that data logging resumes without gaps. Check battery backups if installed.",
+      "Review data quality indicators monthly to identify trends and prioritize maintenance efforts on underperforming stations.",
+      "Ensure that all maintenance actions are traceable to specific stations and components. Use unique identifiers in records for clarity.",
+      "Conduct annual reviews of the maintenance manual to incorporate lessons learned and updates in technology or regulations.",
+      "When transporting sensors or reference standards, use appropriate packaging to prevent damage and maintain calibration.",
+      "Encourage technicians to report near-misses or potential hazards. A non-punitive reporting culture improves safety and reliability.",
+      "Verify that data storage systems have sufficient capacity and backup procedures. Data loss can compromise long-term trend analysis.",
+      "Coordinate with building management to ensure that maintenance activities do not interfere with other operations and that access is granted as needed."
+    ],
+    "tables": [
+      {
+        "id": "o0003",
+        "caption": "Daily inspection tasks and responsible roles",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Task",
+            "Responsible",
+            "Frequency",
+            "Record"
+          ],
+          [
+            "Power status check",
+            "Technician",
+            "Daily",
+            "Logbook"
+          ],
+          [
+            "Data transmission",
+            "Technician",
+            "Daily",
+            "Digital log"
+          ],
+          [
+            "Physical obstructions",
+            "Technician",
+            "Daily",
+            "Checklist"
+          ],
+          [
+            "Anomaly reporting",
+            "Technician",
+            "As needed",
+            "Incident form"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Weekly verification criteria and actions",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Check",
+            "Acceptance",
+            "Action if fail",
+            "Record"
+          ],
+          [
+            "Zero reading",
+            "Within tolerance",
+            "Recalibrate",
+            "Calibration log"
+          ],
+          [
+            "Span reading",
+            "Within tolerance",
+            "Recalibrate",
+            "Calibration log"
+          ],
+          [
+            "Data completeness",
+            "Near complete",
+            "Investigate",
+            "Data audit"
+          ],
+          [
+            "Clock sync",
+            "Close match",
+            "Synchronize",
+            "Maintenance log"
+          ]
+        ]
+      },
+      {
+        "id": "o0001",
+        "caption": "Data logging parameters and checks",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Parameter",
+            "Check method",
+            "Frequency",
+            "Responsible"
+          ],
+          [
+            "Logger status",
+            "Visual",
+            "Daily",
+            "Technician"
+          ],
+          [
+            "Network connectivity",
+            "Ping test",
+            "Daily",
+            "Technician"
+          ],
+          [
+            "Time sync",
+            "Compare",
+            "Weekly",
+            "Technician"
+          ],
+          [
+            "Storage capacity",
+            "Review",
+            "Monthly",
+            "Supervisor"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Filter types and replacement intervals",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Filter type",
+            "Interval",
+            "Condition",
+            "Responsible"
+          ],
+          [
+            "Particulate",
+            "Quarterly",
+            "Visual",
+            "Technician"
+          ],
+          [
+            "Gas",
+            "Semi-annual",
+            "Manufacturer",
+            "Technician"
+          ],
+          [
+            "Pre-filter",
+            "Monthly",
+            "Visual",
+            "Technician"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Reference standards handling requirements",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Standard",
+            "Storage",
+            "Shelf life",
+            "Verification"
+          ],
+          [
+            "Zero gas",
+            "Ventilated",
+            "One year",
+            "Certificate"
+          ],
+          [
+            "Span gas",
+            "Cool, dry",
+            "Half year",
+            "Certificate"
+          ],
+          [
+            "Permeation tube",
+            "Constant temp",
+            "Short term",
+            "Weight check"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Calibration record fields",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Field",
+            "Description",
+            "Example",
+            "Required"
+          ],
+          [
+            "Date",
+            "Calibration date",
+            "Recorded",
+            "Yes"
+          ],
+          [
+            "Standard",
+            "Gas/tube ID",
+            "Cylinder tag",
+            "Yes"
+          ],
+          [
+            "Result",
+            "Pass/fail",
+            "Pass",
+            "Yes"
+          ],
+          [
+            "Technician",
+            "Name/ID",
+            "J. Doe",
+            "Yes"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4379,
+      "completion_tokens": 2512,
+      "total_tokens": 6891,
+      "prompt_tokens_details": {
+        "cached_tokens": 3712
+      },
+      "prompt_cache_hit_tokens": 3712,
+      "prompt_cache_miss_tokens": 667
+    },
+    "finish_reason": "stop",
+    "request_hash": "1c41a81c65c0d5ade98a31b695eda45773d19f50d74fe34fc09fd2dcf1b349da",
+    "schema": "llm-content-v1",
+    "validation_retries": 2,
+    "cache_hit": false
+  }
+}

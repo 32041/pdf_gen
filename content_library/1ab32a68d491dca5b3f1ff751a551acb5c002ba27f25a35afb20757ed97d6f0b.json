@@ -1,0 +1,528 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "legal_contract",
+    "language": "en",
+    "subject": "Fictional professional training delivery agreement",
+    "seed": 69,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0002",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0001",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0003",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0001",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0001",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0009",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "78.98",
+      "output_2": "89.33",
+      "output_3": "102.75",
+      "output_4": "115.24",
+      "cost_1": "51.34",
+      "cost_2": "58.06",
+      "cost_3": "66.79",
+      "cost_4": "74.91",
+      "balance_1": "27.64",
+      "balance_2": "31.27",
+      "balance_3": "35.96",
+      "balance_4": "40.33",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "45.9"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Professional Training Delivery Agreement",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Professional Training Delivery Agreement",
+        "paragraph": "This agreement records the arrangement between the commissioning organization and the training provider for the design and delivery of a professional development programme over [[F:agreement_months]] months. It sets out the scope of instruction, the schedule of [[F:sessions]] sessions across [[F:duration_weeks]] weeks, the obligations of each party, and the standards by which satisfactory completion is judged. Both parties confirm they have authority to enter this arrangement and that the terms below reflect their agreed understanding."
+      },
+      {
+        "id": "h0002",
+        "title": "Scope of Training Services",
+        "paragraph": "The provider shall design and deliver a structured programme covering the agreed competency areas, comprising [[F:sessions]] facilitated sessions and [[F:teaching_hours]] teaching hours in total. Delivery may occur at up to [[F:sites_count]] designated sites or through equivalent remote channels where the parties agree in writing. Any material expansion of subject coverage, additional cohorts, or supplementary site deployments requires a written variation signed by both parties before work begins."
+      },
+      {
+        "id": "h0003",
+        "title": "Programme Design and Curriculum",
+        "paragraph": "The curriculum shall be built from a documented needs analysis and mapped to the competency framework supplied by the commissioning organization. Learning outcomes, session plans, and assessment instruments must be submitted for review before delivery begins. The provider retains editorial control over instructional method while ensuring alignment with the agreed outcomes and the professional standards applicable to the participants' roles."
+      },
+      {
+        "id": "h0004",
+        "title": "Learning Outcomes and Assessment Design",
+        "paragraph": "Each module shall state measurable learning outcomes and the evidence that will demonstrate achievement. Assessment instruments must be valid for the stated outcomes, applied consistently across cohorts, and moderated by a second qualified assessor. The provider shall retain assessment records for the period required by the commissioning organization's policy and make them available on reasonable request."
+      },
+      {
+        "id": "h0005",
+        "title": "Formative and Summative Components",
+        "paragraph": "The programme shall combine formative activities that give participants feedback during instruction with summative assessments that determine final achievement. Formative tasks may include structured practice, peer review, and facilitator observation; summative tasks shall be specified in advance with published criteria. Weighting between components must be disclosed to participants at the start of each module."
+      },
+      {
+        "id": "h0006",
+        "title": "Moderation and Quality Assurance",
+        "paragraph": "A moderation process shall verify that assessor judgements are consistent and defensible. A sample of assessments, proportionate to cohort size and no smaller than the provider's published standard, shall be independently reviewed. Where moderation identifies inconsistency, the provider shall adjust results and document the corrective action taken before issuing final records."
+      },
+      {
+        "id": "h0007",
+        "title": "Curriculum Review and Version Control",
+        "paragraph": "All curriculum materials shall be version-controlled, with each revision dated and attributed to an authorized reviewer. The provider shall conduct a scheduled review at least once during the term and incorporate feedback from participants and the commissioning organization. Superseded materials must be withdrawn from use so that participants are not assessed against conflicting criteria."
+      },
+      {
+        "id": "h0008",
+        "title": "Participant Eligibility and Enrolment",
+        "paragraph": "The commissioning organization shall nominate participants who meet the stated prerequisite knowledge and confirm their availability for the scheduled sessions. The provider shall verify eligibility before enrolment and notify the commissioning organization of any nominee who does not meet the prerequisites. Substitutions are permitted with reasonable notice provided the replacement satisfies the same eligibility requirements."
+      },
+      {
+        "id": "h0009",
+        "title": "Delivery Schedule and Obligations",
+        "paragraph": "The programme shall be delivered over [[F:duration_weeks]] weeks in accordance with the schedule annexed to this agreement. The provider shall supply qualified facilitators, learning materials, and assessment administration; the commissioning organization shall supply suitable venues or platform access, participant release time, and timely decisions on nominations. Neither party shall be liable for delay caused by the other's failure to perform its obligations."
+      },
+      {
+        "id": "h0010",
+        "title": "Scheduling, Attendance and Rescheduling",
+        "paragraph": "Sessions shall follow the agreed timetable, and the provider shall give reasonable notice of any necessary change. Participants are expected to attend all scheduled sessions; where absence exceeds the published threshold, the provider shall offer a catch-up arrangement or record the module as incomplete. Rescheduling requested by the commissioning organization is subject to facilitator availability and may attract a reasonable administrative charge."
+      },
+      {
+        "id": "h0011",
+        "title": "Attendance Records and Completion Criteria",
+        "paragraph": "The provider shall maintain attendance records for every session and reconcile them against enrolment data before final results are issued. A participant is deemed to have completed the programme only where attendance and assessment requirements are both satisfied. Records of completion shall be issued within a reasonable period after the final assessment and retained for audit purposes."
+      },
+      {
+        "id": "h0012",
+        "title": "Minimum Attendance Threshold",
+        "paragraph": "Participants must attend at least the published proportion of scheduled sessions to remain eligible for summative assessment. The provider shall publish this threshold before enrolment and apply it uniformly. Absences supported by documented exceptional circumstances may be considered under the provider's mitigation procedure, with the outcome recorded and communicated to the participant."
+      },
+      {
+        "id": "h0013",
+        "title": "Certification and Records",
+        "paragraph": "Certificates shall state the programme title, the participant's name, the completion date, and the awarding body where applicable. The provider shall issue certificates only after moderation is complete and all completion criteria are verified. Duplicate certificates may be issued on written request, and the provider shall maintain a register linking each certificate to its supporting assessment record."
+      },
+      {
+        "id": "h0014",
+        "title": "Facilitator Qualifications and Substitution",
+        "paragraph": "Facilitators assigned to the programme must hold relevant subject expertise and demonstrated instructional experience. The provider shall notify the commissioning organization of any proposed substitution and confirm that the replacement meets equivalent standards. Persistent facilitator underperformance identified through participant feedback shall be addressed through the provider's performance management process."
+      },
+      {
+        "id": "h0015",
+        "title": "Fees, Invoicing and Payment Terms",
+        "paragraph": "Fees for the programme shall be invoiced in accordance with the payment schedule agreed by the parties, with each invoice identifying the services delivered. The commissioning organization shall pay undisputed invoices within the stated period and may withhold disputed amounts pending resolution. The provider shall give written notice of any fee adjustment before it takes effect."
+      }
+    ],
+    "continuations": [
+      "Where a session is delivered remotely, the provider should confirm platform access, recording consent, and participant connectivity in advance so that instructional time is not lost to technical difficulties.",
+      "Attendance data should be reconciled against enrolment records before completion decisions are finalized, since discrepancies discovered later are materially harder to resolve fairly.",
+      "Any verbal instruction that changes scope, schedule, or assessment weighting should be confirmed in writing within a short period so that the record reflects what was actually agreed.",
+      "Participants who join late in the programme may require a documented induction covering prior content, assessment expectations, and the attendance threshold applicable to their enrolment.",
+      "The provider should retain facilitator credentials and continuing development records, as these are commonly requested when the commissioning organization conducts a supplier assurance review.",
+      "Assessment criteria should be shared with participants before each summative task, and any subsequent adjustment should be communicated to all affected cohorts rather than applied selectively.",
+      "Where moderation results in changed marks, the provider should notify affected participants with a brief explanation and confirm that certification records have been updated accordingly.",
+      "Venue bookings and platform licences should be confirmed sufficiently early that rescheduling pressures do not force compression of teaching hours or the merging of distinct modules.",
+      "Feedback from participants should be collected through a consistent instrument so that comparisons across cohorts and sites remain meaningful for programme improvement.",
+      "The commissioning organization should nominate a single point of contact empowered to approve schedule changes, so that decisions are not delayed by internal escalation.",
+      "Records of exceptional circumstances should be held separately from routine attendance data and accessed only by those involved in the mitigation decision.",
+      "Invoices should reference the specific modules or sessions delivered, which reduces disputes and allows the commissioning organization to reconcile charges against the agreed timetable.",
+      "Where the programme spans a holiday period, the parties should agree in advance whether sessions continue and how any suspension affects the attendance threshold calculation.",
+      "Materials containing participant information should be stored under access controls, and shared folders should be reviewed at the end of the term to remove unnecessary copies.",
+      "A short end-of-programme report summarizing delivery against plan, assessment outcomes, and identified improvements gives the commissioning organization a defensible basis for future procurement.",
+      "If a facilitator leaves during the term, the replacement should receive a structured handover covering cohort progress, outstanding assessments, and any agreed participant adjustments.",
+      "The provider should test assessment instruments with a small pilot group where feasible, since ambiguous questions are a frequent source of appeals and re-marking requests.",
+      "Termination for convenience should be paired with a clear settlement method covering delivered sessions, committed facilitator time, and any non-cancellable third-party costs.",
+      "Participants should be told how their assessment data will be used and retained, including whether results are shared with their employing organization.",
+      "Scheduled review points during the term allow the parties to correct drift in scope or schedule before it becomes a formal dispute requiring escalation.",
+      "Where multiple sites are used, the provider should verify that facilitator travel and equipment logistics do not reduce the effective teaching time below the agreed allocation.",
+      "Certificates should be checked against the moderation record before release, as issuing and later withdrawing a certificate creates avoidable reputational and administrative difficulty.",
+      "The commissioning organization should confirm participant release time in writing, since operational pressures frequently cause late withdrawals that affect cohort dynamics and assessment planning.",
+      "Any change to assessment weighting after the programme has begun should be treated as a variation requiring written agreement rather than a routine provider decision.",
+      "Appeal routes and response periods should be published to participants at enrolment so that challenges to assessment outcomes follow a known and time-bound process.",
+      "Supplier performance reviews should draw on attendance records, assessment outcomes, and participant feedback together, because any single indicator can mislead when read in isolation.",
+      "Where sessions are recorded, the provider should confirm consent, storage location, and deletion dates, and should not reuse recordings for other cohorts without agreement.",
+      "Budget holders should reconcile committed spend against delivered sessions at each review point so that variations are identified while there is still room to adjust.",
+      "The parties should agree how disputes about assessment outcomes are separated from commercial disputes, since the two require different expertise and different timescales.",
+      "Continuity planning should identify a deputy facilitator for each module so that short-notice absence does not force cancellation of a scheduled session.",
+      "Documentation handed to participants should carry the current version identifier, as outdated handouts are a common source of confusion during summative assessment.",
+      "At programme close, the provider should return or securely destroy any commissioning organization materials held for delivery purposes and confirm this in writing."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Delivery responsibilities allocated between the parties",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Activity",
+            "Provider",
+            "Commissioner",
+            "Evidence"
+          ],
+          [
+            "Curriculum design",
+            "Lead",
+            "Review",
+            "Version log"
+          ],
+          [
+            "Venue provision",
+            "Support",
+            "Lead",
+            "Booking record"
+          ],
+          [
+            "Assessment",
+            "Lead",
+            "Nominate",
+            "Moderation note"
+          ],
+          [
+            "Attendance",
+            "Record",
+            "Release staff",
+            "Register"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Core terms recorded at agreement signature",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Term",
+            "Value",
+            "Owner",
+            "Status"
+          ],
+          [
+            "Duration",
+            "[[F:agreement_months]] months",
+            "Both",
+            "Agreed"
+          ],
+          [
+            "Sessions",
+            "[[F:sessions]]",
+            "Provider",
+            "Planned"
+          ],
+          [
+            "Teaching hours",
+            "[[F:teaching_hours]]",
+            "Provider",
+            "Planned"
+          ],
+          [
+            "Sites",
+            "[[F:sites_count]]",
+            "Both",
+            "Agreed"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Curriculum design checkpoints and required outputs",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Checkpoint",
+            "Output",
+            "Reviewer",
+            "Timing"
+          ],
+          [
+            "Needs analysis",
+            "Competency map",
+            "Commissioner",
+            "Before design"
+          ],
+          [
+            "Session plans",
+            "Module outlines",
+            "Provider lead",
+            "Before delivery"
+          ],
+          [
+            "Assessment design",
+            "Criteria set",
+            "Moderator",
+            "Before delivery"
+          ],
+          [
+            "Term review",
+            "Revision log",
+            "Both",
+            "Mid-term"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Programme delivery parameters used for planning",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Parameter",
+            "Value",
+            "Basis",
+            "Review"
+          ],
+          [
+            "Weeks",
+            "[[F:duration_weeks]]",
+            "Schedule",
+            "Mid-term"
+          ],
+          [
+            "Sessions",
+            "[[F:sessions]]",
+            "Schedule",
+            "Monthly"
+          ],
+          [
+            "Teaching hours",
+            "[[F:teaching_hours]]",
+            "Schedule",
+            "Monthly"
+          ],
+          [
+            "Sites",
+            "[[F:sites_count]]",
+            "Agreement",
+            "Term end"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Completion evidence held for each participant",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Record",
+            "Holder",
+            "Retention",
+            "Access"
+          ],
+          [
+            "Attendance",
+            "Provider",
+            "Term plus policy",
+            "On request"
+          ],
+          [
+            "Assessment",
+            "Provider",
+            "Term plus policy",
+            "Moderated"
+          ],
+          [
+            "Certificate",
+            "Provider",
+            "Register",
+            "On request"
+          ],
+          [
+            "Mitigation",
+            "Provider",
+            "Restricted",
+            "Panel only"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Obligations and response periods for schedule matters",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Matter",
+            "Responsible",
+            "Period",
+            "Record"
+          ],
+          [
+            "Nomination decision",
+            "Commissioner",
+            "[[F:response_days]] days",
+            "Written"
+          ],
+          [
+            "Reschedule request",
+            "Provider",
+            "[[F:response_days]] days",
+            "Written"
+          ],
+          [
+            "Moderation outcome",
+            "Provider",
+            "[[F:review_days]] days",
+            "Record"
+          ],
+          [
+            "Fee variation notice",
+            "Provider",
+            "[[F:review_days]] days",
+            "Written"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 1711,
+      "completion_tokens": 2782,
+      "total_tokens": 4493,
+      "prompt_tokens_details": {
+        "cached_tokens": 512
+      },
+      "prompt_cache_hit_tokens": 512,
+      "prompt_cache_miss_tokens": 1199
+    },
+    "finish_reason": "stop",
+    "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b",
+    "schema": "llm-content-v1",
+    "validation_retries": 0,
+    "cache_hit": false
+  }
+}

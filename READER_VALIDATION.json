@@ -1,0 +1,686 @@
+{
+  "engines": [
+    "PDFium",
+    "pypdf",
+    "MuPDF",
+    "Poppler"
+  ],
+  "documents": [
+    {
+      "doc_id": "0001",
+      "kind": "official",
+      "pages": 5,
+      "characters": 3658,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0002",
+      "kind": "paper",
+      "pages": 3,
+      "characters": 1556,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0003",
+      "kind": "annual_report",
+      "pages": 4,
+      "characters": 1734,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0004",
+      "kind": "exam_paper",
+      "pages": 5,
+      "characters": 4081,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0005",
+      "kind": "course_syllabus",
+      "pages": 5,
+      "characters": 8046,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0006",
+      "kind": "manual_guide",
+      "pages": 6,
+      "characters": 4881,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0007",
+      "kind": "legal_contract",
+      "pages": 5,
+      "characters": 6704,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0008",
+      "kind": "annual_report",
+      "pages": 5,
+      "characters": 3198,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0009",
+      "kind": "paper",
+      "pages": 4,
+      "characters": 10276,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "figure_numbers": [],
+      "passed": true
+    },
+    {
+      "doc_id": "0010",
+      "kind": "legal_contract",
+      "pages": 5,
+      "characters": 7459,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0011",
+      "kind": "manual_guide",
+      "pages": 6,
+      "characters": 12891,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0012",
+      "kind": "course_syllabus",
+      "pages": 5,
+      "characters": 3601,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0013",
+      "kind": "manual_guide",
+      "pages": 5,
+      "characters": 10625,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0014",
+      "kind": "report",
+      "pages": 6,
+      "characters": 4274,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0015",
+      "kind": "annual_report",
+      "pages": 6,
+      "characters": 11069,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0016",
+      "kind": "legal_contract",
+      "pages": 3,
+      "characters": 1906,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "figure_numbers": [],
+      "passed": true
+    },
+    {
+      "doc_id": "0017",
+      "kind": "exam_paper",
+      "pages": 7,
+      "characters": 13536,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0018",
+      "kind": "course_syllabus",
+      "pages": 5,
+      "characters": 8705,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0019",
+      "kind": "annual_report",
+      "pages": 8,
+      "characters": 18961,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0020",
+      "kind": "manual_guide",
+      "pages": 4,
+      "characters": 6622,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0021",
+      "kind": "manual_guide",
+      "pages": 5,
+      "characters": 3671,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0022",
+      "kind": "legal_contract",
+      "pages": 5,
+      "characters": 9338,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "figure_numbers": [],
+      "passed": true
+    },
+    {
+      "doc_id": "0023",
+      "kind": "exam_paper",
+      "pages": 6,
+      "characters": 14777,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0024",
+      "kind": "course_syllabus",
+      "pages": 4,
+      "characters": 2894,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0025",
+      "kind": "report",
+      "pages": 4,
+      "characters": 2647,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0026",
+      "kind": "report",
+      "pages": 5,
+      "characters": 4389,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "figure_numbers": [],
+      "passed": true
+    },
+    {
+      "doc_id": "0027",
+      "kind": "exam_paper",
+      "pages": 6,
+      "characters": 4916,
+      "table_numbers": [
+        1,
+        2
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0028",
+      "kind": "legal_contract",
+      "pages": 6,
+      "characters": 9861,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0029",
+      "kind": "paper",
+      "pages": 4,
+      "characters": 6298,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0030",
+      "kind": "paper",
+      "pages": 3,
+      "characters": 2885,
+      "table_numbers": [
+        1,
+        2
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0031",
+      "kind": "exam_paper",
+      "pages": 3,
+      "characters": 1613,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0032",
+      "kind": "course_syllabus",
+      "pages": 5,
+      "characters": 4371,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0033",
+      "kind": "official",
+      "pages": 6,
+      "characters": 10361,
+      "table_numbers": [
+        1,
+        2
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0034",
+      "kind": "official",
+      "pages": 4,
+      "characters": 2975,
+      "table_numbers": [
+        1,
+        2
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0035",
+      "kind": "official",
+      "pages": 5,
+      "characters": 9638,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0036",
+      "kind": "annual_report",
+      "pages": 6,
+      "characters": 11007,
+      "table_numbers": [
+        1,
+        2,
+        3
+      ],
+      "figure_numbers": [
+        1,
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0037",
+      "kind": "report",
+      "pages": 5,
+      "characters": 3704,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0038",
+      "kind": "report",
+      "pages": 4,
+      "characters": 3925,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_numbers": [
+        1
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0039",
+      "kind": "paper",
+      "pages": 4,
+      "characters": 8961,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    },
+    {
+      "doc_id": "0040",
+      "kind": "official",
+      "pages": 6,
+      "characters": 10246,
+      "table_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "figure_numbers": [
+        1,
+        2
+      ],
+      "passed": true
+    }
+  ]
+}

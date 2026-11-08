@@ -1,0 +1,1224 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            189.63799999999998,
+            62.0,
+            405.638,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "技术证据解读能力考核试卷",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            530.9825002253056,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本试卷用于评估受测者对技术证据的提取、核验与解释能力，考试时长为12周内的两次集中考核，共2",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            532.1375003755093,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "4场次、48学时。答题者须在收到材料后2个工作日内提交初稿，评阅周期为5个工作日。试卷所有案例",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            408.5,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "均为模拟记录，涉及的数字只作演示，不得视为真实观测结果或因果结论。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            156.72500000000002,
+            175.1795001477003,
+            173.00000000000003
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            179.00000000000003,
+            175.1795001477003,
+            195.27500000000003
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            201.27500000000003,
+            175.1795001477003,
+            217.55000000000004
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            223.55000000000004,
+            258.0420002937317,
+            245.25000000000003
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 第一部分 材料解读与证据分级",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            249.25000000000003,
+            524.0,
+            265.52500000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本部分给出若干份模拟技术记录，要求考生区分原始观测、加工指标与推断结论三类信息。考生须说",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            265.52500000000003,
+            524.0,
+            281.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "明每一类证据的来源、可复核性与局限，并对证据强度作出分级判断。答题时应明确指出哪些陈述属",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.8,
+            429.5,
+            298.075
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "于描述性事实，哪些属于尚待验证的因果假设，避免把模拟数据当作实测结论。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            304.075,
+            175.1795001477003,
+            320.34999999999997
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            326.34999999999997,
+            244.03200030326843,
+            344.95
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 第一题 观测记录与推断的区分",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            348.95,
+            533.276,
+            482.95
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "年度",
+              "模拟产出",
+              "模拟成本",
+              "模拟余额"
+            ],
+            [
+              "2022",
+              "79.90",
+              "51.94",
+              "27.96"
+            ],
+            [
+              "2023",
+              "90.99",
+              "59.14",
+              "31.85"
+            ],
+            [
+              "2024",
+              "106.75",
+              "69.39",
+              "37.36"
+            ],
+            [
+              "2025",
+              "120.58",
+              "78.38",
+              "42.20"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            348.95,
+            533.276,
+            515.95
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            489.95,
+            213.12150011956692,
+            503.125
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 1：模拟记录中的产出成本与余额对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            515.95,
+            526.3100003004074,
+            532.225
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "题目提供一份包含240条模拟记录的汇总表，记录覆盖4个模拟站点。请考生指出表中哪些字段属于直",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            532.225,
+            524.0,
+            548.5
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "接观测，哪些字段由计算得出，并说明若原始记录缺失，结论会受到何种影响。答题须给出至少两条",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            548.5,
+            377.0,
+            564.775
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "可执行的核验步骤，并说明为何不能由相关关系直接推出因果结论。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            570.775,
+            232.03200030326843,
+            589.375
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.2 第二题 指标口径一致性核对",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            593.375,
+            529.1345014870167,
+            609.65
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "题目给出跨2022至2025的模拟产出与成本记录，其中产出由79.90变化至120.58，成本由51.94变化至",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            609.65,
+            529.1870008111,
+            625.925
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "78.38，余额相应由27.96变化至42.20。请考生核对口径是否一致，指出可能的口径漂移，并说明在何",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            625.925,
+            230.0,
+            642.1999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "种条件下才能对变化幅度作出解释。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            648.1999999999999,
+            175.1795001477003,
+            664.4749999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "核对项",
+              "关注点",
+              "核验方式",
+              "结论影响"
+            ],
+            [
+              "统计周期",
+              "起止是否一致",
+              "比对记录日期",
+              "影响趋势判断"
+            ],
+            [
+              "计量单位",
+              "是否统一换算",
+              "抽查原始条目",
+              "影响幅度比较"
+            ],
+            [
+              "字段定义",
+              "是否中途变更",
+              "查版本记录",
+              "影响可比性"
+            ],
+            [
+              "缺项处理",
+              "是否填补",
+              "核对缺项清单",
+              "影响可靠性"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            196.12150011956692,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 1：指标口径核对要点与核验方式",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229,
+            258.0420002937317,
+            250.7
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "2 第二部分 论证构建与结论表述",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            254.7,
+            533.276,
+            362.7
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "维度",
+              "高",
+              "中",
+              "低"
+            ],
+            [
+              "来源",
+              "原始记录",
+              "二次汇总",
+              "口头转述"
+            ],
+            [
+              "可复核",
+              "可追溯",
+              "部分可查",
+              "难以复核"
+            ],
+            [
+              "独立性",
+              "独立采集",
+              "部分关联",
+              "同源重复"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            254.7,
+            533.276,
+            395.7
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            369.7,
+            179.12150011956692,
+            382.875
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 2：证据分级维度与判定说明",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            395.7,
+            524.0,
+            411.97499999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "本部分要求考生基于前一部分的材料撰写简短论证，明确前提、推理链与结论边界。评分关注结论是",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            411.97499999999997,
+            524.0,
+            428.24999999999994
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "否与证据强度匹配、是否标注不确定性、是否避免过度外推。考生须在答卷中区分模拟观察与因果主",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            428.24999999999994,
+            272.0,
+            444.5249999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "张，并对可能影响结论的混杂因素给出说明。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            450.5249999999999,
+            175.1795001477003,
+            466.7999999999999
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            472.7999999999999,
+            256.03200030326843,
+            491.3999999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "2.1 第三题 结论边界与不确定性表述",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            495.3999999999999,
+            533.276,
+            629.3999999999999
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "评分项",
+              "观察内容",
+              "常见问题",
+              "改进方向"
+            ],
+            [
+              "前提明确",
+              "是否列出前提",
+              "前提隐含",
+              "显式列出"
+            ],
+            [
+              "推理连贯",
+              "证据与结论对应",
+              "跳跃推断",
+              "补足中间步骤"
+            ],
+            [
+              "边界表述",
+              "是否限定范围",
+              "过度外推",
+              "加入限定语"
+            ],
+            [
+              "不确定性",
+              "是否标注风险",
+              "措辞绝对",
+              "说明反例风险"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            495.3999999999999,
+            533.276,
+            662.3999999999999
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.3999999999999,
+            170.62150011956692,
+            649.5749999999998
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 3：论证评分要点与观察项",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            662.3999999999999,
+            524.0,
+            678.6749999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "请考生针对给定材料撰写一段不超过限定篇幅的结论表述，要求同时给出支持性证据与反例风险。答",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            678.6749999999998,
+            524.0,
+            694.9499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "题须说明结论适用的范围、时间窗口与前提条件，并指出若新增样本后结论可能如何变化。凡涉及数",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            694.9499999999998,
+            335.0,
+            711.2249999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "量，只能引用题目提供的模拟指标，不得自行编造测量值。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            62,
+            232.03200030326843,
+            80.6
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2.2 第四题 复核流程与责任分工",
+          "parent_id": "h0005",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.6,
+            524.0,
+            100.875
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "题目要求考生设计一份复核流程，明确初核、复核与终审三个环节的职责与时限，其中初核提交不得",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.875,
+            530.9825002253056,
+            117.15
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "晚于2个工作日，复核意见应在5个工作日内返回。考生须说明记录留存要求、异议处理路径，以及在1",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            117.15,
+            225.32750007510185,
+            133.425
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "2个月有效期内如何保持口径稳定。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            139.425,
+            533.276,
+            273.425
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "部分",
+              "考查重点",
+              "作答形式",
+              "评分侧重"
+            ],
+            [
+              "第一部分",
+              "证据分级",
+              "简答",
+              "区分观测与推断"
+            ],
+            [
+              "第二部分",
+              "论证构建",
+              "短文",
+              "结论边界表述"
+            ],
+            [
+              "复核题",
+              "流程设计",
+              "流程说明",
+              "职责与时限"
+            ],
+            [
+              "全程",
+              "口径一致",
+              "书面答卷",
+              "引用规范"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            139.425,
+            533.276,
+            306.425
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.425,
+            179.12150011956692,
+            293.6
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 2：试卷结构与作答要求概览",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            306.425,
+            533.276,
+            440.425
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "环节",
+              "责任人",
+              "时限",
+              "输出"
+            ],
+            [
+              "初核",
+              "考生本人",
+              "2日",
+              "初核稿"
+            ],
+            [
+              "复核",
+              "复核人",
+              "5日",
+              "复核意见"
+            ],
+            [
+              "终审",
+              "评阅组",
+              "按计划",
+              "终审结论"
+            ],
+            [
+              "留存",
+              "记录员",
+              "全周期",
+              "留档记录"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            306.425,
+            533.276,
+            473.425
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            447.425,
+            179.12150011956692,
+            460.6
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 3：复核环节职责与时限安排",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

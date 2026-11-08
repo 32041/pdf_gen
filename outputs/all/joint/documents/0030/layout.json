@@ -1,0 +1,2736 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            207.63799999999998,
+            52.0,
+            387.638,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "河流水质的自适应采样",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            282.0,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本文围绕河流水质监测中的自适应采样展开，说明如",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            282.0,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "何在固定站点与有限预算条件下调整采样频次与采样",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            282.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "时点，使监测结果既能反映水质变化，又便于复核。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            282.0,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "全文区分模拟观测与因果判断，所有数值均来自模拟",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            282.0,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "记录，不作为对真实河段的结论。研究关注采样决策",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            169.4,
+            282.0,
+            184.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "的形成过程、数据质量的检查方式以及结果解释的边",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            184.9,
+            212.0,
+            200.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "界，并给出可复用的操作记录框架。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            206.4,
+            178.0,
+            228.1
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "研究背景与问题界定",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            232.1,
+            282.0,
+            247.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "常规河流监测多按固定周期取样，遇到降雨、排口波",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            247.6,
+            282.0,
+            263.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "动或藻情变化时容易错过关键时段。自适应采样试图",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            263.1,
+            282.0,
+            278.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "依据前序观测与现场线索动态调整取样安排，但若规",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            278.6,
+            282.0,
+            294.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "则不透明，频次变化本身会引入偏差。本文据此界定",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            294.1,
+            284.2000002861023,
+            309.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "问题：在站点数量为4、计划样本量为240的模拟情境",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            309.6,
+            282.0,
+            325.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "下，如何设计可解释的调整规则，并明确哪些结论只",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            325.1,
+            132.0,
+            340.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "能视为相关观察。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            346.6,
+            159.79000014066696,
+            362.1
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            368.1,
+            287.638,
+            502.1
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "参数",
+              "取值",
+              "单位",
+              "说明"
+            ],
+            [
+              "站点数量",
+              "4",
+              "个",
+              "监测点位"
+            ],
+            [
+              "计划样本量",
+              "240",
+              "个",
+              "总样本数"
+            ],
+            [
+              "采样周期",
+              "12",
+              "周",
+              "持续时间"
+            ],
+            [
+              "教学时长",
+              "48",
+              "小时",
+              "培训安排"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            368.1,
+            287.638,
+            535.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            509.1,
+            160.62150011956692,
+            522.275
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 1：模拟情境下的关键参数",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            535.1,
+            176.0,
+            553.7
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "自适应采样的决策框架",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            557.7,
+            282.0,
+            573.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "框架分为触发、判断与执行三层：触发层收集流量、",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            573.2,
+            282.0,
+            588.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "浊度与降雨等线索；判断层依据预设阈值与历史基线",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            588.7,
+            272.0,
+            604.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "决定是否加密或推迟；执行层记录调整理由与责任",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            604.2,
+            282.0,
+            619.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "人。三层之间保留人工确认环节，避免规则在异常输",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            619.7,
+            282.0,
+            635.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "入下自动放大采样强度。框架强调每次调整都需留下",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            635.2,
+            282.0,
+            650.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "可追溯说明，以便后续评估频次变化对结果分布的影",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            650.7,
+            72.0,
+            666.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "响。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            672.2,
+            172.0,
+            689.25
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "触发条件与优先级设定",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            693.25,
+            282.0,
+            708.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "触发条件按风险程度排序，降雨或排口异常提示优先",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            708.75,
+            282.0,
+            724.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "于例行加密，设备故障提示则优先于补充取样。优先",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            724.25,
+            282.0,
+            739.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "级设定需说明冲突时的取舍，例如同时出现浊度升高",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            739.75,
+            282.0,
+            755.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "与仪器漂移时，先核查设备再决定是否加密。该安排",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            755.25,
+            282.0,
+            770.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "防止以观测异常直接推断污染事件，也为后续复核保",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            91.9,
+            367.638,
+            107.4
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "留时间窗口。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            113.4,
+            428.638,
+            129.675
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "现场线索的采集与记录",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            133.675,
+            537.6379999999999,
+            149.175
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "现场线索包括水色、气味、流速感观与岸边活动等，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            149.175,
+            527.6379999999999,
+            164.675
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "由采样人员按统一表单记录，并与仪器读数分开保",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            164.675,
+            537.6379999999999,
+            180.175
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "存。线索仅作为调整采样的参考，不直接进入水质评",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            180.175,
+            537.6379999999999,
+            195.675
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "价。记录需注明观察时间、位置与观察者，便于日后",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            195.675,
+            539.8780000691413,
+            211.175
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "核对。配套记录表 汇总了触发线索与对应处置建议，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            211.175,
+            407.638,
+            226.675
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "供现场人员对照使用。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            232.675,
+            415.42800014066694,
+            248.175
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 4。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            254.175,
+            543.276,
+            388.175
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "复核要点",
+              "检查内容",
+              "常见问题",
+              "处理建议"
+            ],
+            [
+              "校准依据",
+              "历史基线",
+              "依据缺失",
+              "补记说明"
+            ],
+            [
+              "触发频率",
+              "近期记录",
+              "频繁触发",
+              "检查线索"
+            ],
+            [
+              "季节差异",
+              "基线分段",
+              "未分段",
+              "重新校准"
+            ],
+            [
+              "负荷影响",
+              "资源匹配",
+              "负荷骤增",
+              "设上限"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            254.175,
+            543.276,
+            421.175
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            395.175,
+            424.7595001195669,
+            408.35
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 1：阈值复核要点与常见问题",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            421.175,
+            418.138,
+            437.45
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "阈值调整与人工复核",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            441.45,
+            537.6379999999999,
+            456.95
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "阈值并非固定不变，需按季节基线与历史波动定期校",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            456.95,
+            537.6379999999999,
+            472.45
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "准，校准结果须经复核人确认后方可生效。人工复核",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            472.45,
+            527.6379999999999,
+            487.95
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "重点检查阈值调整是否有依据、是否与近期观测一",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            487.95,
+            537.6379999999999,
+            503.45
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "致，以及是否会造成采样负荷骤增。复核意见单独存",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            503.45,
+            477.638,
+            518.95
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "档，避免与原始观测混同。配套记录表",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            518.95,
+            527.6379999999999,
+            534.45
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "列出复核要点与常见问题，便于形成一致的检查口",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            534.45,
+            327.638,
+            549.95
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "径。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            555.95,
+            415.42800014066694,
+            571.45
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            577.45,
+            416.638,
+            594.5
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "采样频次与资源约束",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            598.5,
+            537.6379999999999,
+            614.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "频次调整受人员、车辆与实验室容量约束，加密采样",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            614.0,
+            537.6379999999999,
+            629.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "需提前确认检测能力。资源不足时应优先保障高风险",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            629.5,
+            528.7380001430511,
+            645.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "时段，而非平均增加所有站点频次。计划周期为12",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            645.0,
+            528.7380001430511,
+            660.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "周，教学与演练安排共24次，可作为资源测算的参",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            660.5,
+            537.6379999999999,
+            676.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "照。资源约束说明需与调整理由一并归档，防止频次",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            676.0,
+            417.638,
+            691.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "变化被误读为水质恶化。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            697.5,
+            431.638,
+            716.1
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "与固定周期方案的比较",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            720.1,
+            537.6379999999999,
+            735.6
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "固定周期方案便于横向比较，自适应方案更易捕捉短",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            735.6,
+            537.6379999999999,
+            751.1
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "时波动，但两者样本结构不同，直接比较均值可能产",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            751.1,
+            537.6379999999999,
+            766.6
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "生误导。比较时应说明取样时点分布、样本量与缺失",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            282.0,
+            67.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "情况，并区分模拟观测与因果结论。若自适应方案在",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            282.0,
+            83.0
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "高风险时段加密，评价时需按权重或分层方式处理，",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            192.0,
+            98.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "避免时段差异被当作水质差异。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            104.5,
+            178.0,
+            126.2
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "数据质量与不确定性",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            130.2,
+            282.0,
+            145.7
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "自适应采样的数据质量取决于记录完整性与调整规则",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            145.7,
+            282.0,
+            161.2
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "的一致性。缺失样本、临时改点与仪器漂移都会影响",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            161.2,
+            272.0,
+            176.7
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "结果解释。分析时应标注每次调整的原因与影响范",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.7,
+            282.0,
+            192.2
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "围，并对关键指标给出不确定区间。本文仅报告模拟",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            192.2,
+            272.0,
+            207.7
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "观测中的分布特征，不据此推断污染来源或治理成",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            207.7,
+            222.0,
+            223.2
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "效，相关判断需另行设计对照与验证。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            229.2,
+            164.0,
+            247.79999999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "观测记录与校验流程",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            251.79999999999998,
+            282.0,
+            267.29999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "记录流程要求采样前确认站点状态，采样中同步填写",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            267.29999999999995,
+            282.0,
+            282.79999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "调整说明，采样后由复核人检查时间、位置与编号是",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            282.79999999999995,
+            282.0,
+            298.29999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "否一致。校验以抽样复核为主，重点核对异常值附近",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            298.29999999999995,
+            282.0,
+            313.79999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "的原始记录。发现不一致时先标记待查，不直接修改",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            313.79999999999995,
+            282.0,
+            329.29999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "原始数据。流程目标是让每次频次变化都能回溯到具",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            329.29999999999995,
+            132.0,
+            344.79999999999995
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "体线索与决定人。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.79999999999995,
+            161.0,
+            367.84999999999997
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "异常值的识别与处理",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            371.84999999999997,
+            282.0,
+            387.34999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "异常值识别结合历史分位与现场线索，单次偏离不立",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            387.34999999999997,
+            282.0,
+            402.84999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "即判定为异常，需查看同站点邻近时段与设备状态。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            402.84999999999997,
+            282.0,
+            418.34999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "确认为记录错误的值单独标注并保留原值，处理方式",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            418.34999999999997,
+            284.2400000691414,
+            433.84999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "写入日志。配套记录表 给出异常情形的分类与处置口",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            433.84999999999997,
+            282.0,
+            449.34999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "径，帮助不同人员采用一致标准。异常处理不改变采",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            449.34999999999997,
+            242.0,
+            464.84999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "样规则本身，只影响该次记录的使用范围。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            470.84999999999997,
+            159.79000014066696,
+            486.34999999999997
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            492.34999999999997,
+            159.79000014066696,
+            507.84999999999997
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            513.8499999999999,
+            287.638,
+            647.8499999999999
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "情形",
+              "可表述内容",
+              "避免表述",
+              "补充说明"
+            ],
+            [
+              "加密时段",
+              "观察性描述",
+              "因果判断",
+              "列调整次数"
+            ],
+            [
+              "样本较少",
+              "分布特征",
+              "趋势结论",
+              "附样本量"
+            ],
+            [
+              "对照比较",
+              "设计差异",
+              "水质优劣",
+              "说明方法"
+            ],
+            [
+              "模拟数据",
+              "记录显示",
+              "实测结论",
+              "标注模拟"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            513.8499999999999,
+            287.638,
+            680.8499999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            654.8499999999999,
+            169.12150011956692,
+            668.0249999999999
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 2：结果解释边界与表述建议",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            680.8499999999999,
+            162.5,
+            697.1249999999999
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "复核责任与留痕要求",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            701.1249999999999,
+            282.0,
+            716.6249999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "复核责任按采样人、复核人与数据管理员分工：采样",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            716.6249999999999,
+            282.0,
+            732.1249999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "人对现场记录负责，复核人检查规则适用性，数据管",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            732.1249999999999,
+            282.0,
+            747.6249999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "理员维护版本与归档。留痕要求包括调整理由、审批",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            747.6249999999999,
+            282.0,
+            763.1249999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "时间与修改记录，任何后补说明须注明补记原因。责",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            52,
+            537.6379999999999,
+            67.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "任划分旨在减少口头决定，使频次调整在事后可被独",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            67.5,
+            347.638,
+            83.0
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "立检查。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            89.0,
+            397.138,
+            105.275
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "结果解释的边界",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            109.275,
+            537.6379999999999,
+            124.775
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "结果解释需区分描述性观察与因果推断。自适应采样",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            124.775,
+            537.6379999999999,
+            140.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "提高了高风险时段的覆盖，但样本并非随机抽取，均",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            140.275,
+            527.6379999999999,
+            155.775
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "值与趋势可能受取样规则影响。报告应说明取样设",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            155.775,
+            537.6379999999999,
+            171.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "计、调整次数与缺失情况，并对超出设计范围的结论",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            171.275,
+            539.8780000691413,
+            186.775
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "保持谨慎。配套记录表 汇总了解释边界与对应表述建",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            186.775,
+            417.638,
+            202.275
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "议，供撰写报告时参照。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            208.275,
+            415.42800014066694,
+            223.775
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            307.638,
+            229.775,
+            543.276,
+            337.775
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "解释类型",
+              "适用情形",
+              "表述建议",
+              "注意事项"
+            ],
+            [
+              "描述性观察",
+              "展示监测数据",
+              "报告实测值",
+              "避免推断因果"
+            ],
+            [
+              "趋势推断",
+              "长期序列分析",
+              "谨慎使用趋势",
+              "需说明设计局限"
+            ],
+            [
+              "因果结论",
+              "超出设计范围",
+              "不建议直接得出",
+              "需补充随机抽样"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            307.638,
+            229.775,
+            543.276,
+            370.775
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            344.775,
+            433.2595001195669,
+            357.95
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 2：结果解释的边界与表述建议",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            370.775,
+            416.638,
+            387.825
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "模拟观测的呈现方式",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            307.638,
+            391.825,
+            543.276,
+            525.825
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "情形",
+              "判定线索",
+              "处置方式",
+              "使用范围"
+            ],
+            [
+              "单次偏离",
+              "邻近时段",
+              "标记待查",
+              "暂不纳入"
+            ],
+            [
+              "设备漂移",
+              "核查读数",
+              "单独存档",
+              "不参与评价"
+            ],
+            [
+              "记录错误",
+              "编号矛盾",
+              "保留原值",
+              "注明更正"
+            ],
+            [
+              "样本缺失",
+              "原因登记",
+              "补采评估",
+              "说明比例"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            307.638,
+            391.825,
+            543.276,
+            558.825
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            532.825,
+            424.7595001195669,
+            546.0
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "图 3：异常情形分类与处置口径",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            558.825,
+            537.6379999999999,
+            574.325
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "模拟观测以时间序列与分层汇总呈现，标注调整时点",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            574.325,
+            537.6379999999999,
+            589.825
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "与调整原因，避免将加密时段与常规时段混算。呈现",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            589.825,
+            527.6379999999999,
+            605.325
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "时同时给出样本量与缺失比例，便于读者判断可比",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            605.325,
+            527.6379999999999,
+            620.825
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "性。图形与表格均注明为模拟数据，不指向具体河",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            620.825,
+            537.6379999999999,
+            636.325
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "段。对明显波动的描述使用观察性措辞，不写成因判",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            636.325,
+            327.638,
+            651.825
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "断。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            657.825,
+            419.638,
+            676.4250000000001
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "实施建议与后续验证",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            680.4250000000001,
+            527.6379999999999,
+            695.9250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "实施建议包括先在小范围试行规则、保留人工否决",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            695.9250000000001,
+            537.6379999999999,
+            711.4250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "权、定期校准阈值与开展交叉复核。后续验证应设置",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            711.4250000000001,
+            527.6379999999999,
+            726.9250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "固定周期对照站点，比较不同取样设计下的指标分",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            726.9250000000001,
+            538.7380001430511,
+            742.4250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "布，并记录调整成本。回应时限按2日、复核时限按5",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            742.4250000000001,
+            537.6379999999999,
+            757.9250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "日执行，可作为流程节奏的参照。验证结果用于修订",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            757.9250000000001,
+            447.638,
+            773.4250000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "规则，而非直接评价河段水质。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            282.0,
+            67.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "采样人员轮换时应交接未完成的调整申请，注明当前",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            282.0,
+            83.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "站点状态与待核查线索，避免同一时段出现重复加密",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            92.0,
+            98.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "或遗漏。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            104.5,
+            287.638,
+            238.5
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "线索类型",
+              "观察要点",
+              "建议处置",
+              "记录要求"
+            ],
+            [
+              "降雨提示",
+              "雨强与历时",
+              "评估加密",
+              "注明时段"
+            ],
+            [
+              "浊度升高",
+              "与基线比较",
+              "核查设备",
+              "附读数"
+            ],
+            [
+              "水色异常",
+              "颜色与范围",
+              "现场拍照",
+              "注明位置"
+            ],
+            [
+              "排口活动",
+              "排放迹象",
+              "优先取样",
+              "记录目击"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            104.5,
+            287.638,
+            271.5
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            245.5,
+            186.12150011956692,
+            258.675
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 4：现场触发线索与处置建议对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

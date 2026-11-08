@@ -1,0 +1,651 @@
+{
+  "doc_id": "0032",
+  "kind": "course_syllabus",
+  "domain": "course_syllabus",
+  "language": "zh",
+  "title": "公共服务评价课程教学大纲",
+  "seed": 73,
+  "target_depth": 3,
+  "has_title": false,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "compact",
+  "columns": 1,
+  "margin_pt": 52,
+  "font_size": 10,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "课程概览与教学目标",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        1
+      ],
+      "text": "1 课程概览与教学目标",
+      "is_document_title": false
+    },
+    {
+      "id": "h0002",
+      "title": "理论模块与核心概念",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 理论模块与核心概念",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "评价指标设计与效度检验",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 评价指标设计与效度检验",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "数据采集方法与质量控制",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 数据采集方法与质量控制",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "案例研讨与实务反思",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 案例研讨与实务反思",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "教学安排与考核方式",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        2
+      ],
+      "text": "2 教学安排与考核方式",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "教学进度与周次安排",
+      "level": 2,
+      "parent_id": "h0006",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 教学进度与周次安排",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "课堂活动与作业要求",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 课堂活动与作业要求",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "考核评分标准与反馈机制",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 考核评分标准与反馈机制",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "学习资源与支持保障",
+      "level": 2,
+      "parent_id": "h0006",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 学习资源与支持保障",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      78.8,
+      91.37,
+      103.04,
+      115.19
+    ],
+    "cost": [
+      51.22,
+      59.39,
+      66.98,
+      74.87
+    ],
+    "balance": [
+      27.58,
+      31.98,
+      36.06,
+      40.32
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0009",
+      "target_previous_id": "h0009",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "考核评分标准与反馈机制",
+      "caption": "表 3：考核维度与等级描述对照",
+      "rows": [
+        [
+          "考核维度",
+          "优秀表现",
+          "合格表现",
+          "待改进表现"
+        ],
+        [
+          "概念准确性",
+          "概念清晰准确",
+          "基本概念正确",
+          "概念混淆"
+        ],
+        [
+          "方法适切性",
+          "方法选择有据",
+          "方法基本可行",
+          "方法不当"
+        ],
+        [
+          "证据充分性",
+          "证据链完整",
+          "证据基本支持",
+          "证据不足"
+        ],
+        [
+          "表达规范性",
+          "结构严谨规范",
+          "表达基本清楚",
+          "表述混乱"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "考核维度与等级描述对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0008",
+      "target_previous_id": "h0008",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "课堂活动与作业要求",
+      "caption": "表 2：课堂活动与作业类型说明",
+      "rows": [
+        [
+          "活动类型",
+          "主要形式",
+          "提交要求",
+          "反馈方式"
+        ],
+        [
+          "概念研讨",
+          "小组辩论",
+          "概念图",
+          "课堂点评"
+        ],
+        [
+          "指标工作坊",
+          "同伴互评",
+          "指标集",
+          "书面反馈"
+        ],
+        [
+          "模拟访谈",
+          "角色演练",
+          "访谈记录",
+          "逐组点评"
+        ],
+        [
+          "方案设计",
+          "小组合作",
+          "完整方案",
+          "答辩质询"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "课堂活动与作业类型说明",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0006",
+      "target_previous_id": "h0010",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "教学安排与考核方式",
+      "caption": "表 4：教学阶段与学时分配概览",
+      "rows": [
+        [
+          "教学阶段",
+          "周次范围",
+          "主要任务",
+          "考核关联"
+        ],
+        [
+          "理论讲授",
+          "前期",
+          "概念与文献",
+          "平时参与"
+        ],
+        [
+          "方法训练",
+          "中期",
+          "指标与采集",
+          "阶段作业"
+        ],
+        [
+          "综合实训",
+          "后期",
+          "方案设计",
+          "期末设计"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "教学阶段与学时分配概览",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "教学进度与周次安排",
+      "caption": "图 1：周次安排与核心主题对应",
+      "rows": [
+        [
+          "周次",
+          "核心主题",
+          "阅读任务",
+          "课堂活动"
+        ],
+        [
+          "第一周",
+          "课程导论",
+          "指定文献",
+          "概念辨析"
+        ],
+        [
+          "第二周",
+          "指标设计",
+          "方法章节",
+          "工作坊"
+        ],
+        [
+          "第三周",
+          "数据采集",
+          "案例材料",
+          "模拟访谈"
+        ],
+        [
+          "第四周",
+          "案例分析",
+          "评价报告",
+          "小组研讨"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "周次安排与核心主题对应",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional course_syllabus document. Document: 公共服务评价课程教学大纲. Section: 教学进度与周次安排. Caption: 周次安排与核心主题对应. Article context: 教学进度按理论讲授、方法训练与综合实训三个阶段推进，前段侧重概念与指标设计，中段聚焦数据采集与分析，后段用于方案设计与展示。每周安排阅读任务与小组讨论，学生需在课前完成指定文献摘要。教师根据课堂反馈动态调整案例难度，并在期中设置一次形成性评估，帮助学生及时发现方法应用中的薄弱环节，为期末方案设计奠定基础。. Supporting records: [[\"周次\", \"核心主题\", \"阅读任务\", \"课堂活动\"], [\"第一周\", \"课程导论\", \"指定文献\", \"概念辨析\"], [\"第二周\", \"指标设计\", \"方法章节\", \"工作坊\"], [\"第三周\", \"数据采集\", \"案例材料\", \"模拟访谈\"], [\"第四周\", \"案例分析\", \"评价报告\", \"小组研讨\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "理论模块与核心概念",
+      "caption": "表 1：理论模块核心概念对照",
+      "rows": [
+        [
+          "核心概念",
+          "关注焦点",
+          "常见误区",
+          "辨析要点"
+        ],
+        [
+          "绩效维度",
+          "投入产出",
+          "混淆产出结果",
+          "区分层次"
+        ],
+        [
+          "公平性",
+          "分配与可及",
+          "等同平均",
+          "识别差异"
+        ],
+        [
+          "回应性",
+          "服务及时性",
+          "忽视对象",
+          "关注反馈"
+        ],
+        [
+          "满意度",
+          "主观感受",
+          "替代质量",
+          "结合客观"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "理论模块核心概念对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0006",
+      "target_previous_id": "h0010",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "教学安排与考核方式",
+      "caption": "表 5：考核构成与权重安排",
+      "rows": [
+        [
+          "考核部分",
+          "主要形式",
+          "侧重能力",
+          "反馈时限"
+        ],
+        [
+          "平时参与",
+          "课堂研讨",
+          "概念理解",
+          "即时反馈"
+        ],
+        [
+          "阶段作业",
+          "方法练习",
+          "方法应用",
+          "5日"
+        ],
+        [
+          "期末设计",
+          "方案答辩",
+          "综合设计",
+          "5日"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 5。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "考核构成与权重安排",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "课程概览与教学目标",
+        "paragraph": "本课程系统讲授公共服务评价的理论框架、方法工具与实践应用，旨在培养学生在公共管理场景中设计评价方案、采集与分析数据、撰写评价报告的能力。课程强调证据导向与伦理规范，要求学生理解评价指标构建的逻辑链条，并能区分描述性发现与因果推断。通过案例研讨与模拟实训，学生将掌握面向不同公共服务领域的评价流程，形成严谨的批判性思维与政策建议能力。"
+      },
+      "h0002": {
+        "title": "理论模块与核心概念",
+        "paragraph": "理论模块聚焦公共服务评价的基本概念、价值取向与制度背景，涵盖绩效维度、公平性、回应性与满意度等核心范畴。教学将引导学生辨析投入、产出、结果与影响之间的逻辑关系，讨论评价标准的多源冲突与权衡策略。课堂采用文献精读与概念辨析相结合的方式，要求学生在每次研讨前提交概念图，以检验其对评价术语与理论假设的理解深度。"
+      },
+      "h0003": {
+        "title": "评价指标设计与效度检验",
+        "paragraph": "本单元讲授指标设计的原则、流程与常见陷阱，包括指标筛选、权重确定与效度信度检验方法。学生需针对给定公共服务场景提出候选指标集，运用专家咨询与层次分析进行筛选，并说明内容效度与结构效度的检验路径。教师将提供模拟评价数据集供练习，要求学生在报告中明确区分指标测量误差与真实差异，避免将相关关系误读为因果效应。"
+      },
+      "h0004": {
+        "title": "数据采集方法与质量控制",
+        "paragraph": "本单元介绍问卷调查、深度访谈、观察法与行政数据二次利用等采集方法，重点讨论抽样设计、样本量确定与无应答偏差控制。课程安排现场模拟演练，要求学生制定采集方案并说明质量控制节点，如访员培训、逻辑校验与复核比例。教师强调数据伦理与知情同意，要求学生在方案中列明隐私保护措施与数据保存期限，确保采集过程可追溯、可复核。"
+      },
+      "h0005": {
+        "title": "案例研讨与实务反思",
+        "paragraph": "案例研讨选取教育、医疗、交通与社区服务等领域的模拟评价情境，要求学生分组诊断评价方案的设计缺陷并提出改进建议。研讨重点包括利益相关者识别、评价问题界定与建议可行性分析。每组需提交研讨纪要，记录不同观点的交锋与共识形成过程。教师引导学生在反思中理解评价工作的政治与伦理张力，避免将技术方法简单化约为价值中立的工具。"
+      },
+      "h0006": {
+        "title": "教学安排与考核方式",
+        "paragraph": "课程共安排12周、24次课，合计48学时，采用讲授、研讨与实训相结合的方式。考核由平时参与、阶段作业与期末评价方案设计三部分构成，分别侧重概念理解、方法应用与综合设计能力。学生须在2个工作日内提交作业初稿，教师于5个工作日内反馈。课程强调学术诚信，所有引用数据须注明来源，禁止虚构评价结果。"
+      },
+      "h0007": {
+        "title": "教学进度与周次安排",
+        "paragraph": "教学进度按理论讲授、方法训练与综合实训三个阶段推进，前段侧重概念与指标设计，中段聚焦数据采集与分析，后段用于方案设计与展示。每周安排阅读任务与小组讨论，学生需在课前完成指定文献摘要。教师根据课堂反馈动态调整案例难度，并在期中设置一次形成性评估，帮助学生及时发现方法应用中的薄弱环节，为期末方案设计奠定基础。"
+      },
+      "h0008": {
+        "title": "课堂活动与作业要求",
+        "paragraph": "课堂活动包括概念辩论、指标设计工作坊与模拟访谈，作业要求涵盖文献综述、指标设计说明与数据分析练习。每次作业均需附方法反思，说明选择该方法的理由与局限。小组作业要求明确分工并提交贡献说明，避免搭便车现象。教师提供作业评分细则，强调论证逻辑、证据充分性与表达规范性，鼓励学生在作业中呈现对评价伦理的自觉思考。"
+      },
+      "h0009": {
+        "title": "考核评分标准与反馈机制",
+        "paragraph": "评分标准从概念准确性、方法适切性、证据充分性与表达规范性四个维度设定等级描述，各维度权重在开课时公布。期末评价方案设计要求包含问题界定、指标设计、采集计划与伦理审查说明。教师于5个工作日内提供书面反馈，并安排一次集体讲评。学生如对评分有异议，可在2个工作日内提出复核申请，由课程团队集体审议并给出书面答复。"
+      },
+      "h0010": {
+        "title": "学习资源与支持保障",
+        "paragraph": "课程提供阅读清单、模拟数据集与评价工具模板，学生可通过教学平台获取。教师每周安排固定答疑时间，并鼓励学生组成学习小组开展互助研讨。对于数据分析基础薄弱的学生，课程提供补充练习与操作指南。所有教学资源均标注使用许可与引用规范，提醒学生在作业中正确引用，避免学术不端行为。"
+      }
+    },
+    "continuations": [
+      "课程强调评价方案的可操作性，要求学生在设计时明确责任主体、时间节点与资源约束，避免提出脱离实际的建议。教师将在研讨中引导学生对照模拟场景检验方案可行性。",
+      "学生在采集数据前须完成伦理自查清单，说明知情同意获取方式与数据脱敏措施。教师提醒，涉及弱势群体的评价活动应额外评估潜在风险，并制定相应的保护预案。",
+      "指标设计工作坊采用同伴互评方式，各组交换指标集并提出质疑。互评记录纳入平时成绩，重点考察学生能否识别指标重叠、口径模糊与权重失衡等常见问题。",
+      "课程鼓励学生关注评价结果的使用场景，讨论评价报告如何服务于管理改进与公众沟通。教师提示，同一组数据面向不同受众时需调整呈现方式，但不得改变事实结论。",
+      "模拟访谈环节要求学生练习开放式提问与追问技巧，避免诱导性表述。教师将在演练后逐组点评，重点分析提问顺序对受访者回答质量的影响。",
+      "期末方案展示采用答辩形式，每组需回应教师与同伴的质询。答辩重点考察学生能否清晰说明方法选择依据，并诚实交代方案局限与未解决的问题。",
+      "课程阅读材料兼顾经典理论与近期讨论，教师提醒学生注意区分规范性主张与实证发现，在文献综述中明确标注作者观点与证据类型。",
+      "对于数据分析练习，教师提供操作指引但不提供标准答案，鼓励学生比较不同分析路径的结果差异，并在报告中说明选择理由与稳健性检验思路。",
+      "小组作业要求提交会议记录与任务分工表，作为过程性证据。教师将抽查记录真实性，并提醒学生过程材料同样纳入学术诚信审查范围。",
+      "课程中期设置匿名反馈渠道，收集学生对教学节奏与难度的意见。教师根据反馈调整后续案例难度，并在课堂上说明调整依据，体现教学相长的原则。",
+      "评价方案设计须包含风险预案，说明数据采集受阻或样本偏差过大时的应对措施。教师强调，预案应具体可执行，而非泛泛而谈的原则性表述。",
+      "课程鼓励学生结合自身专业背景选择评价场景，但要求在同一小组内保持场景多样性，以促进跨领域比较与讨论。",
+      "教师在讲授因果推断时反复提醒，模拟数据中的统计关联不能直接推广为现实政策效果，学生须在报告中明确区分描述性结论与因果主张。",
+      "作业提交采用统一模板，包含封面、正文与附录三部分。教师提醒学生附录应完整呈现采集工具与编码手册，确保评价过程可复现。",
+      "课程安排一次跨组交流活动，各组展示指标设计初稿并接受跨组质询。教师观察发现，跨组质询有助于暴露本组习以为常的设计盲点。",
+      "学生在撰写评价报告时须区分发现、解释与建议三个层次，避免将建议表述为已被证实的结论。教师将在讲评中提供分层写作范例。",
+      "课程强调时间管理，建议学生为数据采集与清洗预留充足时间。教师提醒，模拟数据虽已预处理，但真实场景中的数据清理往往占据更多工时。",
+      "评价伦理讨论涵盖利益冲突披露、评价结果保密与弱势群体保护等议题。教师要求学生结合模拟情境撰写伦理反思短文，纳入平时成绩。",
+      "课程提供评价工具模板库，涵盖问卷、访谈提纲与观察记录表。教师提醒模板仅作参考，学生须根据具体场景调整题项与表述，避免生搬硬套。",
+      "教师在答疑中鼓励学生提出方法上的困惑，而非仅关注分数。课程团队将常见问题整理为问答文档，供全体学生参考，减少重复性答疑负担。",
+      "期末答辩评分包含回应质询的表现，教师提醒学生诚实承认方案局限比强行辩护更能体现专业素养，也更容易获得同伴与教师的认可。",
+      "课程建议学生在小组内建立版本管理习惯，保留方案修改记录。教师指出，过程文档不仅有助于分工协作，也是学术诚信审查的重要依据。",
+      "模拟评价数据集仅用于教学练习，教师明确提醒学生不得将其用于课程之外的分析或发表，以免造成对模拟结果的误读与不当传播。",
+      "课程在最后阶段安排一次整体回顾，梳理评价流程各环节的衔接关系。教师引导学生绘制个人知识地图，识别自身在方法链上的薄弱环节。",
+      "教师提醒学生在引用文献时核对原始出处，避免转引导致的观点失真。课程阅读清单标注了文献类型，帮助学生区分理论论述与实证研究。",
+      "小组互评采用结构化量表，涵盖指标合理性、采集可行性与伦理考量等维度。教师强调互评意见应具体、可操作，避免笼统褒贬。",
+      "课程鼓励学生在方案设计中纳入利益相关者反馈机制，说明如何将服务对象意见纳入评价过程，而非仅由管理者单方面设定标准。",
+      "教师在讲授抽样方法时结合模拟场景说明样本偏差的来源，提醒学生关注无应答群体的特征，避免以偏概全地推断整体服务水平。",
+      "课程提供学术写作指导材料，重点讲解如何清晰表述评价问题、方法选择与结论边界。教师提醒，模糊的表述往往掩盖了论证上的薄弱环节。",
+      "期末方案提交后安排一次成果分享会，各组简要汇报核心发现与设计亮点。教师鼓励学生记录他组方案的可借鉴之处，形成个人方法工具箱。",
+      "课程团队定期检查教学资源链接的有效性，并及时更新阅读材料。教师提醒学生关注平台通知，避免因资源变动影响作业准备进度。",
+      "教师在课程伊始说明评分标准的公开透明原则，并欢迎学生在学习过程中就标准理解提出疑问，课程团队将在课堂上统一解释，确保评价公平。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1554,
+        "completion_tokens": 3207,
+        "total_tokens": 4761,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1042
+      },
+      "finish_reason": "stop",
+      "request_hash": "04a01d26a19c46086f1a28b053157274dcd51fbcd28f7731e8e43523c7ae7659",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

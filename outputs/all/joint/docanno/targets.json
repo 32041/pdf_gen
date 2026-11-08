@@ -1,0 +1,146 @@
+{
+  "objects": 240,
+  "conflicts": 120,
+  "subtypes": {
+    "far_float": 36,
+    "plate": 24,
+    "before_heading": 24,
+    "after_section": 36
+  },
+  "relations_by_subtype": {
+    "normal": {
+      "same": 120
+    },
+    "after_section": {
+      "owner_is_ancestor": 25,
+      "cross_branch": 4,
+      "siblings": 7
+    },
+    "far_float": {
+      "owner_is_ancestor": 24,
+      "cross_branch": 5,
+      "siblings": 7
+    },
+    "before_heading": {
+      "siblings": 12,
+      "prev_is_ancestor": 5,
+      "cross_branch": 7
+    },
+    "plate": {
+      "owner_is_ancestor": 17,
+      "siblings": 5,
+      "cross_branch": 2
+    }
+  },
+  "level_balance_adjustments": [
+    {
+      "doc_id": "0001",
+      "parent_id": "h0009",
+      "added_ids": [
+        "h0020",
+        "h0021"
+      ],
+      "level": 5
+    },
+    {
+      "doc_id": "0004",
+      "parent_id": "h0009",
+      "added_ids": [
+        "h0020",
+        "h0021"
+      ],
+      "level": 5
+    },
+    {
+      "doc_id": "0005",
+      "parent_id": "h0006",
+      "added_ids": [
+        "h0012",
+        "h0013"
+      ],
+      "level": 4
+    },
+    {
+      "doc_id": "0006",
+      "parent_id": "h0009",
+      "added_ids": [
+        "h0023",
+        "h0024"
+      ],
+      "level": 5
+    },
+    {
+      "doc_id": "0007",
+      "parent_id": "h0006",
+      "added_ids": [
+        "h0012",
+        "h0013"
+      ],
+      "level": 4
+    },
+    {
+      "doc_id": "0008",
+      "parent_id": "h0007",
+      "added_ids": [
+        "h0016",
+        "h0017"
+      ],
+      "level": 5
+    }
+  ],
+  "document_quotas": {
+    "depth": {
+      "6": 12,
+      "3": 8,
+      "4": 8,
+      "5": 12
+    },
+    "language": {
+      "zh": 20,
+      "en": 20
+    },
+    "numbering": {
+      "numbered": 28,
+      "none": 5,
+      "mixed": 5,
+      "misleading": 2
+    },
+    "style": {
+      "similar": 16,
+      "clear": 24
+    },
+    "domain": {
+      "gov_standard": 5,
+      "academic_paper": 5,
+      "annual_report": 5,
+      "exam_paper": 5,
+      "course_syllabus": 5,
+      "manual_guide": 5,
+      "legal_contract": 5,
+      "report": 5
+    },
+    "columns": {
+      "1": 31,
+      "2": 9
+    },
+    "family": {
+      "arabic_dotted": 28,
+      "alpha_dotted": 7,
+      "cn_outline": 3,
+      "roman_outline": 2
+    },
+    "template": {
+      "compact": 12,
+      "classic": 20,
+      "spacious": 8
+    },
+    "title": {
+      "yes": 32,
+      "no": 8
+    },
+    "paper": {
+      "Letter": 17,
+      "A4": 23
+    }
+  }
+}

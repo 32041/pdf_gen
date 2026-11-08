@@ -1,0 +1,909 @@
+{
+  "doc_id": "0019",
+  "kind": "annual_report",
+  "domain": "annual_report",
+  "language": "en",
+  "title": "Annual Report of the Willowbridge Community Service Network",
+  "seed": 60,
+  "target_depth": 6,
+  "has_title": false,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 2,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Overview of Community Service Operations",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        1
+      ],
+      "text": "1 Overview of Community Service Operations",
+      "is_document_title": false
+    },
+    {
+      "id": "h0002",
+      "title": "Service Delivery and Performance Review",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 Service Delivery and Performance Review",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Programme Outcomes and Community Feedback",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 Programme Outcomes and Community Feedback",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Household Support Programme",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1 Household Support Programme",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Volunteer Training and Safety Checks",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1.1 Volunteer Training and Safety Checks",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Home Visit Safety Protocol",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1.1.1 Home Visit Safety Protocol",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Volunteer Wellbeing and Retention",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.1.1.2 Volunteer Wellbeing and Retention",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Digital Access Clinics",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.1.2 Digital Access Clinics",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Social Connection Activities",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.2 Social Connection Activities",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Advice Navigation and Referral Pathways",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 Advice Navigation and Referral Pathways",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Partnerships and External Relationships",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 Partnerships and External Relationships",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Financial Review and Resource Management",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        2
+      ],
+      "text": "2 Financial Review and Resource Management",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Income and Expenditure Summary",
+      "level": 2,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 Income and Expenditure Summary",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Budget Monitoring and Variance Review",
+      "level": 3,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 Budget Monitoring and Variance Review",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Cost Control Measures",
+      "level": 4,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1 Cost Control Measures",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "Procurement and Supplier Review",
+      "level": 5,
+      "parent_id": "h0015",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1.1 Procurement and Supplier Review",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "Venue Hire Agreements",
+      "level": 6,
+      "parent_id": "h0016",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1.1.1 Venue Hire Agreements",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "Equipment Replacement Planning",
+      "level": 6,
+      "parent_id": "h0016",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.1.1.2 Equipment Replacement Planning",
+      "is_document_title": false
+    },
+    {
+      "id": "h0019",
+      "title": "Reserves and Contingency Policy",
+      "level": 5,
+      "parent_id": "h0015",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.1.2 Reserves and Contingency Policy",
+      "is_document_title": false
+    },
+    {
+      "id": "h0020",
+      "title": "Financial Controls and Delegated Authority",
+      "level": 4,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.2 Financial Controls and Delegated Authority",
+      "is_document_title": false
+    },
+    {
+      "id": "h0021",
+      "title": "Audit Preparation and Record Keeping",
+      "level": 3,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 Audit Preparation and Record Keeping",
+      "is_document_title": false
+    },
+    {
+      "id": "h0022",
+      "title": "Governance, Risk and Forward Priorities",
+      "level": 2,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 Governance, Risk and Forward Priorities",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      83.75,
+      93.0,
+      108.48,
+      117.94
+    ],
+    "cost": [
+      54.44,
+      60.45,
+      70.51,
+      76.66
+    ],
+    "balance": [
+      29.31,
+      32.55,
+      37.97,
+      41.28
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0012",
+      "target_previous_id": "h0022",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Financial Review and Resource Management",
+      "caption": "Table 3: Simulated output, cost and balance indicators for the reporting year and prior year",
+      "rows": [
+        [
+          "Indicator",
+          "Year",
+          "Amount",
+          "Note"
+        ],
+        [
+          "Output",
+          "2024",
+          "108.48",
+          "Simulated"
+        ],
+        [
+          "Cost",
+          "2024",
+          "70.51",
+          "Simulated"
+        ],
+        [
+          "Balance",
+          "2024",
+          "37.97",
+          "Simulated"
+        ],
+        [
+          "Output",
+          "2025",
+          "117.94",
+          "Simulated"
+        ],
+        [
+          "Cost",
+          "2025",
+          "76.66",
+          "Simulated"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Simulated output, cost and balance indicators for the reporting year and prior year",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0012",
+      "target_previous_id": "h0022",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Financial Review and Resource Management",
+      "caption": "Table 4: Simulated output, cost and balance indicators for earlier reporting periods",
+      "rows": [
+        [
+          "Indicator",
+          "Year",
+          "Amount",
+          "Note"
+        ],
+        [
+          "Output",
+          "2022",
+          "83.75",
+          "Simulated"
+        ],
+        [
+          "Cost",
+          "2022",
+          "54.44",
+          "Simulated"
+        ],
+        [
+          "Balance",
+          "2022",
+          "29.31",
+          "Simulated"
+        ],
+        [
+          "Output",
+          "2023",
+          "93.00",
+          "Simulated"
+        ],
+        [
+          "Cost",
+          "2023",
+          "60.45",
+          "Simulated"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Simulated output, cost and balance indicators for earlier reporting periods",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0005",
+      "target_previous_id": "h0005",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Volunteer Training and Safety Checks",
+      "caption": "Table 1: Volunteer training schedule and safety check requirements",
+      "rows": [
+        [
+          "Activity",
+          "Duration",
+          "Requirement",
+          "Evidence"
+        ],
+        [
+          "Induction",
+          "12 weeks",
+          "Attendance",
+          "Register"
+        ],
+        [
+          "Sessions",
+          "24 sessions",
+          "Completion",
+          "Log"
+        ],
+        [
+          "Teaching",
+          "48 hours",
+          "Assessment",
+          "Record"
+        ],
+        [
+          "Safety check",
+          "Before visit",
+          "Reference",
+          "Checklist"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Volunteer training schedule and safety check requirements",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Service Delivery and Performance Review",
+      "caption": "Figure 1: Programme delivery summary by core service area",
+      "rows": [
+        [
+          "Programme",
+          "Focus",
+          "Referral source",
+          "Review point"
+        ],
+        [
+          "Household",
+          "Energy advice",
+          "Housing officers",
+          "Monthly"
+        ],
+        [
+          "Digital",
+          "Device help",
+          "Libraries",
+          "Monthly"
+        ],
+        [
+          "Social",
+          "Connection",
+          "Self-referral",
+          "Quarterly"
+        ],
+        [
+          "Advice",
+          "Navigation",
+          "Health teams",
+          "Quarterly"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Programme delivery summary by core service area",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: Annual Report of the Willowbridge Community Service Network. Section: Service Delivery and Performance Review. Caption: Programme delivery summary by core service area. Article context: Service delivery was organised around four core programmes: household support, digital access, social connection and advice navigation. Each programme reported monthly on referrals, attendance and completion. Performance review compared planned activity with delivered sessions, using case notes and volunteer logs as evidence. Where demand exceeded capacity, coordinators adjusted schedules and redirected referrals to partner agencies. The review found that consistent staffing and clear referral criteria mattered more than the size of any single programme.. Supporting records: [[\"Programme\", \"Focus\", \"Referral source\", \"Review point\"], [\"Household\", \"Energy advice\", \"Housing officers\", \"Monthly\"], [\"Digital\", \"Device help\", \"Libraries\", \"Monthly\"], [\"Social\", \"Connection\", \"Self-referral\", \"Quarterly\"], [\"Advice\", \"Navigation\", \"Health teams\", \"Quarterly\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0022",
+      "target_previous_id": "h0022",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Governance, Risk and Forward Priorities",
+      "caption": "Figure 2: Governance and risk review responsibilities",
+      "rows": [
+        [
+          "Area",
+          "Owner",
+          "Frequency",
+          "Record"
+        ],
+        [
+          "Risk register",
+          "Trustees",
+          "Quarterly",
+          "Minutes"
+        ],
+        [
+          "Safeguarding",
+          "Lead",
+          "Monthly",
+          "Log"
+        ],
+        [
+          "Finance",
+          "Subgroup",
+          "Monthly",
+          "Report"
+        ],
+        [
+          "Volunteers",
+          "Coordinator",
+          "Quarterly",
+          "Register"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Governance and risk review responsibilities",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: Annual Report of the Willowbridge Community Service Network. Section: Governance, Risk and Forward Priorities. Caption: Governance and risk review responsibilities. Article context: Governance arrangements included a trustee board, a finance subgroup and a safeguarding lead. The risk register was reviewed quarterly, with the highest risks relating to volunteer capacity and reliance on short-term grants. Forward priorities include strengthening volunteer recruitment, improving follow-up with partners and maintaining the reserves target. The board also asked for clearer outcome reporting, so that future annual reports can distinguish observed changes from causal claims more carefully.. Supporting records: [[\"Area\", \"Owner\", \"Frequency\", \"Record\"], [\"Risk register\", \"Trustees\", \"Quarterly\", \"Minutes\"], [\"Safeguarding\", \"Lead\", \"Monthly\", \"Log\"], [\"Finance\", \"Subgroup\", \"Monthly\", \"Report\"], [\"Volunteers\", \"Coordinator\", \"Quarterly\", \"Register\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0015",
+      "target_previous_id": "h0015",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Cost Control Measures",
+      "caption": "Table 2: Cost control measures and evidence of effect",
+      "rows": [
+        [
+          "Measure",
+          "Intended effect",
+          "Evidence",
+          "Review"
+        ],
+        [
+          "Venue renegotiation",
+          "Lower hire cost",
+          "Invoices",
+          "Annual"
+        ],
+        [
+          "Shared printing",
+          "Lower supplies",
+          "Orders",
+          "Quarterly"
+        ],
+        [
+          "Online training",
+          "Less travel",
+          "Attendance",
+          "Per cohort"
+        ],
+        [
+          "Supplier review",
+          "Better value",
+          "Quotes",
+          "Annual"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Cost control measures and evidence of effect",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Overview of Community Service Operations",
+        "paragraph": "The Willowbridge Community Service Network delivers practical support across four neighbourhood sites, with activity shaped by local referrals and volunteer capacity. This annual report explains how services were planned, delivered, checked and governed during the year. It focuses on the decisions that affected service users, the evidence used to judge progress, and the duties carried by staff and volunteers. All financial figures are simulated indicators and should be read as planning estimates rather than audited accounts."
+      },
+      "h0002": {
+        "title": "Service Delivery and Performance Review",
+        "paragraph": "Service delivery was organised around four core programmes: household support, digital access, social connection and advice navigation. Each programme reported monthly on referrals, attendance and completion. Performance review compared planned activity with delivered sessions, using case notes and volunteer logs as evidence. Where demand exceeded capacity, coordinators adjusted schedules and redirected referrals to partner agencies. The review found that consistent staffing and clear referral criteria mattered more than the size of any single programme."
+      },
+      "h0003": {
+        "title": "Programme Outcomes and Community Feedback",
+        "paragraph": "Outcome tracking combined service-user feedback with staff observations and partner reports. Feedback forms were offered after every activity, and a sample of users was contacted for follow-up. The evidence suggests that regular attendance was associated with improved confidence in accessing local services, though this is an observed association rather than a proven cause. Community feedback also highlighted practical barriers such as transport and opening hours, which programme leads used to adjust delivery."
+      },
+      "h0004": {
+        "title": "Household Support Programme",
+        "paragraph": "The household support programme helped residents with energy advice, small repairs and access to essential goods. Volunteers worked in pairs and followed a safety checklist before each visit. Referrals came mainly from housing officers and community health workers. The programme reviewed its scope during the year and decided to prioritise households with older residents or limited support networks. Case records were kept brief and secure, and any safeguarding concern was escalated within the same working day."
+      },
+      "h0005": {
+        "title": "Volunteer Training and Safety Checks",
+        "paragraph": "All volunteers completed an induction covering boundaries, confidentiality and escalation routes. Training was delivered over 12 weeks, with 24 sessions and 48 teaching hours in total. Safety checks included reference verification and a practical assessment before independent visits. Coordinators kept a training register and reviewed it each quarter. The main challenge was scheduling refresher sessions for volunteers with limited availability, so short online modules were introduced as an alternative."
+      },
+      "h0006": {
+        "title": "Home Visit Safety Protocol",
+        "paragraph": "The home visit protocol required a risk assessment before first contact, a check-in call at the start of each visit and a follow-up message on completion. Volunteers were instructed to leave immediately if they felt unsafe and to report the incident to the duty coordinator. The protocol was reviewed after a small number of near-miss reports, leading to clearer guidance on lone working and a revised checklist. These measures increased confidence among volunteers without adding significant administrative burden."
+      },
+      "h0007": {
+        "title": "Volunteer Wellbeing and Retention",
+        "paragraph": "Volunteer wellbeing was supported through regular supervision, peer meetups and a confidential advice line. Retention was monitored by tracking active volunteers each quarter. Exit feedback pointed to workload peaks and unclear expectations as common reasons for leaving. In response, coordinators introduced clearer role descriptions and a buddy system for new volunteers. These changes were associated with steadier attendance, although the evidence remains observational and cannot establish a direct causal link."
+      },
+      "h0008": {
+        "title": "Digital Access Clinics",
+        "paragraph": "Digital access clinics offered one-to-one help with devices, online forms and account security. Sessions were held at community venues and libraries, with drop-in and booked slots. Demand was highest for help with benefit applications and health appointments. The team produced simple printed guides and kept a log of recurring problems, which informed short group workshops. Clinic capacity remained limited by the number of trained digital volunteers, so recruitment focused on this skill area."
+      },
+      "h0009": {
+        "title": "Social Connection Activities",
+        "paragraph": "Social connection activities included weekly coffee mornings, walking groups and seasonal events. Attendance was recorded at each session, and participants were invited to suggest future activities. The programme aimed to reduce isolation by offering low-pressure, regular contact. Staff observed that participants often formed informal support networks beyond the sessions themselves. However, the programme did not attempt to measure loneliness directly, so claims about impact are limited to reported experience and attendance patterns."
+      },
+      "h0010": {
+        "title": "Advice Navigation and Referral Pathways",
+        "paragraph": "Advice navigation helped residents understand options for housing, benefits and health services. Navigators did not give legal or financial advice; instead they explained processes and made warm referrals to partner organisations. A referral log recorded the destination and outcome where known. The main difficulty was follow-up, because partner agencies had different recording systems. A shared referral form was piloted with two partners and reduced duplicate contacts, though full adoption across all partners was not achieved."
+      },
+      "h0011": {
+        "title": "Partnerships and External Relationships",
+        "paragraph": "The network worked with local housing providers, health teams and voluntary groups. Partnership agreements set out referral routes, information sharing and review points. During the year, a joint review meeting was held each quarter to discuss recurring issues and service gaps. Partners valued the network's local knowledge but asked for clearer response times. In response, the network committed to acknowledging referrals within 2 working days and completing initial reviews within 5 working days."
+      },
+      "h0012": {
+        "title": "Financial Review and Resource Management",
+        "paragraph": "Financial management focused on keeping service levels stable while controlling costs. Income and expenditure were reviewed monthly against the annual plan, and any variance above an agreed threshold was reported to the trustees. The network maintained a modest operating surplus to cover unexpected repairs and volunteer training. Resource decisions were guided by service demand and by the need to protect frontline hours. The tables below summarise simulated output, cost and balance indicators for the reporting period."
+      },
+      "h0013": {
+        "title": "Income and Expenditure Summary",
+        "paragraph": "Income came from grants, donations and small fundraising events. Expenditure was dominated by staff costs, venue hire and volunteer expenses. The finance group compared actual spending with budget each month and flagged overspending early. A small contingency was held back for urgent repairs and replacement equipment. The summary below presents simulated figures for the reporting year and the preceding year, allowing comparison of output, cost and operating balance."
+      },
+      "h0014": {
+        "title": "Budget Monitoring and Variance Review",
+        "paragraph": "Budget monitoring used a simple monthly template completed by programme leads and reviewed by the finance group. Variances were explained in plain language, with actions agreed where needed. The most common variances arose from venue hire and transport costs. Where a programme consistently underspent, the finance group considered whether the budget was unrealistic or whether activity had been lower than planned. This process helped keep spending within the approved plan without discouraging necessary frontline activity."
+      },
+      "h0015": {
+        "title": "Cost Control Measures",
+        "paragraph": "Cost control measures included renegotiating venue hire, sharing printing with partners and moving some training online. Volunteer expenses were reimbursed promptly but within a clear policy. The network avoided cutting services that had high demand, choosing instead to reduce administrative overheads. A review of supplier contracts identified small savings without affecting service quality. The table below sets out the main measures, their intended effect and the evidence used to judge whether they worked."
+      },
+      "h0016": {
+        "title": "Procurement and Supplier Review",
+        "paragraph": "Procurement followed a simple three-quote rule for purchases above a set threshold. Suppliers were reviewed annually on reliability, cost and fair treatment of workers. The review found that local suppliers offered better response times for repairs, while larger suppliers were cheaper for bulk stationery. Decisions were recorded with the reasons, so that future staff could understand the trade-offs. No single supplier was considered essential, which reduced the risk of disruption."
+      },
+      "h0017": {
+        "title": "Venue Hire Agreements",
+        "paragraph": "Venue hire agreements were kept short and reviewed before renewal. Each agreement set out access times, cleaning responsibilities and cancellation terms. The network preferred venues with step-free access and good public transport links. Two agreements were renegotiated after attendance patterns changed, reducing costs for underused rooms. Coordinators kept a simple log of venue issues, which informed the next round of negotiations."
+      },
+      "h0018": {
+        "title": "Equipment Replacement Planning",
+        "paragraph": "Equipment replacement was planned over a rolling cycle rather than replaced only when broken. Laptops, tablets and kitchen equipment were logged with purchase dates and condition ratings. The finance group approved a small reserve for replacements, and programme leads flagged items likely to fail within the year. This approach avoided sudden costs and kept digital clinics running during busy periods. The log was reviewed every six months."
+      },
+      "h0019": {
+        "title": "Reserves and Contingency Policy",
+        "paragraph": "The reserves policy set a target range for unrestricted funds to cover several months of core costs. The finance group reviewed the target annually against known risks, including volunteer recruitment shortfalls and unexpected repairs. Reserves were not used to fund recurring commitments. Any drawdown required trustee approval and a written explanation. This policy gave the network room to respond to urgent needs while keeping spending transparent."
+      },
+      "h0020": {
+        "title": "Financial Controls and Delegated Authority",
+        "paragraph": "Financial controls separated approval, payment and recording duties. Payments above a set limit required two approvals, and bank reconciliations were reviewed monthly by a trustee. Delegated authority was set out in a short schedule, so staff knew what they could approve without delay. The controls were tested during an internal review, which found no material exceptions but recommended clearer documentation of verbal approvals."
+      },
+      "h0021": {
+        "title": "Audit Preparation and Record Keeping",
+        "paragraph": "Audit preparation began early, with programme leads asked to submit records before the year end. The finance group checked that all income and expenditure were supported by receipts or invoices. Missing records were followed up promptly. The independent examiner noted that records were generally well kept, though some volunteer expense claims lacked sufficient detail. A revised claim form was introduced to address this."
+      },
+      "h0022": {
+        "title": "Governance, Risk and Forward Priorities",
+        "paragraph": "Governance arrangements included a trustee board, a finance subgroup and a safeguarding lead. The risk register was reviewed quarterly, with the highest risks relating to volunteer capacity and reliance on short-term grants. Forward priorities include strengthening volunteer recruitment, improving follow-up with partners and maintaining the reserves target. The board also asked for clearer outcome reporting, so that future annual reports can distinguish observed changes from causal claims more carefully."
+      }
+    },
+    "continuations": [
+      "Service users were invited to comment on accessibility at each venue, and their suggestions were logged for the next planning cycle. This helped coordinators make small but practical adjustments without waiting for a full review.",
+      "Volunteer hours were recorded through a simple sign-in sheet and checked monthly. The records were used for planning rather than performance ranking, and volunteers were told how their data would be used.",
+      "Referral sources were reviewed each quarter to check whether any group was under-represented. Where gaps appeared, coordinators contacted partner agencies to understand the reasons and adjust outreach.",
+      "Case notes were kept brief and factual, with a clear distinction between what was observed and what was inferred. This discipline made internal reviews more reliable and reduced the risk of overstating impact.",
+      "Training records were checked against the active volunteer list to identify anyone due for refresher training. Reminders were sent early, and sessions were offered at different times to improve attendance.",
+      "Feedback forms were available in large print and were read aloud on request. This ensured that people with sight or literacy difficulties could still contribute their views.",
+      "Partner meetings followed a standing agenda covering referrals, information sharing and service gaps. Minutes were circulated within a week, and actions were reviewed at the next meeting.",
+      "Budget variance reports used plain language and avoided jargon, so that programme leads could explain changes without finance training. This improved the quality of discussion at monthly reviews.",
+      "Venue risk assessments were updated before each new activity and after any incident. The assessments covered access, fire exits and first aid arrangements.",
+      "Volunteer expenses were paid within a fortnight of a completed claim. The policy was explained at induction so that no volunteer was out of pocket for legitimate costs.",
+      "The reserves target was discussed openly with trustees, including the trade-off between holding funds and spending on services. No decision was taken without recording the reasons.",
+      "Internal reviews sampled a small number of records each quarter rather than checking everything at year end. This spread the workload and allowed problems to be corrected sooner.",
+      "Safeguarding concerns were logged with the date, action taken and outcome. The safeguarding lead reviewed the log monthly to identify patterns or training needs.",
+      "Digital clinic volunteers kept a list of recurring problems, which was used to update printed guides. The guides were reviewed every few months to keep them accurate.",
+      "Social connection activities were planned with input from participants, who suggested times and formats. This increased attendance at some sessions without additional cost.",
+      "Advice navigation records distinguished between information given and referrals made. This helped the team explain its role clearly and avoid giving advice beyond its competence.",
+      "Supplier reviews considered reliability and fair treatment as well as price. The reasons for each decision were recorded so that future staff could understand the trade-offs.",
+      "Equipment condition ratings were simple and consistent, using a three-point scale. This made it easier to plan replacements and avoid sudden costs.",
+      "The board received a short summary of key risks before each meeting, with actions and owners. This kept attention on the most important issues without lengthy papers.",
+      "Volunteer recruitment focused on digital skills and evening availability, where demand was highest. Advertisements were placed with local groups and colleges.",
+      "Follow-up with partners was limited by different recording systems, so the network piloted a shared form. Early results suggested fewer duplicate contacts, though adoption was partial.",
+      "Outcome reporting was strengthened by separating attendance data from reported experience. This made it clearer what the network could and could not claim about its impact.",
+      "Financial controls were tested by asking a trustee to trace a sample of payments from approval to bank record. The exercise confirmed that the separation of duties was working.",
+      "Audit preparation was supported by a checklist issued to programme leads. The checklist listed the records needed and the deadline for submission.",
+      "Risk register reviews considered both likelihood and impact, using simple descriptors. Actions were assigned to named owners and reviewed at the next meeting.",
+      "Service user feedback was summarised quarterly and shared with volunteers. This helped volunteers see how their work was experienced and where improvements were needed.",
+      "Venue hire negotiations were informed by attendance records, which showed which rooms were underused. This evidence supported requests for lower charges or different terms.",
+      "Training content was reviewed after each cohort, with volunteers asked what was missing. Small changes were made to the induction and refresher modules.",
+      "The finance group kept a simple dashboard of income, expenditure and reserves. The dashboard was shared with trustees before each meeting to support discussion.",
+      "Partnership agreements were kept short and reviewed annually. Each agreement set out referral routes, information sharing and review points.",
+      "Volunteer wellbeing was discussed at supervision sessions, and concerns were escalated to the coordinator. The confidential advice line was available to all volunteers.",
+      "Forward planning assumed that grant income would remain uncertain, so the network avoided commitments that depended on short-term funding. This cautious approach protected core services."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 6164,
+        "completion_tokens": 4159,
+        "total_tokens": 10323,
+        "prompt_tokens_details": {
+          "cached_tokens": 6016
+        },
+        "prompt_cache_hit_tokens": 6016,
+        "prompt_cache_miss_tokens": 148
+      },
+      "finish_reason": "stop",
+      "request_hash": "70ccaa4bb03b43183be18160e7ffdad929fb8ce62d9cdbf5534dbbe9b1e778ff",
+      "schema": "llm-content-v1",
+      "validation_retries": 2,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 4,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

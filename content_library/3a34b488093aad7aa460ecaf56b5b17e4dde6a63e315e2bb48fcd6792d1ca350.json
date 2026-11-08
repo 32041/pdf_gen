@@ -1,0 +1,572 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "legal_contract",
+    "language": "en",
+    "subject": "Fictional document annotation services agreement",
+    "seed": 51,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0014",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0016",
+        "parent_id": "h0014",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0017",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0018",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0019",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0014",
+        "cell_width": 122.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0001",
+        "cell_width": 122.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0001",
+        "cell_width": 122.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0012",
+        "cell_width": 122.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0010",
+        "cell_width": 122.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0016",
+        "cell_width": 122.0,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "81.89",
+      "output_2": "95.34",
+      "output_3": "102.86",
+      "output_4": "119.39",
+      "cost_1": "53.23",
+      "cost_2": "61.97",
+      "cost_3": "66.86",
+      "cost_4": "77.60",
+      "balance_1": "28.66",
+      "balance_2": "33.37",
+      "balance_3": "36.00",
+      "balance_4": "41.79",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "45.8"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Fictional Document Annotation Services Agreement",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Fictional Document Annotation Services Agreement",
+        "paragraph": "This agreement governs the provision of document annotation services by AnnotaWorks Ltd. to the Client for a term of [[F:agreement_months]] months, with a total projected service output of [[F:output_4]] thousand annotated units and a corresponding cost of [[F:cost_4]] thousand, yielding an operating surplus of [[F:balance_4]] thousand as simulated in the pricing model. The parties agree to the scope, obligations, and quality standards set forth in the following sections."
+      },
+      {
+        "id": "h0002",
+        "title": "Scope of Services",
+        "paragraph": "The scope defines the annotation tasks, volume, and delivery schedule. The Provider shall annotate documents according to the guidelines and quality thresholds specified herein, ensuring timely delivery and adherence to the agreed standards across every batch produced during the term."
+      },
+      {
+        "id": "h0003",
+        "title": "Annotation Tasks and Deliverables",
+        "paragraph": "This section details the specific annotation tasks, including entity recognition, relation extraction, and classification, and the format of deliverables. Each task is subject to acceptance criteria and review procedures before any batch is deemed complete and eligible for invoicing."
+      },
+      {
+        "id": "h0004",
+        "title": "Task Descriptions and Guidelines",
+        "paragraph": "The Provider shall perform annotation tasks as described in the guidelines, which cover labeling conventions, edge cases, and quality checks. The guidelines are incorporated by reference and may be updated by mutual written agreement of the parties when task definitions evolve."
+      },
+      {
+        "id": "h0005",
+        "title": "Quality Assurance and Review",
+        "paragraph": "The Provider shall implement a quality assurance process, including sample reviews and feedback loops, to maintain annotation accuracy and consistency. The Client may conduct periodic audits to verify compliance with the agreed thresholds and documented conventions."
+      },
+      {
+        "id": "h0006",
+        "title": "Sampling and Accuracy Checks",
+        "paragraph": "The Provider shall perform sampling on [[F:sample_count]] units per batch and report accuracy metrics. The Client may request additional checks if accuracy falls below the agreed threshold, and the Provider shall bear the cost of any expanded sampling required."
+      },
+      {
+        "id": "h0007",
+        "title": "Error Correction and Rework",
+        "paragraph": "Errors identified during reviews shall be corrected within [[F:review_days]] business days. Rework shall be at the Provider's expense if errors exceed the agreed error rate, and repeated failures may trigger the service credit remedies described later in this agreement."
+      },
+      {
+        "id": "h0008",
+        "title": "Delivery Schedule and Format",
+        "paragraph": "Deliverables shall be submitted according to the schedule set out in the milestone table, in the specified electronic format. Late deliveries may incur penalties as set forth in the service levels, and the Client may reject batches that fail format checks."
+      },
+      {
+        "id": "h0009",
+        "title": "Client Responsibilities",
+        "paragraph": "The Client shall provide timely access to source documents, guidelines, and feedback, and shall designate a point of contact for approvals and clarifications. Delays caused by the Client shall extend affected deadlines by a corresponding period."
+      },
+      {
+        "id": "h0010",
+        "title": "Acceptance Criteria",
+        "paragraph": "Acceptance of deliverables is conditional on meeting the quality metrics and format requirements. The Client shall notify the Provider of acceptance or rejection within [[F:response_days]] business days, and silence beyond that period shall be treated as acceptance."
+      },
+      {
+        "id": "h0011",
+        "title": "Service Levels and Performance",
+        "paragraph": "The Provider shall meet the service levels specified herein, including response times and accuracy targets, to ensure reliable and consistent service delivery throughout the term and across all workstreams assigned to it."
+      },
+      {
+        "id": "h0012",
+        "title": "Performance Metrics and Reporting",
+        "paragraph": "The Provider shall report monthly on key performance indicators, including output volume and accuracy. The metrics are used to assess service levels and identify areas for improvement, and the reporting format is set out in the metrics template."
+      },
+      {
+        "id": "h0013",
+        "title": "Service Credits and Remedies",
+        "paragraph": "If the Provider fails to meet service levels, service credits may apply as a remedy. The credits are calculated based on the extent of the shortfall and are subject to the limitations described in the credit provisions of this agreement."
+      },
+      {
+        "id": "h0014",
+        "title": "Credit Calculation and Application",
+        "paragraph": "Service credits are calculated as a percentage of the monthly fee, as detailed in the credit schedule table. Credits are applied to the next invoice and are the sole remedy for performance shortfalls, except where termination rights apply."
+      },
+      {
+        "id": "h0015",
+        "title": "Credit Request Procedure",
+        "paragraph": "The Client must request service credits within [[F:response_days]] business days of the shortfall, providing evidence. The Provider shall verify and apply credits promptly, and disputed claims shall be escalated to the review meeting."
+      },
+      {
+        "id": "h0016",
+        "title": "Limitations on Credits",
+        "paragraph": "Service credits shall not exceed the total fees paid for the affected month and are not available for force majeure events or Client-caused delays. The limitation table lists the caps that apply to each shortfall type."
+      },
+      {
+        "id": "h0017",
+        "title": "Performance Review Meetings",
+        "paragraph": "The parties shall hold quarterly performance review meetings to discuss metrics, resolve issues, and plan improvements. Minutes shall be recorded and signed by both parties, and agreed actions shall be tracked until closure."
+      },
+      {
+        "id": "h0018",
+        "title": "Reporting Obligations",
+        "paragraph": "The Provider shall submit monthly reports on annotation output, accuracy, and compliance with service levels. Reports shall be in a format agreed by the parties and shall accompany each invoice submitted for the relevant period."
+      },
+      {
+        "id": "h0019",
+        "title": "Continuous Improvement",
+        "paragraph": "The Provider shall propose and implement continuous improvement initiatives to enhance quality and efficiency, subject to the Client's approval. Progress on approved initiatives shall be summarized in the quarterly review meetings."
+      }
+    ],
+    "continuations": [
+      "The parties acknowledge that the projected output and cost figures are simulated and subject to adjustment based on actual volumes and complexity.",
+      "All timelines are calculated from the effective date and exclude public holidays and force majeure events.",
+      "The Provider shall maintain records of all annotations for audit purposes for the duration of the agreement and [[F:agreement_months]] months thereafter.",
+      "Any changes to the guidelines or scope must be documented in a written amendment signed by both parties.",
+      "The Client shall ensure that source documents are free from malicious code and comply with applicable laws.",
+      "The Provider shall ensure that its personnel are adequately trained on the guidelines before commencing work.",
+      "Confidentiality obligations survive termination of this agreement for a period of [[F:agreement_months]] months.",
+      "Disputes shall be resolved through good-faith negotiations, with escalation to senior management if necessary.",
+      "The Provider shall not subcontract any portion of the services without the Client's prior written consent.",
+      "The Client may terminate this agreement for cause with [[F:response_days]] days' written notice if the Provider fails to cure a material breach.",
+      "The Provider shall comply with all applicable data protection laws and shall not transfer personal data without safeguards.",
+      "Invoices shall be submitted monthly and are payable within [[F:response_days]] days of receipt.",
+      "The Provider shall provide a helpdesk for queries during business hours, with response times as specified in the service levels.",
+      "The parties shall cooperate in the event of a disaster to ensure continuity of services.",
+      "The Provider shall return or destroy all Client data upon termination, as instructed by the Client.",
+      "Any notices under this agreement shall be in writing and delivered by hand or email to the addresses specified.",
+      "The agreement constitutes the entire understanding between the parties and supersedes all prior agreements.",
+      "The Provider shall maintain insurance coverage adequate for its obligations under this agreement.",
+      "The Client shall have the right to audit the Provider's records related to the services once per year.",
+      "The Provider shall promptly notify the Client of any suspected data breach or security incident.",
+      "The parties shall use reasonable efforts to mitigate the impact of any delay or failure.",
+      "The Provider shall ensure that its systems are compatible with the Client's specified formats.",
+      "The Client shall provide timely feedback on deliverables to facilitate the review process.",
+      "The Provider shall assign a project manager as the primary point of contact for the Client.",
+      "The parties shall review the service levels annually and adjust them by mutual agreement.",
+      "The Provider shall not use the Client's name in any publicity without prior written consent.",
+      "The agreement shall be governed by the laws of the fictional jurisdiction of Novaria.",
+      "The Provider shall maintain a business continuity plan and test it annually.",
+      "The Client shall be responsible for obtaining any necessary licenses for the source documents.",
+      "The Provider shall ensure that its subcontractors, if any, comply with the terms of this agreement.",
+      "The parties shall exchange contact details for operational and escalation purposes.",
+      "The Provider shall provide training to the Client's staff on the annotation tools as requested."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Service credit schedule based on performance shortfall",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Shortfall Level",
+            "Credit Percentage",
+            "Notification Period",
+            "Maximum Credit"
+          ],
+          [
+            "Minor",
+            "[[F:balance_1]]%",
+            "[[F:response_days]] days",
+            "[[F:balance_1]]% of fee"
+          ],
+          [
+            "Moderate",
+            "[[F:balance_2]]%",
+            "[[F:response_days]] days",
+            "[[F:balance_2]]% of fee"
+          ],
+          [
+            "Major",
+            "[[F:balance_3]]%",
+            "[[F:response_days]] days",
+            "[[F:balance_3]]% of fee"
+          ],
+          [
+            "Critical",
+            "[[F:balance_4]]%",
+            "[[F:response_days]] days",
+            "[[F:balance_4]]% of fee"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Projected annual output and cost for annotation services",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Year",
+            "Output (thousand units)",
+            "Cost (thousand)",
+            "Operating Surplus (thousand)"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Key milestones and payment schedule",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Milestone",
+            "Due Date",
+            "Payment Amount",
+            "Deliverable"
+          ],
+          [
+            "Contract signing",
+            "Day [[F:response_days]]",
+            "[[F:cost_1]]",
+            "Signed agreement"
+          ],
+          [
+            "First batch",
+            "Week [[F:duration_weeks]]",
+            "[[F:cost_2]]",
+            "Annotated batch"
+          ],
+          [
+            "Midterm review",
+            "Week [[F:duration_weeks]]",
+            "[[F:cost_3]]",
+            "Review report"
+          ],
+          [
+            "Final delivery",
+            "Week [[F:duration_weeks]]",
+            "[[F:cost_4]]",
+            "Final deliverables"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Monthly performance metrics reporting template",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Metric",
+            "Target",
+            "Actual",
+            "Status"
+          ],
+          [
+            "Output volume",
+            "[[F:output_4]]",
+            "[[F:output_4]]",
+            "On track"
+          ],
+          [
+            "Accuracy",
+            "[[F:balance_4]]%",
+            "[[F:balance_4]]%",
+            "Met"
+          ],
+          [
+            "Response time",
+            "[[F:response_days]] days",
+            "[[F:response_days]] days",
+            "Met"
+          ],
+          [
+            "Review time",
+            "[[F:review_days]] days",
+            "[[F:review_days]] days",
+            "Met"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Acceptance criteria checklist for deliverables",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "Requirement",
+            "Verification Method",
+            "Pass/Fail"
+          ],
+          [
+            "Format compliance",
+            "XML schema",
+            "Automated check",
+            "Pass"
+          ],
+          [
+            "Accuracy threshold",
+            "[[F:balance_4]]%",
+            "Sampling",
+            "Pass"
+          ],
+          [
+            "Completeness",
+            "All fields",
+            "Manual review",
+            "Pass"
+          ],
+          [
+            "Timeliness",
+            "Per schedule",
+            "Timestamp",
+            "Pass"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Limitations on service credits by shortfall type",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Shortfall Type",
+            "Credit Cap",
+            "Exclusions",
+            "Remedy"
+          ],
+          [
+            "Accuracy",
+            "[[F:balance_4]]%",
+            "Force majeure",
+            "Credit only"
+          ],
+          [
+            "Timeliness",
+            "[[F:balance_3]]%",
+            "Client delay",
+            "Credit only"
+          ],
+          [
+            "Completeness",
+            "[[F:balance_2]]%",
+            "Guideline changes",
+            "Credit only"
+          ],
+          [
+            "Format",
+            "[[F:balance_1]]%",
+            "Tool failure",
+            "Credit only"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4776,
+      "completion_tokens": 2916,
+      "total_tokens": 7692,
+      "prompt_tokens_details": {
+        "cached_tokens": 1792
+      },
+      "prompt_cache_hit_tokens": 1792,
+      "prompt_cache_miss_tokens": 2984
+    },
+    "finish_reason": "stop",
+    "request_hash": "3a34b488093aad7aa460ecaf56b5b17e4dde6a63e315e2bb48fcd6792d1ca350",
+    "schema": "llm-content-v1",
+    "validation_retries": 2,
+    "cache_hit": false
+  }
+}

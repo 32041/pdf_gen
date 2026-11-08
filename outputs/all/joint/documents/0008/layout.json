@@ -1,0 +1,2218 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            180.0,
+            62.0,
+            432.0,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "区域供水服务企业年度运营报告",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            547.3100003004074,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本报告汇总虚构区域供水服务企业在2025年度的供水运营、财务表现与服务治理情况。报告以四个年度可",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            545.0,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "比口径的模拟指标为基础，说明供水量、运营成本与运营结余的变化轨迹，并交代数据来源、核对方法与",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            545.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "责任分工。读者应将其视为内部管理复盘材料，而非对外披露文件；所有数值均为模拟口径，用于检验指",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            167.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "标之间的逻辑一致性。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            173.00000000000003,
+            175.1795001477003,
+            189.27500000000003
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            195.27500000000003,
+            550.0,
+            329.27500000000003
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "环节",
+              "承担角色",
+              "主要职责",
+              "输出记录"
+            ],
+            [
+              "编制",
+              "编制组",
+              "汇总指标",
+              "报告底稿"
+            ],
+            [
+              "复核",
+              "财务与运营",
+              "口径比对",
+              "复核记录"
+            ],
+            [
+              "审定",
+              "管理层",
+              "结论确认",
+              "会议纪要"
+            ],
+            [
+              "归档",
+              "综合岗",
+              "版本保存",
+              "归档清单"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            195.27500000000003,
+            550.0,
+            362.27500000000003
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            336.27500000000003,
+            179.12150011956692,
+            349.45000000000005
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 1：报告编制与审定环节职责",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            362.27500000000003,
+            174.0,
+            383.975
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "年度运营总体回顾",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            387.975,
+            545.0,
+            404.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "回顾期内，企业围绕安全供水、成本控制与用户服务三条主线推进工作。管理层按季度比对供水量与运营",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.25,
+            545.0,
+            420.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "成本的匹配关系，识别管网漏损与能耗波动带来的偏差，并将偏差纳入下一季度调度计划。总体判断是运",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            420.525,
+            377.0,
+            436.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "营规模稳步扩大，但成本增速与服务水平之间的平衡仍需持续观察。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            442.79999999999995,
+            175.1795001477003,
+            459.07499999999993
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            465.07499999999993,
+            550.0,
+            599.0749999999999
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "运营主线",
+              "关注要点",
+              "比对方式",
+              "跟踪部门"
+            ],
+            [
+              "安全供水",
+              "水质记录",
+              "季度比对",
+              "水质组"
+            ],
+            [
+              "成本控制",
+              "能耗波动",
+              "季度比对",
+              "财务组"
+            ],
+            [
+              "用户服务",
+              "响应时效",
+              "月度汇总",
+              "服务组"
+            ],
+            [
+              "管网维护",
+              "漏损记录",
+              "季度比对",
+              "运营组"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            465.07499999999993,
+            550.0,
+            632.0749999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            606.0749999999999,
+            196.12150011956692,
+            619.2499999999999
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 1：年度运营主线与季度关注要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            632.0749999999999,
+            174.0,
+            650.675
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "供水规模与成本表现",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            654.675,
+            545.0,
+            670.9499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "本节以四个年度的供水量、运营成本与运营结余序列为骨架，说明规模扩张与成本投入之间的关系。分析",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.9499999999999,
+            545.0,
+            687.2249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "采用同口径折算，排除一次性检修支出对可比性的干扰，并对异常月份单独标注。结论仅描述模拟观测到",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            687.2249999999999,
+            303.5,
+            703.4999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "的关联，不对扩张与成本之间的因果方向作出断言。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            160.0,
+            79.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "核心指标年度序列",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            544.8635017573833,
+            99.325
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "核心指标序列覆盖2022至2025四个年度。供水量由76.52升至117.55，运营成本由49.74升至76.41，运营",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            544.9580005407333,
+            115.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "结余由26.78升至41.14。财务与运营部门共同复核了口径一致性，确认各年度均按同一折算规则处理，未",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            177.5,
+            131.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "对历史数据作追溯调整。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            137.875,
+            151.5,
+            154.15
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "供水量变化解读",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            158.15,
+            544.4015001952648,
+            174.425
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "供水量在四个年度内累计增长53.6个百分点，增长主要出现在用水需求集中的季节。调度部门结合分区计",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            174.425,
+            545.0,
+            190.70000000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "量记录核对增量来源，区分新增用户接入与季节性波动两类因素。由于缺少对照区域数据，本报告不将增",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            190.70000000000002,
+            324.5,
+            206.97500000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "长归因于单一因素，仅将其列为后续跟踪的重点观察项。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            212.97500000000002,
+            162.0,
+            229.25000000000003
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "成本结构变动解读",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            233.25000000000003,
+            545.0,
+            249.52500000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "运营成本的增长与供水量扩张在时间上同步，但两者比例并不恒定。成本核算组按能耗、药剂、人工与维",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            249.52500000000003,
+            545.0,
+            265.8
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "护四类归集支出，发现能耗与维护两类波动最明显。该结果提示成本管理应聚焦于设备运行效率，而非简",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            265.8,
+            261.5,
+            282.075
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "单压缩总量；相关判断仍需更长序列验证。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            288.075,
+            171.0,
+            305.125
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "结余与可持续性观察",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            309.125,
+            545.0,
+            325.4
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "运营结余逐年上升，为管网更新与应急储备提供了空间。财务组建议将结余的一部分定向用于老旧管段替",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            325.4,
+            545.0,
+            341.67499999999995
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "换，另一部分保留为流动性缓冲。该配置方案属于管理建议，尚未经过预算审批程序，实际执行需结合下",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            341.67499999999995,
+            188.0,
+            357.94999999999993
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "一年度资本计划统筹安排。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            363.94999999999993,
+            172.5,
+            380.2249999999999
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "结余资金配置与审批",
+          "parent_id": "h0007",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            384.2249999999999,
+            539.7290002703667,
+            400.4999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "财务组提出的结余配置思路，将资金划分为管网更新与流动性缓冲两类用途。从数据看，结余由26.78逐",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            400.4999999999999,
+            539.7290002703667,
+            416.77499999999986
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "步增至41.14，具备一定腾挪空间。但该方案目前仅为内部管理建议，尚需经过预算审批程序，并与下一",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            416.77499999999986,
+            230.0,
+            433.04999999999984
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "年度资本计划衔接后才能落地执行。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            439.04999999999984,
+            183.0,
+            455.3249999999998
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "结余增长的持续性判断",
+          "parent_id": "h0007",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            459.3249999999998,
+            549.5780011415482,
+            475.5999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "结余连续增长的基础在于供水量与成本之间的差额保持稳定。2022至2025期间，结余从26.78升至41.14，",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            475.5999999999998,
+            545.0,
+            491.8749999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "增幅温和。后续需关注成本端波动对结余的侵蚀，若成本增速超过供水量增速，结余空间可能收窄，因此",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            491.8749999999998,
+            188.0,
+            508.14999999999975
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "应保留必要的流动性缓冲。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            514.1499999999997,
+            174.0,
+            532.7499999999998
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "指标口径与核对清单",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            536.7499999999998,
+            545.0,
+            553.0249999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "为确保各年度数据可比，报告编制组制定了统一的核对清单，明确指标定义、取数来源、复核责任人与异",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.0249999999997,
+            545.0,
+            569.2999999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "常处理规则。清单在每季度结账后执行一次，发现差异须在复核记录中说明原因。下表列出主要核对事项",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            569.2999999999997,
+            293.0,
+            585.5749999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "及其责任分工，供后续审计与内部复核参照使用。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            591.5749999999997,
+            175.1795001477003,
+            607.8499999999997
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            613.8499999999997,
+            188.0,
+            635.5499999999997
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "服务治理与用户响应",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            639.5499999999997,
+            545.0,
+            655.8249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "服务治理部分聚焦用户报修响应、水质投诉处理与信息公开三项工作。企业按区域划分服务网格，明确首",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            655.8249999999997,
+            545.0,
+            672.0999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "接责任与升级路径，并定期回访高风险用户。治理成效通过响应时效与办结质量两类记录衡量，相关数据",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            672.0999999999997,
+            272.0,
+            688.3749999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "由服务部门按月汇总，纳入管理层例会审议。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            694.3749999999997,
+            175.1795001477003,
+            710.6499999999996
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            175.1795001477003,
+            78.275
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            175.1795001477003,
+            100.55000000000001
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            106.55000000000001,
+            174.0,
+            125.15
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "响应机制与处理流程",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            129.15,
+            545.0,
+            145.425
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "响应机制以工单系统为载体，从受理、派单、现场处理到回访形成闭环。流程设计强调时限约束与责任可",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            145.425,
+            545.0,
+            161.70000000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "追溯，避免工单在部门之间滞留。服务部门与调度部门共享工单状态，遇到管网突发情况时同步启动应急",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            161.70000000000002,
+            240.5,
+            177.97500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "通道，确保用户知情与处置进度一致。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            183.97500000000002,
+            171.0,
+            201.02500000000003
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "响应时效与办结质量",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            205.02500000000003,
+            545.0,
+            221.30000000000004
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "响应时效以受理至首次到场的时间衡量，办结质量以回访确认与重复报修率衡量。两类记录按月度汇总后",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            221.30000000000004,
+            545.0,
+            237.57500000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "与目标值比对，偏差较大的网格须提交原因说明。本节数据来自服务系统导出记录，属于模拟观测，不构",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            237.57500000000005,
+            188.0,
+            253.85000000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "成对服务水平的因果解释。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            259.85,
+            162.0,
+            276.125
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "首次响应时限执行",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            280.125,
+            540.3275000751019,
+            296.4
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "首次响应时限设定为2天内到场，适用于常规报修场景。执行记录显示多数工单在时限内完成首次到场，",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            296.4,
+            545.0,
+            312.67499999999995
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "超时工单主要集中在偏远网格与恶劣天气时段。服务部门据此调整了值班排班与车辆调度，并将超时原因",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.67499999999995,
+            219.5,
+            328.94999999999993
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "分类归档，供后续流程优化参考。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            334.94999999999993,
+            151.5,
+            351.2249999999999
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "回访与复核安排",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            355.2249999999999,
+            540.3275000751019,
+            371.4999999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "回访在工单办结后5天内完成，重点确认问题是否彻底解决以及用户对处理过程的评价。复核由服务质量",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            371.4999999999999,
+            545.0,
+            387.77499999999986
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "岗抽查一定比例的工单，核对现场记录与系统状态是否一致。抽查发现的记录缺失问题已纳入整改清单，",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            387.77499999999986,
+            177.5,
+            404.04999999999984
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "由网格负责人限期补正。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            410.04999999999984,
+            171.0,
+            427.09999999999985
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "信息公开与用户沟通",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            431.09999999999985,
+            545.0,
+            447.37499999999983
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "信息公开覆盖水质公告、停水通知与服务承诺三类内容，通过服务窗口与线上渠道同步发布。沟通工作强",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            447.37499999999983,
+            545.0,
+            463.6499999999998
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "调提前告知与用语清晰，避免因信息滞后引发集中咨询。服务部门定期收集用户反馈，将高频问题整理为",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            463.6499999999998,
+            219.5,
+            479.9249999999998
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "问答口径，供一线人员统一使用。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            485.9249999999998,
+            162.0,
+            504.5249999999998
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "下一年度工作重点",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            508.5249999999998,
+            545.0,
+            524.7999999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "下一年度工作围绕管网更新、成本精细化与响应时效提升展开。管理层要求各业务组在年初提交可量化的",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            524.7999999999998,
+            545.0,
+            541.0749999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "改进目标，并按季度复盘执行进度。报告建议将本年度识别的薄弱环节纳入专项跟踪，同时保持指标口径",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            541.0749999999998,
+            272.0,
+            557.3499999999998
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "稳定，以便跨年度比较不因定义调整而失真。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            563.3499999999998,
+            545.0,
+            579.6249999999998
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "报告编制过程中，各业务组提交的原始记录须与系统导出数据逐项比对，差异说明应附在复核底稿中，便",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.6249999999998,
+            156.5,
+            595.8999999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "于后续查阅与追溯。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            601.8999999999997,
+            545.0,
+            618.1749999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "指标口径一旦调整，应在报告中同步说明调整范围与影响，避免跨年度比较出现口径断层，影响管理层判",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            618.1749999999997,
+            83.0,
+            634.4499999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "断。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            640.4499999999997,
+            534.5,
+            656.7249999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "对于波动明显的月份，建议单独列示原因分类，而不将其简单并入年度均值，以保留异常信息的诊断价",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            656.7249999999997,
+            83.0,
+            672.9999999999997
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "值。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            678.9999999999997,
+            545.0,
+            695.2749999999996
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "服务工单的时限记录依赖系统时间戳，若存在人工补录情形，应在复核时标注，避免时效统计被高估或低",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            695.2749999999996,
+            83.0,
+            711.5499999999996
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "估。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            545.0,
+            78.275
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "成本归集应保持分类稳定，临时性支出若需单列，应说明其性质与金额来源，防止与常规运营支出混淆。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            84.275,
+            550.0,
+            218.275
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "环节",
+              "时限要求",
+              "记录方式",
+              "复核安排"
+            ],
+            [
+              "首次到场",
+              "2天",
+              "系统时间戳",
+              "月度抽查"
+            ],
+            [
+              "办结回访",
+              "5天",
+              "回访记录",
+              "质量岗复核"
+            ],
+            [
+              "超时说明",
+              "按工单",
+              "原因分类",
+              "网格负责"
+            ],
+            [
+              "记录补正",
+              "限期",
+              "整改清单",
+              "服务组验收"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            84.275,
+            550.0,
+            251.275
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            179.12150011956692,
+            238.45000000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 2：响应时效与回访安排要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "核对事项",
+              "取数来源",
+              "复核责任",
+              "异常处理"
+            ],
+            [
+              "供水量口径",
+              "调度系统",
+              "运营组",
+              "月度说明"
+            ],
+            [
+              "成本归集",
+              "财务台账",
+              "财务组",
+              "分类复核"
+            ],
+            [
+              "结余计算",
+              "财务台账",
+              "财务组",
+              "交叉验算"
+            ],
+            [
+              "服务工单",
+              "服务系统",
+              "服务组",
+              "抽查归档"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            62,
+            550.0,
+            229
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            203.0,
+            196.12150011956692,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 2：指标核对事项与责任分工清单",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62,
+            229,
+            550.0,
+            363
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "年度",
+              "供水量",
+              "运营成本",
+              "运营结余"
+            ],
+            [
+              "2022",
+              "76.52",
+              "49.74",
+              "26.78"
+            ],
+            [
+              "2023",
+              "91.04",
+              "59.18",
+              "31.86"
+            ],
+            [
+              "2024",
+              "106.77",
+              "69.40",
+              "37.37"
+            ],
+            [
+              "2025",
+              "117.55",
+              "76.41",
+              "41.14"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62,
+            229,
+            550.0,
+            396
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            370.0,
+            170.62150011956692,
+            383.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 3：年度核心指标序列对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62,
+            396,
+            550.0,
+            530
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "工作事项",
+              "主责部门",
+              "汇总频次",
+              "审议方式"
+            ],
+            [
+              "报修响应",
+              "服务组",
+              "按月",
+              "例会审议"
+            ],
+            [
+              "水质投诉",
+              "水质组",
+              "按月",
+              "例会审议"
+            ],
+            [
+              "信息公开",
+              "服务组",
+              "按季",
+              "书面意见"
+            ],
+            [
+              "回访复核",
+              "质量岗",
+              "按月",
+              "抽查记录"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62,
+            396,
+            550.0,
+            563
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62,
+            537.0,
+            196.12150011956692,
+            550.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 3：服务治理工作事项与审议节奏",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

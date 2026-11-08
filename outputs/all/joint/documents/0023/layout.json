@@ -1,0 +1,6690 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            122.68212890625,
+            52.0,
+            489.31787109375,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "1 Assessment Overview and Instructions",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            295.5595703125,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This examination assesses your ability to reason",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            294.109375,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "about data quality in realistic scenarios. You will",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            254.099609375,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "encounter incomplete, inconsistent, and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            288.201171875,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "ambiguous records. For each question, identify",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            260.45703125,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the quality dimension at stake, propose a",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            169.4,
+            260.1396484375,
+            184.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "diagnostic step, and justify a remediation",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            184.9,
+            276.9951171875,
+            200.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "decision. Answers are evaluated on clarity of",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            200.4,
+            273.7529296875,
+            215.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "reasoning, appropriate use of evidence, and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            215.9,
+            290.3740234375,
+            231.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "recognition of trade-offs. The paper is designed",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            231.4,
+            285.095703125,
+            246.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "for a 12-week module with 24 sessions and 48",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            246.9,
+            288.4990234375,
+            262.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "teaching hours; allocate your time accordingly.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            262.4,
+            284.1923828125,
+            277.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "Simulated observations must be distinguished",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            277.9,
+            149.2412109375,
+            293.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "from causal claims.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            299.4,
+            265.623046875,
+            321.09999999999997
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1.1 Section A: Data Quality",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            321.09999999999997,
+            149.9931640625,
+            342.79999999999995
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Foundations",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            346.79999999999995,
+            278.435546875,
+            362.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "This section tests foundational concepts. You",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            362.29999999999995,
+            233.9873046875,
+            377.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "must define key dimensions such as",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            377.79999999999995,
+            269.5439453125,
+            393.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "completeness, consistency, timeliness, and",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.29999999999995,
+            258.9677734375,
+            408.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "accuracy, and apply them to short cases.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            408.79999999999995,
+            279.861328125,
+            424.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Questions require you to distinguish between",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            424.29999999999995,
+            285.427734375,
+            439.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "intrinsic and contextual quality, and to explain",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            439.79999999999995,
+            283.0693359375,
+            455.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "how measurement choices affect conclusions.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            455.29999999999995,
+            288.6552734375,
+            470.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Use the provided scenario descriptions and the",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            470.79999999999995,
+            290.4033203125,
+            486.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "sample of 240 records across 4 sites to support",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            486.29999999999995,
+            281.033203125,
+            501.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "your answers. Avoid asserting causation from",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            501.79999999999995,
+            251.4189453125,
+            517.3
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "cross-sectional patterns; instead, frame",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            517.3,
+            291.4580078125,
+            532.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "plausible mechanisms and note what additional",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            532.8,
+            189.802734375,
+            548.3
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "evidence would be needed.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            554.3,
+            280.876953125,
+            569.8
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            316.0,
+            91.9,
+            560.0,
+            225.9
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Dimension",
+              "Question",
+              "Diagnostic",
+              "Example check"
+            ],
+            [
+              "Completeness",
+              "Are values missing?",
+              "Missingness pattern",
+              "By site and urgency"
+            ],
+            [
+              "Consistency",
+              "Do sources agree?",
+              "Conflict rate",
+              "Key field matches"
+            ],
+            [
+              "Timeliness",
+              "Is data current?",
+              "Lag distribution",
+              "Refresh versus use"
+            ],
+            [
+              "Accuracy",
+              "Is data correct?",
+              "Validation sample",
+              "Gold-standard subset"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            316.0,
+            91.9,
+            560.0,
+            258.9
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            232.9,
+            550.194091796875,
+            246.07500000000002
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Figure 1: Data quality dimensions and diagnostic focus",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            258.9,
+            556.37890625,
+            277.5
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1.1 Diagnosing Missing Values in",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            277.5,
+            429.95703125,
+            296.1
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "a Clinic Registry",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            300.1,
+            533.138671875,
+            315.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "A clinic registry contains missing values for",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            315.6,
+            544.10546875,
+            331.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "patient age and visit date. Some missingness",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            331.1,
+            552.6064453125,
+            346.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "appears related to site and to whether the visit",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            346.6,
+            517.9775390625,
+            362.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "was urgent. (a) Classify the missingness",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            362.1,
+            557.3720703125,
+            377.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "mechanism you suspect and justify your choice.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            377.6,
+            536.9033203125,
+            393.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "(b) Propose two diagnostic checks using the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            393.1,
+            515.2333984375,
+            408.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "available 240 records across 4 sites. (c)",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            408.6,
+            541.4150390625,
+            424.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Recommend a handling strategy and explain",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            424.1,
+            540.78515625,
+            439.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "how it might bias downstream estimates. (d)",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            439.6,
+            541.859375,
+            455.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "State one limitation of your recommendation",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            455.1,
+            551.6396484375,
+            470.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "and what additional data would strengthen the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            470.6,
+            518.6904296875,
+            486.1
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "analysis. Your answer should distinguish",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            486.1,
+            540.1064453125,
+            501.6
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "observed patterns from causal explanations.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            507.6,
+            501.60546875,
+            526.2
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.2 Resolving Conflicting",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            320.0,
+            526.2,
+            535.49609375,
+            544.8000000000001
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Records Across Source Systems",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            548.8000000000001,
+            550.1455078125,
+            564.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Two source systems report different values for",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            564.3000000000001,
+            547.6748046875,
+            579.8000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "the same entity. System A is updated within 2",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            579.8000000000001,
+            556.4296875,
+            595.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "days, while System B undergoes review every 5",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            595.3000000000001,
+            541.1953125,
+            610.8000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "days. (a) Describe a reconciliation procedure",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            610.8000000000001,
+            538.2509765625,
+            626.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "that accounts for update latency and review",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            626.3000000000001,
+            557.03515625,
+            641.8000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "cycles. (b) Specify which record you would treat",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            641.8000000000001,
+            545.482421875,
+            657.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "as authoritative and why. (c) Explain how you",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            657.3000000000001,
+            509.0029296875,
+            672.8000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "would document the decision for audit",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            672.8000000000001,
+            542.4990234375,
+            688.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "purposes. (d) Identify a risk of your approach",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            688.3000000000001,
+            552.416015625,
+            703.8000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "and a mitigation. Use the comparison matrix in",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            703.8000000000001,
+            556.91796875,
+            719.3000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "the table to structure your reasoning, and avoid",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            273.46484375,
+            67.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "claiming that one system is inherently more",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            188.240234375,
+            83.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "accurate without evidence.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            89.0,
+            276.912109375,
+            104.5
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            110.5,
+            296.0,
+            244.5
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Activity",
+              "Cadence",
+              "Owner",
+              "Output"
+            ],
+            [
+              "Data refresh",
+              "2 days",
+              "Operations",
+              "Updated dataset"
+            ],
+            [
+              "Quality review",
+              "5 days",
+              "Data team",
+              "Issue log"
+            ],
+            [
+              "User feedback",
+              "Monthly",
+              "Product",
+              "Prioritized fixes"
+            ],
+            [
+              "Audit",
+              "Quarterly",
+              "Governance",
+              "Audit report"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            110.5,
+            296.0,
+            277.5
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            251.5,
+            249.23486328125,
+            264.675
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Figure 2: Fitness-for-use assessment schedule",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            277.5,
+            283.46484375,
+            299.2
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.2 Assessing Timeliness and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            299.2,
+            170.740234375,
+            320.9
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Fitness for Use",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            324.9,
+            296.0,
+            458.9
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "System A",
+              "System B",
+              "Implication"
+            ],
+            [
+              "Update lag",
+              "2 days",
+              "5 days",
+              "Freshness differs"
+            ],
+            [
+              "Review cycle",
+              "Continuous",
+              "Periodic",
+              "Audit timing"
+            ],
+            [
+              "Authority basis",
+              "Operational",
+              "Curated",
+              "Context matters"
+            ],
+            [
+              "Risk",
+              "Stale data",
+              "Delayed fixes",
+              "Mitigation needed"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            324.9,
+            296.0,
+            505.9
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            465.9,
+            266.7412109375,
+            479.075
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 1: Comparison of source system update and",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            479.075,
+            109.395751953125,
+            492.25
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "review cycles",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            505.9,
+            288.6357421875,
+            521.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "A dashboard reports operational metrics with a",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            521.4,
+            281.9609375,
+            536.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "refresh lag. Users complain that decisions are",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            536.9,
+            242.3662109375,
+            552.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "based on stale information. (a) Define",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            552.4,
+            293.9287109375,
+            567.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "timeliness in this context and distinguish it from",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            567.9,
+            245.173828125,
+            583.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "accuracy. (b) Propose a fitness-for-use",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            583.4,
+            278.7138671875,
+            598.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "assessment that considers the decision cycle",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            598.9,
+            265.310546875,
+            614.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "and the cost of delay. (c) Recommend one",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            614.4,
+            290.73046875,
+            629.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "process change and one measurement change.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            629.9,
+            294.8955078125,
+            645.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "(d) Explain how you would evaluate whether the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            645.4,
+            282.966796875,
+            660.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "change improved decision quality, noting that",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            660.9,
+            272.703125,
+            676.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "observed improvements may not be causal.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            676.4,
+            272.263671875,
+            691.9
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Refer to the schedule table for the intended",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            691.9,
+            133.7626953125,
+            707.4
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "review cadence.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            52,
+            544.876953125,
+            67.5
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            73.5,
+            521.171875,
+            101.4
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "2 Section B: Applied",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            101.4,
+            466.0908203125,
+            129.3
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Reasoning and",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            129.3,
+            406.984375,
+            157.20000000000002
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Evidence",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            161.20000000000002,
+            537.5185546875,
+            176.70000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "This section requires longer, scenario-based",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            176.70000000000002,
+            537.4208984375,
+            192.20000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "reasoning. You will analyze a multi-site data",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            192.20000000000002,
+            550.6435546875,
+            207.70000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "collection effort, interpret summary indicators,",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            207.70000000000002,
+            536.5859375,
+            223.20000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and propose quality controls. The simulated",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            223.20000000000002,
+            548.353515625,
+            238.70000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "annual indicators for 2022 through 2025 show",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            238.70000000000002,
+            535.5068359375,
+            254.20000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "output rising from 78.37 to 119.07 and cost",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            254.20000000000002,
+            526.05859375,
+            269.70000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "rising from 50.94 to 77.40, with operating",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            269.70000000000005,
+            550.6728515625,
+            285.20000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "surplus from 27.43 to 41.67. Use these only as",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            285.20000000000005,
+            539.9306640625,
+            300.70000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "context; do not infer causality. Your answers",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            300.70000000000005,
+            557.9140625,
+            316.20000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "should demonstrate structured thinking, explicit",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            316.20000000000005,
+            532.8798828125,
+            331.70000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "assumptions, and awareness of ethical and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            331.70000000000005,
+            434.84765625,
+            347.20000000000005
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "operational constraints.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            353.20000000000005,
+            540.912109375,
+            368.70000000000005
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            374.70000000000005,
+            540.912109375,
+            390.20000000000005
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            396.20000000000005,
+            544.876953125,
+            411.70000000000005
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            417.70000000000005,
+            553.0361328125,
+            439.40000000000003
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2.1 Section B: Scenario-Based",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            439.40000000000003,
+            395.10546875,
+            461.1
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Questions",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            465.1,
+            554.9453125,
+            480.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Read each scenario carefully. You are expected",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            480.6,
+            540.9267578125,
+            496.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "to identify the data quality issue, propose an",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            496.1,
+            543.275390625,
+            511.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "investigation, and recommend an action with",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            511.6,
+            529.2177734375,
+            527.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "justification. Where numeric indicators are",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            527.1,
+            537.9140625,
+            542.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "provided, treat them as simulated canonical",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            542.6,
+            531.859375,
+            558.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "outputs and note their limitations. Credit is",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            558.1,
+            517.3916015625,
+            573.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "given for distinguishing correlation from",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            573.6,
+            547.8310546875,
+            589.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "causation, for specifying what evidence would",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            589.1,
+            555.0771484375,
+            604.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "change your conclusion, and for acknowledging",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            604.6,
+            517.572265625,
+            620.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "trade-offs between timeliness, cost, and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            620.1,
+            524.4814453125,
+            635.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "completeness. Use the provided tables to",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            635.6,
+            537.875,
+            651.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "organize your responses where appropriate.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            52,
+            286.373046875,
+            70.6
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1.1 Multi-Site Consistency Audit",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            70.6,
+            102.48828125,
+            89.19999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Design",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            93.19999999999999,
+            275.8037109375,
+            108.69999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "A program collects data from 4 sites over 12",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            108.69999999999999,
+            265.3349609375,
+            124.19999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "weeks, with 240 records in total. Site-level",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.19999999999999,
+            272.6591796875,
+            139.7
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "counts vary, and some sites report different",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            139.7,
+            291.8583984375,
+            155.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "definitions for a key field. (a) Design an audit to",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            155.2,
+            290.828125,
+            170.7
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "assess consistency across sites. (b) Specify two",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            170.7,
+            286.1162109375,
+            186.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "quantitative checks and one qualitative check.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            186.2,
+            294.0947265625,
+            201.7
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "(c) Propose a governance mechanism to resolve",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            201.7,
+            291.4140625,
+            217.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "definitional conflicts. (d) Explain how you would",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            217.2,
+            226.4921875,
+            232.7
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "report findings without overstating",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            232.7,
+            276.6142578125,
+            248.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "generalizability. Note that differences across",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            248.2,
+            270.6328125,
+            263.7
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "sites may reflect operational context rather",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            263.7,
+            181.189453125,
+            279.2
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "than data quality failures.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            285.2,
+            249.4296875,
+            303.8
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.2 Interpreting Simulated",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            303.8,
+            213.880859375,
+            322.40000000000003
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "Indicators with Caution",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            326.40000000000003,
+            291.775390625,
+            341.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "The simulated indicators show output growth of",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            341.90000000000003,
+            267.6640625,
+            357.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "51.9 percent from 2022 to 2025, alongside",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            357.40000000000003,
+            263.4453125,
+            372.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "changes in cost and operating surplus. (a)",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            372.90000000000003,
+            272.6787109375,
+            388.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Identify two alternative explanations for the",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            388.40000000000003,
+            279.2900390625,
+            403.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "observed pattern. (b) Specify what additional",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            403.90000000000003,
+            276.6630859375,
+            419.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "data would help distinguish among them. (c)",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            419.40000000000003,
+            276.0966796875,
+            434.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Discuss one risk of using these indicators for",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            434.90000000000003,
+            268.025390625,
+            450.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "performance evaluation. (d) Recommend a",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            450.40000000000003,
+            241.9658203125,
+            465.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "reporting practice that communicates",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            465.90000000000003,
+            290.0322265625,
+            481.40000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "uncertainty. Your answer must clearly separate",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            481.40000000000003,
+            283.875,
+            496.90000000000003
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "observed simulated values from causal claims",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            496.90000000000003,
+            280.80859375,
+            512.4000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "and note that the indicators are not validated",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            512.4000000000001,
+            154.4267578125,
+            527.9000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "measures of quality.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            533.9000000000001,
+            287.59375,
+            555.6000000000001
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.2 Submission Requirements",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            555.6000000000001,
+            214.8798828125,
+            577.3000000000002
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "and Marking Criteria",
+          "parent_id": "h0006",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            581.3000000000002,
+            271.0625,
+            596.8000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Submit your answers as a single document.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            596.8000000000002,
+            280.02734375,
+            612.3000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Clearly label each question and sub-part. The",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            612.3000000000002,
+            274.1826171875,
+            627.8000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "total marks are distributed across reasoning",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            627.8000000000002,
+            247.2734375,
+            643.3000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "quality, use of evidence, recognition of",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            643.3000000000002,
+            282.703125,
+            658.8000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "limitations, and clarity of expression. Answers",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            658.8000000000002,
+            275.8427734375,
+            674.3000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "that assert causality without justification will",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            674.3000000000002,
+            292.48828125,
+            689.8000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "lose marks. You may use the tables to structure",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            689.8000000000002,
+            286.404296875,
+            705.3000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "comparisons, but tables do not replace written",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            705.3000000000002,
+            265.8720703125,
+            720.8000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "justification. Late submissions are handled",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            52,
+            536.2587890625,
+            67.5
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "according to program policy. Ensure that all",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            67.5,
+            534.3349609375,
+            83.0
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "numeric claims are clearly attributed to the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            83.0,
+            510.580078125,
+            98.5
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "provided simulated indicators and that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            98.5,
+            536.7861328125,
+            114.0
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "speculative statements are labeled as such.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            120.0,
+            540.7509765625,
+            135.5
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "When reviewing answers, check whether the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            135.5,
+            545.9560546875,
+            151.0
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "candidate explicitly states assumptions about",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            151.0,
+            543.7001953125,
+            166.5
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "missing data mechanisms and whether those",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            166.5,
+            534.9990234375,
+            182.0
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "assumptions are testable with the available",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            182.0,
+            356.7275390625,
+            197.5
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "records.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            203.5,
+            529.9990234375,
+            219.0
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Candidates should note that the simulated",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            219.0,
+            543.0068359375,
+            234.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "indicators are presented for context only and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            234.5,
+            541.068359375,
+            250.0
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "are not designed to support causal inference",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            250.0,
+            461.5126953125,
+            265.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "about program performance.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            271.5,
+            556.263671875,
+            287.0
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "A strong response will distinguish between data",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            287.0,
+            554.505859375,
+            302.5
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "quality problems that are intrinsic to the record",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            302.5,
+            559.349609375,
+            318.0
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "and those that arise from how the data are used",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            318.0,
+            464.0078125,
+            333.5
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "in a specific decision context.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            339.5,
+            534.916015625,
+            355.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Consider whether the candidate proposes a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            355.0,
+            535.365234375,
+            370.5
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "feasible diagnostic step, such as comparing",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            370.5,
+            531.146484375,
+            386.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "distributions across sites or reviewing data",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            386.0,
+            532.26953125,
+            401.5
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "entry logs, rather than only recommending",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            401.5,
+            430.7607421875,
+            417.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "deletion or imputation.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            423.0,
+            555.7216796875,
+            438.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The reconciliation procedure should account for",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            438.5,
+            528.6025390625,
+            454.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "update latency and review cycles, and the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            454.0,
+            529.7890625,
+            469.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "candidate should explain how conflicts are",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            469.5,
+            455.619140625,
+            485.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "documented and escalated.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            491.0,
+            534.427734375,
+            506.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Look for acknowledgment that timeliness is",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            506.5,
+            553.7294921875,
+            522.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "relative to the decision cycle and that a refresh",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            522.0,
+            542.787109375,
+            537.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "lag may be acceptable for some uses but not",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            537.5,
+            351.029296875,
+            553.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "others.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            559.0,
+            511.95703125,
+            574.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Candidates should identify at least one",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            574.5,
+            555.2724609375,
+            590.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "limitation of their proposed audit, such as small",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            590.0,
+            554.18359375,
+            605.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "site-level counts or inconsistent definitions that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            605.5,
+            507.884765625,
+            621.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "cannot be resolved with existing data.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            627.0,
+            547.337890625,
+            642.5
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "When interpreting simulated indicators, credit",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            642.5,
+            549.2373046875,
+            658.0
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "answers that propose alternative explanations",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            658.0,
+            507.4111328125,
+            673.5
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "and specify what evidence would help",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            673.5,
+            448.1435546875,
+            689.0
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "discriminate among them.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            695.0,
+            558.998046875,
+            710.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "A good answer will avoid claiming that observed",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            710.5,
+            557.6455078125,
+            726.0
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "improvements are due to a specific intervention",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            269.3388671875,
+            67.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "without a comparison group or before-after",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            156.0185546875,
+            83.0
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "design with controls.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            89.0,
+            296.0,
+            223.0
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Output",
+              "Cost",
+              "Surplus"
+            ],
+            [
+              "2022",
+              "78.37",
+              "50.94",
+              "27.43"
+            ],
+            [
+              "2023",
+              "90.10",
+              "58.56",
+              "31.54"
+            ],
+            [
+              "2024",
+              "105.42",
+              "68.52",
+              "36.90"
+            ],
+            [
+              "2025",
+              "119.07",
+              "77.40",
+              "41.67"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            89.0,
+            296.0,
+            270.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            230.0,
+            270.439208984375,
+            243.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 2: Simulated annual indicators for contextual",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            243.175,
+            92.960205078125,
+            256.35
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "reference",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            270.0,
+            270.06640625,
+            285.5
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "The governance mechanism for definitional",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            285.5,
+            253.09375,
+            301.0
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "conflicts should include a clear owner, a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            301.0,
+            285.6181640625,
+            316.5
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "decision log, and a process for communicating",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            316.5,
+            166.3115234375,
+            332.0
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "changes to data users.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            338.0,
+            284.5439453125,
+            353.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "Candidates should recognize that missingness",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            353.5,
+            282.6396484375,
+            369.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "related to site and urgency may induce bias if",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            369.0,
+            278.7041015625,
+            384.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "handled by complete-case analysis, and they",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            384.5,
+            279.01171875,
+            400.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "should discuss the direction of potential bias.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            406.0,
+            241.58984375,
+            421.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "For the timeliness question, look for a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            421.5,
+            275.2666015625,
+            437.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "distinction between data freshness and data",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            437.0,
+            243.7431640625,
+            452.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "accuracy, and a recommendation that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            452.5,
+            268.93359375,
+            468.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "addresses both process and measurement.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            474.0,
+            237.263671875,
+            489.5
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "The audit design should include both",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            489.5,
+            288.630859375,
+            505.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "quantitative checks, such as consistency rates,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            505.0,
+            288.2158203125,
+            520.5
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "and qualitative checks, such as interviews with",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            520.5,
+            186.208984375,
+            536.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "site staff about definitions.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            542.0,
+            251.70703125,
+            557.5
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "Answers should note that the simulated",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            557.5,
+            283.416015625,
+            573.0
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "indicators cover 2022 to 2025 and that trends",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            573.0,
+            287.458984375,
+            588.5
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "over this period may be influenced by changes",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            588.5,
+            165.6669921875,
+            604.0
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "in scope or definitions.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            610.0,
+            276.814453125,
+            625.5
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "Credit candidates who propose documenting",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            625.5,
+            271.9560546875,
+            641.0
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "reconciliation decisions in an audit trail that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            641.0,
+            250.02734375,
+            656.5
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "records the rationale, the date, and the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            656.5,
+            150.1787109375,
+            672.0
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "responsible person.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            678.0,
+            245.5986328125,
+            693.5
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "A strong response will explain how the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            693.5,
+            270.0615234375,
+            709.0
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "recommended handling strategy could bias",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            709.0,
+            270.4765625,
+            724.5
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "downstream estimates and what sensitivity",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            52,
+            540.482421875,
+            67.5
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "analysis could be used to assess robustness.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            73.5,
+            554.1494140625,
+            89.0
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "Candidates should avoid treating the simulated",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            89.0,
+            548.9541015625,
+            104.5
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "output and cost figures as validated measures",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            104.5,
+            545.873046875,
+            120.0
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "of data quality; they are contextual indicators",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            120.0,
+            340.3310546875,
+            135.5
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "only.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            141.5,
+            515.5263671875,
+            157.0
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "Look for explicit statements about what",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            157.0,
+            548.7490234375,
+            172.5
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "additional data would strengthen the analysis,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            172.5,
+            533.587890625,
+            188.0
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "such as data entry timestamps or site-level",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            188.0,
+            436.7421875,
+            203.5
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "process documentation.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            209.5,
+            528.7880859375,
+            225.0
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "The response to the multi-site consistency",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            225.0,
+            544.76953125,
+            240.5
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "question should consider whether definitional",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            240.5,
+            521.1806640625,
+            256.0
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "differences are legitimate adaptations or",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            256.0,
+            455.7265625,
+            271.5
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "unintended inconsistencies.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            277.5,
+            554.5498046875,
+            293.0
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "Candidates should propose a reporting practice",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            293.0,
+            555.2919921875,
+            308.5
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "that communicates uncertainty, such as ranges",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            308.5,
+            537.5087890625,
+            324.0
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "or qualitative confidence statements, rather",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            324.0,
+            533.7978515625,
+            339.5
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "than presenting point estimates as precise.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            345.5,
+            504.6669921875,
+            361.0
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "When evaluating process changes for",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            361.0,
+            539.80859375,
+            376.5
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "timeliness, credit answers that describe how",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            376.5,
+            542.3916015625,
+            392.0
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "decision quality would be measured and how",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            392.0,
+            485.072265625,
+            407.5
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "confounders would be addressed.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            413.5,
+            536.4833984375,
+            429.0
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "A good answer will recognize that the 2-day",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            429.0,
+            556.634765625,
+            444.5
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "update and 5-day review cycles create different",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            444.5,
+            510.609375,
+            460.0
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "windows of vulnerability for stale data.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            466.0,
+            529.505859375,
+            481.5
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "Candidates should specify how they would",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            481.5,
+            533.51953125,
+            497.0
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "sample records for the audit and justify the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            497.0,
+            553.8857421875,
+            512.5
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "sample size relative to the total of 240 records.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            518.5,
+            549.5693359375,
+            534.0
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "Look for acknowledgment that the 4 sites may",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            534.0,
+            528.3974609375,
+            549.5
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "have different operational contexts, which",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            549.5,
+            505.6484375,
+            565.0
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "affects the interpretation of cross-site",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            565.0,
+            382.77734375,
+            580.5
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "comparisons.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            586.5,
+            512.181640625,
+            602.0
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "The marking criteria reward clarity and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            602.0,
+            543.3193359375,
+            617.5
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "structure, so candidates should use headings",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            617.5,
+            545.0625,
+            633.0
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "and tables where appropriate but ensure that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            633.0,
+            476.91796875,
+            648.5
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "written justification is complete.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            654.5,
+            523.2119140625,
+            670.0
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "Candidates should note that the 12-week",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            670.0,
+            547.97265625,
+            685.5
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "module and 48 teaching hours provide limited",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            685.5,
+            531.5810546875,
+            701.0
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "time, so prioritization of diagnostic steps is",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            701.0,
+            368.5830078125,
+            716.5
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "important.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            240.28125,
+            67.5
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "A strong response will identify ethical",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            276.98046875,
+            83.0
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "considerations, such as privacy and fairness,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            243.533203125,
+            98.5
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "when recommending data handling or",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            98.5,
+            175.623046875,
+            114.0
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "reconciliation strategies.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            120.0,
+            296.0,
+            254.0
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Evidence",
+              "Supports",
+              "Limitation",
+              "Causal?"
+            ],
+            [
+              "Cross-sectional",
+              "Association",
+              "No temporal order",
+              "No"
+            ],
+            [
+              "Before-after",
+              "Change",
+              "Confounders",
+              "Weak"
+            ],
+            [
+              "Audit sample",
+              "Quality level",
+              "Sampling error",
+              "No"
+            ],
+            [
+              "Process logs",
+              "Mechanism",
+              "Coverage bias",
+              "Partial"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            120.0,
+            296.0,
+            287.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            261.0,
+            265.226318359375,
+            274.175
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 3: Evidence types and their appropriate use",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            287.0,
+            276.833984375,
+            302.5
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "Credit answers that propose a feedback loop",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            302.5,
+            281.4873046875,
+            318.0
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "where data quality findings inform updates to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            318.0,
+            282.0732421875,
+            333.5
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "definitions, collection processes, and training.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            339.5,
+            266.521484375,
+            355.0
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "Candidates should explain how they would",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            355.0,
+            263.09375,
+            370.5
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "validate the reconciled records against an",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            370.5,
+            286.98046875,
+            386.0
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "independent source or a gold-standard subset.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            392.0,
+            247.8544921875,
+            407.5
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "Look for recognition that the simulated",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            407.5,
+            295.955078125,
+            423.0
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "operating surplus figures depend on both output",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            423.0,
+            283.142578125,
+            438.5
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "and cost, and that changes in either can drive",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            438.5,
+            111.6875,
+            454.0
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "the pattern.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            460.0,
+            271.2724609375,
+            475.5
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "When discussing fitness for use, candidates",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            475.5,
+            264.392578125,
+            491.0
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "should connect the assessment to specific",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            491.0,
+            277.185546875,
+            506.5
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "decisions and the consequences of acting on",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            506.5,
+            177.4833984375,
+            522.0
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "stale or incomplete data.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            528.0,
+            281.04296875,
+            543.5
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "A good answer will state what would count as",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            543.5,
+            291.00390625,
+            559.0
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "evidence against the proposed explanation and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            559.0,
+            272.5078125,
+            574.5
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "how that evidence could be collected within",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            574.5,
+            153.3720703125,
+            590.0
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "existing constraints.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            596.0,
+            295.0615234375,
+            611.5
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "Candidates should describe how they would test",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            611.5,
+            286.228515625,
+            627.0
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "for non-random missingness by comparing the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            627.0,
+            282.8447265625,
+            642.5
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "distribution of observed urgency levels across",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            642.5,
+            247.91796875,
+            658.0
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "sites with and without missing records.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            664.0,
+            284.83203125,
+            679.5
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "A strong answer will note that the 240 records",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            679.5,
+            263.4794921875,
+            695.0
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "may not be representative of all records if",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            695.0,
+            279.63671875,
+            710.5
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "sampling was not random, and will propose a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            710.5,
+            138.5576171875,
+            726.0
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "sensitivity check.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            52,
+            554.681640625,
+            67.5
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "Look for a recommendation to stratify the audit",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            67.5,
+            555.0380859375,
+            83.0
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "by site, given that the 4 sites may differ in data",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            83.0,
+            476.8154296875,
+            98.5
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "entry practices and patient mix.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            104.5,
+            551.400390625,
+            120.0
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "Candidates should explain how they would use",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            120.0,
+            542.8701171875,
+            135.5
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "the 2-day update window to flag records that",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            135.5,
+            546.322265625,
+            151.0
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "are likely to be stale at the time of a decision.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            157.0,
+            492.298828125,
+            172.5
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "Credit answers that propose a pilot",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            172.5,
+            548.28515625,
+            188.0
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "reconciliation on a small subset before scaling",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            188.0,
+            521.4541015625,
+            203.5
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "up, to identify definitional conflicts early.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            209.5,
+            534.1787109375,
+            225.0
+          ],
+          "block_id": "t00048",
+          "type": "text",
+          "text": "A good response will discuss how the 5-day",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            225.0,
+            539.5986328125,
+            240.5
+          ],
+          "block_id": "t00048",
+          "type": "text",
+          "text": "review cycle interacts with the update lag to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            240.5,
+            538.9296875,
+            256.0
+          ],
+          "block_id": "t00048",
+          "type": "text",
+          "text": "create periods when data are both stale and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            256.0,
+            369.61328125,
+            271.5
+          ],
+          "block_id": "t00048",
+          "type": "text",
+          "text": "unverified.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            277.5,
+            529.505859375,
+            293.0
+          ],
+          "block_id": "t00049",
+          "type": "text",
+          "text": "Candidates should specify how they would",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            293.0,
+            556.56640625,
+            308.5
+          ],
+          "block_id": "t00049",
+          "type": "text",
+          "text": "document the rationale for any data exclusions,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            308.5,
+            527.89453125,
+            324.0
+          ],
+          "block_id": "t00049",
+          "type": "text",
+          "text": "including who approved the exclusion and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            324.0,
+            346.185546875,
+            339.5
+          ],
+          "block_id": "t00049",
+          "type": "text",
+          "text": "when.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            345.5,
+            541.185546875,
+            361.0
+          ],
+          "block_id": "t00050",
+          "type": "text",
+          "text": "Look for acknowledgment that the simulated",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            361.0,
+            527.416015625,
+            376.5
+          ],
+          "block_id": "t00050",
+          "type": "text",
+          "text": "output growth of 51.9 percent may reflect",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            376.5,
+            530.7119140625,
+            392.0
+          ],
+          "block_id": "t00050",
+          "type": "text",
+          "text": "changes in data collection rather than true",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            392.0,
+            383.3974609375,
+            407.5
+          ],
+          "block_id": "t00050",
+          "type": "text",
+          "text": "performance.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            413.5,
+            536.8154296875,
+            429.0
+          ],
+          "block_id": "t00051",
+          "type": "text",
+          "text": "A strong answer will propose comparing the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            429.0,
+            545.2431640625,
+            444.5
+          ],
+          "block_id": "t00051",
+          "type": "text",
+          "text": "reconciled totals with an independent source,",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            444.5,
+            528.1435546875,
+            460.0
+          ],
+          "block_id": "t00051",
+          "type": "text",
+          "text": "such as administrative records or external",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            460.0,
+            380.833984375,
+            475.5
+          ],
+          "block_id": "t00051",
+          "type": "text",
+          "text": "benchmarks.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            481.5,
+            529.3935546875,
+            497.0
+          ],
+          "block_id": "t00052",
+          "type": "text",
+          "text": "Candidates should note that the 12-month",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            497.0,
+            522.85546875,
+            512.5
+          ],
+          "block_id": "t00052",
+          "type": "text",
+          "text": "agreement period may limit the ability to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            512.5,
+            544.544921875,
+            528.0
+          ],
+          "block_id": "t00052",
+          "type": "text",
+          "text": "observe long-term trends or seasonal effects.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            534.0,
+            542.3232421875,
+            549.5
+          ],
+          "block_id": "t00053",
+          "type": "text",
+          "text": "Credit answers that describe how they would",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            549.5,
+            543.685546875,
+            565.0
+          ],
+          "block_id": "t00053",
+          "type": "text",
+          "text": "use the 24 sessions and 48 teaching hours to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            565.0,
+            529.154296875,
+            580.5
+          ],
+          "block_id": "t00053",
+          "type": "text",
+          "text": "prioritize which data quality dimensions to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            580.5,
+            381.4052734375,
+            596.0
+          ],
+          "block_id": "t00053",
+          "type": "text",
+          "text": "address first.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            602.0,
+            514.4619140625,
+            617.5
+          ],
+          "block_id": "t00054",
+          "type": "text",
+          "text": "A good response will recognize that the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            617.5,
+            528.79296875,
+            633.0
+          ],
+          "block_id": "t00054",
+          "type": "text",
+          "text": "operating surplus figures for 2022 to 2025",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            633.0,
+            522.1669921875,
+            648.5
+          ],
+          "block_id": "t00054",
+          "type": "text",
+          "text": "depend on both output and cost, and will",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            648.5,
+            536.859375,
+            664.0
+          ],
+          "block_id": "t00054",
+          "type": "text",
+          "text": "caution against interpreting them as quality",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            664.0,
+            368.2216796875,
+            679.5
+          ],
+          "block_id": "t00054",
+          "type": "text",
+          "text": "measures.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            685.5,
+            530.521484375,
+            701.0
+          ],
+          "block_id": "t00055",
+          "type": "text",
+          "text": "Candidates should explain how they would",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            316.0,
+            701.0,
+            552.279296875,
+            716.5
+          ],
+          "block_id": "t00055",
+          "type": "text",
+          "text": "handle conflicting definitions across sites, such",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            254.9638671875,
+            67.5
+          ],
+          "block_id": "t00055",
+          "type": "text",
+          "text": "as by creating a crosswalk or adopting a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            294.2998046875,
+            83.0
+          ],
+          "block_id": "t00055",
+          "type": "text",
+          "text": "standard definition with site-specific extensions.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            89.0,
+            296.0,
+            223.0
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Weight",
+              "Indicators",
+              "Notes"
+            ],
+            [
+              "Reasoning",
+              "High",
+              "Logical steps",
+              "Justify choices"
+            ],
+            [
+              "Evidence use",
+              "High",
+              "Relevant checks",
+              "Cite simulated data"
+            ],
+            [
+              "Limitations",
+              "Medium",
+              "Trade-offs",
+              "Avoid overclaim"
+            ],
+            [
+              "Clarity",
+              "Medium",
+              "Structure",
+              "Label parts"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            89.0,
+            296.0,
+            256.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            230.0,
+            256.32373046875,
+            243.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 3: Marking criteria for scenario questions",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "doc_id": "0035",
+  "kind": "official",
+  "domain": "gov_standard",
+  "language": "en",
+  "title": "Community Emergency Drill Arrangements",
+  "seed": 76,
+  "target_depth": 5,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Community Emergency Drill Arrangements",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Community Emergency Drill Arrangements",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Drill Purpose and Scope",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "A Drill Purpose and Scope",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Planning and Coordination",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 Planning and Coordination",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Roles and Responsibilities",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1 Roles and Responsibilities",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Controller Duties and Communication",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1.1 Controller Duties and Communication",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Safety Officer Authority",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.1.2 Safety Officer Authority",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Evaluator Observation Methods",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.2 Evaluator Observation Methods",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Participant Briefing and Consent",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 Participant Briefing and Consent",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Schedule and Logistics",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "B Schedule and Logistics",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Phased Drill Timeline",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 Phased Drill Timeline",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Resource Allocation Plan",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "B.1.1 Resource Allocation Plan",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Equipment Staging and Checkout",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "B.1.1.1 Equipment Staging and Checkout",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Volunteer Assignment and Rotation",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "B.1.1.2 Volunteer Assignment and Rotation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Communication Channels and Protocols",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "B.1.2 Communication Channels and Protocols",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Post-Drill Review and Reporting",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 Post-Drill Review and Reporting",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      81.44,
+      89.84,
+      107.84,
+      115.84
+    ],
+    "cost": [
+      52.94,
+      58.4,
+      70.1,
+      75.3
+    ],
+    "balance": [
+      28.5,
+      31.44,
+      37.74,
+      40.54
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0014",
+      "target_previous_id": "h0014",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Communication Channels and Protocols",
+      "caption": "Table 5: Communication channels and designated uses",
+      "rows": [
+        [
+          "Channel",
+          "Primary use",
+          "Backup",
+          "Notes"
+        ],
+        [
+          "Radio A",
+          "Command traffic",
+          "Radio B",
+          "Exercise phrase"
+        ],
+        [
+          "Radio B",
+          "Zone coordination",
+          "Radio A",
+          "Monitor at all times"
+        ],
+        [
+          "Phone tree",
+          "Safety alerts",
+          "Radio A",
+          "Test before drill"
+        ],
+        [
+          "Notice board",
+          "Public updates",
+          "Phone tree",
+          "Accessible format"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 5.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "Communication channels and designated uses",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Evaluator Observation Methods",
+      "caption": "Table 3: Evaluator observation criteria and focus areas",
+      "rows": [
+        [
+          "Criterion",
+          "Focus",
+          "Method",
+          "Record"
+        ],
+        [
+          "Communication",
+          "Clarity",
+          "Direct observation",
+          "Timestamped note"
+        ],
+        [
+          "Procedure",
+          "Adherence",
+          "Checklist",
+          "Yes or no"
+        ],
+        [
+          "Safety",
+          "Awareness",
+          "Observation",
+          "Narrative"
+        ],
+        [
+          "Coordination",
+          "Teamwork",
+          "Cross-check",
+          "Log comparison"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Evaluator observation criteria and focus areas",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Safety Officer Authority",
+      "caption": "Table 2: Safety officer pre-drill checks and stop authority",
+      "rows": [
+        [
+          "Check",
+          "Responsibility",
+          "Timing",
+          "Action if failed"
+        ],
+        [
+          "Exits clear",
+          "Safety officer",
+          "Before start",
+          "Pause drill"
+        ],
+        [
+          "First aid ready",
+          "Safety officer",
+          "Before start",
+          "Pause drill"
+        ],
+        [
+          "Hazards marked",
+          "Safety officer",
+          "Before start",
+          "Remediate"
+        ],
+        [
+          "Welfare check",
+          "Safety officer",
+          "During drill",
+          "Stop drill"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Safety officer pre-drill checks and stop authority",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0008",
+      "target_previous_id": "h0008",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Participant Briefing and Consent",
+      "caption": "Table 4: Participant briefing topics and confirmation steps",
+      "rows": [
+        [
+          "Topic",
+          "Content",
+          "Confirmation",
+          "Responsible"
+        ],
+        [
+          "Objectives",
+          "Purpose and scope",
+          "Sign-off",
+          "Briefing lead"
+        ],
+        [
+          "Safety rules",
+          "Stop authority",
+          "Verbal check",
+          "Safety officer"
+        ],
+        [
+          "Communication",
+          "Exercise phrase",
+          "Practice",
+          "Controller"
+        ],
+        [
+          "Consent",
+          "Voluntary nature",
+          "Form collected",
+          "Admin"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Participant briefing topics and confirmation steps",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0005",
+      "target_previous_id": "h0005",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Controller Duties and Communication",
+      "caption": "Table 1: Controller duties and reporting lines",
+      "rows": [
+        [
+          "Duty",
+          "Description",
+          "Reports to",
+          "Limit"
+        ],
+        [
+          "Inject control",
+          "Issue simulated events",
+          "Chief controller",
+          "No real resources"
+        ],
+        [
+          "Radio discipline",
+          "Enforce phrasing",
+          "Chief controller",
+          "Exercise only"
+        ],
+        [
+          "Log keeping",
+          "Record actions",
+          "Chief controller",
+          "Timestamped"
+        ],
+        [
+          "Escalation",
+          "Coordinate with safety",
+          "Safety officer",
+          "Safety overrides"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Controller duties and reporting lines",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0004",
+      "target_previous_id": "h0004",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Roles and Responsibilities",
+      "caption": "Figure 1: Role categories and main responsibilities",
+      "rows": [
+        [
+          "Role",
+          "Main duty",
+          "Authority",
+          "Briefing"
+        ],
+        [
+          "Controller",
+          "Manage exercise flow",
+          "Simulated directs",
+          "Required"
+        ],
+        [
+          "Safety officer",
+          "Monitor hazards",
+          "Stop drill",
+          "Required"
+        ],
+        [
+          "Evaluator",
+          "Observe and record",
+          "No intervention",
+          "Required"
+        ],
+        [
+          "Zone leader",
+          "Coordinate participants",
+          "Local direction",
+          "Required"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Role categories and main responsibilities",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: Community Emergency Drill Arrangements. Section: Roles and Responsibilities. Caption: Role categories and main responsibilities. Article context: Clear role assignment is essential for a safe and orderly drill. The following subsections define the duties of controllers, safety officers, and evaluators. Each role has specific authorities and limits, and all role holders receive a briefing before the exercise begins. Role holders must not exceed their simulated authority or interfere with real emergency services. The table below summarises the main duty categories and reporting lines.. Supporting records: [[\"Role\", \"Main duty\", \"Authority\", \"Briefing\"], [\"Controller\", \"Manage exercise flow\", \"Simulated directs\", \"Required\"], [\"Safety officer\", \"Monitor hazards\", \"Stop drill\", \"Required\"], [\"Evaluator\", \"Observe and record\", \"No intervention\", \"Required\"], [\"Zone leader\", \"Coordinate participants\", \"Local direction\", \"Required\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Community Emergency Drill Arrangements",
+        "paragraph": "This document sets out the arrangements for the upcoming community emergency drill, a simulated exercise designed to test local response coordination. It covers purpose, participating roles, scheduling, safety protocols, evaluation methods, and record-keeping duties. The drill is not a real emergency activation; all observations are simulated and any performance indicators are for internal learning only. No causal claims about actual incident outcomes are made. The arrangements apply to all volunteers, observers, and partner agencies involved in the exercise."
+      },
+      "h0002": {
+        "title": "Drill Purpose and Scope",
+        "paragraph": "The drill aims to practise evacuation, communication, and resource allocation under simulated pressure. Scope is limited to the designated community zones and excludes real emergency dispatch. Participating households receive advance notice, and all activities remain within the exercise boundary. The exercise does not test real response times as causal measures; instead, it records simulated observations for after-action review. The scope also defines which agencies may observe and which may actively participate."
+      },
+      "h0003": {
+        "title": "Planning and Coordination",
+        "paragraph": "A planning committee coordinates logistics, volunteer assignments, and safety briefings. The committee meets regularly during the preparation period and maintains a shared checklist. Coordination includes confirming venue permissions, first-aid coverage, and communication channels. All planning decisions are documented and shared with participants in advance. The committee also prepares contingency plans for weather or other disruptions, ensuring the drill remains safe and within the simulated scope."
+      },
+      "h0004": {
+        "title": "Roles and Responsibilities",
+        "paragraph": "Clear role assignment is essential for a safe and orderly drill. The following subsections define the duties of controllers, safety officers, and evaluators. Each role has specific authorities and limits, and all role holders receive a briefing before the exercise begins. Role holders must not exceed their simulated authority or interfere with real emergency services. The table below summarises the main duty categories and reporting lines."
+      },
+      "h0005": {
+        "title": "Controller Duties and Communication",
+        "paragraph": "Controllers manage the exercise flow, issue simulated injects, and maintain radio discipline. They must log every inject and response observation using the provided forms. Controllers do not direct real emergency resources and must clearly label all messages as exercise traffic. They report to the chief controller and coordinate with safety officers before any scenario escalation. Controllers also ensure that participants understand the difference between simulated and real instructions."
+      },
+      "h0006": {
+        "title": "Safety Officer Authority",
+        "paragraph": "Safety officers have absolute authority to pause or stop the drill if they observe a real hazard. They conduct pre-drill safety checks, monitor participant welfare, and maintain contact with on-site first aid. Safety officers wear distinctive identification and are briefed on all simulated hazards. Their stop authority overrides controller instructions. Any safety intervention is recorded and reviewed after the exercise to improve future arrangements."
+      },
+      "h0007": {
+        "title": "Evaluator Observation Methods",
+        "paragraph": "Evaluators use structured observation forms to record simulated actions, communication clarity, and adherence to procedures. They do not intervene in the exercise except through safety channels. Observations are timestamped and cross-checked with controller logs. Evaluators focus on learning points rather than pass or fail judgments. Their notes feed into the after-action review and help identify training needs. The table below outlines the observation criteria used by evaluators."
+      },
+      "h0008": {
+        "title": "Participant Briefing and Consent",
+        "paragraph": "All participants attend a briefing that explains the exercise objectives, safety rules, and the voluntary nature of involvement. Consent forms are collected before the drill, and participants may withdraw at any time without penalty. The briefing clarifies that no real emergency services will be dispatched and that all communications are simulated. Participants receive written materials in accessible formats. The table below lists the key briefing topics and confirmation steps."
+      },
+      "h0009": {
+        "title": "Schedule and Logistics",
+        "paragraph": "The drill schedule is designed to minimise disruption to community routines while allowing sufficient time for setup and debrief. Logistics cover venue preparation, equipment distribution, and refreshment arrangements. The schedule includes buffer periods for safety checks and unexpected delays. All timing is communicated through multiple channels. The subsections below detail the phased timeline and the resource allocation plan."
+      },
+      "h0010": {
+        "title": "Phased Drill Timeline",
+        "paragraph": "The timeline is divided into preparation, execution, and debrief phases. Preparation includes site setup and final safety checks. Execution follows a scripted sequence of simulated events. Debrief occurs immediately after the exercise to capture initial observations. Each phase has designated leads and checkpoints. The table below presents the phase schedule with responsible parties and key activities."
+      },
+      "h0011": {
+        "title": "Resource Allocation Plan",
+        "paragraph": "Resources include volunteers, communication equipment, first-aid supplies, and printed materials. Allocation is based on zone needs and simulated scenario requirements. A central cache manages equipment check-in and check-out. Resource shortfalls are logged for future planning. The plan ensures that no zone is over-resourced at the expense of another. The subsections below describe equipment staging and volunteer assignment."
+      },
+      "h0012": {
+        "title": "Equipment Staging and Checkout",
+        "paragraph": "Equipment is staged at the command post and distributed to zone leaders before the drill starts. Checkout logs record item, quantity, and responsible person. Radios are tested on designated channels, and spare batteries are available. After the drill, all equipment is returned and inspected. Damaged or missing items are reported to the logistics lead. Staging follows a simple layout that keeps walkways clear and access unobstructed."
+      },
+      "h0013": {
+        "title": "Volunteer Assignment and Rotation",
+        "paragraph": "Volunteers are assigned to zones based on training and availability. Rotation schedules prevent fatigue during the exercise. Each volunteer receives a role card and knows their reporting point. Relief volunteers are on standby for unexpected absences. Assignment adjustments are made through the zone leader and logged at the command post. Volunteers are reminded that their participation is simulated and that they may raise safety concerns at any time."
+      },
+      "h0014": {
+        "title": "Communication Channels and Protocols",
+        "paragraph": "Communication protocols define primary and backup channels for exercise traffic. All messages begin and end with the phrase exercise, exercise to prevent confusion with real incidents. Radio discipline is enforced, and sensitive information is not transmitted. The table below summarises the communication channels and their designated uses."
+      },
+      "h0015": {
+        "title": "Post-Drill Review and Reporting",
+        "paragraph": "After the drill, the planning committee compiles observations, safety reports, and participant feedback into an after-action report. The report distinguishes simulated observations from any real-world claims and avoids causal conclusions. Findings are shared with participants and partner agencies. Recommendations are tracked for implementation. The review process emphasises learning, transparency, and continuous improvement of future drill arrangements."
+      }
+    },
+    "continuations": [
+      "All exercise communications must be prefixed and suffixed with the word exercise to avoid confusion with real emergency traffic. Controllers should remind participants at the start of each phase.",
+      "Safety officers should conduct a final walk-through of each zone before the drill begins, checking for trip hazards, blocked exits, and adequate first-aid access.",
+      "Evaluators should calibrate their observation forms during a short pre-drill meeting to ensure consistent recording of simulated actions and communication clarity.",
+      "Participants who use mobility aids should be consulted during planning to confirm that evacuation routes and staging areas are accessible.",
+      "Weather contingency plans should specify a decision point and an alternate indoor venue, with clear communication to all participants.",
+      "Volunteer relief schedules should account for breaks and hydration, especially during longer exercise phases.",
+      "Controller logs and evaluator notes should be collected at the command post immediately after each phase to prevent loss or misplacement.",
+      "The after-action report should separate what was observed during the simulation from any assumptions about real incident performance.",
+      "Briefing materials should be available in large print and translated versions where community demographics require.",
+      "Equipment checkout logs should be reconciled at the end of the drill, and any missing items reported to the logistics lead within the same day.",
+      "Zone leaders should maintain a simple tally of participants in their area to support simulated accountability checks.",
+      "Safety stop authority should be reaffirmed at every briefing, and any use of that authority should be documented without blame.",
+      "Evaluators should avoid using pass or fail language and instead record specific behaviors and learning points.",
+      "The planning committee should review consent forms before the drill to confirm that all participants have completed them.",
+      "Communication backup channels should be tested during setup and monitored throughout the exercise.",
+      "Debrief sessions should be scheduled promptly after the drill while observations are fresh, with a facilitator who was not directly involved in controlling the exercise.",
+      "Resource shortfalls identified during the drill should be logged with enough detail to inform the next planning cycle.",
+      "Participants should be reminded that they can withdraw at any time and that withdrawal will not affect their standing in the community program.",
+      "The command post should display a simple status board showing phase progress and any safety holds.",
+      "Evaluator observations should be cross-checked with controller logs to identify discrepancies in timing or sequence.",
+      "Volunteer role cards should include the reporting point, safety officer contact, and the exercise phrase to use on radios.",
+      "Any real-world hazard observed during the drill should be reported through normal community channels after the exercise, not during simulated traffic.",
+      "The after-action report should include a section on limitations, noting that simulated observations cannot establish causal effects on real response outcomes.",
+      "Planning committee meetings should keep minutes that record decisions about scope, roles, and resource allocation.",
+      "Briefing attendance should be recorded, and absent participants should receive a catch-up briefing before the drill.",
+      "Equipment staging areas should be kept clear of vehicle traffic and marked with visible signage.",
+      "Evaluators should focus on communication clarity, adherence to procedures, and safety awareness rather than speed alone.",
+      "The drill schedule should include a buffer before the first simulated inject to allow late arrivals to be briefed.",
+      "Safety officers should have a direct radio channel to the chief controller that is monitored at all times.",
+      "Participant feedback forms should include open-ended questions about what worked well and what could be improved.",
+      "Recommendations from the after-action report should be assigned to responsible parties with target dates for review.",
+      "All records from the drill should be stored in a central location and retained according to the community's records policy."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1728,
+        "completion_tokens": 3119,
+        "total_tokens": 4847,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1216
+      },
+      "finish_reason": "stop",
+      "request_hash": "3796327ffc23c792853e1615726534c3ff931e12747b76018d5207c08106b612",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 4,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

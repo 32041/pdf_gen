@@ -1,0 +1,2054 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.78594921874998,
+            52.0,
+            516.4900507812499,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "1 Indoor Air Quality Station Maintenance Manual",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            506.755859375,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This manual provides a structured framework for maintaining indoor air quality monitoring",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            538.611328125,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "stations across multiple sites. It covers routine procedures, calibration protocols, data validation,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            534.998046875,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and quality assurance to ensure reliable and accurate measurements. The guidance is designed",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            510.2470703125,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "for facility managers, technicians, and environmental health officers responsible for station",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            185.447265625,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "upkeep and data integrity.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            175.4,
+            280.876953125,
+            190.9
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            196.9,
+            313.87109375,
+            218.6
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Routine Maintenance Procedures",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            222.6,
+            543.276,
+            356.6
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Task",
+              "Responsible",
+              "Frequency",
+              "Record"
+            ],
+            [
+              "Power status check",
+              "Technician",
+              "Daily",
+              "Logbook"
+            ],
+            [
+              "Data transmission",
+              "Technician",
+              "Daily",
+              "Digital log"
+            ],
+            [
+              "Physical obstructions",
+              "Technician",
+              "Daily",
+              "Checklist"
+            ],
+            [
+              "Anomaly reporting",
+              "Technician",
+              "As needed",
+              "Incident form"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            222.6,
+            543.276,
+            389.6
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            363.6,
+            279.146728515625,
+            376.77500000000003
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Figure 1: Daily inspection tasks and responsible roles",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            389.6,
+            533.9873046875,
+            405.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Routine maintenance is essential for consistent station performance. This section outlines daily,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            405.1,
+            531.6142578125,
+            420.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "weekly, and monthly tasks, including sensor checks, filter replacements, and software updates.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            420.6,
+            456.6923828125,
+            436.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Adherence to these schedules minimizes downtime and ensures data continuity.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            442.1,
+            269.123046875,
+            460.70000000000005
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1.1 Daily Inspection Checklist",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            464.70000000000005,
+            493.845703125,
+            480.20000000000005
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Daily inspections involve verifying power status, checking for physical obstructions, and",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            480.20000000000005,
+            495.916015625,
+            495.70000000000005
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "confirming data transmission. Technicians should log any anomalies and escalate issues",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            495.70000000000005,
+            531.8876953125,
+            511.20000000000005
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "according to the response timeline. A structured checklist helps maintain consistency across all",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            511.20000000000005,
+            78.4501953125,
+            526.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "sites.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            532.7,
+            276.912109375,
+            548.2
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            554.2,
+            543.276,
+            688.2
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Acceptance",
+              "Action if fail",
+              "Record"
+            ],
+            [
+              "Zero reading",
+              "Within tolerance",
+              "Recalibrate",
+              "Calibration log"
+            ],
+            [
+              "Span reading",
+              "Within tolerance",
+              "Recalibrate",
+              "Calibration log"
+            ],
+            [
+              "Data completeness",
+              "Near complete",
+              "Investigate",
+              "Data audit"
+            ],
+            [
+              "Clock sync",
+              "Close match",
+              "Synchronize",
+              "Maintenance log"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            554.2,
+            543.276,
+            721.2
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            695.2,
+            255.423095703125,
+            708.375
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 1: Weekly verification criteria and actions",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            721.2,
+            216.30615234375,
+            738.25
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Sensor and Filter Checks",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            742.25,
+            532.6298828125,
+            757.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Sensors and filters require regular attention to prevent drift and contamination. This subsection",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            757.75,
+            502.0146484375,
+            773.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "details visual inspection of sensor heads, replacement intervals for particulate filters, and",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            423.54296875,
+            67.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "methods to verify airflow. Proper handling and documentation are critical.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            73.5,
+            288.9306640625,
+            89.775
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1.1 Particulate Sensor Cleaning",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            93.775,
+            530.2275390625,
+            109.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Particulate sensors accumulate dust, affecting accuracy. Cleaning with approved materials and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            109.275,
+            523.73828125,
+            124.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "following manufacturer guidelines is necessary. Technicians should record cleaning dates and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.775,
+            350.5009765625,
+            140.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "observe post-cleaning readings to confirm sensor recovery.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            146.275,
+            543.276,
+            254.275
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Filter type",
+              "Interval",
+              "Condition",
+              "Responsible"
+            ],
+            [
+              "Particulate",
+              "Quarterly",
+              "Visual",
+              "Technician"
+            ],
+            [
+              "Gas",
+              "Semi-annual",
+              "Manufacturer",
+              "Technician"
+            ],
+            [
+              "Pre-filter",
+              "Monthly",
+              "Visual",
+              "Technician"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            146.275,
+            543.276,
+            287.275
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            261.275,
+            251.604736328125,
+            274.45
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 2: Filter types and replacement intervals",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            287.275,
+            294.544677734375,
+            303.54999999999995
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.2 Filter Replacement Schedule",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            307.54999999999995,
+            526.6728515625,
+            323.04999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Filter replacement follows a schedule based on operating hours and environmental conditions.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            323.04999999999995,
+            533.4599609375,
+            338.54999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The table below summarizes replacement intervals for different filter types, ensuring consistent",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            338.54999999999995,
+            198.9482421875,
+            354.04999999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "maintenance across stations.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            360.04999999999995,
+            276.912109375,
+            375.54999999999995
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            381.54999999999995,
+            257.85693359375,
+            398.59999999999997
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Data Logging and Transmission",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            402.59999999999997,
+            508.0791015625,
+            418.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Reliable data logging and transmission are vital for continuous monitoring. This subsection",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            418.09999999999997,
+            457.966796875,
+            433.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "covers checking logger status, verifying network connectivity, and ensuring time",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            433.59999999999997,
+            445.9453125,
+            449.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "synchronization. Regular audits of data completeness help identify gaps early.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            455.09999999999997,
+            276.912109375,
+            470.59999999999997
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            476.59999999999997,
+            543.276,
+            610.5999999999999
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Parameter",
+              "Check method",
+              "Frequency",
+              "Responsible"
+            ],
+            [
+              "Logger status",
+              "Visual",
+              "Daily",
+              "Technician"
+            ],
+            [
+              "Network connectivity",
+              "Ping test",
+              "Daily",
+              "Technician"
+            ],
+            [
+              "Time sync",
+              "Compare",
+              "Weekly",
+              "Technician"
+            ],
+            [
+              "Storage capacity",
+              "Review",
+              "Monthly",
+              "Supervisor"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            476.59999999999997,
+            543.276,
+            643.5999999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            617.5999999999999,
+            246.271484375,
+            630.7749999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Data logging parameters and checks",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            643.5999999999999,
+            317.3984375,
+            662.1999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.2 Weekly Performance Verification",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            666.1999999999999,
+            494.2802734375,
+            681.6999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Weekly verification includes comparing station readings with reference instruments and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            681.6999999999999,
+            512.6640625,
+            697.1999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "reviewing calibration status. Discrepancies beyond acceptable limits trigger recalibration or",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            697.1999999999999,
+            415.65234375,
+            712.6999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "repair. Documentation of verification results supports quality assurance.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            336.59375,
+            73.7
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "Documentation and Record Keeping",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            77.7,
+            508.6357421875,
+            93.2
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Accurate records of maintenance activities, calibration events, and data quality checks are",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            93.2,
+            530.8818359375,
+            108.7
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "essential. This section describes logbook formats, digital record systems, and retention policies",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            108.7,
+            236.3994140625,
+            124.2
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "to support audits and trend analysis.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            130.2,
+            416.8251953125,
+            158.1
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2 Calibration and Quality Assurance",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            162.1,
+            535.7060546875,
+            177.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Calibration and quality assurance activities ensure measurement traceability and accuracy. This",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            177.6,
+            460.8330078125,
+            193.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "part details calibration frequency, reference standards, and corrective actions for",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.1,
+            172.5078125,
+            208.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "out-of-tolerance results.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            214.6,
+            217.78515625,
+            236.29999999999998
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Calibration Protocols",
+          "parent_id": "h0010",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            240.29999999999998,
+            515.2568359375,
+            255.79999999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Calibration protocols specify procedures for zero and span checks, use of certified reference",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            255.79999999999998,
+            532.0634765625,
+            271.29999999999995
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "materials, and adjustment of sensor responses. Technicians must follow documented steps and",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.29999999999995,
+            184.1875,
+            286.79999999999995
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "record all calibration data.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            292.79999999999995,
+            335.8203125,
+            311.4
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1.1 Calibration Frequency and Methods",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            315.4,
+            515.017578125,
+            330.9
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Calibration frequency depends on sensor type and regulatory requirements. This subsection",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            330.9,
+            540.3935546875,
+            346.4
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "outlines recommended intervals and methods, including multipoint calibration for critical sensors",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            346.4,
+            225.5107421875,
+            361.9
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "and single-point checks for others.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            367.9,
+            199.8330078125,
+            384.95
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "Zero and Span Checks",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            388.95,
+            540.0517578125,
+            404.45
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Zero and span checks verify sensor baseline and response. Zero checks use clean air, while span",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            404.45,
+            518.85546875,
+            419.95
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "checks employ known concentrations. Results outside acceptance criteria require immediate",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            419.95,
+            139.3974609375,
+            435.45
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "corrective action.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            441.45,
+            248.49951171875,
+            457.72499999999997
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1.1 Reference Standards",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            461.72499999999997,
+            530.2763671875,
+            477.22499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Reference standards must be traceable and within validity. This subsection describes handling,",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            477.22499999999997,
+            516.8876953125,
+            492.72499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "storage, and verification of standard gases and permeation tubes to maintain their integrity.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            498.72499999999997,
+            276.912109375,
+            514.2249999999999
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            520.2249999999999,
+            543.276,
+            628.2249999999999
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Standard",
+              "Storage",
+              "Shelf life",
+              "Verification"
+            ],
+            [
+              "Zero gas",
+              "Ventilated",
+              "One year",
+              "Certificate"
+            ],
+            [
+              "Span gas",
+              "Cool, dry",
+              "Half year",
+              "Certificate"
+            ],
+            [
+              "Permeation tube",
+              "Constant temp",
+              "Short term",
+              "Weight check"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            520.2249999999999,
+            543.276,
+            661.2249999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            635.2249999999999,
+            276.955322265625,
+            648.3999999999999
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 4: Reference standards handling requirements",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Field",
+              "Description",
+              "Example",
+              "Required"
+            ],
+            [
+              "Date",
+              "Calibration date",
+              "Recorded",
+              "Yes"
+            ],
+            [
+              "Standard",
+              "Gas/tube ID",
+              "Cylinder tag",
+              "Yes"
+            ],
+            [
+              "Result",
+              "Pass/fail",
+              "Pass",
+              "Yes"
+            ],
+            [
+              "Technician",
+              "Name/ID",
+              "J. Doe",
+              "Yes"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            190.9716796875,
+            206.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 5: Calibration record fields",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            219,
+            240.46044921875,
+            235.275
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.2 Calibration Records",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            239.275,
+            513.03515625,
+            254.775
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Calibration records include dates, standards used, results, and technician signatures. These",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            254.775,
+            470.8427734375,
+            270.275
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "records are retained for audit purposes and to track sensor performance over time.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            276.275,
+            276.912109375,
+            291.775
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            297.775,
+            229.74462890625,
+            314.825
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "Corrective Actions for Drift",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            318.825,
+            532.654296875,
+            334.325
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "When drift is detected, technicians must investigate root causes, adjust or replace sensors, and",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            334.325,
+            521.4677734375,
+            349.825
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "document actions. Follow-up checks ensure the issue is resolved and data quality is restored.",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            355.825,
+            300.048828125,
+            374.425
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.2 Data Validation and Reporting",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            378.425,
+            530.88671875,
+            393.925
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Data validation involves screening for outliers, flagging invalid periods, and applying correction",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.925,
+            521.6923828125,
+            409.425
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "factors. Validated data are compiled into reports for stakeholders, ensuring transparency and",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            409.425,
+            101.6484375,
+            424.925
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "reliability.",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            430.925,
+            284.298828125,
+            452.625
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "Audit and Review Procedures",
+          "parent_id": "h0010",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            456.625,
+            539.353515625,
+            472.125
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Regular audits of maintenance and calibration records ensure compliance with protocols. Review",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            472.125,
+            506.814453125,
+            487.625
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "procedures include internal checks and periodic external assessments to identify areas for",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            487.625,
+            122.498046875,
+            503.125
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "improvement.",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

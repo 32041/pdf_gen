@@ -1,0 +1,3662 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            180.63799999999998,
+            62.0,
+            414.638,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "基层服务中心无障碍审查报告",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            282.5,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本报告汇总本轮基层服务中心无障碍审查的整体",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            282.5,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "安排与主要发现，覆盖出入口、通行流线、信息",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            282.5,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "沟通与人员服务四个维度。审查以实地观察、使",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            282.5,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "用者访谈与记录核对相结合，力求把可感知的障",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            272.0,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "碍转化为可整改的条目。报告同时说明审查边",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            282.5,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "界：所列为模拟观察结果，用于改进服务流程，",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.55000000000004,
+            282.5,
+            215.82500000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "不构成对任何机构合规状况的法律判断，也不推",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            215.82500000000005,
+            177.5,
+            232.10000000000005
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "断具体伤害的因果结论。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            238.10000000000005,
+            179.34800016880035,
+            256.70000000000005
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 审查背景与范围界定",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            260.70000000000005,
+            282.5,
+            276.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本次审查聚焦基层服务中心的日常办事场景，包",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            276.975,
+            282.5,
+            293.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "括咨询台、等候区、卫生间与自助设备区。范围",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            293.25,
+            282.5,
+            309.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "界定以使用者从进入场地到完成事项的完整路径",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            309.525,
+            282.5,
+            325.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "为线索，而非仅检查单点设施。审查组明确将临",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            325.79999999999995,
+            282.5,
+            342.07499999999993
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "时施工围挡、活动布置等非固定因素单独记录，",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            342.07499999999993,
+            282.5,
+            358.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "避免与常态问题混淆。范围说明还列出未纳入的",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            358.3499999999999,
+            240.5,
+            374.6249999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "楼层与外部交通接驳，提示后续补充。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            380.6249999999999,
+            175.1795001477003,
+            396.89999999999986
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            402.89999999999986,
+            287.638,
+            536.8999999999999
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "项目",
+              "数量",
+              "说明",
+              "备注"
+            ],
+            [
+              "审查场地",
+              "4",
+              "跨片区选取",
+              "含新旧场地"
+            ],
+            [
+              "观察样本",
+              "240",
+              "路径跟随记录",
+              "自愿参与"
+            ],
+            [
+              "审查周期",
+              "12",
+              "按周安排",
+              "含复核"
+            ],
+            [
+              "反馈时限",
+              "2",
+              "受理后答复",
+              "工作日计"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            402.89999999999986,
+            287.638,
+            569.8999999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            543.8999999999999,
+            179.12150011956692,
+            557.0749999999998
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 1：审查场地与样本规模概况",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            307.638,
+            101.9,
+            533.276,
+            235.9
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "考量因素",
+              "说明",
+              "记录方式",
+              "用途"
+            ],
+            [
+              "建成年代",
+              "新旧兼顾",
+              "场地档案",
+              "分组比较"
+            ],
+            [
+              "窗口数量",
+              "业务承载",
+              "现场清点",
+              "场景理解"
+            ],
+            [
+              "来访规模",
+              "高峰压力",
+              "观察估算",
+              "排班参考"
+            ],
+            [
+              "周边人口",
+              "需求结构",
+              "属地访谈",
+              "范围说明"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            307.638,
+            101.9,
+            533.276,
+            268.9
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            242.9,
+            416.2595001195669,
+            256.075
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 1：审查对象选取考量因素",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            268.9,
+            424.3700002019405,
+            285.95
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 审查对象与场地选取",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            289.95,
+            528.1379999999999,
+            306.22499999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "审查对象为分布在不同片区的基层服务中心，兼",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            306.22499999999997,
+            528.1379999999999,
+            322.49999999999994
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "顾老旧场地与近年改造场地，以反映不同建设条",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            322.49999999999994,
+            528.1379999999999,
+            338.7749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "件下的共性难题。选取时考虑日均来访量、窗口",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            338.7749999999999,
+            517.6379999999999,
+            355.0499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "数量与周边人口结构，并征询属地服务人员意",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            355.0499999999999,
+            528.1379999999999,
+            371.3249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "见。选取结果不追求统计代表性，而是优先覆盖",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            371.3249999999999,
+            528.1379999999999,
+            387.59999999999985
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "问题类型较全的场地，便于形成可复用的整改清",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            387.59999999999985,
+            486.138,
+            403.87499999999983
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "单。具体场地数量与样本规模见下表。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            409.87499999999983,
+            420.8175001477003,
+            426.1499999999998
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            432.1499999999998,
+            410.5330002491474,
+            449.1999999999998
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 场地基本情况",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            453.1999999999998,
+            528.1379999999999,
+            469.4749999999998
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "各场地建成年代与改造历史差异明显，直接影响",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            469.4749999999998,
+            528.1379999999999,
+            485.7499999999998
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "坡道坡度、门宽与电梯配置。审查组逐一记录入",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            485.7499999999998,
+            528.1379999999999,
+            502.02499999999975
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "口高差、门扇开启方式与地面材质，并标注雨雪",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            502.02499999999975,
+            528.1379999999999,
+            518.2999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "天气下的湿滑风险点。部分场地在改造中增设了",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            518.2999999999997,
+            528.1379999999999,
+            534.5749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "低位服务台，但指示标识未同步更新，造成引导",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            534.5749999999997,
+            528.1379999999999,
+            550.8499999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "断点。基本情况记录作为后续问题归类的底稿，",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            550.8499999999997,
+            444.138,
+            567.1249999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "所有描述均为现场观察所得。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            573.1249999999997,
+            399.5330002491474,
+            590.1749999999996
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.2 使用者构成",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            594.1749999999996,
+            528.1379999999999,
+            610.4499999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "来访者中包含行动不便者、视听障碍者与陪同家",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            610.4499999999996,
+            528.1379999999999,
+            626.7249999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "属，也有大量临时受伤或携带婴幼儿的普通办事",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            626.7249999999996,
+            528.1379999999999,
+            642.9999999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "人。审查组通过现场观察与自愿访谈了解不同群",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            642.9999999999995,
+            528.1379999999999,
+            659.2749999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "体的通行难点，注意到陪同人员常承担临时协助",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            659.2749999999995,
+            528.1379999999999,
+            675.5499999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "角色，说明服务设计不应只面向单一障碍类型。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            675.5499999999995,
+            528.1379999999999,
+            691.8249999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "使用者构成信息仅用于理解场景，不用于推断个",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            691.8249999999995,
+            423.138,
+            708.0999999999995
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "体需求或评价个人能力。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            287.638,
+            170
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "方法",
+              "覆盖内容",
+              "验证手段",
+              "局限"
+            ],
+            [
+              "清单观察",
+              "设施与标识",
+              "双人确认",
+              "单时段"
+            ],
+            [
+              "路径跟随",
+              "求助响应",
+              "过程记录",
+              "受观察影响"
+            ],
+            [
+              "记录抽查",
+              "维护台账",
+              "交叉核对",
+              "记录不全"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            287.638,
+            203
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            177.0,
+            179.12150011956692,
+            190.175
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 2：审查方法与验证手段对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203,
+            178.73200020194054,
+            220.05
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.2 审查依据与工作方法",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            224.05,
+            282.5,
+            240.32500000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "审查依据为内部服务规范与通用设计原则，强调",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            240.32500000000002,
+            282.5,
+            256.6
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "通行连续性、信息可获取与人员可求助。方法上",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            256.6,
+            282.5,
+            272.875
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "采用清单式实地观察、路径跟随与记录抽查三种",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            272.875,
+            282.5,
+            289.15
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "手段交叉验证，对发现的疑点由两名审查员分别",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            289.15,
+            282.5,
+            305.42499999999995
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "确认。涉及争议的条目记录观察时间与位置，暂",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            305.42499999999995,
+            282.5,
+            321.69999999999993
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "不判定责任归属。方法说明同时提示，观察结果",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            321.69999999999993,
+            282.5,
+            337.9749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "反映特定时段状况，可能与高峰时段存在差异。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            343.9749999999999,
+            175.1795001477003,
+            360.2499999999999
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.2499999999999,
+            179.34800016880035,
+            384.8499999999999
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "2 主要发现与问题归类",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            388.8499999999999,
+            272.0,
+            405.1249999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "发现的问题按通行、信息、服务与应急四类归",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            405.1249999999999,
+            282.5,
+            421.39999999999986
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "并，避免按场地罗列造成重复。通行类集中在门",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            421.39999999999986,
+            282.5,
+            437.67499999999984
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "槛高差与通道堆物，信息类集中在标识位置过高",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            437.67499999999984,
+            282.5,
+            453.9499999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "与文字过小，服务类集中在求助响应不及时，应",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            453.9499999999998,
+            282.5,
+            470.2249999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "急类集中在疏散提示不醒目。归类后形成优先级",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            470.2249999999998,
+            282.5,
+            486.4999999999998
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "排序，优先处理影响独立完成事项的障碍，其次",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            486.4999999999998,
+            198.5,
+            502.77499999999975
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "处理影响体验与效率的问题。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            508.77499999999975,
+            156.73200020194054,
+            525.8249999999997
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "2.1 通行与设施观察",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            529.8249999999997,
+            282.5,
+            546.0999999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "通行观察沿入口至窗口的完整路径进行，记录坡",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.0999999999997,
+            282.5,
+            562.3749999999997
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "道、门厅、走廊与卫生间各段状况。审查组发现",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.3749999999997,
+            282.5,
+            578.6499999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "部分坡道末端存在积水，扶手在转角处中断，轮",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            578.6499999999996,
+            282.5,
+            594.9249999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "椅回转空间被临时告示牌占用。设施方面，低位",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            594.9249999999996,
+            282.5,
+            611.1999999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "服务台高度基本可用，但呼叫按钮位置偏后，坐",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            611.1999999999996,
+            282.5,
+            627.4749999999996
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "姿使用者难以触及。上述均为模拟观察记录，用",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            627.4749999999996,
+            272.0,
+            643.7499999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "于提出改进建议，不据此推断任何事故成因。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            649.7499999999995,
+            175.1795001477003,
+            666.0249999999995
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            672.0249999999995,
+            175.89500024914742,
+            689.0749999999995
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2.1.1 信息沟通与标识",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            693.0749999999995,
+            282.5,
+            709.3499999999995
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "信息沟通审查关注标识的可读性与获取渠道的多",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            709.3499999999995,
+            272.0,
+            725.6249999999994
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "样性。现场发现楼层索引字体偏小、对比度不",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            725.6249999999994,
+            282.5,
+            741.8999999999994
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "足，语音叫号在嘈杂环境下难以辨识，书面办事",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            741.8999999999994,
+            282.5,
+            758.1749999999994
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "指南缺少大字版本。审查组建议在关键节点设置",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            62,
+            528.1379999999999,
+            78.275
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "连续引导，并保留人工问询作为兜底渠道。标识",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            78.275,
+            528.1379999999999,
+            94.55000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "整改需与业务流程调整同步，否则易出现指向正",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            94.55000000000001,
+            517.6379999999999,
+            110.82500000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "确但环节脱节的情况。相关核对要点见下表。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            116.82500000000002,
+            420.8175001477003,
+            133.10000000000002
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            139.10000000000002,
+            420.8175001477003,
+            155.37500000000003
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            161.37500000000003,
+            533.276,
+            295.375
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "核对项",
+              "观察要点",
+              "责任岗位",
+              "复核方式"
+            ],
+            [
+              "楼层索引",
+              "字体与对比",
+              "场地管理",
+              "现场复核"
+            ],
+            [
+              "语音叫号",
+              "嘈杂可辨",
+              "服务窗口",
+              "情景测试"
+            ],
+            [
+              "书面指南",
+              "大字版本",
+              "综合受理",
+              "阅读测试"
+            ],
+            [
+              "人工问询",
+              "兜底渠道",
+              "值班主管",
+              "路径跟随"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            161.37500000000003,
+            533.276,
+            328.375
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            302.375,
+            441.7595001195669,
+            315.55
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 3：信息标识核对要点与责任岗位",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            328.375,
+            533.276,
+            462.375
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "位置",
+              "观察问题",
+              "整改档次",
+              "责任岗位"
+            ],
+            [
+              "入口坡道",
+              "末端积水",
+              "限期改造",
+              "场地管理"
+            ],
+            [
+              "走廊转角",
+              "扶手中断",
+              "限期改造",
+              "设施维护"
+            ],
+            [
+              "等候区",
+              "告示占道",
+              "立即可改",
+              "值班主管"
+            ],
+            [
+              "卫生间",
+              "回转不足",
+              "需协调",
+              "场地管理"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            328.375,
+            533.276,
+            495.375
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            469.375,
+            441.7595001195669,
+            482.55
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 4：通行设施观察记录与整改档次",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            495.375,
+            443.5330002491474,
+            512.425
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1.2 人员服务与求助响应",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            516.425,
+            528.1379999999999,
+            532.6999999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "人员服务审查通过路径跟随观察求助发生时的响",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            532.6999999999999,
+            517.6379999999999,
+            548.9749999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "应过程，包括发现、接近、沟通与转办四个环",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            548.9749999999999,
+            528.1379999999999,
+            565.2499999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "节。多数工作人员态度积极，但对辅助器具使用",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            565.2499999999999,
+            528.1379999999999,
+            581.5249999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "与沟通技巧缺乏统一培训，遇到复杂需求时依赖",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            581.5249999999999,
+            528.1379999999999,
+            597.7999999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "个别经验丰富的同事。审查组建议明确首问责任",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            597.7999999999998,
+            528.1379999999999,
+            614.0749999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "与转办时限，并在排班中保留机动岗位，以缓解",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            614.0749999999998,
+            402.138,
+            630.3499999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "高峰时段响应延迟。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            636.3499999999998,
+            424.3700002019405,
+            653.3999999999997
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.2 整改建议与后续安排",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            657.3999999999997,
+            528.1379999999999,
+            673.6749999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "整改建议按立即可改、限期改造与需协调推进三",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            673.6749999999997,
+            528.1379999999999,
+            689.9499999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "档划分，明确责任岗位与复核方式。立即可改项",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            689.9499999999997,
+            528.1379999999999,
+            706.2249999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "包括清理通道堆物、调整告示位置与补充大字指",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            706.2249999999997,
+            528.1379999999999,
+            722.4999999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "南；限期改造项涉及坡道排水与扶手连续性；需",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            722.4999999999997,
+            528.1379999999999,
+            738.7749999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "协调推进项涉及标识系统整体更新。后续安排以",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            738.7749999999996,
+            528.1379999999999,
+            755.0499999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "季度回访为主，结合使用者反馈滚动更新清单，",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            219.5,
+            78.275
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "并在下一轮审查中复核整改成效。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            282.5,
+            100.55000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "审查记录应保留观察时间、位置与观察者姓名，",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.55000000000001,
+            261.5,
+            116.82500000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "便于后续复核时区分常态问题与临时状况。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            122.82500000000002,
+            282.5,
+            139.10000000000002
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "对同一场地不同时段的观察结果应并列保存，避",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            139.10000000000002,
+            209.0,
+            155.37500000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "免以单次观察替代全天候判断。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            161.37500000000003,
+            282.5,
+            177.65000000000003
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "使用者访谈采取自愿原则，访谈内容仅用于改进",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            177.65000000000003,
+            209.0,
+            193.92500000000004
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "服务，不作为评价个人的依据。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            199.92500000000004,
+            282.5,
+            216.20000000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "整改清单宜标注责任岗位而非个人姓名，减少人",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            216.20000000000005,
+            177.5,
+            232.47500000000005
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "员变动带来的执行中断。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            238.47500000000005,
+            272.0,
+            254.75000000000006
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "涉及施工或改造的项目需与场地管理方提前沟",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            254.75000000000006,
+            240.5,
+            271.02500000000003
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "通，避免整改期间产生新的通行障碍。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            277.02500000000003,
+            282.5,
+            293.3
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "标识整改应同步更新线上办事指引，防止线上线",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            293.3,
+            198.5,
+            309.575
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "下信息不一致造成引导混乱。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            315.575,
+            282.5,
+            331.84999999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "呼叫按钮与低位服务台的高度需结合实际使用者",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            331.84999999999997,
+            230.0,
+            348.12499999999994
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "试用反馈确定，不宜仅凭图纸判断。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            354.12499999999994,
+            282.5,
+            370.3999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "通道堆物问题反复出现，说明需要固定的存放空",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            370.3999999999999,
+            188.0,
+            386.6749999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "间与日常巡查机制相配合。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            392.6749999999999,
+            282.5,
+            408.9499999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "语音叫号在嘈杂环境下的可辨识度有限，可考虑",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            408.9499999999999,
+            177.5,
+            425.22499999999985
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "视觉提示作为并行渠道。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            431.22499999999985,
+            282.5,
+            447.49999999999983
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "工作人员培训宜采用情景演练方式，覆盖辅助器",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            447.49999999999983,
+            156.5,
+            463.7749999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "具使用与沟通技巧。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            469.7749999999998,
+            282.5,
+            486.0499999999998
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "首问责任落实需要配套转办记录，便于追溯响应",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            486.0499999999998,
+            125.0,
+            502.32499999999976
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "过程与时限。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            508.32499999999976,
+            282.5,
+            524.5999999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "高峰时段的机动岗位安排应与来访量波动规律相",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            524.5999999999998,
+            93.5,
+            540.8749999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "匹配。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.8749999999998,
+            282.5,
+            563.1499999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "疏散提示的醒目程度需在断电与低照度条件下另",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            563.1499999999997,
+            104.0,
+            579.4249999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "行核验。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            585.4249999999997,
+            282.5,
+            601.6999999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "坡道排水问题在雨季表现突出，回访时间宜覆盖",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            601.6999999999997,
+            114.5,
+            617.9749999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "多雨季节。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            623.9749999999997,
+            282.5,
+            640.2499999999997
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "扶手连续性检查应沿完整路径进行，避免只查看",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            640.2499999999997,
+            125.0,
+            656.5249999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "起点与终点。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            662.5249999999996,
+            282.5,
+            678.7999999999996
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "大字版办事指南的字体大小与对比度需经实际阅",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            678.7999999999996,
+            125.0,
+            695.0749999999996
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "读测试确认。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            701.0749999999996,
+            282.5,
+            717.3499999999996
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "审查组内部对争议条目采取双人确认，减少主观",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            717.3499999999996,
+            114.5,
+            733.6249999999995
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "判断差异。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            739.6249999999995,
+            282.5,
+            755.8999999999995
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "观察结果与使用者自述应分别记录，避免相互覆",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            62,
+            391.638,
+            78.275
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "盖造成信息失真。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            84.275,
+            528.1379999999999,
+            100.55000000000001
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "季度回访可抽取部分整改项复核，兼顾覆盖面与",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            100.55000000000001,
+            349.638,
+            116.82500000000002
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "工作量。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            122.82500000000002,
+            528.1379999999999,
+            139.10000000000002
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "整改成效评价宜结合使用者反馈与现场复核两类",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            139.10000000000002,
+            339.138,
+            155.37500000000003
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "证据。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            161.37500000000003,
+            528.1379999999999,
+            177.65000000000003
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "临时活动布置应纳入场地使用审批环节，提前评",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            177.65000000000003,
+            370.638,
+            193.92500000000004
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "估通行影响。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            199.92500000000004,
+            528.1379999999999,
+            216.20000000000005
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "卫生间无障碍设施的维护记录应与日常保洁记录",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            216.20000000000005,
+            360.138,
+            232.47500000000005
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "合并管理。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            238.47500000000005,
+            528.1379999999999,
+            254.75000000000006
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "外部交通接驳虽未纳入本轮范围，但使用者反馈",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            254.75000000000006,
+            423.138,
+            271.02500000000003
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "较多，宜列入下轮议题。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            277.02500000000003,
+            528.1379999999999,
+            293.3
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "审查清单应保持稳定以便纵向比较，新增条目单",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            293.3,
+            370.638,
+            309.575
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "独标注版本。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            315.575,
+            528.1379999999999,
+            331.84999999999997
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "对老旧场地的改造建议需考虑结构与管线条件，",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            331.84999999999997,
+            433.638,
+            348.12499999999994
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "避免提出无法落地的方案。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            354.12499999999994,
+            528.1379999999999,
+            370.3999999999999
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "涉及多部门协调的整改项应明确牵头岗位与沟通",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            370.3999999999999,
+            339.138,
+            386.6749999999999
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "节点。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            392.6749999999999,
+            528.1379999999999,
+            408.9499999999999
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "使用者构成信息仅用于理解场景，不应据此推断",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            408.9499999999999,
+            360.138,
+            425.22499999999985
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "个体需求。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            431.22499999999985,
+            517.6379999999999,
+            447.49999999999983
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "观察记录中的照片应避免拍摄可识别的个人影",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            447.49999999999983,
+            328.638,
+            463.7749999999998
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "像。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            469.7749999999998,
+            528.1379999999999,
+            486.0499999999998
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "整改优先级排序宜公开说明理由，便于各方理解",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            486.0499999999998,
+            381.138,
+            502.32499999999976
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "资源投入顺序。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            508.32499999999976,
+            528.1379999999999,
+            524.5999999999998
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "培训效果可通过模拟求助场景进行检验，而非仅",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            524.5999999999998,
+            381.138,
+            540.8749999999998
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "统计培训次数。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            546.8749999999998,
+            528.1379999999999,
+            563.1499999999997
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "下一轮审查可增加雨天与夜间两个时段，补充现",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            563.1499999999997,
+            370.638,
+            579.4249999999997
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "有观察盲区。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            585.4249999999997,
+            528.1379999999999,
+            601.6999999999997
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "报告结论限于服务改进用途，不构成对合规状况",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            601.6999999999997,
+            349.638,
+            617.9749999999997
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "的判断。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            623.9749999999997,
+            528.1379999999999,
+            640.2499999999997
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "审查排期需避开办事高峰与大型活动日，以免观",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            640.2499999999997,
+            433.638,
+            656.5249999999996
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "察本身干扰正常服务秩序。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            662.5249999999996,
+            528.1379999999999,
+            678.7999999999996
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "每处场地的观察路线应事先固定并记录，保证不",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            678.7999999999996,
+            454.638,
+            695.0749999999996
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "同批次之间的结果具备可比性。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            701.0749999999996,
+            528.1379999999999,
+            717.3499999999996
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "整改时限的设定需参考问题类型与施工条件，不",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            717.3499999999996,
+            444.138,
+            733.6249999999995
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "宜对所有条目采用统一期限。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            739.6249999999995,
+            528.1379999999999,
+            755.8999999999995
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "涉及结构改造的建议应附初步可行性说明，供场",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            177.5,
+            78.275
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "地管理方评估资源投入。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            84.275,
+            287.638,
+            218.275
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "维度",
+              "观察内容",
+              "记录要点",
+              "后续处理"
+            ],
+            [
+              "坡道",
+              "坡度与排水",
+              "积水位置",
+              "限期改造"
+            ],
+            [
+              "门厅",
+              "门宽与开启",
+              "通行阻碍",
+              "现场沟通"
+            ],
+            [
+              "扶手",
+              "连续与牢固",
+              "中断点",
+              "设施维护"
+            ],
+            [
+              "服务台",
+              "高度与按钮",
+              "可触及性",
+              "试用反馈"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            84.275,
+            287.638,
+            251.275
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            179.12150011956692,
+            238.45000000000002
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 5：通行与设施观察维度清单",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

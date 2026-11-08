@@ -1,0 +1,740 @@
+{
+  "doc_id": "0007",
+  "kind": "legal_contract",
+  "domain": "legal_contract",
+  "language": "en",
+  "title": "Fictional Equipment Maintenance Services Agreement",
+  "seed": 48,
+  "target_depth": 4,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "spacious",
+  "columns": 1,
+  "margin_pt": 70,
+  "font_size": 11,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Fictional Equipment Maintenance Services Agreement",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Fictional Equipment Maintenance Services Agreement",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Service Scope and Covered Assets",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 Service Scope and Covered Assets",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Preventive Maintenance Duties",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 Preventive Maintenance Duties",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Inspection Checklists and Records",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 Inspection Checklists and Records",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Consumables and Spare Parts",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 Consumables and Spare Parts",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Corrective Repairs and Response Windows",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 Corrective Repairs and Response Windows",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Fault Notification and Dispatch Protocol",
+      "level": 4,
+      "parent_id": "h0006",
+      "path": [
+        1,
+        2,
+        1
+      ],
+      "text": "1.2.1 Fault Notification and Dispatch Protocol",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Repair Progress Reporting and Closure",
+      "level": 4,
+      "parent_id": "h0006",
+      "path": [
+        1,
+        2,
+        2
+      ],
+      "text": "1.2.2 Repair Progress Reporting and Closure",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Service Levels and Reporting",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 Service Levels and Reporting",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Performance Review and Escalation",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 Performance Review and Escalation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Review Metrics and Evidence",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 Review Metrics and Evidence",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Remedial Plans and Follow-Up",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 Remedial Plans and Follow-Up",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Term, Fees and Termination",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 Term, Fees and Termination",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      77.91,
+      91.12,
+      102.12,
+      122.05
+    ],
+    "cost": [
+      50.64,
+      59.23,
+      66.38,
+      79.33
+    ],
+    "balance": [
+      27.27,
+      31.89,
+      35.74,
+      42.72
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0007",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Service Levels and Reporting",
+      "caption": "Figure 3: Service report indicators across registered sites",
+      "rows": [
+        [
+          "Site",
+          "Visits logged",
+          "Open faults",
+          "Report status"
+        ],
+        [
+          "North line",
+          "77.91",
+          "50.64",
+          "Submitted"
+        ],
+        [
+          "East line",
+          "91.12",
+          "59.23",
+          "Submitted"
+        ],
+        [
+          "South line",
+          "102.12",
+          "66.38",
+          "Pending"
+        ],
+        [
+          "West line",
+          "122.05",
+          "79.33",
+          "Submitted"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 3.",
+      "plate_group": "plate-7",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Service report indicators across registered sites",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional legal_contract document. Document: Fictional Equipment Maintenance Services Agreement. Section: Service Levels and Reporting. Caption: Service report indicators across registered sites. Article context: Service performance is measured against the schedule of response and completion targets attached to this agreement. The provider submits a periodic service report summarizing visits, faults, downtime and outstanding actions across the registered sites. The owner may request a joint review within 5 days of receiving any report.. Supporting records: [[\"Site\", \"Visits logged\", \"Open faults\", \"Report status\"], [\"North line\", \"77.91\", \"50.64\", \"Submitted\"], [\"East line\", \"91.12\", \"59.23\", \"Submitted\"], [\"South line\", \"102.12\", \"66.38\", \"Pending\"], [\"West line\", \"122.05\", \"79.33\", \"Submitted\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0008",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "siblings",
+      "topic": "Performance Review and Escalation",
+      "caption": "Table 2: Review metrics with supporting evidence",
+      "rows": [
+        [
+          "Metric",
+          "Target",
+          "Observed",
+          "Evidence"
+        ],
+        [
+          "Response",
+          "2 days",
+          "27.27",
+          "Dispatch log"
+        ],
+        [
+          "Completion",
+          "5 days",
+          "31.89",
+          "Checklists"
+        ],
+        [
+          "Repeat faults",
+          "Low",
+          "35.74",
+          "Service log"
+        ],
+        [
+          "Open actions",
+          "Closed",
+          "42.72",
+          "Review minutes"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": "plate-7",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Review metrics with supporting evidence",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0011",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Service Levels and Reporting",
+      "caption": "Table 3: Escalation steps and responsible contacts",
+      "rows": [
+        [
+          "Step",
+          "Trigger",
+          "Owner",
+          "Timing"
+        ],
+        [
+          "Notice",
+          "Target missed",
+          "Provider",
+          "Immediate"
+        ],
+        [
+          "Review",
+          "No recovery",
+          "Both parties",
+          "5 days"
+        ],
+        [
+          "Plan",
+          "Repeat miss",
+          "Provider",
+          "Written"
+        ],
+        [
+          "Closure",
+          "Verified",
+          "Owner",
+          "Recorded"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": "plate-7",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Escalation steps and responsible contacts",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Corrective Repairs and Response Windows",
+      "caption": "Figure 2: Response and repair duties by fault class",
+      "rows": [
+        [
+          "Fault class",
+          "Acknowledge",
+          "Dispatch",
+          "Report"
+        ],
+        [
+          "Safety",
+          "Immediate",
+          "Same day",
+          "Written"
+        ],
+        [
+          "Production",
+          "2 days",
+          "Scheduled",
+          "Log entry"
+        ],
+        [
+          "Minor",
+          "5 days",
+          "Next visit",
+          "Checklist"
+        ],
+        [
+          "Cosmetic",
+          "Next cycle",
+          "Next visit",
+          "Checklist"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Response and repair duties by fault class",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional legal_contract document. Document: Fictional Equipment Maintenance Services Agreement. Section: Corrective Repairs and Response Windows. Caption: Response and repair duties by fault class. Article context: On notification of a fault, the provider shall acknowledge within 2 days and dispatch a technician to the affected site. Corrective work is prioritized by production impact, with safety faults treated first. The provider shall report repair progress and any parts delay to the owner until the asset returns to service.. Supporting records: [[\"Fault class\", \"Acknowledge\", \"Dispatch\", \"Report\"], [\"Safety\", \"Immediate\", \"Same day\", \"Written\"], [\"Production\", \"2 days\", \"Scheduled\", \"Log entry\"], [\"Minor\", \"5 days\", \"Next visit\", \"Checklist\"], [\"Cosmetic\", \"Next cycle\", \"Next visit\", \"Checklist\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0005",
+      "target_previous_id": "h0004",
+      "target_subtype": "before_heading",
+      "target_relation": "siblings",
+      "topic": "Consumables and Spare Parts",
+      "caption": "Figure 1: Spare parts buffer and replacement notes",
+      "rows": [
+        [
+          "Part group",
+          "Buffer held",
+          "Replaced by",
+          "Note"
+        ],
+        [
+          "Filters",
+          "Stocked",
+          "Provider",
+          "Checklist"
+        ],
+        [
+          "Belts",
+          "Stocked",
+          "Provider",
+          "Checklist"
+        ],
+        [
+          "Sensors",
+          "Limited",
+          "Provider",
+          "Approval"
+        ],
+        [
+          "Motors",
+          "On order",
+          "Provider",
+          "Owner approval"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Spare parts buffer and replacement notes",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional legal_contract document. Document: Fictional Equipment Maintenance Services Agreement. Section: Consumables and Spare Parts. Caption: Spare parts buffer and replacement notes. Article context: The provider supplies standard consumables and holds a minimum spare parts buffer for critical assets. Parts beyond the buffer are procured on owner approval, with cost passed through at documented supplier rates. Replaced parts remain the owner's property unless the parties agree otherwise in a signed parts note.. Supporting records: [[\"Part group\", \"Buffer held\", \"Replaced by\", \"Note\"], [\"Filters\", \"Stocked\", \"Provider\", \"Checklist\"], [\"Belts\", \"Stocked\", \"Provider\", \"Checklist\"], [\"Sensors\", \"Limited\", \"Provider\", \"Approval\"], [\"Motors\", \"On order\", \"Provider\", \"Owner approval\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0008",
+      "target_previous_id": "h0008",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Performance Review and Escalation",
+      "caption": "Table 1: Remedial plan tracking for review items",
+      "rows": [
+        [
+          "Item",
+          "Cause noted",
+          "Action",
+          "Status"
+        ],
+        [
+          "Response",
+          "Dispatch delay",
+          "Roster change",
+          "Open"
+        ],
+        [
+          "Repeat fault",
+          "Wear pattern",
+          "Part review",
+          "Open"
+        ],
+        [
+          "Records",
+          "Missing notes",
+          "Checklist fix",
+          "Closed"
+        ],
+        [
+          "Parts",
+          "Buffer short",
+          "Restock",
+          "Open"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Remedial plan tracking for review items",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Fictional Equipment Maintenance Services Agreement",
+        "paragraph": "This agreement records the simulated maintenance arrangement between the service provider and the equipment owner for the covered production assets at the named sites. It sets out the service scope, response duties, reporting expectations and payment terms that govern the working relationship. The parties acknowledge that all figures used in this document are simulated indicators prepared for drafting review and do not describe real operating results."
+      },
+      "h0002": {
+        "title": "Service Scope and Covered Assets",
+        "paragraph": "The provider shall maintain the covered equipment listed in the asset schedule, including routine inspection, lubrication, calibration checks and replacement of consumable parts. Coverage extends to the named production lines at each registered site. Any asset added after signature requires a written scope amendment signed by both parties before maintenance duties attach to it."
+      },
+      "h0003": {
+        "title": "Preventive Maintenance Duties",
+        "paragraph": "The provider shall perform preventive maintenance visits on a published cycle, following the manufacturer checklist for each asset class. Each visit includes inspection, cleaning, adjustment and a written condition note. The owner shall grant access during agreed windows and shall not operate covered assets with known safety defects pending provider inspection."
+      },
+      "h0004": {
+        "title": "Inspection Checklists and Records",
+        "paragraph": "Every preventive visit shall be documented on the standard checklist, recording asset condition, parts replaced and any defects observed. Completed checklists are delivered to the owner within the reporting window stated in the service schedule. Records are retained for the agreement term and made available for joint review on request."
+      },
+      "h0005": {
+        "title": "Consumables and Spare Parts",
+        "paragraph": "The provider supplies standard consumables and holds a minimum spare parts buffer for critical assets. Parts beyond the buffer are procured on owner approval, with cost passed through at documented supplier rates. Replaced parts remain the owner's property unless the parties agree otherwise in a signed parts note."
+      },
+      "h0006": {
+        "title": "Corrective Repairs and Response Windows",
+        "paragraph": "On notification of a fault, the provider shall acknowledge within 2 days and dispatch a technician to the affected site. Corrective work is prioritized by production impact, with safety faults treated first. The provider shall report repair progress and any parts delay to the owner until the asset returns to service."
+      },
+      "h0012": {
+        "title": "Fault Notification and Dispatch Protocol",
+        "paragraph": "The owner shall submit fault notifications through the designated service portal, including the asset identifier, observed symptoms, and production impact. The provider acknowledges each notification within 2 days and assigns a technician based on priority ranking. For safety-critical faults, dispatch occurs immediately regardless of queue. The provider logs all notifications and dispatches in the maintenance record system, and the owner may audit these entries during scheduled reviews."
+      },
+      "h0013": {
+        "title": "Repair Progress Reporting and Closure",
+        "paragraph": "Throughout corrective work, the provider updates the owner at least every 2 days until the asset returns to service, noting parts ordered, estimated completion, and any temporary mitigation. Upon completion, the provider submits a closure report describing the root cause, parts replaced, and verification tests performed. The owner reviews the report within 5 days and may request rework if the fault recurs within the agreed warranty period."
+      },
+      "h0007": {
+        "title": "Service Levels and Reporting",
+        "paragraph": "Service performance is measured against the schedule of response and completion targets attached to this agreement. The provider submits a periodic service report summarizing visits, faults, downtime and outstanding actions across the registered sites. The owner may request a joint review within 5 days of receiving any report."
+      },
+      "h0008": {
+        "title": "Performance Review and Escalation",
+        "paragraph": "The parties shall hold a scheduled performance review each quarter to examine service reports, recurring faults and open corrective actions. Where targets are missed, the provider presents a written recovery plan. Unresolved issues escalate to the designated contacts for both parties, who meet within the review window to agree remedial steps."
+      },
+      "h0009": {
+        "title": "Review Metrics and Evidence",
+        "paragraph": "The review examines response times, completion rates and repeat-fault counts drawn from the service log. Evidence consists of signed checklists, dispatch records and the periodic service report. Metrics are treated as indicators of service quality, not proof of causation, and the parties shall note any data gaps in the review minutes."
+      },
+      "h0010": {
+        "title": "Remedial Plans and Follow-Up",
+        "paragraph": "Where review metrics fall below target, the provider submits a remedial plan naming the cause, the corrective action and the completion date. The owner tracks each plan item to closure and records verification evidence. Items not closed by the stated date are carried into the next review with an explanation from the provider."
+      },
+      "h0011": {
+        "title": "Term, Fees and Termination",
+        "paragraph": "This agreement runs for 12 months from the effective date unless renewed in writing. Fees are invoiced monthly against completed service records, with payment due within the stated period. Either party may terminate for material breach after written notice and a cure period, or on insolvency of the other party."
+      }
+    },
+    "continuations": [
+      "Where an asset is taken out of service for an extended period, the parties should record the suspension in writing so that visit schedules and invoicing remain aligned with actual coverage.",
+      "Access windows should be confirmed with site supervisors before each visit cycle, since production changes can close agreed windows at short notice and delay preventive work.",
+      "Checklist records should be reviewed for completeness before invoicing, because missing signatures or part notes can stall payment approval and obscure the service history.",
+      "If a fault recurs after corrective work, the provider should note the repeat in the service log so that review discussions rely on documented evidence rather than recollection.",
+      "Spare parts held in the buffer should be counted at each review, with shortages flagged early so that critical assets are not left without replacement stock.",
+      "The owner's designated contact should be named in the service schedule, since unclear escalation routes lengthen the time between fault notification and technician dispatch.",
+      "Service reports should separate observed downtime from estimated production impact, keeping the distinction visible so that review conclusions remain appropriately cautious.",
+      "Any change to the covered asset list should be captured in a signed amendment rather than an informal message, preserving a clear record of what the provider is obliged to maintain.",
+      "Training for site staff on fault reporting can reduce misrouted notifications and help the provider prioritize safety-related calls correctly.",
+      "Where a remedial plan slips, the provider should state the reason and a revised date in writing, allowing the owner to decide whether further escalation is warranted.",
+      "Invoices should reference the completed visit records they rely on, so that fee disputes can be resolved by checking the underlying checklists and dispatch notes.",
+      "The parties should agree a simple format for review minutes, recording metrics, evidence gaps and agreed actions, so that follow-up items remain traceable between meetings.",
+      "If a site is added during the term, the provider should confirm technician coverage and parts availability before the amendment is signed.",
+      "Termination notices should state the breach and the cure period clearly, giving the other party a fair opportunity to remedy the issue before the agreement ends.",
+      "Records kept under this agreement should be stored where both parties can retrieve them, supporting joint review and any later discussion of service performance.",
+      "Where data is incomplete for a review period, the parties should note the gap rather than infer performance, keeping conclusions tied to documented evidence.",
+      "Consumable usage should be tracked per asset so that unusual consumption can be investigated before it becomes a recurring fault pattern.",
+      "Safety-related faults should be logged separately from production faults, ensuring that priority handling is visible in the service report and review metrics.",
+      "The provider should confirm technician availability during holiday periods, since unplanned absences can breach response targets at short notice.",
+      "Renewal discussions should begin before the term ends, allowing both parties to review service history and adjust scope or targets for the next period.",
+      "Any parts supplied by the owner should be inspected on receipt, with condition noted in the checklist so responsibility for later failures is clear.",
+      "Joint reviews should close with a short list of agreed actions and owners, making it easier to verify progress at the following meeting.",
+      "Where escalation occurs, both contacts should confirm the meeting date in writing, keeping the timeline visible to the wider service team.",
+      "The service schedule should state how urgent calls outside normal hours are handled, avoiding disputes about response obligations at night or on weekends.",
+      "Checklist revisions should be versioned and shared with the owner, so that both parties work from the same inspection standard throughout the term.",
+      "Payment queries should be raised promptly after invoice receipt, allowing reconciliation against visit records before the due date passes.",
+      "If a covered asset is replaced, the parties should record the new asset details and any change to the maintenance cycle in a signed note.",
+      "Review metrics should be presented alongside the underlying records, letting participants check the figures rather than accept summary claims without support.",
+      "The provider should keep a current list of qualified technicians for each asset class, supporting dispatch decisions when multiple faults occur at once.",
+      "Where a remedial plan succeeds, the provider should record the verification evidence so that the improvement is visible in later reviews.",
+      "Both parties should retain signed copies of this agreement and all amendments, ensuring the governing scope is unambiguous if a dispute arises.",
+      "Continuity planning for key technicians can reduce service disruption, and the provider should describe its cover arrangements during performance reviews."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1605,
+        "completion_tokens": 2363,
+        "total_tokens": 3968,
+        "prompt_tokens_details": {
+          "cached_tokens": 1408
+        },
+        "prompt_cache_hit_tokens": 1408,
+        "prompt_cache_miss_tokens": 197
+      },
+      "finish_reason": "stop",
+      "request_hash": "762bf3705735f19621827d4c1abc7ce3080d540de179a20461d839149fbd8c6f",
+      "schema": "llm-content-v1",
+      "validation_retries": 2,
+      "cache_hit": true,
+      "base_request_hash": "d0db36c40e02639cc8ce23523caba9c2423bfdabdaf9e750a82f8f0447102e0c",
+      "augmentation_usage": {
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 728,
+          "completion_tokens": 244,
+          "total_tokens": 972,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 728
+        },
+        "finish_reason": "stop"
+      }
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [
+    "h0012",
+    "h0013"
+  ],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

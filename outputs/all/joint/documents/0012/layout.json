@@ -1,0 +1,2350 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            189.63799999999998,
+            70.0,
+            405.638,
+            97.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "环境监测方法课程教学大纲",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            109.9,
+            512.4200003147125,
+            126.95
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本大纲适用于环境科学与工程类本科专业核心课程环境监测方法，共安排48学时，分12周完",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            126.95,
+            522.2100001573563,
+            144.0
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "成，每周24次课。课程以水、气、土壤和生物监测方法为主线，强调方法选择、质量保证与数",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            144.0,
+            521.0,
+            161.05
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "据解释。学生需先修无机化学与分析化学，并具备基础统计知识。教学团队由三位专任教师和",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            161.05,
+            521.0,
+            178.10000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "两位实验员组成，实验场地与仪器清单见后续说明。考核采用过程评价与期末闭卷考试相结合",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            178.10000000000002,
+            246.0,
+            195.15000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "的方式，具体比例在考核部分列出。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            201.15000000000003,
+            188.56900015473366,
+            218.20000000000005
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            224.20000000000005,
+            525.276,
+            332.20000000000005
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "考核项目",
+              "占比",
+              "形式",
+              "评分依据"
+            ],
+            [
+              "过程考核",
+              "较高",
+              "实验与作业",
+              "评分细则"
+            ],
+            [
+              "期末闭卷",
+              "中等",
+              "情境题",
+              "参考答案"
+            ],
+            [
+              "小组互评",
+              "较低",
+              "互评表",
+              "观察记录"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            224.20000000000005,
+            525.276,
+            365.20000000000005
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            339.20000000000005,
+            170.12150011956692,
+            352.37500000000006
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 1：课程考核构成与比例",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            365.20000000000005,
+            228.68800008296967,
+            383.80000000000007
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "一、 课程基本信息与教学目标",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            387.80000000000007,
+            521.0,
+            404.8500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "课程编号暂定为环境类选修模块，面向三年级本科生开设。教学目标分为知识、能力与素养三",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            404.8500000000001,
+            521.0,
+            421.9000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "个维度：知识层面掌握主要环境介质的监测方法原理与适用范围；能力层面能独立设计采样方",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            421.9000000000001,
+            521.0,
+            438.9500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "案并完成基础指标测定；素养层面理解监测数据在环境管理中的证据作用。课程不要求高深数",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            438.9500000000001,
+            521.0,
+            456.0000000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "学推导，但强调方法比对与误差分析。教学团队每两周进行一次集体备课，统一实验操作规范",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            456.0000000000001,
+            136.0,
+            473.0500000000001
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "与评分尺度。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            479.0500000000001,
+            188.56900015473366,
+            496.10000000000014
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            502.10000000000014,
+            191.0,
+            519.1500000000001
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "教学目标与毕业要求对应",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            523.1500000000001,
+            525.276,
+            631.1500000000001
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "课程目标",
+              "毕业要求",
+              "考核方式",
+              "达成标志"
+            ],
+            [
+              "方法选择",
+              "问题分析",
+              "情境题",
+              "理由充分"
+            ],
+            [
+              "方案设计",
+              "实验设计",
+              "设计方案",
+              "要素齐全"
+            ],
+            [
+              "数据解释",
+              "数据解释",
+              "实验报告",
+              "区分观测因果"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            523.1500000000001,
+            525.276,
+            664.1500000000001
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            638.1500000000001,
+            204.12150011956692,
+            651.325
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 2：课程目标与毕业要求对应关系",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            664.1500000000001,
+            521.0,
+            681.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "本课程支撑毕业要求中的问题分析、实验设计与数据解释三项指标。问题分析对应学生能根据",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            681.2,
+            521.0,
+            698.25
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "监测目的选择合适方法并说明局限；实验设计对应学生能编写包含采样点布设、频次与质控措",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            698.25,
+            521.0,
+            715.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "施的方案；数据解释对应学生能区分观测结果与因果推断。每项指标在过程考核中设有对应评",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            715.3,
+            521.0,
+            732.3499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "分点，期末试卷中也设置情境题加以检验。任课教师需在开课第一周向学生说明对应关系与评",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            732.3499999999999,
+            114.0,
+            749.3999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "分标准。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            70,
+            190.6270001232624,
+            87.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1. 知识目标的具体表述",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            91.05,
+            521.0,
+            108.1
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "知识目标包括：能陈述水样保存与运输的基本要求；能比较分光光度法与色谱法在常见污染物",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            108.1,
+            521.0,
+            125.14999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "测定中的适用条件；能说明大气采样中流量校准与吸收效率的关系；能列举土壤样品制备中的",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            125.14999999999999,
+            521.0,
+            142.2
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "交叉污染风险。上述目标以课堂提问和章节小测进行形成性检查，小测题量控制在五题以内，",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            142.2,
+            488.0,
+            159.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "避免增加学生负担。教师根据小测结果调整后续讲授重点，并在下一周反馈共性问题。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            165.25,
+            190.6270001232624,
+            182.3
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "2. 能力目标与实验安排",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            186.3,
+            522.2100001573563,
+            203.35000000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "能力目标通过24次实验课逐步达成，实验内容涵盖水样采集与保存、大气颗粒物采样、土壤样",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            203.35000000000002,
+            521.0,
+            220.40000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "品制备和生物指示物观察。每次实验前学生须提交预习报告，写明方法依据与安全注意事项；",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            220.40000000000003,
+            521.0,
+            237.45000000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "实验后提交原始记录与结果分析。实验分组不超过四人，角色轮换包括采样、记录、质控和仪",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            237.45000000000005,
+            499.0,
+            254.50000000000006
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "器操作。教师现场检查原始记录，对记录不规范的小组要求当场补正，并计入过程评分。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            260.50000000000006,
+            188.56900015473366,
+            277.55000000000007
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            283.55000000000007,
+            188.56900015473366,
+            300.6000000000001
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            306.6000000000001,
+            525.276,
+            440.6000000000001
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "角色",
+              "职责",
+              "记录要求",
+              "评分要点"
+            ],
+            [
+              "采样员",
+              "按方案采样",
+              "点位与时间",
+              "操作规范"
+            ],
+            [
+              "记录员",
+              "填写原始表",
+              "实时记录",
+              "完整准确"
+            ],
+            [
+              "质控员",
+              "平行样管理",
+              "编号与结果",
+              "标识清楚"
+            ],
+            [
+              "仪器员",
+              "校准与维护",
+              "校准记录",
+              "按时完成"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            306.6000000000001,
+            525.276,
+            473.6000000000001
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            447.6000000000001,
+            195.62150011956692,
+            460.7750000000001
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 3：实验课角色轮换与考核要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            473.6000000000001,
+            525.276,
+            607.6000000000001
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "维度",
+              "观察点",
+              "权重",
+              "常见问题"
+            ],
+            [
+              "原始记录",
+              "完整可溯",
+              "较高",
+              "补记涂改"
+            ],
+            [
+              "方法依据",
+              "引用得当",
+              "中等",
+              "缺适用条件"
+            ],
+            [
+              "结果分析",
+              "区分来源",
+              "较高",
+              "混淆因果"
+            ],
+            [
+              "安全规范",
+              "操作合规",
+              "中等",
+              "防护缺失"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            473.6000000000001,
+            525.276,
+            640.6000000000001
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            614.6000000000001,
+            178.62150011956692,
+            627.7750000000001
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 4：综合实验报告评分维度",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            640.6000000000001,
+            191.0,
+            657.6500000000001
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "素养目标与课程思政融入",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            661.6500000000001,
+            521.0,
+            678.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "素养目标侧重数据诚信、安全意识和团队协作。课程在采样方案设计中引入数据造假的反面案",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            678.7,
+            521.0,
+            695.75
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "例讨论，要求学生说明如何通过原始记录和质控样识别异常数据。实验室安全实行准入考核，",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            695.75,
+            521.0,
+            712.8
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "未通过者不得进入实验区。团队协作评分参考小组互评与教师观察，互评表包含任务完成度、",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            712.8,
+            521.0,
+            729.8499999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "沟通及时性和记录规范性三项。课程思政不单独设节，而是融入方法选择与数据解释的具体讨",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            729.8499999999999,
+            103.0,
+            746.8999999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "论中。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            204.68800008296967,
+            88.6
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "二、 教学内容与进度安排",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            92.6,
+            522.2100001573563,
+            109.64999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "教学内容按12周推进，前六周以水与废水监测为主，中间三周集中大气与土壤监测，最后三周",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            109.64999999999999,
+            522.2100001573563,
+            126.69999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "安排综合实验与复习。每周24次课中，一次为理论讲授，一次为实验或研讨。理论课重点讲方",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            126.69999999999999,
+            521.0,
+            143.75
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "法原理与适用边界，实验课强调操作规范与质控。进度表在开课第一周发布，遇法定节假日顺",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            143.75,
+            378.0,
+            160.8
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "延并另行通知补课时间。教师需提前一周上传课件与预习材料。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            166.8,
+            188.56900015473366,
+            183.85000000000002
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            189.85000000000002,
+            191.0,
+            206.90000000000003
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "理论教学模块与学时分配",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            210.90000000000003,
+            521.0,
+            227.95000000000005
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "理论模块包括绪论与方法学基础、水和废水监测、空气与废气监测、土壤与固体废物监测、生",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            227.95000000000005,
+            521.0,
+            245.00000000000006
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "物监测以及质量保证与数据处理。各模块学时按内容难度分配，绪论与方法学基础占比较少，",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            245.00000000000006,
+            521.0,
+            262.05000000000007
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "水与大气模块占比较多。讲授中穿插方法比对表与案例讨论，避免逐条宣读标准。每模块结束",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            262.05000000000007,
+            422.0,
+            279.1000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "后安排一次随堂练习，题目以方法选择和误差来源分析为主，当堂讲评。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            285.1000000000001,
+            201.6270001232624,
+            302.1500000000001
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1. 水与废水监测模块要点",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            306.1500000000001,
+            524.8279998898506,
+            323.2000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "水模块重点讲解采样点布设、水样保存、pH与溶解氧的现场测定，以及化学需氧量和氨氮的实",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            323.2000000000001,
+            521.0,
+            340.2500000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "验室测定方法。学生需理解不同保存剂对样品稳定性的影响，并能根据监测目的选择瞬时样或",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            340.2500000000001,
+            521.0,
+            357.3000000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "混合样。实验安排学生采集校园内不同点位水样，比较现场测定与实验室测定结果差异，并讨",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            357.3000000000001,
+            455.0,
+            374.35000000000014
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "论差异来源。教师提示学生注意区分观测到的浓度差异与污染来源的因果判断。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            380.35000000000014,
+            212.6270001232624,
+            397.40000000000015
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2. 大气与土壤监测模块要点",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            401.40000000000015,
+            521.0,
+            418.45000000000016
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "大气模块讲解总悬浮颗粒物与细颗粒物的采样原理、流量校准和滤膜称重规范；土壤模块讲解",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            418.45000000000016,
+            521.0,
+            435.50000000000017
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "布点方法、样品制备与重金属提取流程。两个模块均安排半天现场实习，学生分组完成采样并",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            435.50000000000017,
+            521.0,
+            452.5500000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "记录气象条件与现场观察。教师强调采样代表性受布点方案影响，结果解释应限于所采样品范",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            452.5500000000002,
+            411.0,
+            469.6000000000002
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "围。实验报告要求附采样点位示意图和现场记录表，缺项者退回补充。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            475.6000000000002,
+            191.0,
+            492.6500000000002
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "实验教学组织与安全要求",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            496.6500000000002,
+            516.1050000786781,
+            513.7000000000002
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "实验教学按4个校内点位轮换进行，每点位安排固定小组，避免人员交叉造成记录混乱。实验",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            513.7000000000002,
+            521.0,
+            530.7500000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "前教师检查仪器状态与试剂标签，学生须佩戴防护装备。涉及酸碱和有机溶剂的操作用量控制",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            530.7500000000001,
+            521.0,
+            547.8000000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "在微量级别，废液分类收集。每次实验结束后由值日小组清点器皿并填写安全日志。发生轻微",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            547.8000000000001,
+            340.10500007867813,
+            564.85
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "事故须在2日内提交事件说明，由课程负责人组织复盘。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            570.85,
+            188.56900015473366,
+            587.9
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            70,
+            525.276,
+            204
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "事项",
+              "要求",
+              "责任人",
+              "时限"
+            ],
+            [
+              "准入考核",
+              "通过方可实验",
+              "实验员",
+              "开课前"
+            ],
+            [
+              "废液收集",
+              "分类贴标",
+              "值日组",
+              "每次课后"
+            ],
+            [
+              "事故说明",
+              "书面提交",
+              "当事人",
+              "2日内"
+            ],
+            [
+              "安全日志",
+              "逐次填写",
+              "值日组",
+              "当日"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            70,
+            525.276,
+            237
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            187.12150011956692,
+            224.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "图 1：实验教学安全与应急事项",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            237,
+            521.0,
+            254.05
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "课程组建议在开课前完成仪器校准与试剂效期核查，并将核查记录存档备查，避免因设备状态",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            254.05,
+            191.0,
+            271.1
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "不明导致实验数据偏差。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            277.1,
+            521.0,
+            294.15000000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "对于缺勤学生，应安排补做或提供替代数据练习，补做记录须注明原因与时间，确保过程评分",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            294.15000000000003,
+            125.0,
+            311.20000000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "有据可依。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            317.20000000000005,
+            510.0,
+            334.25000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "期末试卷中的情境题应避免暗示唯一正确答案，鼓励学生说明方法选择的依据与不确定性来",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            334.25000000000006,
+            92.0,
+            351.30000000000007
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "源。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            357.30000000000007,
+            521.0,
+            374.3500000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "小组互评结果仅作为参考，教师需结合现场观察记录综合判定，防止互评流于形式或出现人情",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            374.3500000000001,
+            92.0,
+            391.4000000000001
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "分。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            397.4000000000001,
+            521.0,
+            414.4500000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "采样方案设计作业宜设置中期检查，教师针对布点合理性与质控措施给出书面反馈，便于学生",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            414.4500000000001,
+            103.0,
+            431.5000000000001
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "修改。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            437.5000000000001,
+            521.0,
+            454.5500000000001
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "实验报告评分应关注原始记录是否完整，而非仅看结果是否漂亮，对异常数据的合理解释可酌",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            454.5500000000001,
+            114.0,
+            471.60000000000014
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "情加分。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            477.60000000000014,
+            521.0,
+            494.65000000000015
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "课程负责人每学期末汇总学生成绩分布与试卷分析，形成简要报告提交教研室，作为下一轮教",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            494.65000000000015,
+            136.0,
+            511.70000000000016
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "学调整依据。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            517.7000000000002,
+            510.0,
+            534.7500000000001
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "校外现场实习须提前办理出入手续并购买短期保险，带队教师应携带急救包与应急联络表。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            540.7500000000001,
+            510.0,
+            557.8000000000001
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "理论课与实验课的时间衔接应留出缓冲，避免学生因连续上课而压缩预习与报告撰写时间。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            563.8000000000001,
+            521.0,
+            580.85
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "对于转专业或补修学生，任课教师可提供往届实验演示视频作为补充材料，但不替代现场操作",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            580.85,
+            103.0,
+            597.9
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "考核。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            603.9,
+            521.0,
+            620.9499999999999
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "质量保证内容宜贯穿各模块，而非单独集中讲授，使学生在具体测定中理解空白、平行与加标",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            620.9499999999999,
+            114.0,
+            637.9999999999999
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "的作用。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            643.9999999999999,
+            521.0,
+            661.0499999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "课程组应定期收集学生对教学进度的反馈，若多数学生反映某模块过快，可在后续周次适当调",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            661.0499999999998,
+            136.0,
+            678.0999999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "整讲授节奏。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            684.0999999999998,
+            521.0,
+            701.1499999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "实验用标准溶液须由实验员统一配制并标注浓度与日期，学生不得自行取用未标识的试剂瓶。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            707.1499999999997,
+            521.0,
+            724.1999999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "期末复习课不宜简单划范围，应通过综合案例帮助学生梳理方法选择与数据解释之间的逻辑关",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            724.1999999999997,
+            92.0,
+            741.2499999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "系。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            521.0,
+            87.05
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "课程档案包括教学大纲、进度表、试卷分析、实验安全日志与学生成绩单，保存期限按学校规",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            114.0,
+            104.1
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "定执行。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            110.1,
+            525.276,
+            244.1
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "模块",
+              "学时占比",
+              "主要方法",
+              "检查方式"
+            ],
+            [
+              "绪论与方法学",
+              "较少",
+              "讲授与讨论",
+              "随堂练习"
+            ],
+            [
+              "水与废水",
+              "较多",
+              "讲授与实验",
+              "实验报告"
+            ],
+            [
+              "大气与土壤",
+              "中等",
+              "现场实习",
+              "现场记录"
+            ],
+            [
+              "质量保证",
+              "穿插",
+              "案例研讨",
+              "小测"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            110.1,
+            525.276,
+            277.1
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            251.1,
+            221.12150011956692,
+            264.275
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 5：理论模块学时分配与教学方法对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

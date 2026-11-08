@@ -1,0 +1,546 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "course_syllabus",
+    "language": "en",
+    "subject": "Technical writing and evidence course",
+    "seed": 59,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0010",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0004",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0001",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0001",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0015",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0013",
+        "cell_width": 117.81899999999999,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "78.71",
+      "output_2": "90.02",
+      "output_3": "105.24",
+      "output_4": "121.23",
+      "cost_1": "51.16",
+      "cost_2": "58.51",
+      "cost_3": "68.41",
+      "cost_4": "78.80",
+      "balance_1": "27.55",
+      "balance_2": "31.51",
+      "balance_3": "36.83",
+      "balance_4": "42.43",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "54.0"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Technical Writing and Evidence: Course Syllabus",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Technical Writing and Evidence: Course Syllabus",
+        "paragraph": "This course develops the ability to produce technical documents that are clear, precise, and grounded in verifiable evidence. Over [[F:duration_weeks]] weeks, students attend [[F:sessions]] sessions totaling [[F:teaching_hours]] teaching hours, engaging with real-world writing tasks and evidence evaluation. The syllabus outlines learning outcomes, assessment methods, and weekly topics, with a focus on practical skills for professional contexts. All materials and activities are designed to foster critical thinking and ethical reporting."
+      },
+      {
+        "id": "h0002",
+        "title": "Course Overview and Learning Outcomes",
+        "paragraph": "The course provides a comprehensive introduction to technical writing principles and evidence-based practices. Students will learn to craft various technical documents, from reports to proposals, while integrating credible evidence. Emphasis is placed on clarity, audience analysis, and ethical standards. By the end, students should be able to plan, draft, and revise technical texts that meet professional requirements and withstand scrutiny."
+      },
+      {
+        "id": "h0003",
+        "title": "Module Structure and Sequencing",
+        "paragraph": "The course is organized into sequential modules that build upon each other. Starting with foundational concepts, students progress to complex document types and evidence synthesis. Each module includes readings, exercises, and discussions that reinforce learning. The sequencing ensures that students develop skills incrementally, with ample opportunity to apply feedback and refine their work before advancing to more challenging assignments."
+      },
+      {
+        "id": "h0004",
+        "title": "Core Module: Evidence Gathering and Evaluation",
+        "paragraph": "This module focuses on identifying, collecting, and assessing evidence from various sources. Students learn to distinguish between primary and secondary sources, evaluate credibility, and avoid bias. Practical activities include source audits and evidence mapping. The module emphasizes the importance of transparency in citing evidence and the consequences of misrepresentation, preparing students for rigorous technical writing tasks."
+      },
+      {
+        "id": "h0005",
+        "title": "Source Credibility and Bias Assessment",
+        "paragraph": "Students examine criteria for evaluating source credibility, including authority, accuracy, and currency. They practice assessing bias in both obvious and subtle forms, using checklists and peer review. Case studies illustrate how biased sources can distort technical conclusions. The goal is to equip students with systematic methods for vetting evidence before incorporation into their writing, ensuring that their documents reflect balanced and reliable information."
+      },
+      {
+        "id": "h0006",
+        "title": "Data Collection and Documentation Standards",
+        "paragraph": "This section covers best practices for collecting and documenting data in technical contexts. Students learn to design simple data collection instruments, maintain meticulous records, and adhere to documentation standards that facilitate reproducibility. Emphasis is placed on ethical considerations, such as informed consent and data privacy, and on the importance of clear metadata to support evidence integrity throughout the writing process."
+      },
+      {
+        "id": "h0007",
+        "title": "Applied Module: Technical Document Drafting",
+        "paragraph": "In this applied module, students draft a variety of technical documents, including memos, reports, and instructions. They apply evidence evaluation skills to select and integrate appropriate sources. Peer review and instructor feedback guide revisions. The module culminates in a portfolio of drafts that demonstrate growth in clarity, organization, and evidence use, preparing students for professional writing demands."
+      },
+      {
+        "id": "h0008",
+        "title": "Module Assessment and Feedback",
+        "paragraph": "Assessment in the module structure is continuous and formative. Students receive feedback on exercises and drafts through peer review and instructor comments. Summative assessments include a midterm evidence evaluation project and a final document portfolio. Feedback is aligned with learning outcomes and emphasizes actionable improvements. The assessment strategy ensures that students can demonstrate mastery of both writing and evidence skills by course end."
+      },
+      {
+        "id": "h0009",
+        "title": "Assessment and Grading Policies",
+        "paragraph": "Assessment comprises several components designed to measure both theoretical understanding and practical application. Grades are based on participation, assignments, a midterm project, and a final portfolio. Clear rubrics are provided for each task, detailing expectations for evidence use, clarity, and accuracy. Late submissions are penalized unless prior arrangements are made. The policies aim to be fair, transparent, and supportive of student learning."
+      },
+      {
+        "id": "h0010",
+        "title": "Assignment Types and Deadlines",
+        "paragraph": "Students complete a range of assignments, including weekly writing exercises, a source evaluation report, a technical instructions draft, and a final evidence-based report. Deadlines are spaced to allow for feedback and revision. The table below outlines key assignments and their due weeks. Each assignment builds toward the final portfolio, ensuring steady progress and opportunities to apply feedback."
+      },
+      {
+        "id": "h0011",
+        "title": "Grading Rubrics and Criteria",
+        "paragraph": "Rubrics for each assignment specify criteria such as evidence quality, organization, clarity, and adherence to conventions. Performance levels are described for each criterion, enabling students to self-assess and target improvements. Rubrics are discussed in class and available online. Consistency in grading is maintained through calibration among instructors and moderation of sample assignments, ensuring that all students are evaluated fairly."
+      },
+      {
+        "id": "h0012",
+        "title": "Rubric for Evidence Integration",
+        "paragraph": "The evidence integration rubric assesses how well students select, evaluate, and incorporate evidence. Criteria include relevance, credibility, synthesis, and proper citation. Each criterion is rated on a scale from emerging to exemplary, with descriptors clarifying expectations. Students receive this rubric early and use it for self and peer review, fostering a clear understanding of standards for evidence-based writing."
+      },
+      {
+        "id": "h0013",
+        "title": "Rubric for Clarity and Precision",
+        "paragraph": "This rubric focuses on language use, structure, and audience awareness. Criteria include conciseness, logical flow, correct terminology, and formatting. Descriptors guide students in producing documents that are easy to read and understand. The rubric is applied to all written assignments, and feedback highlights specific areas for improvement, helping students develop a professional writing style."
+      },
+      {
+        "id": "h0014",
+        "title": "Peer Review and Self-Assessment Protocols",
+        "paragraph": "Peer review is integral to the course. Students follow structured protocols to provide constructive feedback on drafts, focusing on evidence use and clarity. Self-assessment checklists help students reflect on their own work before submission. These protocols cultivate critical evaluation skills and prepare students for collaborative writing environments, where giving and receiving feedback is routine."
+      },
+      {
+        "id": "h0015",
+        "title": "Academic Integrity and Submission Guidelines",
+        "paragraph": "Academic integrity is paramount. All work must be original, and sources must be properly cited. Students are required to submit assignments through the designated platform, which checks for plagiarism. Guidelines for collaboration and use of generative tools are clearly stated. Violations result in disciplinary action as per institutional policy. The course emphasizes ethical writing practices and respect for intellectual property."
+      }
+    ],
+    "continuations": [
+      "Instructors should remind students that evidence evaluation is an iterative process, and drafts may require multiple revisions as new sources are found or existing ones are reevaluated.",
+      "Students are encouraged to maintain a writing log to track their progress, challenges, and feedback received, which can inform their final portfolio reflection.",
+      "The course schedule allows for flexibility; if a topic requires more time, adjustments can be made to subsequent sessions while ensuring all learning outcomes are met.",
+      "Peer review groups should be diverse to expose students to different perspectives and writing styles, enhancing the learning experience for all participants.",
+      "Accessibility considerations are important; all materials should be available in multiple formats, and students with accommodations should contact the instructor early.",
+      "Regular check-ins with the instructor can help students stay on track and address any difficulties with evidence gathering or writing tasks before they become major issues.",
+      "The final portfolio should include a reflective essay where students articulate their growth as technical writers and evidence evaluators, linking specific assignments to course outcomes.",
+      "Feedback on assignments will be provided within [[F:response_days]] days for drafts and [[F:review_days]] days for final submissions, allowing timely revision for subsequent tasks.",
+      "Students are expected to spend approximately [[F:teaching_hours]] hours per week on coursework, including readings, writing, and review activities, to succeed in this intensive course.",
+      "Guest speakers from industry may be invited to share real-world experiences with technical writing and evidence use, providing practical insights and networking opportunities.",
+      "The course uses a learning management system for announcements, resources, and submissions; students should check it regularly to stay informed.",
+      "All written assignments must follow the provided style guide, which covers formatting, citation, and document design, to ensure consistency and professionalism.",
+      "In the event of a missed deadline due to extenuating circumstances, students should communicate with the instructor as soon as possible to discuss alternatives.",
+      "The midterm project involves evaluating a set of provided sources and writing a short report; detailed instructions and a rubric will be distributed early in the term.",
+      "Collaborative writing is encouraged in some exercises, but individual accountability remains; each student must submit their own work for graded assignments.",
+      "The course includes a module on visual evidence, where students learn to create and interpret charts and graphs accurately, avoiding misrepresentation.",
+      "Students will practice writing for different audiences, adapting tone and detail appropriately, which is assessed in the final report.",
+      "A workshop on citation management tools is scheduled to help students organize sources efficiently and avoid plagiarism.",
+      "The syllabus is subject to change; any updates will be announced in class and posted online, and students are responsible for staying informed.",
+      "Instructor office hours are held weekly and by appointment; students are encouraged to seek help with assignments or evidence-related questions.",
+      "The final portfolio is due in the last week and must include all revised assignments along with the reflective essay; late portfolios are not accepted without prior approval.",
+      "Students should backup their work regularly; technical issues are not accepted as excuses for late submission unless documented.",
+      "The course emphasizes the ethical use of AI tools; students must disclose any use of generative AI in their assignments according to the guidelines.",
+      "A library orientation session will introduce students to databases and resources for evidence gathering, enhancing their research skills.",
+      "The peer review process is double-blind for the midterm project to ensure fairness and anonymity, with reviews facilitated by the instructor.",
+      "Students will receive a midterm grade based on the first half of assignments, providing an indication of their progress and areas for improvement.",
+      "The course includes a session on writing for non-expert audiences, where students practice translating technical information into accessible language.",
+      "All assignments are submitted electronically; feedback is provided via comments and rubrics in the learning management system.",
+      "Students are expected to participate actively in discussions and workshops, as collaboration enhances learning and prepares them for team-based writing.",
+      "The final report requires students to collect original data from at least [[F:sites_count]] sites, analyze it, and present findings with appropriate evidence, following ethical guidelines.",
+      "A sample of [[F:sample_count]] student assignments from previous years may be used for calibration and to illustrate exemplary work, with permissions obtained.",
+      "The course concludes with a portfolio review session where students present their work and reflect on their learning journey with peers and instructors."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Key assignments and due weeks",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Assignment",
+            "Due week",
+            "Weight",
+            "Format"
+          ],
+          [
+            "Source evaluation",
+            "Early",
+            "Moderate",
+            "Report"
+          ],
+          [
+            "Technical instructions",
+            "Mid",
+            "Moderate",
+            "Draft"
+          ],
+          [
+            "Midterm project",
+            "Mid",
+            "Heavy",
+            "Report"
+          ],
+          [
+            "Final portfolio",
+            "Final",
+            "Heavy",
+            "Portfolio"
+          ],
+          [
+            "Participation",
+            "Ongoing",
+            "Light",
+            "In-class"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Evidence evaluation criteria and performance levels",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "Emerging",
+            "Proficient",
+            "Exemplary"
+          ],
+          [
+            "Relevance",
+            "Limited",
+            "Adequate",
+            "Strong"
+          ],
+          [
+            "Credibility",
+            "Unverified",
+            "Verified",
+            "Cross-checked"
+          ],
+          [
+            "Synthesis",
+            "Lists",
+            "Connects",
+            "Integrates"
+          ],
+          [
+            "Citation",
+            "Errors",
+            "Mostly correct",
+            "Flawless"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Course schedule overview",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Week",
+            "Topic",
+            "Activity",
+            "Assessment"
+          ],
+          [
+            "Early",
+            "Foundations",
+            "Readings",
+            "Quiz"
+          ],
+          [
+            "Early-mid",
+            "Evidence",
+            "Workshop",
+            "Source eval"
+          ],
+          [
+            "Mid",
+            "Drafting",
+            "Peer review",
+            "Instructions"
+          ],
+          [
+            "Mid-late",
+            "Midterm",
+            "Project",
+            "Report"
+          ],
+          [
+            "Late",
+            "Portfolio",
+            "Revision",
+            "Final"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Grading scale and corresponding performance descriptors",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Grade",
+            "Band",
+            "Descriptor",
+            "Outcome"
+          ],
+          [
+            "A",
+            "Top",
+            "Exemplary",
+            "Mastery"
+          ],
+          [
+            "B",
+            "High",
+            "Proficient",
+            "Competent"
+          ],
+          [
+            "C",
+            "Middle",
+            "Developing",
+            "Satisfactory"
+          ],
+          [
+            "D",
+            "Low",
+            "Emerging",
+            "Marginal"
+          ],
+          [
+            "F",
+            "Below",
+            "Insufficient",
+            "Fail"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Checklist for academic integrity compliance",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Item",
+            "Requirement",
+            "Check",
+            "Notes"
+          ],
+          [
+            "Original work",
+            "Yes",
+            "Done",
+            "Draft saved"
+          ],
+          [
+            "Citations",
+            "All sources",
+            "Done",
+            "Style guide"
+          ],
+          [
+            "AI disclosure",
+            "If used",
+            "Done",
+            "Form filed"
+          ],
+          [
+            "Collaboration",
+            "As allowed",
+            "Done",
+            "Group log"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Clarity and precision rubric criteria",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "Emerging",
+            "Proficient",
+            "Exemplary"
+          ],
+          [
+            "Conciseness",
+            "Wordy",
+            "Clear",
+            "Tight"
+          ],
+          [
+            "Flow",
+            "Disjointed",
+            "Logical",
+            "Seamless"
+          ],
+          [
+            "Terminology",
+            "Inconsistent",
+            "Consistent",
+            "Precise"
+          ],
+          [
+            "Formatting",
+            "Poor",
+            "Adequate",
+            "Professional"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4771,
+      "completion_tokens": 3017,
+      "total_tokens": 7788,
+      "prompt_tokens_details": {
+        "cached_tokens": 3328
+      },
+      "prompt_cache_hit_tokens": 3328,
+      "prompt_cache_miss_tokens": 1443
+    },
+    "finish_reason": "stop",
+    "request_hash": "534666f84335ac00adb6b0777d25dcad7e795ae358a0dc7102b7b9c04354c2c5",
+    "schema": "llm-content-v1",
+    "validation_retries": 2,
+    "cache_hit": false
+  }
+}

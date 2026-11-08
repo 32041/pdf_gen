@@ -1,0 +1,742 @@
+{
+  "doc_id": "0022",
+  "kind": "legal_contract",
+  "domain": "legal_contract",
+  "language": "en",
+  "title": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+  "seed": 63,
+  "target_depth": 5,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Scope of Licensed Software and Deliverables",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 Scope of Licensed Software and Deliverables",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Delivery Milestones and Acceptance Testing",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 Delivery Milestones and Acceptance Testing",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Acceptance Test Procedure and Evidence",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 Acceptance Test Procedure and Evidence",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Test Case Coverage and Pass Criteria",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1 Test Case Coverage and Pass Criteria",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Defect Severity and Remediation Windows",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.2 Defect Severity and Remediation Windows",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Acceptance Decision and Deemed Approval",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 Acceptance Decision and Deemed Approval",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Outstanding Defects and Conditional Acceptance",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 Outstanding Defects and Conditional Acceptance",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Support Services and Service Levels",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 Support Services and Service Levels",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Incident Handling and Escalation",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 Incident Handling and Escalation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Support Channels, Hours and Response Targets",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 Support Channels, Hours and Response Targets",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Response and Restoration Targets by Severity",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1 Response and Restoration Targets by Severity",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Monthly Service Reporting and Review Meetings",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.2 Monthly Service Reporting and Review Meetings",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Maintenance Windows and Change Control",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 Maintenance Windows and Change Control",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Fees, Term, Renewal and Termination",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 Fees, Term, Renewal and Termination",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      83.73,
+      89.94,
+      106.62,
+      122.54
+    ],
+    "cost": [
+      54.42,
+      58.46,
+      69.3,
+      79.65
+    ],
+    "balance": [
+      29.31,
+      31.48,
+      37.32,
+      42.89
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0009",
+      "target_previous_id": "h0009",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Support Services and Service Levels",
+      "caption": "Table 3: Support channels, availability and response expectations",
+      "rows": [
+        [
+          "Channel",
+          "Availability",
+          "Response duty",
+          "Evidence"
+        ],
+        [
+          "Service portal",
+          "Business hours",
+          "Acknowledge in 2 days",
+          "Ticket timestamp"
+        ],
+        [
+          "Telephone line",
+          "Business hours",
+          "Log and triage",
+          "Call record"
+        ],
+        [
+          "Out-of-hours route",
+          "Critical only",
+          "Page on-call engineer",
+          "Paging log"
+        ],
+        [
+          "Quarterly review",
+          "Scheduled",
+          "Confirm actions",
+          "Meeting minutes"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Support channels, availability and response expectations",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0012",
+      "target_previous_id": "h0013",
+      "target_subtype": "after_section",
+      "target_relation": "siblings",
+      "topic": "Response and Restoration Targets by Severity",
+      "caption": "Table 4: Severity bands with targets and reporting duties",
+      "rows": [
+        [
+          "Severity",
+          "Response target",
+          "Restoration aim",
+          "Report duty"
+        ],
+        [
+          "Critical",
+          "2 days",
+          "Continuous work",
+          "Daily update"
+        ],
+        [
+          "High",
+          "2 days",
+          "Business hours",
+          "Daily update"
+        ],
+        [
+          "Routine",
+          "5 days",
+          "Next release",
+          "Monthly summary"
+        ],
+        [
+          "Cosmetic",
+          "5 days",
+          "Scheduled fix",
+          "Monthly summary"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Severity bands with targets and reporting duties",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0001",
+      "target_previous_id": "h0015",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+      "caption": "Table 6: Core obligations and evidence for each party",
+      "rows": [
+        [
+          "Party",
+          "Obligation",
+          "Evidence",
+          "Timing"
+        ],
+        [
+          "Licensor",
+          "Deliver modules",
+          "Delivery notice",
+          "Per milestone"
+        ],
+        [
+          "Licensee",
+          "Run tests",
+          "Acceptance log",
+          "5 days"
+        ],
+        [
+          "Licensor",
+          "Remedy defects",
+          "Defect tickets",
+          "2 days"
+        ],
+        [
+          "Licensee",
+          "Pay fees",
+          "Invoice record",
+          "Annual"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 6.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 6,
+      "caption_text": "Core obligations and evidence for each party",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0004",
+      "target_previous_id": "h0004",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Acceptance Test Procedure and Evidence",
+      "caption": "Table 2: Acceptance coverage areas with evidence and stance",
+      "rows": [
+        [
+          "Area",
+          "Evidence",
+          "Pass stance",
+          "Owner"
+        ],
+        [
+          "Scheduling",
+          "Test log",
+          "All critical pass",
+          "Licensee"
+        ],
+        [
+          "Communications",
+          "Test log",
+          "No top defect",
+          "Licensee"
+        ],
+        [
+          "Reporting",
+          "Sample output",
+          "Reconciles",
+          "Joint"
+        ],
+        [
+          "Security",
+          "Access review",
+          "Approved",
+          "Joint"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Acceptance coverage areas with evidence and stance",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+      "caption": "Table 1: Term, renewal and termination positions",
+      "rows": [
+        [
+          "Item",
+          "Position",
+          "Notice",
+          "Record"
+        ],
+        [
+          "Term",
+          "12 months",
+          "Not applicable",
+          "Signed deed"
+        ],
+        [
+          "Renewal",
+          "Written agreement",
+          "Before expiry",
+          "Addendum"
+        ],
+        [
+          "Breach",
+          "Cure period",
+          "Written notice",
+          "Letter"
+        ],
+        [
+          "Wind-down",
+          "Data extract",
+          "On termination",
+          "Handover note"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Term, renewal and termination positions",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0013",
+      "target_previous_id": "h0013",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Monthly Service Reporting and Review Meetings",
+      "caption": "Table 5: Incident escalation stages and responsibilities",
+      "rows": [
+        [
+          "Stage",
+          "Trigger",
+          "Responsible",
+          "Output"
+        ],
+        [
+          "Intake",
+          "Ticket logged",
+          "Service desk",
+          "Severity set"
+        ],
+        [
+          "First escalation",
+          "Target missed",
+          "Service manager",
+          "Recovery plan"
+        ],
+        [
+          "Second escalation",
+          "Plan fails",
+          "Account director",
+          "Joint review"
+        ],
+        [
+          "Closure",
+          "Fix verified",
+          "Licensee",
+          "Closure note"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 5.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "Incident escalation stages and responsibilities",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Software Acceptance and Support Agreement for the Larkspur Dispatch Platform",
+        "paragraph": "This agreement records the binding understanding between Corvid Logistics Cooperative, the licensee, and Tesselwick Software Studio, the licensor, concerning delivery, acceptance and ongoing support of the Larkspur Dispatch Platform. It fixes the scope of licensed modules, the acceptance procedure with its review periods, the support service levels and the commercial terms for a term of 12 months. Both parties confirm that no other document supersedes the obligations stated here."
+      },
+      "h0002": {
+        "title": "Scope of Licensed Software and Deliverables",
+        "paragraph": "The licensor shall deliver the dispatch scheduling module, the driver communications module and the reporting console described in the delivery schedule, together with installation notes, an administrator handbook and test data. Source code is held in escrow but not transferred. The licensee receives a non-exclusive, non-transferable licence for use at 4 operating sites. Any module not expressly listed remains outside scope and requires a written change order signed by both parties."
+      },
+      "h0003": {
+        "title": "Delivery Milestones and Acceptance Testing",
+        "paragraph": "Delivery proceeds in staged milestones so that the licensee can verify each module before the next is installed. The licensor gives written notice when a milestone is ready, and the licensee then runs the acceptance tests described in the test plan. Acceptance depends on documented results, not on impressions. Milestone dates, responsible parties and the evidence each party must produce are set out in the schedule of delivery obligations."
+      },
+      "h0004": {
+        "title": "Acceptance Test Procedure and Evidence",
+        "paragraph": "The acceptance test procedure defines the test cases, the expected results and the recording format. The licensee executes the cases on its own equipment and records observations in a shared log. Each observation is tagged as a simulated test result rather than a production measurement, and no causal claim about business outcomes may be drawn from it. Discrepancies are logged with severity and reproduction steps."
+      },
+      "h0005": {
+        "title": "Test Case Coverage and Pass Criteria",
+        "paragraph": "Pass criteria are agreed per test case before execution begins. A milestone passes when all critical cases succeed and no open defect of the highest severity remains. The table below summarises the coverage areas, the evidence required and the acceptance stance for each area, so that reviewers apply the same standard across all 4 sites."
+      },
+      "h0006": {
+        "title": "Defect Severity and Remediation Windows",
+        "paragraph": "Each defect is classified by severity at logging, and the licensor may contest the classification only in writing within 2 days. Critical defects block acceptance until remedied. The licensor must acknowledge every defect within 2 days and provide a remediation plan for high-severity items. Retesting follows the same recording discipline, and closure requires the licensee's written confirmation."
+      },
+      "h0007": {
+        "title": "Acceptance Decision and Deemed Approval",
+        "paragraph": "The licensee issues an acceptance decision within 5 days of receiving the milestone notice and test materials. The decision states acceptance, conditional acceptance with a defect list, or rejection with reasons. Silence beyond the review period counts as conditional acceptance only where the licensee has received complete test materials. Rejected milestones are resubmitted with a fresh notice and a new review period."
+      },
+      "h0008": {
+        "title": "Outstanding Defects and Conditional Acceptance",
+        "paragraph": "Conditional acceptance allows operations to begin while listed defects are corrected. The parties record each outstanding defect, its severity, the agreed correction date and any interim workaround. Support obligations commence at conditional acceptance, but final acceptance is withheld until the defect list is cleared or formally waived. Waivers must be written and do not extinguish latent defect remedies."
+      },
+      "h0009": {
+        "title": "Support Services and Service Levels",
+        "paragraph": "Following acceptance, the licensor provides support for the remainder of the term of 12 months. Support covers incident intake, diagnosis, workarounds and corrections within the licensed scope. The service levels distinguish critical, high and routine incidents, each with an acknowledgement target and a restoration target. Support excludes custom development, third-party hardware faults and misuse, which are handled under separate arrangements."
+      },
+      "h0010": {
+        "title": "Incident Handling and Escalation",
+        "paragraph": "Incidents are logged through the shared service desk with a unique reference and a severity assigned at intake. The licensor acknowledges critical incidents within 2 days and provides updates at agreed intervals until restoration. If progress stalls, the licensee may escalate to the licensor's named service manager, then to the account director. Escalation does not alter the underlying service level commitments."
+      },
+      "h0011": {
+        "title": "Support Channels, Hours and Response Targets",
+        "paragraph": "Support is available through the service desk portal and a telephone line during agreed business hours, with an out-of-hours route for critical incidents. Response targets are measured from logged intake to first substantive reply. The table below sets out the channels, the hours and the response expectations so that both parties share one operational reference."
+      },
+      "h0012": {
+        "title": "Response and Restoration Targets by Severity",
+        "paragraph": "Severity determines the urgency of the response and the restoration expectation. Critical incidents receive continuous attention until a workaround is in place. High incidents are worked during business hours with daily updates. Routine incidents are scheduled into the normal release cycle. The table below records the targets and the reporting duty attached to each severity band."
+      },
+      "h0013": {
+        "title": "Monthly Service Reporting and Review Meetings",
+        "paragraph": "The licensor submits a monthly service report covering incident volumes, response performance against targets, open defects and planned maintenance. The parties meet quarterly to review the report, confirm corrective actions and agree improvement priorities. Reports distinguish logged observations from inferred causes, and no report may present simulated figures as measured production outcomes without a clear label."
+      },
+      "h0014": {
+        "title": "Maintenance Windows and Change Control",
+        "paragraph": "Planned maintenance occurs in agreed windows notified at least 5 days in advance. Emergency maintenance is permitted for critical security or stability matters, with notice as soon as practicable. Changes to the licensed software follow the change control procedure, including impact assessment, rollback plan and post-change verification. Unapproved changes that cause incidents are remedied at the licensor's cost."
+      },
+      "h0015": {
+        "title": "Fees, Term, Renewal and Termination",
+        "paragraph": "Support fees are invoiced annually in advance and are payable within the stated period. The agreement runs for 12 months and renews only by written agreement of both parties. Either party may terminate for material breach that remains uncured after a written notice period, or for insolvency. On termination the licensee receives a final data extract and continued access for a defined wind-down period."
+      }
+    },
+    "continuations": [
+      "Where a milestone notice arrives without the supporting test materials, the review period should not begin until the missing documents are supplied and acknowledged in writing by the licensee's acceptance coordinator.",
+      "Test observations recorded on licensee equipment should be archived with timestamps and operator names so that later reviewers can reconstruct exactly how each result was produced and judged.",
+      "Severity disputes are best resolved at the weekly triage meeting rather than by correspondence, because the parties can compare reproduction steps directly and agree a classification on the spot.",
+      "Support staff should confirm the licensed module and version before diagnosing an incident, since faults reported against out-of-scope customisations fall outside the agreed service levels.",
+      "Quarterly review meetings should end with a short written action list naming an owner and a date for each item, otherwise improvement priorities tend to lapse between reporting cycles.",
+      "Planned maintenance notices should include the expected user impact, the rollback trigger and a contact for the maintenance window, so that site supervisors can prepare their own contingencies.",
+      "Any workaround offered for a critical incident should be documented with its limitations, because a workaround that silently alters data handling can create larger problems than the original fault.",
+      "The licensee should nominate a single acceptance authority whose signature binds the organisation, avoiding later disagreement about whether a site manager had authority to approve a milestone.",
+      "Escrow arrangements should be reviewed annually to confirm that the deposited source code matches the version actually in production at the licensee's sites.",
+      "Fee invoices should reference the applicable service period and the licensed module list, so that finance staff can match charges against the agreed scope without requesting clarification.",
+      "Incident reports should separate what was directly observed from what was inferred, and any suggested root cause should be labelled as a hypothesis pending confirmation by the licensor's engineers.",
+      "When a defect is closed, the retest evidence should be attached to the original ticket rather than kept in separate correspondence, preserving a single auditable record for both parties.",
+      "Training sessions for site administrators should be scheduled after conditional acceptance but before live operations begin, so that staff practise on the version they will actually use.",
+      "The service desk should publish a short weekly digest of open critical and high incidents, allowing duty managers to anticipate support demands during peak dispatch periods.",
+      "Change control records should include the person who approved the change and the verification performed afterwards, since unapproved changes are a common source of avoidable incidents.",
+      "If the licensee adds new sites during the term, the licence schedule and support coverage should be amended by written addendum rather than assumed to extend automatically.",
+      "Termination planning should identify the data extract format in advance, because reconstructing dispatch histories after access ends is far more costly than preparing the export while support is still active.",
+      "Both parties should retain the acceptance log and service reports for the full term plus any statutory retention period, as these documents are the primary evidence in any later dispute.",
+      "A short joint readiness checklist before each milestone execution helps confirm that test data, accounts and equipment are in place, reducing wasted test sessions and disputed results.",
+      "Support performance should be reviewed against the agreed targets using the logged timestamps, not recollections from meetings, so that any corrective action rests on verifiable records.",
+      "Where the licensor subcontracts part of the support function, the licensee should be notified in advance and the subcontractor bound to the same confidentiality and service obligations.",
+      "Routine incidents that recur across sites should be grouped into a problem record, allowing the licensor to address a shared cause instead of closing identical tickets individually.",
+      "The licensee's security team should review any remote access used for support, and access should be time-limited and logged for each session without exception.",
+      "Acceptance criteria should be frozen before test execution begins, because moving the pass standard mid-cycle undermines confidence and invites disagreement about which version of the plan applies.",
+      "Emergency maintenance should trigger a brief post-incident note describing what changed, why the notice period was shortened and what preventative step follows.",
+      "Any waiver of an outstanding defect should state its expiry and the conditions under which the defect must still be corrected, preventing a temporary concession becoming permanent.",
+      "Service reports should include the number of incidents reopened after closure, since reopen rates reveal whether fixes are durable or merely suppress symptoms temporarily.",
+      "Site supervisors should know the escalation route and the named service manager before an incident occurs, because searching for contacts during an outage wastes the most valuable response time.",
+      "The parties should agree how licences are counted if concurrent usage changes, so that growth in dispatch volumes does not unexpectedly place the licensee outside the licensed scope.",
+      "Wind-down support should include a knowledge transfer session covering configuration, integrations and known workarounds, reducing the licensee's dependence on the departing supplier.",
+      "Confidentiality obligations should survive termination for a defined period, covering test data, dispatch records and any technical documentation exchanged during acceptance and support.",
+      "A brief annual reconciliation of the module list against what is installed helps catch undocumented additions and keeps both the licence scope and the support coverage accurate."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1688,
+        "completion_tokens": 3073,
+        "total_tokens": 4761,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 1304
+      },
+      "finish_reason": "stop",
+      "request_hash": "0075797829129383577dff69e3f9b5778022fb368da4159f936f9c1444cebdfb",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 4,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

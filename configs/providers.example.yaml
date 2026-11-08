@@ -1,0 +1,9 @@
+# Copy to providers.local.yaml. The provided private project includes your LLM key there.
+llm:
+  api_key: ''
+  # The article provider uses the official DeepSeek HTTPS endpoint.
+images:
+  api_key: ''
+  # Only fill these after choosing a model that actually GENERATES images.
+  api_base: ''        # e.g. https://your-provider.example/v1
+  model: ''

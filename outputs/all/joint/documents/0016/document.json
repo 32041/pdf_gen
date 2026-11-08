@@ -1,0 +1,602 @@
+{
+  "doc_id": "0016",
+  "kind": "legal_contract",
+  "domain": "legal_contract",
+  "language": "zh",
+  "title": "虚构仓储保管服务协议",
+  "seed": 57,
+  "target_depth": 3,
+  "has_title": true,
+  "numbering_mode": "mixed",
+  "numbering_family": "cn_outline",
+  "style": "similar",
+  "template": "spacious",
+  "columns": 1,
+  "margin_pt": 70,
+  "font_size": 11,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "虚构仓储保管服务协议",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "虚构仓储保管服务协议",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "仓储服务范围与保管条件",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "一、 仓储服务范围与保管条件",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "入库验收与单证交接",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "入库验收与单证交接",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "在库保管与检查义务",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "在库保管与检查义务",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "费用结算与责任限制",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "二、 费用结算与责任限制",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "出库流程与提货凭证",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        1
+      ],
+      "text": "（一） 出库流程与提货凭证",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "违约责任与争议解决",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        2
+      ],
+      "text": "（二） 违约责任与争议解决",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      80.69,
+      92.41,
+      108.1,
+      119.72
+    ],
+    "cost": [
+      52.45,
+      60.07,
+      70.27,
+      77.82
+    ],
+    "balance": [
+      28.24,
+      32.34,
+      37.83,
+      41.9
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0002",
+      "target_previous_id": "h0003",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "仓储服务范围与保管条件",
+      "caption": "表 1：仓储物入库验收核对清单",
+      "rows": [
+        [
+          "检查项目",
+          "核对内容",
+          "标准要求",
+          "异常处理"
+        ],
+        [
+          "品种规格",
+          "与送货单一致",
+          "完全相符",
+          "记录并通知"
+        ],
+        [
+          "数量清点",
+          "件数及重量",
+          "无短少",
+          "按实收签收"
+        ],
+        [
+          "外包装",
+          "无破损水渍",
+          "完好无损",
+          "拍照留存"
+        ],
+        [
+          "标识标签",
+          "清晰可辨",
+          "符合要求",
+          "补贴标识"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "仓储物入库验收核对清单",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "出库流程与提货凭证",
+      "caption": "表 4：出库提货单证核对流程",
+      "rows": [
+        [
+          "步骤",
+          "责任人",
+          "所需单证",
+          "时限"
+        ],
+        [
+          "提交申请",
+          "存货方",
+          "出库通知",
+          "提前2日"
+        ],
+        [
+          "单证审核",
+          "保管方",
+          "提货单及印鉴",
+          "5日内"
+        ],
+        [
+          "备货复核",
+          "保管方",
+          "库存台账",
+          "2日"
+        ],
+        [
+          "交接签收",
+          "双方",
+          "出库单",
+          "当场"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "出库提货单证核对流程",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0006",
+      "target_subtype": "before_heading",
+      "target_relation": "siblings",
+      "topic": "违约责任与争议解决",
+      "caption": "表 5：违约情形与责任对照",
+      "rows": [
+        [
+          "违约方",
+          "违约情形",
+          "责任方式",
+          "备注"
+        ],
+        [
+          "存货方",
+          "逾期付款",
+          "支付违约金",
+          "超5日可留置"
+        ],
+        [
+          "存货方",
+          "申报不实",
+          "承担损失",
+          "赔偿限额内"
+        ],
+        [
+          "保管方",
+          "货物短少",
+          "补足或赔偿",
+          "2日内"
+        ],
+        [
+          "保管方",
+          "保管不当",
+          "按市价赔偿",
+          "以28.24万元为限"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 5。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "违约情形与责任对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0005",
+      "target_previous_id": "h0004",
+      "target_subtype": "before_heading",
+      "target_relation": "cross_branch",
+      "topic": "费用结算与责任限制",
+      "caption": "表 2：仓储费用构成与结算周期",
+      "rows": [
+        [
+          "费用项目",
+          "计费依据",
+          "结算周期",
+          "支付期限"
+        ],
+        [
+          "仓储费",
+          "占用库容",
+          "月度",
+          "次月5日前"
+        ],
+        [
+          "装卸费",
+          "实际作业量",
+          "按次",
+          "作业完成后2日"
+        ],
+        [
+          "管理费",
+          "固定费率",
+          "季度",
+          "季末5日"
+        ],
+        [
+          "违约金",
+          "逾期天数",
+          "按日",
+          "随下期账单"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "仓储费用构成与结算周期",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0001",
+      "target_previous_id": "h0007",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "虚构仓储保管服务协议",
+      "caption": "表 6：协议关键条款摘要",
+      "rows": [
+        [
+          "条款主题",
+          "核心内容",
+          "适用期限",
+          "备注"
+        ],
+        [
+          "协议有效期",
+          "12个月",
+          "自签署日起",
+          "可续签"
+        ],
+        [
+          "通知期限",
+          "2日",
+          "一般事项",
+          "书面形式"
+        ],
+        [
+          "检查周期",
+          "每12周",
+          "在库保管",
+          "记录备查"
+        ],
+        [
+          "赔偿上限",
+          "28.24万元",
+          "每批次",
+          "过失责任"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 6。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 6,
+      "caption_text": "协议关键条款摘要",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0005",
+      "target_previous_id": "h0005",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "费用结算与责任限制",
+      "caption": "表 3：费用支付与逾期处理节点",
+      "rows": [
+        [
+          "节点",
+          "触发条件",
+          "处理动作",
+          "责任方"
+        ],
+        [
+          "账单发出",
+          "每月首日",
+          "发送对账单",
+          "保管方"
+        ],
+        [
+          "付款截止",
+          "次月5日前",
+          "完成支付",
+          "存货方"
+        ],
+        [
+          "逾期提醒",
+          "截止日后2日",
+          "书面催告",
+          "保管方"
+        ],
+        [
+          "留置权行使",
+          "逾期超5日",
+          "留置货物",
+          "保管方"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "费用支付与逾期处理节点",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "虚构仓储保管服务协议",
+        "paragraph": "本协议由存货方与保管方于2022年签订，旨在规范仓储保管服务中的权利义务。协议涵盖仓储物入库、保管、出库及费用结算等环节，明确双方责任边界与操作标准。保管方须按约定条件维护仓储物安全，存货方应按时支付费用并提供必要单证。协议有效期12个月，期满前可协商续签。"
+      },
+      "h0002": {
+        "title": "仓储服务范围与保管条件",
+        "paragraph": "保管方提供位于指定地点的仓库，存储面积与设施条件见附件清单。仓储物限于普通货物，不得存放违禁品或危险品。保管方须保持库房温度、湿度符合存货方书面要求，并定期检查消防与防盗设施。存货方应在入库前2日内提交货物清单及保管要求，保管方在5日内确认接收条件。"
+      },
+      "h0003": {
+        "title": "入库验收与单证交接",
+        "paragraph": "存货方送货至仓库时，保管方应依据送货单核对货物品种、数量及外包装状况，并在2日内完成验收。验收发现异常时，保管方须书面记录并通知存货方，存货方应在5日内回复处理意见。双方签署入库单后，保管责任正式转移至保管方。单证一式两份，各执一份备查。"
+      },
+      "h0004": {
+        "title": "在库保管与检查义务",
+        "paragraph": "保管方应按照货物特性分类码放，定期盘点并记录库存状态。每12周进行一次全面检查，检查内容包括包装完整性、虫害及温湿度数据。发现可能影响货物安全的情况，保管方须在2日内通知存货方并提出处置建议。存货方有权在合理时间内进入仓库抽查，但须遵守保管方安全规定。"
+      },
+      "h0005": {
+        "title": "费用结算与责任限制",
+        "paragraph": "仓储费按实际占用库容及服务项目计算，具体费率见附件。存货方应在每月5日前支付上月费用，逾期按日加收违约金。保管方对因自身过失造成的货物毁损承担赔偿责任，但每批次赔偿上限为28.24万元。因不可抗力或货物自然属性导致的损失，保管方不承担责任。"
+      },
+      "h0006": {
+        "title": "出库流程与提货凭证",
+        "paragraph": "存货方提货须提前2日发出出库通知，并提交加盖预留印鉴的提货单。保管方核对单证无误后，在5日内完成备货。提货人须出示有效身份证明及授权文件，保管方留存复印件。货物出库时双方共同清点并签署出库单，保管责任自货物离开仓库时终止。"
+      },
+      "h0007": {
+        "title": "违约责任与争议解决",
+        "paragraph": "任何一方违反本协议约定，应赔偿对方直接经济损失。存货方逾期支付费用超过5日，保管方有权留置相应货物。因保管方原因导致货物错发、短少，保管方应在2日内补足或按市价赔偿。争议双方应友好协商，协商不成可提交仓库所在地仲裁机构裁决。"
+      }
+    },
+    "continuations": [
+      "本协议附件包括仓库平面图、费率表及货物清单模板，双方应在签署时确认附件内容并加盖骑缝章。附件与正文具有同等效力，如有冲突以正文为准。",
+      "保管方应投保仓库责任险，保险范围覆盖火灾、盗窃及水渍等常见风险，保单副本交存货方备案。保险赔付不足部分按责任比例分担。",
+      "存货方保证货物包装符合长途运输及堆码要求，因包装缺陷导致的损失由存货方承担。保管方发现包装不符时有权拒绝入库。",
+      "双方指定联系人及通知方式应在签署页载明，任何变更须提前2日书面通知对方。口头通知无效，紧急情况可先电话告知后补书面文件。",
+      "协议终止后，存货方应在5日内提清全部货物并结清费用。逾期未提，保管方可按日收取库容占用费，并有权依法处置。",
+      "保管方应建立电子库存台账，每日更新出入库记录，存货方可凭授权账号查询实时库存。台账数据保存期限不少于协议终止后12个月。",
+      "因政府征收、检疫等强制措施导致货物被扣或销毁，保管方应及时通知存货方并提供官方文件，双方互不承担违约责任。",
+      "本协议未尽事宜，双方可签订补充协议。补充协议须经双方法定代表人或授权代表签字并盖章后生效，与本协议具有同等法律效力。",
+      "保管方员工在作业中应遵守安全操作规程，因违规操作造成人身伤害或货物损失，由保管方承担相应责任。",
+      "存货方应如实申报货物价值，用于确定赔偿限额。申报不实导致赔偿不足，保管方不承担额外责任。",
+      "仓库所在区域发生停电、交通管制等突发情况，保管方应及时启动应急预案，并优先保障存货方货物安全。",
+      "双方应对协议内容及履行中知悉的商业秘密保密，保密义务在协议终止后12个月内继续有效。",
+      "保管方不得擅自将仓储物转委托第三方保管，确需转委托须经存货方书面同意，并对第三方行为承担连带责任。",
+      "存货方有权要求保管方提供库存盘点报告，保管方应在每季度结束后5日内提交，报告内容包括库存数量及状态。",
+      "因货物自身特性产生异味、渗漏等，保管方有权要求存货方限期处理；存货方未处理的，保管方可代为处理，费用由存货方承担。",
+      "协议履行中产生的通知、函件应以书面形式送达对方注册地址或指定电子邮箱，送达日期以签收或发送成功之日为准。",
+      "保管方应配合存货方进行年度审计，提供必要的库存记录及出入库凭证，审计费用由存货方承担。",
+      "存货方在仓库内进行广告宣传或标识设置，须事先取得保管方书面同意，并遵守仓库统一管理规定。",
+      "本协议适用中华人民共和国法律，排除冲突法规则。仲裁裁决为终局裁决，对双方均有约束力。",
+      "保管方因设备检修需临时封闭部分库区，应提前2日通知存货方，并协助调整存储位置，费用由保管方承担。",
+      "存货方连续12周未发生出入库业务，保管方有权要求存货方确认货物状态，存货方应在5日内回复。",
+      "双方可协商采用电子签章方式签署本协议及后续单证，电子签章与手写签名具有同等法律效力。",
+      "保管方应定期对仓库员工进行消防及应急培训，培训记录保存备查，存货方可要求查阅相关记录。",
+      "因第三方原因造成货物损失，保管方应协助存货方向责任方追偿，并保留相关证据。追偿费用由存货方承担。",
+      "存货方在协议期内变更货物种类或增加特殊保管要求，应提前2日书面通知，保管方有权根据实际情况决定是否接受。",
+      "本协议一式两份，双方各执一份，自双方签字盖章之日起生效。协议扫描件与原件具有同等效力。",
+      "保管方应在仓库入口设置明显标识，标明存货方名称及货物类别，未经许可无关人员不得进入库区。",
+      "存货方提货时发现货物短少或损坏，应当场提出并拍照留存，保管方应在2日内完成核查并书面答复。",
+      "双方同意以数据电文形式交换的库存报告、对账单等，可作为争议解决中的证据使用，但须保证内容完整未被篡改。",
+      "保管方因仓库改扩建需暂时迁移货物，应提前5日通知存货方，迁移费用及风险由保管方承担。",
+      "存货方应确保货物不侵犯他人知识产权，因货物侵权导致保管方遭受索赔，存货方应承担全部赔偿责任。",
+      "本协议终止不影响双方在终止前已发生的权利义务，包括保密、赔偿及争议解决条款的效力。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1458,
+        "completion_tokens": 2901,
+        "total_tokens": 4359,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 946
+      },
+      "finish_reason": "stop",
+      "request_hash": "6c0e868923510263de005ad5a88550f470dd85abd8e815eaeb5e9f3c5073cdca",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 3,
+  "augmentation_ids": [],
+  "explicit_hierarchy": false,
+  "title_alignment": "center"
+}

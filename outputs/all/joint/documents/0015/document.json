@@ -1,0 +1,760 @@
+{
+  "doc_id": "0015",
+  "kind": "annual_report",
+  "domain": "annual_report",
+  "language": "en",
+  "title": "Meridian Forge Industrial Software Annual Review",
+  "seed": 56,
+  "target_depth": 5,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Meridian Forge Industrial Software Annual Review",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Meridian Forge Industrial Software Annual Review",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Platform Portfolio and Product Direction",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 Platform Portfolio and Product Direction",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "ForgeLine Core Engineering Suite",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 ForgeLine Core Engineering Suite",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Deployment Models and Customer Environments",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 Deployment Models and Customer Environments",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "On-Premise Plant Installations",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1.1 On-Premise Plant Installations",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Managed Regional Service Operations",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.1.2 Managed Regional Service Operations",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Upgrade Cadence and Compatibility Commitments",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 Upgrade Cadence and Compatibility Commitments",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Partner Integrations and Interface Standards",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 Partner Integrations and Interface Standards",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Commercial Performance and Customer Base",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 Commercial Performance and Customer Base",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Revenue, Cost and Operating Surplus",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 Revenue, Cost and Operating Surplus",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Customer Base and Retention Patterns",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 Customer Base and Retention Patterns",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Subscription and Support Agreements",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "2.1.1.1 Subscription and Support Agreements",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Pricing Discipline and Discount Governance",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "2.1.1.2 Pricing Discipline and Discount Governance",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Pipeline Coverage and Renewal Risk",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 Pipeline Coverage and Renewal Risk",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Operating Outlook and Board Questions",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 Operating Outlook and Board Questions",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      77.52,
+      90.08,
+      105.97,
+      120.12
+    ],
+    "cost": [
+      50.39,
+      58.55,
+      68.88,
+      78.08
+    ],
+    "balance": [
+      27.13,
+      31.53,
+      37.09,
+      42.04
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0012",
+      "target_previous_id": "h0012",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Subscription and Support Agreements",
+      "caption": "Figure 2: Support agreement service targets and escalation duties",
+      "rows": [
+        [
+          "Commitment",
+          "Target",
+          "Owner",
+          "Evidence"
+        ],
+        [
+          "Acknowledgement",
+          "2 days",
+          "Duty engineer",
+          "Ticket log"
+        ],
+        [
+          "Substantive review",
+          "5 days",
+          "Support lead",
+          "Review note"
+        ],
+        [
+          "Escalation trigger",
+          "Defect found",
+          "Engineering",
+          "Defect record"
+        ],
+        [
+          "Term length",
+          "12 months",
+          "Account lead",
+          "Signed agreement"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Support agreement service targets and escalation duties",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: Meridian Forge Industrial Software Annual Review. Section: Subscription and Support Agreements. Caption: Support agreement service targets and escalation duties. Article context: Standard agreements run for 12 months and pair a subscription licence with a support tier that defines acknowledgement and resolution targets. The support desk commits to acknowledging incidents within 2 days and to a substantive review within 5 days, with escalation to engineering when the review finds a product defect. Renewal conversations begin well before expiry so that tier changes can be agreed without service interruption.. Supporting records: [[\"Commitment\", \"Target\", \"Owner\", \"Evidence\"], [\"Acknowledgement\", \"2 days\", \"Duty engineer\", \"Ticket log\"], [\"Substantive review\", \"5 days\", \"Support lead\", \"Review note\"], [\"Escalation trigger\", \"Defect found\", \"Engineering\", \"Defect record\"], [\"Term length\", \"12 months\", \"Account lead\", \"Signed agreement\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0001",
+      "target_previous_id": "h0015",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Meridian Forge Industrial Software Annual Review",
+      "caption": "Figure 3: Simulated operating indicators across four annual periods",
+      "rows": [
+        [
+          "Period",
+          "Output",
+          "Cost",
+          "Surplus"
+        ],
+        [
+          "2022",
+          "77.52",
+          "50.39",
+          "27.13"
+        ],
+        [
+          "2023",
+          "90.08",
+          "58.55",
+          "31.53"
+        ],
+        [
+          "2024",
+          "105.97",
+          "68.88",
+          "37.09"
+        ],
+        [
+          "2025",
+          "120.12",
+          "78.08",
+          "42.04"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Simulated operating indicators across four annual periods",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: Meridian Forge Industrial Software Annual Review. Section: Meridian Forge Industrial Software Annual Review. Caption: Simulated operating indicators across four annual periods. Article context: This review records how Meridian Forge, a fictional industrial software vendor serving plant operators, closed the 2025 operating cycle and what its leadership proposes for the next one. It sets out the portfolio decisions behind the ForgeLine platform, the commercial results reported in simulated terms, the service commitments made to customers, and the governance questions the board will carry into the coming year. All figures are simulated canonical indicators used for internal rehearsal.. Supporting records: [[\"Period\", \"Output\", \"Cost\", \"Surplus\"], [\"2022\", \"77.52\", \"50.39\", \"27.13\"], [\"2023\", \"90.08\", \"58.55\", \"31.53\"], [\"2024\", \"105.97\", \"68.88\", \"37.09\"], [\"2025\", \"120.12\", \"78.08\", \"42.04\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Upgrade Cadence and Compatibility Commitments",
+      "caption": "Table 3: Upgrade readiness checklist before mandatory release windows",
+      "rows": [
+        [
+          "Check",
+          "Criterion",
+          "Owner",
+          "Record"
+        ],
+        [
+          "Compatibility",
+          "Interfaces retained",
+          "Change board",
+          "Review minute"
+        ],
+        [
+          "Test environment",
+          "Customer rehearsed",
+          "Field engineer",
+          "Test log"
+        ],
+        [
+          "Rollback route",
+          "Documented",
+          "Release lead",
+          "Runbook"
+        ],
+        [
+          "Notice period",
+          "Advance warning sent",
+          "Account lead",
+          "Notice copy"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Upgrade readiness checklist before mandatory release windows",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Upgrade Cadence and Compatibility Commitments",
+      "caption": "Figure 1: Compatibility commitment review criteria for proposed schema changes",
+      "rows": [
+        [
+          "Criterion",
+          "Question",
+          "Decision",
+          "Owner"
+        ],
+        [
+          "Interface impact",
+          "Breaks partners?",
+          "Reject or migrate",
+          "Change board"
+        ],
+        [
+          "Overlap period",
+          "Sufficient notice?",
+          "Extend if short",
+          "Release lead"
+        ],
+        [
+          "Migration path",
+          "Documented?",
+          "Require before merge",
+          "Engineering"
+        ],
+        [
+          "Customer effort",
+          "Reasonable?",
+          "Consult accounts",
+          "Account lead"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Compatibility commitment review criteria for proposed schema changes",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: Meridian Forge Industrial Software Annual Review. Section: Upgrade Cadence and Compatibility Commitments. Caption: Compatibility commitment review criteria for proposed schema changes. Article context: Upgrades follow a published cadence with a compatibility commitment: interfaces supported in one release remain supported for a defined overlap period before retirement. The engineering change board reviews every schema change against that commitment and rejects proposals that would break customer integrations without a migration path. Customers receive advance notice, a test environment, and a documented rollback route before any mandatory upgrade window opens.. Supporting records: [[\"Criterion\", \"Question\", \"Decision\", \"Owner\"], [\"Interface impact\", \"Breaks partners?\", \"Reject or migrate\", \"Change board\"], [\"Overlap period\", \"Sufficient notice?\", \"Extend if short\", \"Release lead\"], [\"Migration path\", \"Documented?\", \"Require before merge\", \"Engineering\"], [\"Customer effort\", \"Reasonable?\", \"Consult accounts\", \"Account lead\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0001",
+      "target_previous_id": "h0001",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Meridian Forge Industrial Software Annual Review",
+      "caption": "Table 1: Board questions with expected supporting evidence",
+      "rows": [
+        [
+          "Question",
+          "Evidence sought",
+          "Owner",
+          "Timing"
+        ],
+        [
+          "Service capacity",
+          "Patch demand data",
+          "Operations",
+          "Next quarter"
+        ],
+        [
+          "Compatibility limits",
+          "Integration inventory",
+          "Engineering",
+          "Next quarter"
+        ],
+        [
+          "Discount governance",
+          "Exception outcomes",
+          "Commercial",
+          "Half year"
+        ],
+        [
+          "Retention drivers",
+          "Renewal segments",
+          "Account leads",
+          "Half year"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Board questions with expected supporting evidence",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0006",
+      "target_previous_id": "h0005",
+      "target_subtype": "before_heading",
+      "target_relation": "siblings",
+      "topic": "Managed Regional Service Operations",
+      "caption": "Table 2: Managed service monthly record contents for subscribers",
+      "rows": [
+        [
+          "Item",
+          "Content",
+          "Owner",
+          "Frequency"
+        ],
+        [
+          "Availability",
+          "Service summary",
+          "Operations",
+          "Monthly"
+        ],
+        [
+          "Patch windows",
+          "Planned schedule",
+          "Release lead",
+          "Monthly"
+        ],
+        [
+          "Incidents",
+          "Acknowledgement log",
+          "Duty engineer",
+          "Monthly"
+        ],
+        [
+          "Changes",
+          "Escalation updates",
+          "Account lead",
+          "As needed"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Managed service monthly record contents for subscribers",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Meridian Forge Industrial Software Annual Review",
+        "paragraph": "This review records how Meridian Forge, a fictional industrial software vendor serving plant operators, closed the 2025 operating cycle and what its leadership proposes for the next one. It sets out the portfolio decisions behind the ForgeLine platform, the commercial results reported in simulated terms, the service commitments made to customers, and the governance questions the board will carry into the coming year. All figures are simulated canonical indicators used for internal rehearsal."
+      },
+      "h0002": {
+        "title": "Platform Portfolio and Product Direction",
+        "paragraph": "Leadership consolidated three overlapping product lines into a single ForgeLine platform so that plant engineers, maintenance planners and quality teams work from one data model. The portfolio committee weighed customer migration effort against long-term support cost and chose a staged retirement rather than a hard cutover. Product direction for the coming year follows the same logic: fewer modules, deeper integration, and published deprecation calendars that customers can plan around."
+      },
+      "h0003": {
+        "title": "ForgeLine Core Engineering Suite",
+        "paragraph": "ForgeLine Core carries the engineering functions that most plants use daily: asset registers, work order routing, shift handover records and production reporting. The product group prioritised reliability of these routines over new features, because downtime in core workflows damages trust faster than missing extras. Release notes now state which routines changed and which customer sites validated the change before general availability, giving buyers a clear evidence trail."
+      },
+      "h0004": {
+        "title": "Deployment Models and Customer Environments",
+        "paragraph": "Customers run ForgeLine in two broad ways: on-premise within the plant network, or through a managed regional service operated under contract. The deployment team documents a standard configuration baseline for each model and records every deviation with a named owner. This section explains how those baselines are maintained, how upgrades are scheduled, and what evidence the team collects before declaring a deployment stable."
+      },
+      "h0005": {
+        "title": "On-Premise Plant Installations",
+        "paragraph": "On-premise installations remain the default for plants with strict network isolation or legacy equipment interfaces. The field engineering group keeps a validated hardware matrix and refuses to certify configurations outside it, even when customers request exceptions. Each installation receives a signed acceptance record covering interface tests, backup restoration and rollback rehearsal, so support staff can distinguish a configuration fault from a product defect during incident review."
+      },
+      "h0006": {
+        "title": "Managed Regional Service Operations",
+        "paragraph": "The managed regional service runs ForgeLine for customers who prefer predictable operating cost over local control. Operations staff monitor availability, patch windows and tenant isolation, and they publish a monthly service record to each subscriber. Escalation duties are explicit: the duty engineer acknowledges incidents within the contracted response window, while the account lead owns communication with the customer until closure."
+      },
+      "h0007": {
+        "title": "Upgrade Cadence and Compatibility Commitments",
+        "paragraph": "Upgrades follow a published cadence with a compatibility commitment: interfaces supported in one release remain supported for a defined overlap period before retirement. The engineering change board reviews every schema change against that commitment and rejects proposals that would break customer integrations without a migration path. Customers receive advance notice, a test environment, and a documented rollback route before any mandatory upgrade window opens."
+      },
+      "h0008": {
+        "title": "Partner Integrations and Interface Standards",
+        "paragraph": "Partner integrations connect ForgeLine to historians, maintenance systems and laboratory information tools. The integration team maintains a conformance suite that partners run before listing, and it re-tests listings after major platform releases. Interface standards are published openly so that smaller partners can build without negotiating private terms, which the committee judged healthier for the ecosystem than exclusive connector arrangements."
+      },
+      "h0009": {
+        "title": "Commercial Performance and Customer Base",
+        "paragraph": "Commercial results are reported in simulated terms to show how the portfolio decisions translated into operating outcomes. The review presents output, cost and operating surplus across four annual periods, then turns to the customer base and the contract terms that govern renewals. Readers should treat every figure as a planning indicator rather than an audited statement, and should read the trends together with the service commitments described elsewhere."
+      },
+      "h0010": {
+        "title": "Revenue, Cost and Operating Surplus",
+        "paragraph": "Simulated output rose from 77.52 in 2022 to 120.12 in 2025, while cost moved from 50.39 to 78.08 over the same periods. Operating surplus followed from 27.13 to 42.04, a growth of 55.0 percent in output across the span. Management attributes the pattern to subscription renewals and reduced support burden after platform consolidation, though the review treats this as an interpretation rather than a proven cause."
+      },
+      "h0011": {
+        "title": "Customer Base and Retention Patterns",
+        "paragraph": "The customer base spans process manufacturers, utilities and heavy assembly plants, with a small number of large accounts contributing a disproportionate share of recurring output. Retention analysis tracks renewal timing, support ticket volume and upgrade participation together, because each alone misleads. Accounts that completed upgrades on schedule renewed more consistently in the simulated record, but the review stops short of claiming that upgrades cause retention."
+      },
+      "h0012": {
+        "title": "Subscription and Support Agreements",
+        "paragraph": "Standard agreements run for 12 months and pair a subscription licence with a support tier that defines acknowledgement and resolution targets. The support desk commits to acknowledging incidents within 2 days and to a substantive review within 5 days, with escalation to engineering when the review finds a product defect. Renewal conversations begin well before expiry so that tier changes can be agreed without service interruption."
+      },
+      "h0013": {
+        "title": "Pricing Discipline and Discount Governance",
+        "paragraph": "Pricing follows a published list with a narrow band of permitted discounting, and every exception above the band requires written approval from the commercial committee. The committee reviews discount patterns quarterly to detect drift and to check that concessions are matched by commitments such as multi-year terms or reference participation. This discipline protects margin while keeping negotiations predictable for customers and account teams alike."
+      },
+      "h0014": {
+        "title": "Pipeline Coverage and Renewal Risk",
+        "paragraph": "Pipeline coverage is assessed by comparing qualified opportunities against the renewal volume falling due in the same period, with separate views for new logos and existing accounts. Renewal risk is flagged where upgrade participation lags, where support ticket volume spikes, or where the account sponsor has changed. These flags trigger a review conversation rather than an automatic intervention, preserving account team judgement."
+      },
+      "h0015": {
+        "title": "Operating Outlook and Board Questions",
+        "paragraph": "The outlook section frames the questions the board will debate rather than predicting outcomes. Members will ask whether managed service growth justifies further regional capacity, whether the compatibility commitment constrains the release cadence too tightly, and how discount governance should adapt as larger accounts negotiate. Each question is paired with the evidence the board expects to see before deciding, keeping the discussion anchored in observable records."
+      }
+    },
+    "continuations": [
+      "Support ticket categories should be reviewed alongside renewal timing, since a rise in configuration questions may reflect migration activity rather than product instability.",
+      "Field engineers report that acceptance records are most useful when signed by both the plant contact and the visiting engineer, so accountability is shared.",
+      "The compatibility commitment deserves a periodic audit against actual partner connector behaviour, because published promises drift from practice quietly.",
+      "Discount approvals should record the specific commitment offered in exchange, otherwise the committee cannot later judge whether the concession paid for itself.",
+      "Managed service subscribers may benefit from a short quarterly review call covering availability, patch windows and any planned changes to escalation duties.",
+      "Upgrade notices should be tested with customers who have limited IT staffing, as those accounts are most exposed to scheduling pressure.",
+      "The board may wish to separate new-logo pipeline from renewal volume in every summary chart, since the two respond to different commercial levers.",
+      "Deployment baselines should be re-validated whenever a customer adds equipment interfaces, even if the platform version has not changed.",
+      "Retention analysis should note account size and sector, because small utilities and large process plants behave differently for structural reasons.",
+      "Partner conformance results should be retained for several release cycles so that regressions can be traced to a specific platform change.",
+      "Pricing exceptions granted late in a quarter warrant extra scrutiny, as time pressure rather than customer value often drives them.",
+      "Incident records should distinguish acknowledgement from substantive review, since meeting the first target says little about resolution quality.",
+      "The portfolio committee should publish deprecation calendars at least one full planning cycle ahead to give customers room to budget.",
+      "Regional service capacity planning should draw on patch window demand, not only on subscriber count, because maintenance effort varies widely.",
+      "Board questions are more useful when each carries a named owner and a date by which supporting evidence will be presented.",
+      "On-premise customers with isolated networks need an offline upgrade route documented and rehearsed before any mandatory release.",
+      "Renewal risk flags should be reviewed by the account lead and the support manager together, as each holds half the relevant context.",
+      "Operating surplus trends should be read alongside headcount and support load, since efficiency gains and underinvestment look similar in isolation.",
+      "Interface standards published openly reduce negotiation effort, but they require a maintenance owner or they fall out of date quickly.",
+      "Field acceptance tests should include a rollback rehearsal, because a failed upgrade without a tested retreat path becomes a customer crisis.",
+      "Quarterly discount reviews should compare approved exceptions with outcomes, not merely count them, to judge whether governance is working.",
+      "The review should state plainly which observations are simulated and which are drawn from operational records, so readers do not overread.",
+      "Customer sponsor changes deserve a courtesy contact from the account lead before renewal discussions formally begin.",
+      "Managed service monthly records should be archived in a form customers can retrieve, since disputes often arise months after the fact.",
+      "Upgrade participation data should be segmented by deployment model, because on-premise and managed customers face different constraints.",
+      "The board may ask whether compatibility commitments should be shortened for modules with few active integrations.",
+      "Support tier definitions should be reviewed whenever response targets change, so that contracts and practice stay aligned.",
+      "Pipeline coverage ratios should be recomputed on a consistent definition each quarter, or trend comparison becomes meaningless.",
+      "Partner listings should be re-tested after major releases and the results shared with the partner before public status changes.",
+      "Deprecation notices should name the replacement function explicitly, as vague notices generate support load rather than reducing it.",
+      "Renewal conversations that begin early tend to surface tier mismatches, which are cheaper to resolve before the contract expires.",
+      "Any interpretation of commercial trends in this review should be labelled as management judgement and checked against later periods."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1681,
+        "completion_tokens": 3135,
+        "total_tokens": 4816,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1169
+      },
+      "finish_reason": "stop",
+      "request_hash": "153aac9e92a41fb064dc58b2eeeb23b30089e8025673daecc711dfa80a97efbd",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 3,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

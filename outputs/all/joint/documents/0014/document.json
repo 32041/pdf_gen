@@ -1,0 +1,817 @@
+{
+  "doc_id": "0014",
+  "kind": "report",
+  "domain": "report",
+  "language": "zh",
+  "title": "社区出行与换乘可达性调研报告",
+  "seed": 55,
+  "target_depth": 5,
+  "has_title": false,
+  "numbering_mode": "misleading",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "spacious",
+  "columns": 1,
+  "margin_pt": 70,
+  "font_size": 11,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "调研背景与目标",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        1
+      ],
+      "text": "1. 调研背景与目标",
+      "is_document_title": false
+    },
+    {
+      "id": "h0002",
+      "title": "调研范围与对象界定",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        1
+      ],
+      "text": "2. 调研范围与对象界定",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "社区换乘节点识别方法",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "3. 社区换乘节点识别方法",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "换乘步行时间与等待观测",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "4. 换乘步行时间与等待观测",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "步行接驳路径连续性记录",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "5. 步行接驳路径连续性记录",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "换乘等待时长与拥挤感知",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "6. 换乘等待时长与拥挤感知",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "居民出行问卷设计与抽样",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "7. 居民出行问卷设计与抽样",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "换乘节点现场核查清单",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "8. 换乘节点现场核查清单",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "数据质量控制与复核",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1,
+        2
+      ],
+      "text": "9. 数据质量控制与复核",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "主要观察结果与讨论",
+      "level": 1,
+      "parent_id": "root",
+      "path": [
+        2
+      ],
+      "text": "10. 主要观察结果与讨论",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "换乘可达性分项比较",
+      "level": 2,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1
+      ],
+      "text": "11. 换乘可达性分项比较",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "社区间差异与共性归纳",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "12. 社区间差异与共性归纳",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "分时段换乘压力观察",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "13. 分时段换乘压力观察",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "早高峰进站排队特征",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "14. 早高峰进站排队特征",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "晚高峰候车区滞留情况",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "15. 晚高峰候车区滞留情况",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "平峰时段引导标识可见度",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "16. 平峰时段引导标识可见度",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "改进建议与实施优先级",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "17. 改进建议与实施优先级",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "调研局限与后续安排",
+      "level": 2,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        2
+      ],
+      "text": "18. 调研局限与后续安排",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      77.62,
+      92.74,
+      108.74,
+      116.77
+    ],
+    "cost": [
+      50.45,
+      60.28,
+      70.68,
+      75.9
+    ],
+    "balance": [
+      27.17,
+      32.46,
+      38.06,
+      40.87
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0017",
+      "target_previous_id": "h0017",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "改进建议与实施优先级",
+      "caption": "表 4：改进建议实施优先级与责任分工",
+      "rows": [
+        [
+          "建议事项",
+          "优先级",
+          "责任主体",
+          "核查方式"
+        ],
+        [
+          "路径中断修复",
+          "高",
+          "社区与运营方",
+          "现场复查"
+        ],
+        [
+          "标识遮挡清理",
+          "高",
+          "社区网格员",
+          "照片比对"
+        ],
+        [
+          "候车座椅补充",
+          "中",
+          "运营方",
+          "清单核对"
+        ],
+        [
+          "照明与排水维护",
+          "中",
+          "运营方",
+          "夜间巡查"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "改进建议实施优先级与责任分工",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0010",
+      "target_previous_id": "h0010",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "主要观察结果与讨论",
+      "caption": "表 3：观察结果分项汇总与证据来源",
+      "rows": [
+        [
+          "观察维度",
+          "主要发现",
+          "证据来源",
+          "解读提示"
+        ],
+        [
+          "步行时间",
+          "社区间差异明显",
+          "现场计时",
+          "样本时段有限"
+        ],
+        [
+          "等待时长",
+          "高峰集中",
+          "节点计数",
+          "受班次密度影响"
+        ],
+        [
+          "路径连续性",
+          "中断点集中",
+          "路径记录",
+          "区分临时占道"
+        ],
+        [
+          "拥挤感知",
+          "自评与观测不一",
+          "问卷量表",
+          "主观感受偏差"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "观察结果分项汇总与证据来源",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "居民出行问卷设计与抽样",
+      "caption": "表 2：居民出行问卷抽样与回收情况",
+      "rows": [
+        [
+          "社区",
+          "计划样本",
+          "有效回收",
+          "备注"
+        ],
+        [
+          "社区甲",
+          "240",
+          "待汇总",
+          "分层配额"
+        ],
+        [
+          "社区乙",
+          "240",
+          "待汇总",
+          "含老年组"
+        ],
+        [
+          "社区丙",
+          "240",
+          "待汇总",
+          "周末补访"
+        ],
+        [
+          "社区丁",
+          "240",
+          "待汇总",
+          "骑行接驳"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "居民出行问卷抽样与回收情况",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0001",
+      "target_previous_id": "h0001",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "调研背景与目标",
+      "caption": "表 1：调研范围与对象界定要点",
+      "rows": [
+        [
+          "界定项",
+          "纳入范围",
+          "排除范围",
+          "说明"
+        ],
+        [
+          "空间范围",
+          "社区至换乘节点",
+          "跨区长距离",
+          "步行与骑行"
+        ],
+        [
+          "对象群体",
+          "通勤居民",
+          "过境旅客",
+          "含网格员"
+        ],
+        [
+          "时间范围",
+          "早晚高峰为主",
+          "夜间时段",
+          "平峰补充"
+        ],
+        [
+          "观测单元",
+          "节点与路径",
+          "线网整体",
+          "可重复核查"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "调研范围与对象界定要点",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0011",
+      "target_previous_id": "h0018",
+      "target_subtype": "far_float",
+      "target_relation": "siblings",
+      "topic": "换乘可达性分项比较",
+      "caption": "图 1：换乘可达性分项比较框架",
+      "rows": [
+        [
+          "比较维度",
+          "记录口径",
+          "数据来源",
+          "解读注意"
+        ],
+        [
+          "步行时间",
+          "门禁至站台",
+          "现场计时",
+          "区分携带行李"
+        ],
+        [
+          "等待时长",
+          "到站至上车",
+          "观测计时",
+          "受班次影响"
+        ],
+        [
+          "路径连续性",
+          "中断点计数",
+          "路径记录",
+          "区分长期短期"
+        ],
+        [
+          "拥挤感知",
+          "五级自评",
+          "问卷",
+          "主观偏差"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "换乘可达性分项比较框架",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional report document. Document: 社区出行与换乘可达性调研报告. Section: 换乘可达性分项比较. Caption: 换乘可达性分项比较框架. Article context: 分项比较从步行时间、等待时长、路径连续性与拥挤感知四个维度展开，按社区并列呈现。比较目的在于识别短板集中环节，而非排名优劣。各维度记录口径不同，解读时需注意样本量与观测时段的差异，避免将分项得分简单加总为综合指数。. Supporting records: [[\"比较维度\", \"记录口径\", \"数据来源\", \"解读注意\"], [\"步行时间\", \"门禁至站台\", \"现场计时\", \"区分携带行李\"], [\"等待时长\", \"到站至上车\", \"观测计时\", \"受班次影响\"], [\"路径连续性\", \"中断点计数\", \"路径记录\", \"区分长期短期\"], [\"拥挤感知\", \"五级自评\", \"问卷\", \"主观偏差\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0011",
+      "target_previous_id": "h0018",
+      "target_subtype": "far_float",
+      "target_relation": "siblings",
+      "topic": "换乘可达性分项比较",
+      "caption": "图 2：分时段换乘压力观察记录项",
+      "rows": [
+        [
+          "时段",
+          "观察重点",
+          "记录指标",
+          "备注"
+        ],
+        [
+          "早高峰",
+          "进站排队",
+          "排队长度",
+          "引导员在场"
+        ],
+        [
+          "平峰",
+          "标识可见度",
+          "首次看清位置",
+          "遮挡物"
+        ],
+        [
+          "晚高峰",
+          "候车滞留",
+          "站立密度",
+          "广播清晰度"
+        ],
+        [
+          "周末",
+          "接驳连续性",
+          "绕行距离",
+          "临时占道"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "分时段换乘压力观察记录项",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional report document. Document: 社区出行与换乘可达性调研报告. Section: 换乘可达性分项比较. Caption: 分时段换乘压力观察记录项. Article context: 分项比较从步行时间、等待时长、路径连续性与拥挤感知四个维度展开，按社区并列呈现。比较目的在于识别短板集中环节，而非排名优劣。各维度记录口径不同，解读时需注意样本量与观测时段的差异，避免将分项得分简单加总为综合指数。. Supporting records: [[\"时段\", \"观察重点\", \"记录指标\", \"备注\"], [\"早高峰\", \"进站排队\", \"排队长度\", \"引导员在场\"], [\"平峰\", \"标识可见度\", \"首次看清位置\", \"遮挡物\"], [\"晚高峰\", \"候车滞留\", \"站立密度\", \"广播清晰度\"], [\"周末\", \"接驳连续性\", \"绕行距离\", \"临时占道\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "调研背景与目标",
+        "paragraph": "本调研聚焦社区出行与换乘可达性，旨在识别居民日常通勤中的换乘瓶颈与步行接驳短板。调研覆盖4个典型社区，计划收集240份有效问卷，并结合实地观测记录换乘节点等待时长与步行路径连续性。目标是为社区微更新与公交线网优化提供可复核的观察依据，而非直接推断因果关系。"
+      },
+      "h0002": {
+        "title": "调研范围与对象界定",
+        "paragraph": "调研范围限定为社区出入口至最近换乘节点的步行与骑行路径，以及公交与轨道站点间的换乘衔接。对象包括通勤居民、站点引导员与社区网格员。界定标准以步行可达范围为主，兼顾骑行接驳，排除跨区长距离出行，确保观察单元边界清晰且可重复核查。"
+      },
+      "h0003": {
+        "title": "社区换乘节点识别方法",
+        "paragraph": "采用路径追踪与节点停留观测相结合的方法，在早高峰与晚高峰分别记录换乘节点的排队长度、引导标识可见度与无障碍通道占用情况。节点识别以居民实际路径选择为准，辅以站点客流计数，避免仅凭地图距离判定可达性，从而降低对换乘便利程度的误判。"
+      },
+      "h0004": {
+        "title": "换乘步行时间与等待观测",
+        "paragraph": "观测员在换乘节点记录步行时间与等待时长，按工作日与周末分层抽样。步行时间以社区门禁至站台的实际行走计，等待时长以到站至上车计。所有记录均标注天气与时段，便于后续比较。观测结果仅描述样本特征，不用于推断线网调整的因果效应。"
+      },
+      "h0005": {
+        "title": "步行接驳路径连续性记录",
+        "paragraph": "路径连续性记录关注人行道中断、过街等待与坡道缺失三类问题。观测员沿固定路线往返两次，标记中断点位置与绕行距离，并拍摄现场照片存档。记录表要求注明中断原因与临时占道情况，以便区分长期设施缺陷与短期施工影响，为社区微更新提供可核查的现场证据。"
+      },
+      "h0006": {
+        "title": "换乘等待时长与拥挤感知",
+        "paragraph": "等待时长由观测员计时，拥挤感知由居民在问卷中按五级量表自评。两者分别记录，避免将主观感受直接等同于客观等待。分析时对比不同时段与不同站点的分布差异，并注明样本量限制。拥挤感知的差异可能受站台空间与引导秩序影响，需结合现场观察谨慎解读。"
+      },
+      "h0007": {
+        "title": "居民出行问卷设计与抽样",
+        "paragraph": "问卷围绕出行目的、换乘次数、步行接驳感受与改进意愿设计，采用分层随机抽样，按社区与年龄段配额。问卷发放前进行小规模预填，修正歧义题项。回收后剔除逻辑矛盾与缺失严重的样本，保留有效问卷用于描述性统计，不将问卷结果外推为全区总体参数。"
+      },
+      "h0008": {
+        "title": "换乘节点现场核查清单",
+        "paragraph": "现场核查清单涵盖引导标识、无障碍坡道、候车座椅、照明与排水五项内容，每项按完好、部分缺损、缺失三级记录。核查由两名观测员独立完成并交叉比对，分歧项由组长复核。清单结果用于形成节点问题台账，作为社区与运营方沟通的客观依据，而非直接评价运营绩效。"
+      },
+      "h0009": {
+        "title": "数据质量控制与复核",
+        "paragraph": "数据质量控制包括观测员培训、双人记录与每日抽查。问卷录入采用双录比对，异常值回溯原始纸质表。现场照片按节点编号归档，确保时间与位置可追溯。复核周期设定为5个工作日，发现问题及时更正并留存更正记录，保证调研过程透明可审计。"
+      },
+      "h0010": {
+        "title": "主要观察结果与讨论",
+        "paragraph": "观察结果显示，换乘等待与步行路径中断是居民反映最集中的两类问题，不同社区之间差异明显。问卷自评与现场观测在部分节点上并不一致，提示主观感受受引导秩序与站台环境影响。讨论部分强调这些结果为样本描述，不能据此断言设施改造必然带来出行改善。"
+      },
+      "h0011": {
+        "title": "换乘可达性分项比较",
+        "paragraph": "分项比较从步行时间、等待时长、路径连续性与拥挤感知四个维度展开，按社区并列呈现。比较目的在于识别短板集中环节，而非排名优劣。各维度记录口径不同，解读时需注意样本量与观测时段的差异，避免将分项得分简单加总为综合指数。"
+      },
+      "h0012": {
+        "title": "社区间差异与共性归纳",
+        "paragraph": "社区间差异主要体现在接驳距离与站点引导清晰度上，共性则表现为高峰时段等待集中与无障碍通道偶有占用。归纳时区分设施性因素与管理性因素，并标注证据来源。共性问题的归纳有助于形成跨社区共享的改进议题，但不宜直接套用单一社区的解决方案。"
+      },
+      "h0013": {
+        "title": "分时段换乘压力观察",
+        "paragraph": "分时段观察覆盖早高峰、平峰与晚高峰三个时段，记录排队长度与站台滞留人数。早高峰压力集中于进站口，晚高峰则偏向候车区。平峰时段引导标识问题更易暴露。时段差异提示改进措施需考虑时间维度，观察记录仅反映样本时段，不代表全日平均状况。"
+      },
+      "h0014": {
+        "title": "早高峰进站排队特征",
+        "paragraph": "早高峰进站排队呈现短时集中特征，排队长度在到站间隔内快速消长。观测员按固定间隔计数，记录排队尾部位置与引导员在场情况。排队特征受班次密度与安检通道开放数量影响，分析时需结合现场调度记录，避免将排队长度单独归因于设施容量不足。"
+      },
+      "h0015": {
+        "title": "晚高峰候车区滞留情况",
+        "paragraph": "晚高峰候车区滞留与班次到达间隔相关，滞留人数在连续两班车间隔内波动明显。观测记录候车区站立密度与座椅占用情况，并标注引导广播是否清晰。滞留情况受天气与周边活动影响，解读时应结合当日现场备注，不宜简单外推为常态水平。"
+      },
+      "h0016": {
+        "title": "平峰时段引导标识可见度",
+        "paragraph": "平峰时段客流较少，引导标识可见度问题更易被观察。观测员从社区出入口方向按正常步速行走，记录首次看清换乘方向标识的位置与遮挡物。可见度受广告牌、绿植与临时摊位影响。记录结果用于提出标识优化建议，但不评价标识设计本身的优劣。"
+      },
+      "h0017": {
+        "title": "改进建议与实施优先级",
+        "paragraph": "改进建议按实施难度与居民反映频次排序，优先处理路径中断与引导标识遮挡问题，其次考虑候车区座椅与照明补充。每条建议注明责任主体与核查方式，并设定2个工作日的初步回应期限。建议以观察证据为基础，实施效果需后续跟踪评估，不作事前因果承诺。"
+      },
+      "h0018": {
+        "title": "调研局限与后续安排",
+        "paragraph": "本次调研受样本时段与社区数量限制，观察结果仅代表参与社区在调研期内的状况。问卷自评与现场观测的差异提示需补充纵向跟踪。后续安排包括扩大样本、增加雨天与节假日观测，并在12个月内完成一轮回访，以检验改进建议的落实情况。"
+      }
+    },
+    "continuations": [
+      "观测记录应注明天气、时段与观测员编号，便于后续按条件筛选复核；缺失关键字段的记录不纳入描述性统计，以保证样本口径一致。",
+      "问卷回收后需检查是否存在同一居民重复填写的情况，可按社区与年龄段配额核对，异常集中提交的批次应回溯发放记录。",
+      "现场照片与纸质记录应同步归档，按节点编号建立索引；照片仅用于佐证路径状况，不用于识别个人或评价具体运营人员。",
+      "分项比较时应注意各社区观测天数可能不同，比较前统一折算为日均记录，并在表注中说明折算方法，避免直接对比原始计数。",
+      "引导标识可见度记录受观测员身高与行走速度影响，建议固定观测员并记录步速，以减少个体差异带来的系统偏差。",
+      "换乘等待时长的计时起点与终点需在培训中统一口径，观测员之间应进行一致性测试，分歧较大的记录由组长复核后采用。",
+      "居民拥挤感知属于主观评价，分析时应与客观等待时长并列呈现，不宜将两者合并为单一指标，以免掩盖感受与事实的差异。",
+      "改进建议的责任主体需在社区与运营方之间明确，回应期限仅作为沟通节点，不代表问题必然在期限内解决，跟踪记录应如实反映进展。",
+      "路径连续性记录中的临时占道情况应单独标注，与长期设施缺陷区分；短期施工导致的绕行不宜计入常态步行时间比较。",
+      "问卷中关于改进意愿的题项可能存在社会赞许偏差，解读时应结合现场观察，避免将高意愿直接视为高需求或高可行性。",
+      "数据复核记录应保留更正前后的原始值，便于审计追溯；复核人员与观测人员应适当分离，减少自我核查带来的盲区。",
+      "分时段观察的时段划分需在报告中明确定义，早高峰与晚高峰的起止时间应依据社区实际出行规律设定，而非套用统一标准。",
+      "社区间差异归纳时应注明证据来源是问卷、观测还是访谈，不同来源的结论若不一致，应并列呈现而非择一采用。",
+      "后续回访可沿用本次核查清单，保持题项与记录格式一致，以便比较改进前后的变化，但回访结果仍属观察描述。",
+      "样本量限制意味着部分分项比较的统计稳定性不足，报告中应避免使用精确排名，改用区间或定性描述表达差异。",
+      "观测员培训应包含无障碍通道识别与记录规范，确保坡道缺失、占用等情形按统一标准判定，减少主观判断差异。",
+      "问卷预填阶段应邀请不同年龄段居民参与，检验题项表述是否易懂，修订后的版本需记录变更内容以备查。",
+      "换乘节点排队计数宜采用固定间隔瞬时计数，而非累计计数，以减少重复计算；计数间隔应在方法部分明确说明。",
+      "现场核查清单的交叉比对结果应记录分歧项及复核结论，分歧率可作为数据质量的参考，但不作为节点评价依据。",
+      "改进建议的实施优先级排序依据应在报告中公开，包括居民反映频次与实施难度的判定标准，便于读者理解排序逻辑。",
+      "调研期间如遇大型活动或临时交通管制，应在当日记录中备注，相关时段的观测数据在分析时可单独标注或剔除。",
+      "居民访谈可作为问卷的补充，但访谈对象的选择应说明方式，避免仅选取表达意愿强烈的居民而引入选择偏差。",
+      "报告中的表格数据应与原始记录逐项核对，表内合计与分项应保持一致，核对人及核对日期需在存档中注明。",
+      "换乘步行时间观测应区分有无携带行李或推婴儿车的情形，此类情形下的步行速度差异较大，混合统计会模糊路径问题。",
+      "引导标识优化建议应优先处理遮挡与位置不当问题，而非全面更换标识；建议内容需与现场照片对应，便于责任方核查。",
+      "调研局限部分应明确说明未覆盖的出行方式与时段，读者据此判断结论适用范围，避免将社区样本误读为全区代表。",
+      "后续跟踪可设置简单的居民反馈渠道，收集改进措施实施后的出行感受，反馈内容作为定性参考，不替代系统观测。",
+      "数据质量控制中的双录比对应覆盖全部问卷还是抽样，需在方法中说明；抽样比对的比例与抽取方式应保持稳定。",
+      "社区出入口至站台的路径可能因门禁开放时间而变化，观测记录应注明门禁状态，避免将临时关闭误判为路径中断。",
+      "分项比较表中的定性等级应有明确定义，如完好、部分缺损、缺失的判定标准，防止不同观测员理解不一致。",
+      "报告讨论部分应避免使用因果性措辞描述观察结果，改用关联或共现表述，并提示可能存在未观测到的混杂因素。",
+      "实施优先级的回应期限可与社区沟通会议结合，会议记录应保存，作为建议落实过程的佐证材料之一。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1774,
+        "completion_tokens": 3775,
+        "total_tokens": 5549,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1262
+      },
+      "finish_reason": "stop",
+      "request_hash": "c37b928dc7ae6b405b58a2b428bfa60c92215e34c97ec07513eaa85f4ce8b9d2",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [],
+  "explicit_hierarchy": false,
+  "title_alignment": "center"
+}

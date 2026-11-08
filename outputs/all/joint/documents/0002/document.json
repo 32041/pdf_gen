@@ -1,0 +1,620 @@
+{
+  "doc_id": "0002",
+  "kind": "paper",
+  "domain": "academic_paper",
+  "language": "zh",
+  "title": "仓储机器人的充电与任务分配",
+  "seed": 43,
+  "target_depth": 3,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "similar",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "仓储机器人的充电与任务分配",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "仓储机器人的充电与任务分配",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "问题背景与观测口径",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "A 问题背景与观测口径",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "充电阈值与排队规则",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 充电阈值与排队规则",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "任务派发的匹配方法",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 任务派发的匹配方法",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "模拟结果与讨论",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "B 模拟结果与讨论",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "指标对照与记录检查",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 指标对照与记录检查",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "局限与后续验证",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 局限与后续验证",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      80.6,
+      92.02,
+      102.39,
+      115.49
+    ],
+    "cost": [
+      52.39,
+      59.81,
+      66.55,
+      75.07
+    ],
+    "balance": [
+      28.21,
+      32.21,
+      35.84,
+      40.42
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0006",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "siblings",
+      "topic": "指标对照与记录检查",
+      "caption": "表 1：各作业区充电与任务记录的核对条目",
+      "rows": [
+        [
+          "作业区",
+          "充电次数",
+          "平均等待",
+          "记录状态"
+        ],
+        [
+          "一区",
+          "80.60",
+          "52.39",
+          "完整"
+        ],
+        [
+          "二区",
+          "92.02",
+          "59.81",
+          "完整"
+        ],
+        [
+          "三区",
+          "102.39",
+          "66.55",
+          "待复核"
+        ],
+        [
+          "四区",
+          "115.49",
+          "75.07",
+          "完整"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": "plate-2",
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "各作业区充电与任务记录的核对条目",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0001",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "仓储机器人的充电与任务分配",
+      "caption": "表 2：模拟观测与因果主张的区分要点",
+      "rows": [
+        [
+          "类别",
+          "证据来源",
+          "表述方式",
+          "状态"
+        ],
+        [
+          "观测",
+          "日志记录",
+          "描述性",
+          "可核对"
+        ],
+        [
+          "相关",
+          "对照汇总",
+          "谨慎",
+          "待验证"
+        ],
+        [
+          "因果",
+          "分组实验",
+          "限定条件",
+          "未开展"
+        ],
+        [
+          "推断",
+          "模型假设",
+          "假设性",
+          "需说明"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": "plate-2",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "模拟观测与因果主张的区分要点",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0005",
+      "target_previous_id": "h0007",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "模拟结果与讨论",
+      "caption": "表 3：充电阈值与派发规则的参数设定概览",
+      "rows": [
+        [
+          "参数",
+          "设定方式",
+          "调整范围",
+          "备注"
+        ],
+        [
+          "警戒阈值",
+          "分级设定",
+          "可调",
+          "需校准"
+        ],
+        [
+          "恢复阈值",
+          "分级设定",
+          "可调",
+          "防闲置"
+        ],
+        [
+          "候选距离",
+          "就近筛选",
+          "固定",
+          "路径距离"
+        ],
+        [
+          "剔除条件",
+          "电量约束",
+          "固定",
+          "记录原因"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": "plate-2",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "充电阈值与派发规则的参数设定概览",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "仓储机器人的充电与任务分配",
+      "caption": "图 1：后续验证的分组安排与观察指标",
+      "rows": [
+        [
+          "分组",
+          "调整对象",
+          "观察指标",
+          "周期"
+        ],
+        [
+          "对照组",
+          "不变",
+          "等待时长",
+          "12"
+        ],
+        [
+          "实验组一",
+          "充电阈值",
+          "积压数量",
+          "12"
+        ],
+        [
+          "实验组二",
+          "派发规则",
+          "完成比例",
+          "12"
+        ],
+        [
+          "复核组",
+          "记录口径",
+          "缺失条目",
+          "5"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "后续验证的分组安排与观察指标",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional paper document. Document: 仓储机器人的充电与任务分配. Section: 仓储机器人的充电与任务分配. Caption: 后续验证的分组安排与观察指标. Article context: 本文围绕仓储机器人在连续作业中的电量约束与任务分配展开，重点讨论充电决策如何影响拣选效率与车队均衡。研究以240个模拟任务片段与4个模拟作业区为对象，区分可观测的调度记录与因果推断的边界。全文先说明问题背景与观测口径，再给出充电阈值与任务派发的联合规则，最后报告模拟结果并列出尚待验证的问题。. Supporting records: [[\"分组\", \"调整对象\", \"观察指标\", \"周期\"], [\"对照组\", \"不变\", \"等待时长\", \"12\"], [\"实验组一\", \"充电阈值\", \"积压数量\", \"12\"], [\"实验组二\", \"派发规则\", \"完成比例\", \"12\"], [\"复核组\", \"记录口径\", \"缺失条目\", \"5\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0004",
+      "target_previous_id": "h0004",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "任务派发的匹配方法",
+      "caption": "图 3：任务派发候选筛选的判定条件",
+      "rows": [
+        [
+          "判定项",
+          "条件",
+          "处理",
+          "记录"
+        ],
+        [
+          "距离",
+          "就近优先",
+          "纳入候选",
+          "是"
+        ],
+        [
+          "电量",
+          "不足往返",
+          "剔除",
+          "是"
+        ],
+        [
+          "紧迫度",
+          "高优先",
+          "前排",
+          "是"
+        ],
+        [
+          "充电位",
+          "占用中",
+          "延后",
+          "是"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "任务派发候选筛选的判定条件",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional paper document. Document: 仓储机器人的充电与任务分配. Section: 任务派发的匹配方法. Caption: 任务派发候选筛选的判定条件. Article context: 任务派发采用就近匹配与电量约束联合筛选：先按距离生成候选集合，再剔除电量不足以完成往返的机器人。匹配结果记录候选数量与被剔除原因，用于后续分析。该方法属于启发式规则，本文不将其表述为最优解，只作为可复现的模拟基线。. Supporting records: [[\"判定项\", \"条件\", \"处理\", \"记录\"], [\"距离\", \"就近优先\", \"纳入候选\", \"是\"], [\"电量\", \"不足往返\", \"剔除\", \"是\"], [\"紧迫度\", \"高优先\", \"前排\", \"是\"], [\"充电位\", \"占用中\", \"延后\", \"是\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "问题背景与观测口径",
+      "caption": "图 2：研究范围与观测口径的界定条目",
+      "rows": [
+        [
+          "条目",
+          "界定内容",
+          "依据",
+          "备注"
+        ],
+        [
+          "样本",
+          "240",
+          "模拟日志",
+          "片段"
+        ],
+        [
+          "作业区",
+          "4",
+          "场景设定",
+          "分区"
+        ],
+        [
+          "时间窗",
+          "统一对齐",
+          "记录规范",
+          "复核"
+        ],
+        [
+          "结论",
+          "限定范围",
+          "方法说明",
+          "谨慎"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "研究范围与观测口径的界定条目",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional paper document. Document: 仓储机器人的充电与任务分配. Section: 问题背景与观测口径. Caption: 研究范围与观测口径的界定条目. Article context: 仓储机器人电量耗尽会导致任务中断与通道拥堵，因此充电时机与任务派发必须协同考虑。本文采用模拟观测口径，记录每台机器人的电量区间、等待时长与任务完成情况，但不把相关性直接解释为因果效应。为避免口径漂移，所有记录均按统一时间窗对齐，并保留原始日志以便复核。. Supporting records: [[\"条目\", \"界定内容\", \"依据\", \"备注\"], [\"样本\", \"240\", \"模拟日志\", \"片段\"], [\"作业区\", \"4\", \"场景设定\", \"分区\"], [\"时间窗\", \"统一对齐\", \"记录规范\", \"复核\"], [\"结论\", \"限定范围\", \"方法说明\", \"谨慎\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "仓储机器人的充电与任务分配",
+        "paragraph": "本文围绕仓储机器人在连续作业中的电量约束与任务分配展开，重点讨论充电决策如何影响拣选效率与车队均衡。研究以240个模拟任务片段与4个模拟作业区为对象，区分可观测的调度记录与因果推断的边界。全文先说明问题背景与观测口径，再给出充电阈值与任务派发的联合规则，最后报告模拟结果并列出尚待验证的问题。"
+      },
+      "h0002": {
+        "title": "问题背景与观测口径",
+        "paragraph": "仓储机器人电量耗尽会导致任务中断与通道拥堵，因此充电时机与任务派发必须协同考虑。本文采用模拟观测口径，记录每台机器人的电量区间、等待时长与任务完成情况，但不把相关性直接解释为因果效应。为避免口径漂移，所有记录均按统一时间窗对齐，并保留原始日志以便复核。"
+      },
+      "h0003": {
+        "title": "充电阈值与排队规则",
+        "paragraph": "充电决策采用分级阈值：电量低于警戒值时进入充电队列，高于恢复值时返回任务池。排队规则按剩余任务紧迫度与充电桩占用情况排序，避免多台机器人同时涌向同一充电位。该规则为可调参数，本文仅说明其设定逻辑，不宣称其优于其他策略。"
+      },
+      "h0004": {
+        "title": "任务派发的匹配方法",
+        "paragraph": "任务派发采用就近匹配与电量约束联合筛选：先按距离生成候选集合，再剔除电量不足以完成往返的机器人。匹配结果记录候选数量与被剔除原因，用于后续分析。该方法属于启发式规则，本文不将其表述为最优解，只作为可复现的模拟基线。"
+      },
+      "h0005": {
+        "title": "模拟结果与讨论",
+        "paragraph": "模拟结果显示，充电等待与任务积压存在同步波动，但这一同步并不能直接证明充电规则导致了积压变化。讨论部分区分两类结论：一类是可从日志直接核对的观测事实，另一类是需对照实验才能支持的因果主张。本文仅报告前者，并把后者列为后续验证方向。"
+      },
+      "h0006": {
+        "title": "指标对照与记录检查",
+        "paragraph": "指标对照表用于检查各作业区的记录完整性与口径一致性，包括充电次数、平均等待与任务完成比例等条目。表中数值均来自模拟记录，用于内部核对，不作为对外绩效结论。若某作业区记录缺失，应在复核后补齐再纳入对照。"
+      },
+      "h0007": {
+        "title": "局限与后续验证",
+        "paragraph": "本文的局限在于模拟环境简化了通道拥堵与人工干预，样本覆盖也有限。后续工作拟引入对照分组，分别调整充电阈值与派发规则，以分离各自影响。在完成对照之前，任何关于效率提升的表述都应保持谨慎，并明确标注为待验证假设。"
+      }
+    },
+    "continuations": [
+      "记录核对时应保留原始时间戳与机器人编号，便于在出现异常等待时回溯具体环节，而不是仅凭汇总指标判断。",
+      "充电桩数量与位置属于场景设定的一部分，调整后需重新校准阈值，否则前后结果不具备可比性。",
+      "任务紧迫度的定义应事先固定，避免在分析阶段临时修改权重，导致结论难以复现。",
+      "若某作业区日志存在缺口，宜单独标注并排除在对照之外，而不是用插值填补后直接比较。",
+      "模拟中的电量下降速率假设为常数，实际作业可能因载重与路面差异而波动，需要在局限中说明。",
+      "派发规则剔除的候选任务应记录原因分类，这有助于判断积压是电量约束还是通道占用所致。",
+      "充电排队顺序可按先到先服务与紧迫度混合设定，但混合比例需在实验前声明。",
+      "分析同步波动时，应同时查看任务到达节奏，避免把到达高峰误判为充电规则的影响。",
+      "对照实验应保持场景与任务分布一致，仅改变单一规则参数，以降低混杂因素。",
+      "指标对照表中的条目应保持稳定，中途增删字段会破坏跨作业区的可比性。",
+      "对于等待时长的极端值，宜单独列出并说明处理方式，而不是直接截断后隐去。",
+      "机器人返回任务池的恢复值若设得过高，可能造成充电位闲置，这一权衡需在讨论中提及。",
+      "所有模拟数值仅用于内部方法验证，不应外推为真实仓库的绩效承诺。",
+      "复核流程建议由两人独立核对同一批记录，以减少单点录入错误带来的偏差。",
+      "若后续引入对照分组，应预先登记分析指标，避免事后挑选有利结果。",
+      "通道拥堵在本文中被简化处理，实际场景下机器人相互避让可能显著改变等待分布。",
+      "任务派发的距离度量方式应明确为路径距离还是直线距离，两者结果差异较大。",
+      "充电次数与任务完成比例应结合观察窗口长度解读，窗口不同则数值不可直接并列。",
+      "对于记录中出现的重复条目，应先确认是否为重试日志，再决定是否合并。",
+      "讨论部分宜明确区分观测描述与机制解释，避免读者把同步变化理解为因果证据。",
+      "阈值参数宜以区间形式报告，而非单一取值，以体现设定中的不确定性。",
+      "若某作业区充电位长期占用，可考虑在后续实验中单独调整该区配置并观察差异。",
+      "汇总指标应附带样本量说明，样本过少的作业区不宜参与横向排序。",
+      "派发规则的候选集合规模会影响计算耗时，这一成本在效率讨论中不应被忽略。",
+      "对照实验的周期应足够覆盖任务到达的周期性波动，否则分组差异可能被时段效应掩盖。",
+      "所有假设条件宜集中列出，便于读者判断结论适用的边界。",
+      "记录检查中发现的口径不一致应写入附录，而不是在正文中悄然修正。",
+      "充电与派发的联合规则可拆分为两个独立模块分别测试，再评估组合效果。",
+      "若模拟结果与预期不符，应优先检查参数录入与时间窗对齐，而非直接修改模型。",
+      "本文不提供真实仓库的性能结论，读者应把模拟数值视为方法演示而非基准。",
+      "后续验证可引入延迟指标，观察充电决策对任务完成时间的滞后影响。",
+      "文档定稿前应统一术语，例如充电位与充电桩的用法需保持一致，避免歧义。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1459,
+        "completion_tokens": 2148,
+        "total_tokens": 3607,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 947
+      },
+      "finish_reason": "stop",
+      "request_hash": "32c0cab918128ea4ac773b07546e39740b1322e0c87210ecbb170848c31077a1",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 1,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

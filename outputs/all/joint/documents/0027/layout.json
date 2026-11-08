@@ -1,0 +1,3216 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            171.63799999999998,
+            62.0,
+            423.638,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "仓储协同运作能力综合考核试卷",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            513.5,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本试卷用于检验考生在仓储协同场景中的综合判断与处置能力，考试时长以卷面说明为准，闭卷作",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            524.0,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "答。全卷围绕协同计划、库存共享、作业衔接与异常处置四个方向设题，考生须结合给定情境作答，",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            524.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "不得引用外部资料。评分关注决策依据是否清晰、责任划分是否明确、证据链是否完整，仅给出结论",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            209.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "而无推理过程的答案酌情扣分。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            173.00000000000003,
+            195.23800027370453,
+            194.70000000000002
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "I 考核说明与作答要求",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            198.70000000000002,
+            524.0,
+            214.97500000000002
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本部分说明试卷结构、作答规范与评分口径。全卷分为情境判断、方案设计与案例分析三组题型，考",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            214.97500000000002,
+            524.0,
+            231.25000000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "生须在答题区域内书写，字迹清楚。涉及数量推算的题目应写明依据与步骤，涉及责任划分的题目应",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            231.25000000000003,
+            513.5,
+            247.52500000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "指明承担主体与触发条件。凡答案与题设情境无关、或仅罗列术语而无具体处置措施的，按低档计",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.52500000000003,
+            83.0,
+            263.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "分。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            269.8,
+            174.0,
+            288.40000000000003
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "情境判断题作答规范",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            292.40000000000003,
+            524.0,
+            308.675
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "情境判断题要求考生在给定条件下作出取舍并说明理由。作答时应先识别关键约束，再判断可选方案",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            308.675,
+            524.0,
+            324.95
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "的可行性，最后给出处置顺序。若情境中存在信息缺口，考生应明确指出需要补充的证据类型，而不",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            324.95,
+            461.0,
+            341.22499999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "是凭假设直接下结论。评分时对理由与结论一致、约束识别准确的答案给予较高档次。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            347.22499999999997,
+            195.01300030946732,
+            364.275
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "I.1.1 第一组情境判断题目",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            368.275,
+            524.0,
+            384.54999999999995
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "本组共设若干情境，均取自多仓协同的日常运作。考生需在有限时间内判断优先级并说明依据。题目",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            384.54999999999995,
+            524.0,
+            400.82499999999993
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "所给数据仅为情境设定，考生不得据此推断总体经营状况。作答时应区分可直接观测的现场事实与需",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            400.82499999999993,
+            419.0,
+            417.0999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "要进一步核查的推断，凡将推断表述为既定事实的，本组按规范性问题扣分。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            423.0999999999999,
+            175.1795001477003,
+            439.3749999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            445.3749999999999,
+            183.0,
+            461.64999999999986
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "跨仓调拨冲突处置情境",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            465.64999999999986,
+            533.276,
+            599.6499999999999
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "评分维度",
+              "观察要点",
+              "常见问题",
+              "档次倾向"
+            ],
+            [
+              "约束识别",
+              "关键条件是否列全",
+              "遗漏时间约束",
+              "中"
+            ],
+            [
+              "处置顺序",
+              "先后是否可复核",
+              "顺序自相矛盾",
+              "低"
+            ],
+            [
+              "证据说明",
+              "记录名称是否具体",
+              "仅写系统显示",
+              "中"
+            ],
+            [
+              "升级条件",
+              "触发与时限是否写明",
+              "只写上报",
+              "中"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            465.64999999999986,
+            533.276,
+            632.6499999999999
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            606.6499999999999,
+            230.12150011956692,
+            619.8249999999998
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "图 1：第一组情境判断的评分维度与观察要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            632.6499999999999,
+            524.0,
+            648.9249999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "某协同仓群在两个收货窗口同时出现到货集中，调拨指令与本地出库计划发生冲突。考生需判断应优",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            648.9249999999998,
+            524.0,
+            665.1999999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "先保障哪一类作业，并说明调拨冻结、窗口顺延与人工干预的适用顺序。作答须指出判断所依据的现",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            665.1999999999998,
+            513.5,
+            681.4749999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "场记录，如到货预约、月台占用与人员排班，并说明在何种条件下应升级至区域协同负责人裁定。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            687.4749999999998,
+            212.4900003671646,
+            702.9749999999998
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "I.1.1.1.1 库存可见性异常情境",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            706.9749999999998,
+            524.0,
+            723.2499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "某共享库存池显示可用量充足，但拣货现场连续出现缺货。考生需分析可见性数据与实物状态不一致",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            723.2499999999998,
+            524.0,
+            739.5249999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "的可能环节，包括在途未确认、锁定未释放与盘点差异。作答应给出核查顺序与临时处置措施，并说",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            739.5249999999997,
+            440.0,
+            755.7999999999997
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "明在核实前是否暂停对外承诺。评分关注考生是否区分系统记录偏差与真实短缺。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            175.1795001477003,
+            78.275
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            175.1795001477003,
+            100.55000000000001
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            106.55000000000001,
+            533.276,
+            240.55
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "核查环节",
+              "核对内容",
+              "责任角色",
+              "临时措施"
+            ],
+            [
+              "在途确认",
+              "未确认到货",
+              "计划岗",
+              "暂缓承诺"
+            ],
+            [
+              "锁定释放",
+              "过期锁定",
+              "调度岗",
+              "人工释放"
+            ],
+            [
+              "实物盘点",
+              "账实差异",
+              "现场主管",
+              "分区隔离"
+            ],
+            [
+              "记录回传",
+              "差异登记",
+              "复核岗",
+              "台账更新"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            106.55000000000001,
+            533.276,
+            273.55
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.55,
+            230.12150011956692,
+            260.725
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 1：库存可见性异常的核查顺序与临时措施",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            273.55,
+            524.0,
+            289.825
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "考生在作答涉及跨仓调拨的题目时，应说明调拨指令的确认方式与撤销条件，避免只描述结果而不描",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            289.825,
+            314.0,
+            306.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "述过程。记录留存方式也应一并写明，便于事后复核。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.09999999999997,
+            524.0,
+            328.37499999999994
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "凡题目要求判断优先级，考生宜先列出约束条件再排序，排序依据应可被他人复核。若约束之间存在",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.37499999999994,
+            240.5,
+            344.6499999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "冲突，应指出冲突点并说明取舍理由。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.6499999999999,
+            524.0,
+            366.9249999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "涉及库存可见性的作答，应区分系统记录、现场实物与在途信息三类来源，并说明三者不一致时的核",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.9249999999999,
+            156.5,
+            383.1999999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "查顺序与临时措施。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            389.1999999999999,
+            513.5,
+            405.47499999999985
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "方案类题目中，考生提出的每一个步骤都应能对应到具体角色与凭证，缺少责任主体的步骤难以执",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            405.47499999999985,
+            198.5,
+            421.74999999999983
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "行，也难以在复核时被验证。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            427.74999999999983,
+            524.0,
+            444.0249999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "考生若引用题设中的时间节点，应保持前后一致；同一题内出现相互矛盾的时间表述，会削弱答案的",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            444.0249999999998,
+            177.5,
+            460.2999999999998
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "可信度，影响整体评分。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.2999999999998,
+            524.0,
+            482.57499999999976
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "异常处置类答案应包含发现、上报、处置、回传与复盘五个环节，缺环的答案在完整性维度上会被扣",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            482.57499999999976,
+            167.0,
+            498.84999999999974
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "分，考生可据此自查。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            504.84999999999974,
+            524.0,
+            521.1249999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "对于信息不足的情境，明确指出缺口并给出补充核查路径，通常比强行下结论更符合评分要求，也更",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.1249999999998,
+            156.5,
+            537.3999999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "贴近实际协同工作。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            543.3999999999997,
+            524.0,
+            559.6749999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "考生在描述验证方式时，应说明观察周期与记录载体，仅写定期检查而不说明由谁检查、检查什么，",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            559.6749999999997,
+            156.5,
+            575.9499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "难以获得较高评价。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            581.9499999999997,
+            524.0,
+            598.2249999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "答辩追问环节中，考生应如实区分设计意图与实测证据，把预期效果当作既成事实陈述，容易被判定",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.2249999999997,
+            135.5,
+            614.4999999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "为规范性问题。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            620.4999999999997,
+            524.0,
+            636.7749999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "涉及温控或时效货物的题目，考生应说明超时风险的识别方式与升级条件，并指出交接凭证的填写要",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.7749999999996,
+            167.0,
+            653.0499999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "求，确保责任可追溯。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.0499999999996,
+            524.0,
+            675.3249999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "方案中的同步频率不宜一概而论，考生可根据作业波动特征提出分层安排，并说明调整频率的触发条",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            675.3249999999996,
+            135.5,
+            691.5999999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "件与决策主体。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            697.5999999999996,
+            524.0,
+            713.8749999999995
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "考生在划分责任时，应避免出现无人负责的环节，也应避免多头负责导致指令冲突，交接点的确认方",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            713.8749999999995,
+            114.5,
+            730.1499999999995
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "式是关键。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            736.1499999999995,
+            524.0,
+            752.4249999999995
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "若题目要求给出替代路径，考生应说明替代路径的启动条件与终止条件，仅列出备选做法而不说明何",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            156.5,
+            78.275
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "时启用，得分有限。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            84.275,
+            533.276,
+            218.275
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "判断要素",
+              "观察内容",
+              "记录凭证",
+              "处置倾向"
+            ],
+            [
+              "货物属性",
+              "温控要求",
+              "交接单",
+              "优先放行"
+            ],
+            [
+              "等待时长",
+              "到场时间",
+              "排队记录",
+              "顺序调整"
+            ],
+            [
+              "泊位占用",
+              "剩余泊位",
+              "泊位台账",
+              "临时分流"
+            ],
+            [
+              "人员配置",
+              "班组在岗",
+              "排班表",
+              "增派支援"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            84.275,
+            533.276,
+            251.275
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            196.12150011956692,
+            238.45000000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 2：月台拥堵情境的放行判断要素",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            251.275,
+            222.4900003671646,
+            266.775
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "I.1.1.1.2 月台拥堵与优先级情境",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            270.775,
+            513.5,
+            287.04999999999995
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "某仓在高峰时段出现月台排队，冷藏车辆与普通车辆同时等待。考生需判断放行顺序与临时泊位安",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            287.04999999999995,
+            524.0,
+            303.32499999999993
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "排，并说明温控货物超时等待的风险处置。作答应指出需要记录的时间节点与交接凭证，并说明何种",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            303.32499999999993,
+            408.5,
+            319.5999999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "情形下应启动跨仓分流。仅回答先到先得的答案视为未识别货物属性差异。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            325.5999999999999,
+            204.0,
+            341.8749999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "第一组评分要点与常见失分",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            345.8749999999999,
+            524.0,
+            362.14999999999986
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "本组评分侧重约束识别、处置顺序与证据说明三项。常见失分包括只给结论不写依据、把系统显示当",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            362.14999999999986,
+            524.0,
+            378.42499999999984
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "作实物事实、以及未说明升级条件。考生若提出暂停承诺或启动分流等较强措施，须同时说明触发阈",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            378.42499999999984,
+            440.0,
+            394.6999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "值与恢复条件，否则不予加分。答案中存在自相矛盾的处置顺序时，按低档处理。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            400.6999999999998,
+            217.01300030946732,
+            417.74999999999983
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "I.1.2 第一组作答时间分配建议",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            421.74999999999983,
+            513.5,
+            438.0249999999998
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "建议考生先用较短时间通读全部情境，标记约束条件与关键时间点，再逐题作答。单题书写不宜过",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            438.0249999999998,
+            524.0,
+            454.2999999999998
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "长，重点在于理由完整。若某题判断困难，可先写出核查步骤与临时措施，保留部分得分。切忌在单",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            454.2999999999998,
+            272.0,
+            470.57499999999976
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "题上反复涂改而影响后续题目的作答完整度。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            476.57499999999976,
+            186.0,
+            495.1749999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "第一组答题纸填写提示",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            499.1749999999998,
+            524.0,
+            515.4499999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "答题纸按题号分区，考生须在对应区域内作答，超出区域的文字不予评阅。涉及顺序判断的题目可用",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            515.4499999999998,
+            524.0,
+            531.7249999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "文字表述先后，不必绘制图形。若需引用题设中的记录名称，应写全称以免歧义。修改处应保持清晰",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            531.7249999999998,
+            303.5,
+            547.9999999999998
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "可辨，涂改严重导致无法辨认的部分按未作答处理。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.9999999999998,
+            199.34000045061111,
+            575.6999999999998
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "II 第二组方案设计题目",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.6999999999998,
+            524.0,
+            595.9749999999998
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "本组要求考生针对给定的协同场景提出可执行的方案，包括目标、步骤、责任分工与验证方式。方案",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            595.9749999999998,
+            524.0,
+            612.2499999999998
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "应具备可操作性，避免笼统表述。考生需说明方案实施后如何判断是否达到预期，以及在何种条件下",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            612.2499999999998,
+            366.5,
+            628.5249999999997
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "调整或终止。评分关注方案与情境约束的匹配度，而非方案篇幅。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            634.5249999999997,
+            186.0,
+            653.1249999999998
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "共享库存协同方案设计",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            657.1249999999998,
+            524.0,
+            673.3999999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "考生需为多仓共享库存设计一套协同方案，涵盖库存可见性维护、锁定与释放规则、以及跨仓调拨的",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            673.3999999999997,
+            524.0,
+            689.6749999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "审批路径。方案应说明各角色的职责边界与信息同步节奏，并给出验证协同效果的方法。作答须区分",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            689.6749999999997,
+            387.5,
+            705.9499999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "方案中的设定参数与实测结果，不得将设计目标表述为已实现的成效。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            711.9499999999997,
+            175.1795001477003,
+            728.2249999999997
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见图 4。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            198.23600044846535,
+            79.05
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "II.1.1 方案要素与责任分工",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            524.0,
+            99.325
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "本部分要求考生把方案拆解为可核查的要素，明确每项要素的负责人、输入信息与输出凭证。责任分",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            524.0,
+            115.60000000000001
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "工应避免职责重叠或空白，交接环节须指明确认方式。考生还应说明当某一要素延误时的替代路径，",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            387.5,
+            131.875
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "以及由谁判断是否启动替代路径。要素描述含糊的方案难以获得高分。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            137.875,
+            193.5,
+            154.15
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "协同节奏与信息同步设计",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            158.15,
+            524.0,
+            174.425
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "考生需设计协同节奏，包括例会频次、数据刷新时点与异常上报路径。设计应说明不同层级获取信息",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            174.425,
+            524.0,
+            190.70000000000002
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "的粒度差异，以及冲突信息的仲裁方式。作答须指出节奏设定所依据的作业波动特征，并说明在旺季",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            190.70000000000002,
+            419.0,
+            206.97500000000002
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "或突发情况下如何临时加密同步。仅有频次而无仲裁机制的答案视为不完整。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            212.97500000000002,
+            235.42000049352646,
+            228.47500000000002
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "II.1.1.1.1 同步频率与作业波动匹配",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            232.47500000000002,
+            524.0,
+            248.75000000000003
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "本小题要求考生说明同步频率如何与作业波动相匹配。考生应识别波动来源，如到货集中、订单峰值",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            248.75000000000003,
+            524.0,
+            265.02500000000003
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "与人员轮换，并据此提出分层同步安排。作答需指出频率过高带来的确认负担与频率过低带来的滞后",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            265.02500000000003,
+            377.0,
+            281.3
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "风险，并给出权衡依据。评分关注考生是否给出可验证的调整条件。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            287.3,
+            215.42000049352646,
+            302.8
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "II.1.1.1.2 异常上报路径与仲裁",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            306.8,
+            524.0,
+            323.075
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "本小题要求考生设计异常上报路径，明确一线、仓级与区域协同层之间的报告关系与时限要求。考生",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            323.075,
+            524.0,
+            339.34999999999997
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "应说明何种异常可现场处置、何种须上报仲裁，以及仲裁结论如何回传执行。作答须指出记录留存方",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            339.34999999999997,
+            419.0,
+            355.62499999999994
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "式，确保事后可追溯。路径设计缺少时限或缺少回传环节的，按不完整处理。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            361.62499999999994,
+            193.5,
+            377.8999999999999
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "方案验证指标与复核方式",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            381.8999999999999,
+            524.0,
+            398.1749999999999
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "考生需为所设计方案提出验证指标与复核方式，指标应可观测、可记录，并与方案目标对应。复核方",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            398.1749999999999,
+            524.0,
+            414.4499999999999
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "式应说明由谁复核、依据哪些凭证、多久复核一次。作答须区分过程指标与结果指标，并说明指标异",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            414.4499999999999,
+            335.0,
+            430.72499999999985
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "常时的处置动作。不得把尚未采集的数据描述为已有结论。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            436.72499999999985,
+            175.1795001477003,
+            452.99999999999983
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            458.99999999999983,
+            533.276,
+            592.9999999999998
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0017",
+          "belongs_to": "h0017",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "指标类别",
+              "观察对象",
+              "复核主体",
+              "记录方式"
+            ],
+            [
+              "过程指标",
+              "同步时点",
+              "仓级主管",
+              "例会记录"
+            ],
+            [
+              "过程指标",
+              "上报时限",
+              "协同层",
+              "异常台账"
+            ],
+            [
+              "结果指标",
+              "缺货次数",
+              "复核小组",
+              "抽查凭证"
+            ],
+            [
+              "结果指标",
+              "调拨达成",
+              "区域层",
+              "调拨单据"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            458.99999999999983,
+            533.276,
+            625.9999999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            599.9999999999998,
+            204.62150011956692,
+            613.1749999999997
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "图 2：方案验证指标的分类与复核安排",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            625.9999999999998,
+            231.23600044846535,
+            643.0499999999997
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "II.1.2 第二组方案可行性评审要点",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            647.0499999999997,
+            524.0,
+            663.3249999999997
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "本组评审关注方案是否与情境约束匹配、责任是否清晰、验证是否可执行。评审时对提出明确触发条",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            663.3249999999997,
+            524.0,
+            679.5999999999997
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "件与恢复条件的方案给予较高评价。若方案依赖未说明的信息来源，或验证方式仅停留在口头确认，",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            679.5999999999997,
+            303.5,
+            695.8749999999997
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "则相应扣分。考生应避免堆砌术语而缺少具体动作。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            701.8749999999997,
+            210.0,
+            720.4749999999997
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "第二组方案答辩与追问准备",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            724.4749999999997,
+            524.0,
+            740.7499999999997
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "本组部分题目设有追问环节，考生需准备就方案中的关键假设作出说明。追问可能涉及责任边界、信",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            740.7499999999997,
+            524.0,
+            757.0249999999996
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "息滞后与成本权衡，考生应能指出方案中最脆弱的环节及应对办法。答辩时应区分设计意图与实测证",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            377.0,
+            78.275
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "据，凡将预期效果表述为既成事实的，追问环节按规范性问题扣分。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            175.1795001477003,
+            100.55000000000001
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            106.55000000000001,
+            533.276,
+            240.55
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0019",
+          "belongs_to": "h0019",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "追问方向",
+              "关注内容",
+              "作答要求",
+              "失分风险"
+            ],
+            [
+              "责任边界",
+              "谁确认交接",
+              "指明主体",
+              "职责空白"
+            ],
+            [
+              "信息滞后",
+              "同步间隔",
+              "说明权衡",
+              "笼统表述"
+            ],
+            [
+              "成本权衡",
+              "依据来源",
+              "可观测信息",
+              "主观断言"
+            ],
+            [
+              "脆弱环节",
+              "应对办法",
+              "给出替代",
+              "无替代路径"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            106.55000000000001,
+            533.276,
+            273.55
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            247.55,
+            204.62150011956692,
+            260.725
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 3：答辩追问的常见方向与作答要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            273.55,
+            524.0,
+            289.825
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "复核方式的作答应体现独立性，说明复核者与被复核者的关系，避免由执行方自行确认结果而造成验",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            289.825,
+            104.0,
+            306.09999999999997
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "证失效。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.09999999999997,
+            524.0,
+            328.37499999999994
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "考生书写处置顺序时，可用简短文字标明先后，不必展开冗长论述；顺序清楚、依据明确比篇幅更重",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.37499999999994,
+            83.0,
+            344.6499999999999
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "要。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.6499999999999,
+            513.5,
+            366.9249999999999
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "对于涉及多仓协同的题目，考生应指出区域层与仓层之间的信息粒度差异，并说明冲突信息由谁仲",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.9249999999999,
+            135.5,
+            383.1999999999999
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "裁、如何回传。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            389.1999999999999,
+            524.0,
+            405.47499999999985
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "答题纸区域有限，考生宜先列要点再补充说明，避免大段铺陈导致关键依据被淹没，影响评阅时的要",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            405.47499999999985,
+            104.0,
+            421.74999999999983
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "点识别。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            427.74999999999983,
+            524.0,
+            444.0249999999998
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "考生提出暂停对外承诺等较强措施时，应同时给出恢复条件，否则容易被认为处置过度，评分时不予",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            444.0249999999998,
+            93.5,
+            460.2999999999998
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "加分。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.2999999999998,
+            524.0,
+            482.57499999999976
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "涉及盘点差异的题目，考生应说明差异核实前的临时处置与对外口径，避免在事实未明时作出确定性",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            482.57499999999976,
+            93.5,
+            498.84999999999974
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "承诺。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            504.84999999999974,
+            524.0,
+            521.1249999999998
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "方案验证指标应区分过程与结果两类，考生可说明各自的观察周期与记录方式，使验证结论具备可复",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.1249999999998,
+            114.5,
+            537.3999999999997
+          ],
+          "block_id": "t00039",
+          "type": "text",
+          "text": "核的基础。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            543.3999999999997,
+            524.0,
+            559.6749999999997
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "考生在描述信息同步时，应指出哪些信息需要即时推送、哪些可按班次汇总，并说明分类依据，避免",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            559.6749999999997,
+            114.5,
+            575.9499999999997
+          ],
+          "block_id": "t00040",
+          "type": "text",
+          "text": "一律实时。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            581.9499999999997,
+            524.0,
+            598.2249999999997
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "追问中若被问及成本权衡，考生应说明权衡所依据的可观测信息，而非给出笼统判断，以体现决策的",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.2249999999997,
+            104.0,
+            614.4999999999997
+          ],
+          "block_id": "t00041",
+          "type": "text",
+          "text": "透明度。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            620.4999999999997,
+            524.0,
+            636.7749999999996
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "作答涉及升级裁定时，考生应写明升级的触发条件与时限要求，并说明升级期间现场应采取的临时措",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.7749999999996,
+            83.0,
+            653.0499999999996
+          ],
+          "block_id": "t00042",
+          "type": "text",
+          "text": "施。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.0499999999996,
+            524.0,
+            675.3249999999996
+          ],
+          "block_id": "t00043",
+          "type": "text",
+          "text": "考生应避免把情境设定中的数值当作总体结论，题目数据仅用于判断，不能据此推断整体运作水平。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            681.3249999999996,
+            524.0,
+            697.5999999999996
+          ],
+          "block_id": "t00044",
+          "type": "text",
+          "text": "方案的目标表述应具体到可观测的行为或状态，笼统表述如提升协同水平，难以在复核阶段被验证。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            703.5999999999996,
+            524.0,
+            719.8749999999995
+          ],
+          "block_id": "t00045",
+          "type": "text",
+          "text": "考生在描述交接凭证时，应说明凭证包含的关键字段，如时间、数量与确认人，以便事后追溯责任。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            725.8749999999995,
+            524.0,
+            742.1499999999995
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "若方案涉及跨层级协作，考生应说明各层级的决策权限边界，避免出现越权指令或指令无人执行的情",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            742.1499999999995,
+            83.0,
+            758.4249999999995
+          ],
+          "block_id": "t00046",
+          "type": "text",
+          "text": "形。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            524.0,
+            78.275
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "答题时保持术语一致有助于评阅，同一概念不宜中途更换名称，否则容易被理解为不同对象而影响理",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            83.0,
+            94.55000000000001
+          ],
+          "block_id": "t00047",
+          "type": "text",
+          "text": "解。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            100.55000000000001,
+            533.276,
+            234.55
+          ],
+          "block_id": "o0003",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "角色",
+              "主要职责",
+              "输入信息",
+              "输出凭证"
+            ],
+            [
+              "仓级计划",
+              "锁定与释放",
+              "在途确认",
+              "锁定记录"
+            ],
+            [
+              "协同调度",
+              "调拨审批",
+              "库存可见量",
+              "调拨指令"
+            ],
+            [
+              "现场主管",
+              "实物核对",
+              "盘点差异",
+              "差异单"
+            ],
+            [
+              "复核小组",
+              "结果验证",
+              "抽查凭证",
+              "复核意见"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            100.55000000000001,
+            533.276,
+            267.55
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            241.55,
+            213.12150011956692,
+            254.72500000000002
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "图 4：共享库存协同方案的角色职责对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

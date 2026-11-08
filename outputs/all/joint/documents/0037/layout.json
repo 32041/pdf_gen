@@ -1,0 +1,2236 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            234.0,
+            62.0,
+            378.0,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "市政供水韧性评估",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            545.0,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本报告面向城市供水系统的运行管理者与应急协调部门，系统评估水源、输配、调度与恢复四个环节的韧",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            547.3100003004074,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "性表现，并给出可核查的改进建议。评估以240份现场记录和4个代表性片区的连续观测为基础，区分模拟",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            545.0,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "推演结果与实际观测证据，避免将情景假设误读为因果结论。报告同时说明数据边界、责任分工与复核周",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            209.0,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "期，供后续年度滚动更新使用。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            173.00000000000003,
+            175.1795001477003,
+            189.27500000000003
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            195.27500000000003,
+            170.90600019693375,
+            216.97500000000002
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 评估背景与目标",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            220.97500000000002,
+            550.0,
+            354.975
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "部分",
+              "核心内容",
+              "使用者",
+              "阅读重点"
+            ],
+            [
+              "背景目标",
+              "评估目的",
+              "管理层",
+              "范围与边界"
+            ],
+            [
+              "方法指标",
+              "证据与分级",
+              "评估组",
+              "可复核性"
+            ],
+            [
+              "结果建议",
+              "薄弱环节",
+              "运行部门",
+              "整改顺序"
+            ],
+            [
+              "跟踪机制",
+              "复核周期",
+              "责任岗位",
+              "闭环记录"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            220.97500000000002,
+            550.0,
+            387.975
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            361.975,
+            162.12150011956692,
+            375.15000000000003
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 1：报告结构与阅读指引",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            387.975,
+            545.0,
+            404.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "近年来极端天气与突发污染事件对供水连续性提出更高要求，单一水源与长距离输配的脆弱点逐渐显现。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.25,
+            545.0,
+            420.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本次评估的目标是识别关键薄弱环节、量化恢复能力、明确改进优先级，而非评价具体人员绩效。评估范",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            420.525,
+            545.0,
+            436.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "围覆盖取水、净水、加压与配水全过程，重点考察故障发生后的响应速度与替代供给能力，相关结论以可",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            436.79999999999995,
+            156.5,
+            453.07499999999993
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "复核的记录为依据。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            459.07499999999993,
+            175.1795001477003,
+            475.3499999999999
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            481.3499999999999,
+            193.34400022029877,
+            499.94999999999993
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 评估范围与对象界定",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            503.94999999999993,
+            550.0,
+            637.9499999999999
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "要素",
+              "界定内容",
+              "证据要求",
+              "责任岗位"
+            ],
+            [
+              "设施范围",
+              "主城区及两片区",
+              "产权清单",
+              "运行管理"
+            ],
+            [
+              "数据范围",
+              "连续运行记录",
+              "日志留存",
+              "值班班组"
+            ],
+            [
+              "外部依赖",
+              "电力与通信",
+              "联动记录",
+              "应急协调"
+            ],
+            [
+              "排除对象",
+              "自备水源",
+              "边界说明",
+              "评估组"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            503.94999999999993,
+            550.0,
+            670.9499999999999
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.9499999999999,
+            179.12150011956692,
+            658.1249999999999
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 2：评估目标与范围界定要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.9499999999999,
+            545.0,
+            687.2249999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "评估对象限定为城市主城区及相邻两个供水片区的公共供水设施，不含自备水源与工业专线。范围界定遵",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            687.2249999999999,
+            545.0,
+            703.4999999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "循三个原则：设施产权归属清晰、运行数据可连续获取、应急职责可追溯到具体岗位。边界之外的设施仅",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            366.5,
+            78.275
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "作为外部依赖记录，不纳入韧性评分，以免因数据缺失造成误判。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            84.275,
+            197.89500024914742,
+            101.325
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 关键设施与系统边界",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            105.325,
+            545.0,
+            121.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "系统边界以水厂出水口为起点，经主干管、加压泵站至用户接入点为止。关键设施包括取水泵站、净水构",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            121.60000000000001,
+            545.0,
+            137.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "筑物、清水池、加压泵站与主干管网节点。边界划定需同时考虑电力供应与通信链路等外部依赖，因为这",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.875,
+            303.5,
+            154.15
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "些依赖中断往往比管道本身故障更早触发供水中断。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            160.15,
+            185.91900028288364,
+            176.425
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 取水与净水环节",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            180.425,
+            545.0,
+            196.70000000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "取水环节的韧性主要取决于水源数量与切换条件，净水环节则取决于工艺冗余与药剂储备。评估中发现，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            196.70000000000002,
+            545.0,
+            212.97500000000002
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "部分水厂在单一水源受限时缺乏明确的切换时限要求，导致决策延迟。建议为每个水厂明确备用取水启用",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            212.97500000000002,
+            377.0,
+            229.25000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "条件、切换操作步骤与验证方式，并将切换演练纳入常规运行计划。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            235.25000000000003,
+            195.11000031232834,
+            250.75000000000003
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 取水口冗余配置",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            254.75000000000003,
+            545.0,
+            271.02500000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "取水口冗余配置应回答三个问题：备用取水口是否具备独立取水能力、切换所需时间是否可接受、切换后",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            271.02500000000003,
+            545.0,
+            287.3
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "水质是否仍满足净水工艺要求。评估记录显示，部分备用取水口长期未启用，设备状态与操作熟练度均存",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            287.3,
+            324.5,
+            303.575
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "在不确定性，需要通过定期试运行与记录留存加以验证。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            309.575,
+            235.11000031232834,
+            325.075
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 净水工艺冗余与药剂储备",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            329.075,
+            545.0,
+            345.34999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "净水工艺冗余体现为构筑物可并联运行、关键设备可快速替换、药剂储备满足连续运行需要。评估建议按",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            345.34999999999997,
+            545.0,
+            361.62499999999994
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "最不利工况确定药剂最低库存线，并明确补货触发条件与责任人。储备量应以记录形式固化，避免因临时",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            361.62499999999994,
+            261.5,
+            377.8999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "调拨导致账面与实际不符，影响应急判断。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            383.8999999999999,
+            185.91900028288364,
+            400.1749999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 输配与加压环节",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.1749999999999,
+            534.5,
+            420.4499999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "输配环节的韧性集中体现在管网连通度与加压泵站的备用能力。环状管网比例较高、阀门分区合理的区",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            420.4499999999999,
+            545.0,
+            436.72499999999985
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "域，故障隔离范围更小，恢复更快。评估建议对关键干管节点开展连通性复核，明确故障时的隔离顺序与",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            436.72499999999985,
+            356.0,
+            452.99999999999983
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "替代路径，并将操作步骤写入现场处置卡，减少临场判断压力。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            458.99999999999983,
+            197.89500024914742,
+            476.04999999999984
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 管网连通与故障隔离",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            480.04999999999984,
+            545.0,
+            496.3249999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "管网连通性评估以节点间是否存在可切换路径为核心指标，故障隔离则以阀门可关闭范围为判断依据。评",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            496.3249999999998,
+            545.0,
+            512.5999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "估发现部分老旧片区阀门锈蚀、关闭不严，实际隔离范围大于设计预期，导致影响用户数增加。建议建立",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            512.5999999999998,
+            345.5,
+            528.8749999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "阀门状态台账，按区域分批检修，并在检修后复核隔离效果。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            534.8749999999998,
+            193.34400022029877,
+            553.4749999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 评估方法与数据来源",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            557.4749999999998,
+            545.0,
+            573.7499999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "评估采用现场核查、运行记录复核与情景推演相结合的方法。现场核查确认设施状态，记录复核验证历史",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            573.7499999999998,
+            545.0,
+            590.0249999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "响应表现，情景推演用于检验在假设故障下的处置流程是否顺畅。三类证据分别标注来源与置信程度，推",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            590.0249999999997,
+            356.0,
+            606.2999999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "演结果仅用于流程检验，不作为因果结论使用，避免过度解读。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            612.2999999999997,
+            175.1795001477003,
+            628.5749999999997
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            550.0,
+            196
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "方法",
+              "主要用途",
+              "证据类型",
+              "结论限定"
+            ],
+            [
+              "现场核查",
+              "确认设施状态",
+              "巡检记录",
+              "事实描述"
+            ],
+            [
+              "记录复核",
+              "验证响应表现",
+              "运行日志",
+              "事实描述"
+            ],
+            [
+              "情景推演",
+              "检验处置流程",
+              "推演纪要",
+              "流程检验"
+            ],
+            [
+              "交叉验证",
+              "核对矛盾信息",
+              "多源比对",
+              "审慎判断"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            550.0,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            179.12150011956692,
+            216.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 3：评估方法与证据来源对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            229,
+            198.90600019693375,
+            250.7
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 韧性指标体系与分级",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            254.7,
+            545.0,
+            270.97499999999997
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "指标体系围绕吸收能力、适应能力与恢复能力三个维度构建，每个维度下设若干可观测条目。分级采用定",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            270.97499999999997,
+            545.0,
+            287.24999999999994
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "性描述与记录佐证相结合的方式，避免单纯依赖主观打分。指标设计强调可复核性，每个等级均对应明确",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            287.24999999999994,
+            335.0,
+            303.5249999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "的证据要求，便于不同片区之间横向比较与年度纵向跟踪。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            309.5249999999999,
+            175.1795001477003,
+            325.7999999999999
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            331.7999999999999,
+            193.34400022029877,
+            350.3999999999999
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 指标构成与权重说明",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            354.3999999999999,
+            545.0,
+            370.6749999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "指标构成包括水源冗余、工艺冗余、管网连通、应急响应与恢复时限五类。权重设置依据故障影响范围与",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            370.6749999999999,
+            534.5,
+            386.9499999999999
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "恢复难度确定，影响面广、恢复慢的条目权重相对较高。权重不追求精确数值，而以排序方式表达优先",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            386.9499999999999,
+            356.0,
+            403.22499999999985
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "级，减少因权重微调引起的结论波动，便于管理者理解与执行。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            409.22499999999985,
+            197.89500024914742,
+            426.27499999999986
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 数据采集与质量控制",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            430.27499999999986,
+            545.0,
+            446.54999999999984
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "数据采集以运行日志、巡检记录与演练记录为主要来源，辅以现场抽查核实。质量控制包括来源登记、异",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            446.54999999999984,
+            545.0,
+            462.8249999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "常值复核与交叉验证三个步骤。对于记录缺失或前后矛盾的条目，评估组不进行推测填补，而是标注为证",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            462.8249999999998,
+            377.0,
+            479.0999999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "据不足，并在结论中降低相应条目的可信等级，保持评估的审慎性。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            485.0999999999998,
+            206.91900028288364,
+            501.3749999999998
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 现场核查与记录复核",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            505.3749999999998,
+            545.0,
+            521.6499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "现场核查重点确认设备实际状态与台账记录是否一致，记录复核重点检查响应时间、处置步骤与结果描述",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.6499999999997,
+            545.0,
+            537.9249999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "是否完整。两者结合可发现纸面合规而实际失效的情况。评估组对发现的差异逐项登记，明确整改责任岗",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            537.9249999999997,
+            282.5,
+            554.1999999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "位与复核时限，确保问题不被遗漏在汇总环节。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            560.1999999999997,
+            185.11000031232834,
+            575.6999999999997
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 情景推演设置",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.6999999999997,
+            545.0,
+            595.9749999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "情景推演设置三类假设：主干管破裂、取水中断与电力供应受限。每类情景明确触发条件、影响范围假设",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            595.9749999999997,
+            545.0,
+            612.2499999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "与处置流程检验要点。推演以桌面方式进行，参与人员按实际岗位分工，记录决策节点与信息传递路径。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            612.2499999999997,
+            345.5,
+            628.5249999999996
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "推演结果用于发现流程断点，不作为对真实事件后果的预测。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            634.5249999999996,
+            175.1795001477003,
+            650.7999999999996
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.0,
+            62,
+            215.11000031232834,
+            77.5
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 推演结果与流程断点",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            81.5,
+            550.0,
+            215.5
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "情景",
+              "触发条件",
+              "检验要点",
+              "记录内容"
+            ],
+            [
+              "主干管破裂",
+              "压力骤降",
+              "隔离顺序",
+              "决策节点"
+            ],
+            [
+              "取水中断",
+              "水源受限",
+              "切换时限",
+              "操作步骤"
+            ],
+            [
+              "电力受限",
+              "供电中断",
+              "备用启动",
+              "信息传递"
+            ],
+            [
+              "通信中断",
+              "链路故障",
+              "通报路径",
+              "响应时长"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            81.5,
+            550.0,
+            248.5
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            222.5,
+            179.12150011956692,
+            235.675
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 4：情景推演设置与检验要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            248.5,
+            545.0,
+            264.775
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "推演显示，流程断点多出现在跨部门信息传递与替代方案确认两个环节，而非技术操作本身。部分参与人",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            264.775,
+            545.0,
+            281.04999999999995
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "员在信息不完整时倾向于等待指令，延长了处置窗口。建议明确授权边界与信息通报模板，使一线人员在",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            281.04999999999995,
+            324.5,
+            297.32499999999993
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "规定条件下可先行处置，事后补充报告，缩短决策链条。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            303.32499999999993,
+            206.91900028288364,
+            319.5999999999999
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 评估结果与薄弱环节",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            323.5999999999999,
+            545.0,
+            339.8749999999999
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "综合现场核查与记录复核，薄弱环节集中在备用取水口长期未试运行、老旧片区阀门状态不明、药剂储备",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            339.8749999999999,
+            545.0,
+            356.14999999999986
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "下限缺乏书面依据三个方面。上述问题均属于可通过管理措施改进的范畴，不涉及大规模工程改造。评估",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            356.14999999999986,
+            398.0,
+            372.42499999999984
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "建议按影响范围排序，优先处理影响用户数最多、恢复时间最长的条目。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            378.42499999999984,
+            175.1795001477003,
+            394.6999999999998
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            400.6999999999998,
+            550.0,
+            534.6999999999998
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0017",
+          "belongs_to": "h0017",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "薄弱环节",
+              "影响范围",
+              "整改类型",
+              "优先级别"
+            ],
+            [
+              "备用取水口",
+              "取水片区",
+              "限期整改",
+              "高"
+            ],
+            [
+              "老旧阀门",
+              "多个片区",
+              "限期整改",
+              "高"
+            ],
+            [
+              "药剂储备",
+              "全厂范围",
+              "年度计划",
+              "中"
+            ],
+            [
+              "通报模板",
+              "跨部门",
+              "立即可办",
+              "中"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            400.6999999999998,
+            550.0,
+            567.6999999999998
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            541.6999999999998,
+            196.12150011956692,
+            554.8749999999998
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 5：薄弱环节与整改优先顺序对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            567.6999999999998,
+            197.89500024914742,
+            584.7499999999998
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 分级结果与横向比较",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.7499999999998,
+            545.0,
+            605.0249999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "分级结果显示，新建片区在管网连通与响应速度方面表现较好，老旧片区在阀门状态与替代路径方面存在",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            605.0249999999997,
+            545.0,
+            621.2999999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "明显短板。横向比较需注意片区规模与用户结构差异，避免简单排名。评估建议以同类片区为参照组进行",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            621.2999999999997,
+            345.5,
+            637.5749999999997
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "比较，并将比较结果用于确定整改顺序，而非用于绩效评价。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            643.5749999999997,
+            193.34400022029877,
+            662.1749999999997
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 改进建议与后续跟踪",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            666.1749999999997,
+            545.0,
+            682.4499999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "改进建议分为立即可办、限期整改与纳入年度计划三类。立即可办事项包括完善现场处置卡与信息通报模",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            682.4499999999997,
+            545.0,
+            698.7249999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "板；限期整改事项包括阀门台账建立与备用取水口试运行；纳入年度计划事项包括药剂储备下限的书面化",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            698.7249999999997,
+            393.32750007510185,
+            714.9999999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "与演练常态化。跟踪机制按5日复核周期执行，责任岗位逐项确认闭环。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            429.5,
+            78.275
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "评估记录应注明观测时间与记录人，便于后续复核时追溯信息来源与判断依据。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            84.275,
+            550.0,
+            218.275
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "维度",
+              "观测条目",
+              "证据要求",
+              "分级方式"
+            ],
+            [
+              "吸收能力",
+              "水源与工艺冗余",
+              "试运行记录",
+              "定性描述"
+            ],
+            [
+              "适应能力",
+              "调度与通报",
+              "推演纪要",
+              "定性描述"
+            ],
+            [
+              "恢复能力",
+              "隔离与修复",
+              "处置记录",
+              "定性描述"
+            ],
+            [
+              "外部依赖",
+              "电力与通信",
+              "联动记录",
+              "定性描述"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            84.275,
+            550.0,
+            251.275
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            179.12150011956692,
+            238.45000000000002
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 1：韧性指标维度与证据要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

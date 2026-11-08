@@ -1,0 +1,2326 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            198.0,
+            52.0,
+            414.0,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "公共设施巡检试点工作通知",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            558.6500002145767,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "为提升公共设施运行保障水平，现就开展巡检试点工作通知如下。本次试点在4个片区同步实施，周期为12周，覆盖",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            552.0,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "道路照明、护栏、井盖与休憩设施等类别。各参与单位应统一台账口径，明确责任分工，按本通知要求报送巡检记",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            292.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "录与问题处置情况，确保试点数据可比、过程可追溯。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            144.4,
+            169.34800016880035,
+            163.0
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 试点目标与总体安排",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            167.0,
+            552.0,
+            182.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "试点以形成可复制的巡检机制为目标，重点验证巡查频次、问题上报与闭环处置的衔接效果。总体安排分为部署、",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            182.5,
+            552.0,
+            198.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "运行、评估三个阶段，各阶段任务由牵头单位统筹推进。参与单位应在本通知印发后按要求启动准备，运行期间保",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            198.0,
+            332.0,
+            213.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "持记录连续，评估阶段提交完整台账，避免中途更换统计口径。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            219.5,
+            168.73200020194054,
+            236.55
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 巡检范围与对象分类",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            240.55,
+            552.0,
+            256.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "巡检范围以试点片区内的公共设施为限，按结构安全、功能完好、外观整洁三类要素划分对象。牵头单位应结合设",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            256.05,
+            552.0,
+            271.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "施分布确定重点点位，对高风险部位提高查看密度。分类结果作为排班与记录的依据，任何调整须经片区负责人确",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.55,
+            252.0,
+            287.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "认后生效，并在台账中注明调整原因与时间。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            293.05,
+            187.89500024914742,
+            310.1
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 巡检组织与职责分工",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            314.1,
+            552.0,
+            329.6
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "试点实行片区负责制，每个片区设巡检小组，由组长、巡查员与记录员构成。组长负责排班与复核，巡查员负责现",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            329.6,
+            552.0,
+            345.1
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "场查看与初步判定，记录员负责当日录入与凭证归档。牵头单位负责统一标准与抽查，参与单位负责人员到位与设",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            345.1,
+            232.0,
+            360.6
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "备保障，职责边界应在启动前书面明确。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            366.6,
+            170.41900028288364,
+            382.875
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 现场巡检执行要求",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            386.875,
+            552.0,
+            402.375
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "现场巡检应按照既定路线逐点查看，重点核对设施完好状态与周边环境风险。发现异常应立即拍照留证并填写问题",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            402.375,
+            552.0,
+            417.875
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "描述，能够现场处置的当场处理，不能处置的按程序上报。巡查员不得代填他人记录，记录员应在当日完成录入，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            417.875,
+            232.0,
+            433.375
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "确保现场情况与台账信息一致、可复核。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.375,
+            199.66550032794476,
+            455.65
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 巡查路线与频次安排",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            459.65,
+            552.0,
+            475.15
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "巡查路线按片区地理顺序编排，兼顾重点点位与盲区覆盖，避免重复往返。频次依据设施类别与风险等级确定，高",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            475.15,
+            552.0,
+            490.65
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "风险对象加密查看，一般对象按常规节奏执行。路线与频次一经确定应保持稳定，确需调整的由组长提出，经片区",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            490.65,
+            252.0,
+            506.15
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "负责人同意后更新排班表并通知全体巡查员。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            512.15,
+            199.66550032794476,
+            528.425
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 问题发现与现场处置",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            532.425,
+            552.0,
+            547.925
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "问题发现后应先判定风险等级，涉及通行安全的立即设置临时警示并通知相关维护力量。轻微缺陷可纳入常规维修",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            547.925,
+            557.5500000715256,
+            563.425
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "计划，重大隐患须在2日内完成上报与初步处置。现场处置情况应如实记录处置人、处置方式与结果，未闭环事项须",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            563.425,
+            192.0,
+            578.925
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "注明责任单位与预计完成时间。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            584.925,
+            180.91900028288364,
+            601.1999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 记录填报与信息归档",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            605.1999999999999,
+            552.0,
+            620.6999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "巡检记录采用统一表单，包含点位编号、查看时间、设施状态、问题描述与处置结果等字段。记录员应逐项填写，",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            620.6999999999999,
+            552.0,
+            636.1999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "不得空缺关键字段，照片与表单按点位对应归档。归档资料由片区保存备查，牵头单位按需要调阅，凡涉及后续评",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            636.1999999999999,
+            242.0,
+            651.6999999999999
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "估的数据应保持原始形态，不得事后修改。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            657.6999999999999,
+            187.89500024914742,
+            674.7499999999999
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 抽查复核与质量把关",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            678.7499999999999,
+            552.0,
+            694.2499999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "牵头单位组织抽查复核，重点核对记录完整性与现场实际情况是否一致。抽查采取随机选点方式，覆盖各片区与各",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            694.2499999999999,
+            552.0,
+            709.7499999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "类设施，发现问题应反馈至片区并限期说明。复核结果作为试点评估的重要依据，对记录失实或漏报情形应如实登",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            709.7499999999999,
+            212.0,
+            725.2499999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "记，并在阶段小结中说明整改情况。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            180.91900028288364,
+            68.275
+          ],
+          "block_id": "h0020",
+          "type": "title",
+          "text": "1.1.2.1 复核时限与反馈流程",
+          "parent_id": "h0009",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            72.275,
+            557.5500000715256,
+            87.775
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "抽查复核的时限要求应明确到日。片区收到复核反馈后，须在2个工作日内就差异情况作出说明；牵头单位在收到说",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            87.775,
+            557.5500000715256,
+            103.275
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "明后5个工作日内完成复核确认，并将结论反馈片区。整个流程应留痕可查，确保每次复核都有明确的责任人与完成",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            103.275,
+            232.0,
+            118.775
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "时间，避免问题积压影响试点评估进度。",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.775,
+            191.41900028288364,
+            141.05
+          ],
+          "block_id": "h0021",
+          "type": "title",
+          "text": "1.1.2.2 复核抽样覆盖与样本量",
+          "parent_id": "h0009",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            145.05,
+            554.2000002861023,
+            160.55
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "为保证复核结果具有代表性，抽查应覆盖全部4个试点片区，累计抽取样本不少于240个，兼顾各类设施与不同巡检",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            160.55,
+            552.0,
+            176.05
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "时段。抽样时优先选取记录存在疑点或问题上报较集中的点位，同时保留一定比例的常规随机样本，使复核既能发",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.05,
+            242.0,
+            191.55
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "现薄弱环节，又能反映整体记录质量水平。",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            197.55,
+            168.73200020194054,
+            214.60000000000002
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 阶段小结与信息报送",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            218.60000000000002,
+            552.0,
+            234.10000000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "各片区应按阶段提交小结，说明巡检开展情况、发现问题的类别分布与处置进展。报送内容以台账数据为准，避免",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            234.10000000000002,
+            552.0,
+            249.60000000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "主观概括替代事实记录。牵头单位汇总后形成试点简报，供参与单位对照改进。报送时间与格式由牵头单位统一通",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            249.60000000000002,
+            212.0,
+            265.1
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "知，逾期未报的应说明原因并补报。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.1,
+            169.34800016880035,
+            289.70000000000005
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 试点评估与数据核验",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            293.70000000000005,
+            552.0,
+            309.20000000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "评估围绕巡检覆盖、问题闭环与记录质量三个方面展开，以台账和抽查结果为证据来源。评估应区分观测到的记录",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            309.20000000000005,
+            552.0,
+            324.70000000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "情况与对效果的推断，避免将相关性表述为因果结论。核验中发现的口径差异应逐项说明，评估结论须注明适用范",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            324.70000000000005,
+            202.0,
+            340.20000000000005
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "围与局限，供后续推广决策参考。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            346.20000000000005,
+            159.79000014066696,
+            361.70000000000005
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见图 3。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.70000000000005,
+            159.79000014066696,
+            383.20000000000005
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            389.20000000000005,
+            168.73200020194054,
+            406.25000000000006
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 评估指标与观测口径",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            410.25000000000006,
+            552.0,
+            425.75000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "评估指标包括点位覆盖情况、问题上报数量与闭环比例、记录完整程度等，均以试点期间台账为统计基础。各指标",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            425.75000000000006,
+            552.0,
+            441.25000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "应明确统计区间与计数规则，同一问题多次上报的按首次登记计。指标数值仅反映试点范围内的观测结果，不宜直",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            441.25000000000006,
+            192.0,
+            456.75000000000006
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "接外推至其他片区或更长周期。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            462.75000000000006,
+            159.79000014066696,
+            478.25000000000006
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            484.25000000000006,
+            159.79000014066696,
+            499.75000000000006
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            505.75000000000006,
+            560.0,
+            639.75
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "记录项",
+              "内容要求",
+              "签署人",
+              "留存方式"
+            ],
+            [
+              "台账信息",
+              "照录原文",
+              "核验员",
+              "随表归档"
+            ],
+            [
+              "现场情况",
+              "事实描述",
+              "核验员",
+              "附照片"
+            ],
+            [
+              "差异说明",
+              "不预设原因",
+              "核验员",
+              "随表归档"
+            ],
+            [
+              "待核事项",
+              "注明时限",
+              "组长",
+              "台账备注"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            505.75000000000006,
+            560.0,
+            672.75
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            646.75,
+            186.12150011956692,
+            659.925
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 1：核验比对记录要点与签署要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            672.75,
+            187.89500024914742,
+            689.8
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 样本抽取与核验方法",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            693.8,
+            558.6500002145767,
+            709.3
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "核验采用抽样方式，从各片区台账中抽取点位进行现场比对，样本总量为240个点位，覆盖各类设施与不同时段。核",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            709.3,
+            552.0,
+            724.8
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "验人员独立记录比对结果，与原始台账逐项对照。对不一致情形应记录差异类型，不预设原因结论，待汇总后统一",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            212.0,
+            67.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "分析，避免个别案例影响整体判断。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            73.5,
+            180.91900028288364,
+            89.775
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 核验结果记录与比对",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            93.775,
+            552.0,
+            109.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "核验结果按点位逐条记录，包含台账信息、现场情况与差异说明。比对以事实描述为主，对无法现场确认的事项标",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            109.275,
+            552.0,
+            124.775
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "注待核，不强行归类。汇总时按差异类型统计出现次数，作为记录质量的观测依据。核验人员应在记录上签署姓名",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.775,
+            172.0,
+            140.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "与日期，确保过程可追溯。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            146.275,
+            159.79000014066696,
+            161.775
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            167.775,
+            560.0,
+            301.775
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "阶段",
+              "主要任务",
+              "责任单位",
+              "完成标志"
+            ],
+            [
+              "部署",
+              "明确分工",
+              "牵头单位",
+              "名单确认"
+            ],
+            [
+              "运行",
+              "按路线巡检",
+              "各片区",
+              "记录连续"
+            ],
+            [
+              "评估",
+              "抽样核验",
+              "牵头单位",
+              "结论定稿"
+            ],
+            [
+              "总结",
+              "提出建议",
+              "牵头单位",
+              "简报印发"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            167.775,
+            560.0,
+            334.775
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            308.775,
+            186.12150011956692,
+            321.95
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 1：试点阶段任务与责任分工安排",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            334.775,
+            199.66550032794476,
+            351.04999999999995
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 差异说明与整改跟踪",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            355.04999999999995,
+            552.0,
+            370.54999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "对核验中发现的差异，片区应逐项说明形成原因，区分记录疏漏、信息传递偏差与现场变化等情形。整改措施应明",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            370.54999999999995,
+            552.0,
+            386.04999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "确责任人与完成时限，完成后由记录员更新台账并留存凭证。跟踪情况纳入下一阶段小结，未按期完成的应说明进",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            386.04999999999995,
+            212.0,
+            401.54999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "展，不得以口头说明替代书面记录。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            407.54999999999995,
+            159.79000014066696,
+            423.04999999999995
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52.0,
+            429.04999999999995,
+            560.0,
+            563.05
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0015",
+          "belongs_to": "h0015",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "事项",
+              "责任人",
+              "时限要求",
+              "跟踪方式"
+            ],
+            [
+              "补填记录",
+              "记录员",
+              "当日完成",
+              "组长复核"
+            ],
+            [
+              "书面说明",
+              "片区负责人",
+              "限期提交",
+              "汇总登记"
+            ],
+            [
+              "更新台账",
+              "记录员",
+              "整改后",
+              "留存凭证"
+            ],
+            [
+              "进展说明",
+              "片区负责人",
+              "阶段小结",
+              "书面报送"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52.0,
+            429.04999999999995,
+            560.0,
+            596.05
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            570.05,
+            186.12150011956692,
+            583.2249999999999
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 2：差异整改跟踪事项与时限要求",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            596.05,
+            199.66550032794476,
+            612.3249999999999
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 数据局限与解释边界",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            616.3249999999999,
+            552.0,
+            631.8249999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "试点数据来源于有限片区与有限周期，样本代表性存在局限，观测到的差异可能受时段、天气与人员安排等因素影",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            631.8249999999999,
+            552.0,
+            647.3249999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "响。评估报告应明确说明这些限制，将描述性统计与原因推断分开表述，不得据试点结果直接断言推广后的效果，",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            647.3249999999999,
+            232.0,
+            662.8249999999999
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "相关判断需以后续更大范围验证为依据。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            668.8249999999999,
+            180.91900028288364,
+            685.0999999999999
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 评估结论形成与复核",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            689.0999999999999,
+            552.0,
+            704.5999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "评估结论由牵头单位汇总核验记录后形成，初稿应提交各片区核对事实性内容。复核重点在于数据引用是否准确、",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            704.5999999999999,
+            552.0,
+            720.0999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "表述是否超出证据范围。对存在争议的条目应保留不同意见并注明依据，结论定稿后随试点简报一并印发，作为机",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            142.0,
+            67.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "制完善的工作参考。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            73.5,
+            187.89500024914742,
+            90.55
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 成果应用与机制完善",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            94.55,
+            552.0,
+            110.05
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "试点成果主要用于完善巡检标准、优化排班方式与改进记录表单。牵头单位应结合评估结论提出具体修订建议，明",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            110.05,
+            552.0,
+            125.55
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "确采纳与否的理由。涉及跨片区协同的事项，应在总结中提出衔接安排。成果应用不替代现行管理制度，相关调整",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            125.55,
+            142.0,
+            141.05
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "按程序报批后实施。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            147.05,
+            168.73200020194054,
+            164.10000000000002
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 后续推广与工作衔接",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            168.10000000000002,
+            552.0,
+            183.60000000000002
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "试点结束后，牵头单位应提出后续推广的初步意见，说明适用条件与需补充的准备事项。推广前宜先小范围验证修",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            183.60000000000002,
+            552.0,
+            199.10000000000002
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "订后的标准与表单，再逐步扩大范围。各参与单位应做好人员交接与资料移交，确保台账连续完整，为后续工作提",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            199.10000000000002,
+            112.0,
+            214.60000000000002
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "供可靠基础。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52,
+            52,
+            560.0,
+            186
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "字段",
+              "填写内容",
+              "责任岗位",
+              "核对方式"
+            ],
+            [
+              "点位编号",
+              "按片区编码",
+              "记录员",
+              "与清单比对"
+            ],
+            [
+              "查看时间",
+              "当日实际时刻",
+              "巡查员",
+              "抽查复核"
+            ],
+            [
+              "设施状态",
+              "完好或异常",
+              "巡查员",
+              "现场比对"
+            ],
+            [
+              "处置结果",
+              "已处置或待办",
+              "组长",
+              "台账核对"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52,
+            52,
+            560.0,
+            219
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            193.0,
+            186.12150011956692,
+            206.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "图 3：巡检记录字段与填报要求对照",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52,
+            219,
+            560.0,
+            353
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "指标",
+              "统计基础",
+              "证据来源",
+              "说明"
+            ],
+            [
+              "点位覆盖",
+              "台账记录",
+              "排班表",
+              "按区间统计"
+            ],
+            [
+              "问题上报",
+              "首次登记",
+              "记录表单",
+              "重复不计"
+            ],
+            [
+              "闭环比例",
+              "处置记录",
+              "凭证归档",
+              "注明时点"
+            ],
+            [
+              "记录完整",
+              "字段核对",
+              "抽查结果",
+              "逐项比对"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52,
+            219,
+            560.0,
+            386
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            360.0,
+            186.12150011956692,
+            373.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 2：试点评估指标与证据来源说明",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52,
+            386,
+            560.0,
+            520
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "差异类型",
+              "判定依据",
+              "记录方式",
+              "后续处理"
+            ],
+            [
+              "记录疏漏",
+              "字段空缺",
+              "逐条登记",
+              "退回补填"
+            ],
+            [
+              "信息偏差",
+              "描述不符",
+              "注明差异",
+              "书面说明"
+            ],
+            [
+              "现场变化",
+              "状态改变",
+              "附照片",
+              "更新台账"
+            ],
+            [
+              "无法确认",
+              "证据不足",
+              "标注待核",
+              "下阶段确认"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52,
+            386,
+            560.0,
+            553
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            527.0,
+            186.12150011956692,
+            540.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 3：抽样核验差异类型与记录方式",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

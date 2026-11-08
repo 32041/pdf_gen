@@ -1,0 +1,2874 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            110.23760937499998,
+            62.0,
+            485.038390625,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Professional Training Delivery Agreement",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            523.297607421875,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This agreement records the arrangement between the commissioning organization and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            478.693115234375,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "the training provider for the design and delivery of a professional development",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            501.323486328125,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "programme over 12 months. It sets out the scope of instruction, the schedule of 24",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            507.41943359375,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "sessions across 12 weeks, the obligations of each party, and the standards by which",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            525.327880859375,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "satisfactory completion is judged. Both parties confirm they have authority to enter this",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            455.611572265625,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "arrangement and that the terms below reflect their agreed understanding.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            205.55000000000004,
+            298.15771484375,
+            221.82500000000005
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            227.82500000000005,
+            298.15771484375,
+            244.10000000000005
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            250.10000000000005,
+            302.32080078125,
+            266.37500000000006
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            287.544921875,
+            83.7
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "A Scope of Training Services",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            87.7,
+            533.276,
+            221.7
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Term",
+              "Value",
+              "Owner",
+              "Status"
+            ],
+            [
+              "Duration",
+              "12 months",
+              "Both",
+              "Agreed"
+            ],
+            [
+              "Sessions",
+              "24",
+              "Provider",
+              "Planned"
+            ],
+            [
+              "Teaching hours",
+              "48",
+              "Provider",
+              "Planned"
+            ],
+            [
+              "Sites",
+              "4",
+              "Both",
+              "Agreed"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            87.7,
+            533.276,
+            254.7
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            228.7,
+            290.864990234375,
+            241.875
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 1: Core terms recorded at agreement signature",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            254.7,
+            533.276,
+            388.7
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Parameter",
+              "Value",
+              "Basis",
+              "Review"
+            ],
+            [
+              "Weeks",
+              "12",
+              "Schedule",
+              "Mid-term"
+            ],
+            [
+              "Sessions",
+              "24",
+              "Schedule",
+              "Monthly"
+            ],
+            [
+              "Teaching hours",
+              "48",
+              "Schedule",
+              "Monthly"
+            ],
+            [
+              "Sites",
+              "4",
+              "Agreement",
+              "Term end"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            254.7,
+            533.276,
+            421.7
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            395.7,
+            314.729736328125,
+            408.875
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 2: Programme delivery parameters used for planning",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            421.7,
+            533.276,
+            555.7
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Record",
+              "Holder",
+              "Retention",
+              "Access"
+            ],
+            [
+              "Attendance",
+              "Provider",
+              "Term plus policy",
+              "On request"
+            ],
+            [
+              "Assessment",
+              "Provider",
+              "Term plus policy",
+              "Moderated"
+            ],
+            [
+              "Certificate",
+              "Provider",
+              "Register",
+              "On request"
+            ],
+            [
+              "Mitigation",
+              "Provider",
+              "Restricted",
+              "Panel only"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            421.7,
+            533.276,
+            588.7
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.7,
+            299.87548828125,
+            575.875
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Figure 1: Completion evidence held for each participant",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.7,
+            499.529052734375,
+            604.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The provider shall design and deliver a structured programme covering the agreed",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            604.975,
+            509.34716796875,
+            621.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "competency areas, comprising 24 facilitated sessions and 48 teaching hours in total.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            621.25,
+            517.575927734375,
+            637.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Delivery may occur at up to 4 designated sites or through equivalent remote channels",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            637.525,
+            482.261474609375,
+            653.8
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "where the parties agree in writing. Any material expansion of subject coverage,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            653.8,
+            497.2373046875,
+            670.0749999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "additional cohorts, or supplementary site deployments requires a written variation",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.0749999999999,
+            287.580810546875,
+            686.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "signed by both parties before work begins.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            692.3499999999999,
+            298.15771484375,
+            708.6249999999999
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            62,
+            533.276,
+            196
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0002",
+          "belongs_to": "h0002",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Activity",
+              "Provider",
+              "Commissioner",
+              "Evidence"
+            ],
+            [
+              "Curriculum design",
+              "Lead",
+              "Review",
+              "Version log"
+            ],
+            [
+              "Venue provision",
+              "Support",
+              "Lead",
+              "Booking record"
+            ],
+            [
+              "Assessment",
+              "Lead",
+              "Nominate",
+              "Moderation note"
+            ],
+            [
+              "Attendance",
+              "Record",
+              "Release staff",
+              "Register"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            62,
+            533.276,
+            229
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            203.0,
+            330.741943359375,
+            216.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Delivery responsibilities allocated between the parties",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            229,
+            329.44921875,
+            247.6
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "A.1 Programme Design and Curriculum",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            251.6,
+            503.984375,
+            267.875
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "The curriculum shall be built from a documented needs analysis and mapped to the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            267.875,
+            532.936279296875,
+            284.15
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "competency framework supplied by the commissioning organization. Learning outcomes,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            284.15,
+            532.58251953125,
+            300.42499999999995
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "session plans, and assessment instruments must be submitted for review before delivery",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            300.42499999999995,
+            515.884033203125,
+            316.69999999999993
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "begins. The provider retains editorial control over instructional method while ensuring",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            316.69999999999993,
+            514.510009765625,
+            332.9749999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "alignment with the agreed outcomes and the professional standards applicable to the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            332.9749999999999,
+            159.632568359375,
+            349.2499999999999
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "participants' roles.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            355.2499999999999,
+            298.15771484375,
+            371.52499999999986
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            377.52499999999986,
+            533.276,
+            511.52499999999986
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Checkpoint",
+              "Output",
+              "Reviewer",
+              "Timing"
+            ],
+            [
+              "Needs analysis",
+              "Competency map",
+              "Commissioner",
+              "Before design"
+            ],
+            [
+              "Session plans",
+              "Module outlines",
+              "Provider lead",
+              "Before delivery"
+            ],
+            [
+              "Assessment design",
+              "Criteria set",
+              "Moderator",
+              "Before delivery"
+            ],
+            [
+              "Term review",
+              "Revision log",
+              "Both",
+              "Mid-term"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            377.52499999999986,
+            533.276,
+            544.5249999999999
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            518.5249999999999,
+            322.96826171875,
+            531.6999999999998
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 4: Curriculum design checkpoints and required outputs",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            544.5249999999999,
+            379.85498046875,
+            561.5749999999998
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "A.1.1 Learning Outcomes and Assessment Design",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            565.5749999999998,
+            494.41748046875,
+            581.8499999999998
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Each module shall state measurable learning outcomes and the evidence that will",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            581.8499999999998,
+            486.8193359375,
+            598.1249999999998
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "demonstrate achievement. Assessment instruments must be valid for the stated",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.1249999999998,
+            508.19873046875,
+            614.3999999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "outcomes, applied consistently across cohorts, and moderated by a second qualified",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            614.3999999999997,
+            511.054443359375,
+            630.6749999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "assessor. The provider shall retain assessment records for the period required by the",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            630.6749999999997,
+            514.130615234375,
+            646.9499999999997
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "commissioning organization's policy and make them available on reasonable request.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            652.9499999999997,
+            357.403564453125,
+            669.2249999999997
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "A.1.1.1 Formative and Summative Components",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            673.2249999999997,
+            532.474853515625,
+            689.4999999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "The programme shall combine formative activities that give participants feedback during",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            689.4999999999997,
+            516.509521484375,
+            705.7749999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "instruction with summative assessments that determine final achievement. Formative",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            705.7749999999996,
+            478.518798828125,
+            722.0499999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "tasks may include structured practice, peer review, and facilitator observation;",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            722.0499999999996,
+            487.79345703125,
+            738.3249999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "summative tasks shall be specified in advance with published criteria. Weighting",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            738.3249999999996,
+            504.07666015625,
+            754.5999999999996
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "between components must be disclosed to participants at the start of each module.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            62,
+            328.313232421875,
+            78.275
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "A.1.1.2 Moderation and Quality Assurance",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            82.275,
+            478.149658203125,
+            98.55000000000001
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "A moderation process shall verify that assessor judgements are consistent and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            98.55000000000001,
+            518.262939453125,
+            114.82500000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "defensible. A sample of assessments, proportionate to cohort size and no smaller than",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            114.82500000000002,
+            522.128662109375,
+            131.10000000000002
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "the provider's published standard, shall be independently reviewed. Where moderation",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.10000000000002,
+            514.49462890625,
+            147.37500000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "identifies inconsistency, the provider shall adjust results and document the corrective",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            147.37500000000003,
+            276.91162109375,
+            163.65000000000003
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "action taken before issuing final records.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            169.65000000000003,
+            351.46337890625,
+            186.70000000000005
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "A.1.2 Curriculum Review and Version Control",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            190.70000000000005,
+            488.73681640625,
+            206.97500000000005
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "All curriculum materials shall be version-controlled, with each revision dated and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            206.97500000000005,
+            518.99609375,
+            223.25000000000006
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "attributed to an authorized reviewer. The provider shall conduct a scheduled review at",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            223.25000000000006,
+            478.27783203125,
+            239.52500000000006
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "least once during the term and incorporate feedback from participants and the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            239.52500000000006,
+            525.707275390625,
+            255.80000000000007
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "commissioning organization. Superseded materials must be withdrawn from use so that",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            255.80000000000007,
+            360.609130859375,
+            272.07500000000005
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "participants are not assessed against conflicting criteria.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            278.07500000000005,
+            338.54296875,
+            296.67500000000007
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "A.2 Participant Eligibility and Enrolment",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            300.67500000000007,
+            491.97705078125,
+            316.95000000000005
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "The commissioning organization shall nominate participants who meet the stated",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            316.95000000000005,
+            509.63427734375,
+            333.225
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "prerequisite knowledge and confirm their availability for the scheduled sessions. The",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            333.225,
+            471.864013671875,
+            349.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "provider shall verify eligibility before enrolment and notify the commissioning",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            349.5,
+            506.071044921875,
+            365.775
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "organization of any nominee who does not meet the prerequisites. Substitutions are",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            365.775,
+            526.630126953125,
+            382.04999999999995
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "permitted with reasonable notice provided the replacement satisfies the same eligibility",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            382.04999999999995,
+            136.058837890625,
+            398.32499999999993
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "requirements.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            404.32499999999993,
+            349.4921875,
+            426.0249999999999
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "B Delivery Schedule and Obligations",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            430.0249999999999,
+            496.59130859375,
+            446.2999999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "The programme shall be delivered over 12 weeks in accordance with the schedule",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            446.2999999999999,
+            501.4619140625,
+            462.5749999999999
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "annexed to this agreement. The provider shall supply qualified facilitators, learning",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            462.5749999999999,
+            523.55908203125,
+            478.84999999999985
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "materials, and assessment administration; the commissioning organization shall supply",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            478.84999999999985,
+            509.55224609375,
+            495.12499999999983
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "suitable venues or platform access, participant release time, and timely decisions on",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            495.12499999999983,
+            496.945068359375,
+            511.3999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "nominations. Neither party shall be liable for delay caused by the other's failure to",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            511.3999999999998,
+            184.231689453125,
+            527.6749999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "perform its obligations.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            533.6749999999998,
+            298.15771484375,
+            549.9499999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            555.9499999999998,
+            378.216796875,
+            574.5499999999998
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "B.1 Scheduling, Attendance and Rescheduling",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            578.5499999999998,
+            529.029541015625,
+            594.8249999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Sessions shall follow the agreed timetable, and the provider shall give reasonable notice",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            594.8249999999998,
+            510.398193359375,
+            611.0999999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "of any necessary change. Participants are expected to attend all scheduled sessions;",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            611.0999999999998,
+            502.42578125,
+            627.3749999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "where absence exceeds the published threshold, the provider shall offer a catch-up",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            627.3749999999998,
+            493.222900390625,
+            643.6499999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "arrangement or record the module as incomplete. Rescheduling requested by the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            643.6499999999997,
+            488.116455078125,
+            659.9249999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "commissioning organization is subject to facilitator availability and may attract a",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.9249999999997,
+            242.41748046875,
+            676.1999999999997
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "reasonable administrative charge.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            682.1999999999997,
+            384.82861328125,
+            699.2499999999997
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "B.1.1 Attendance Records and Completion Criteria",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            703.2499999999997,
+            510.049560546875,
+            719.5249999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "The provider shall maintain attendance records for every session and reconcile them",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            719.5249999999996,
+            520.026611328125,
+            735.7999999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "against enrolment data before final results are issued. A participant is deemed to have",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            735.7999999999996,
+            511.1005859375,
+            752.0749999999996
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "completed the programme only where attendance and assessment requirements are",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            531.223876953125,
+            78.275
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "both satisfied. Records of completion shall be issued within a reasonable period after the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            323.3515625,
+            94.55000000000001
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "final assessment and retained for audit purposes.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            100.55000000000001,
+            312.5068359375,
+            116.82500000000002
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "B.1.1.1 Minimum Attendance Threshold",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            120.82500000000002,
+            499.677734375,
+            137.10000000000002
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Participants must attend at least the published proportion of scheduled sessions to",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.10000000000002,
+            503.72802734375,
+            153.37500000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "remain eligible for summative assessment. The provider shall publish this threshold",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            153.37500000000003,
+            471.894775390625,
+            169.65000000000003
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "before enrolment and apply it uniformly. Absences supported by documented",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            169.65000000000003,
+            473.299560546875,
+            185.92500000000004
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "exceptional circumstances may be considered under the provider's mitigation",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            185.92500000000004,
+            467.988037109375,
+            202.20000000000005
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "procedure, with the outcome recorded and communicated to the participant.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            78.0,
+            208.20000000000005,
+            273.926513671875,
+            224.47500000000005
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "B.1.1.2 Certification and Records",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            228.47500000000005,
+            531.095703125,
+            244.75000000000006
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Certificates shall state the programme title, the participant's name, the completion date,",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            244.75000000000006,
+            523.90771484375,
+            261.02500000000003
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "and the awarding body where applicable. The provider shall issue certificates only after",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            261.02500000000003,
+            509.977783203125,
+            277.3
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "moderation is complete and all completion criteria are verified. Duplicate certificates",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            277.3,
+            531.100830078125,
+            293.575
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "may be issued on written request, and the provider shall maintain a register linking each",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            293.575,
+            310.795654296875,
+            309.84999999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "certificate to its supporting assessment record.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            315.84999999999997,
+            368.505859375,
+            332.9
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "B.1.2 Facilitator Qualifications and Substitution",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            336.9,
+            489.100830078125,
+            353.17499999999995
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Facilitators assigned to the programme must hold relevant subject expertise and",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            353.17499999999995,
+            503.702392578125,
+            369.44999999999993
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "demonstrated instructional experience. The provider shall notify the commissioning",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            369.44999999999993,
+            499.0830078125,
+            385.7249999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "organization of any proposed substitution and confirm that the replacement meets",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            385.7249999999999,
+            484.6044921875,
+            401.9999999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "equivalent standards. Persistent facilitator underperformance identified through",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            401.9999999999999,
+            464.55810546875,
+            418.27499999999986
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "participant feedback shall be addressed through the provider's performance",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            418.27499999999986,
+            179.591796875,
+            434.54999999999984
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "management process.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            66.0,
+            440.54999999999984,
+            333.421875,
+            459.14999999999986
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "B.2 Fees, Invoicing and Payment Terms",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            463.14999999999986,
+            505.05078125,
+            479.42499999999984
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Fees for the programme shall be invoiced in accordance with the payment schedule",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            479.42499999999984,
+            478.63671875,
+            495.6999999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "agreed by the parties, with each invoice identifying the services delivered. The",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            495.6999999999998,
+            520.600830078125,
+            511.9749999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "commissioning organization shall pay undisputed invoices within the stated period and",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            511.9749999999998,
+            500.492919921875,
+            528.2499999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "may withhold disputed amounts pending resolution. The provider shall give written",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            528.2499999999998,
+            329.96533203125,
+            544.5249999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "notice of any fee adjustment before it takes effect.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            550.5249999999997,
+            505.753173828125,
+            566.7999999999997
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Where a session is delivered remotely, the provider should confirm platform access,",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            566.7999999999997,
+            519.70361328125,
+            583.0749999999997
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "recording consent, and participant connectivity in advance so that instructional time is",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            583.0749999999997,
+            227.257080078125,
+            599.3499999999997
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "not lost to technical difficulties.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            605.3499999999997,
+            503.435791015625,
+            621.6249999999997
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Attendance data should be reconciled against enrolment records before completion",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            621.6249999999997,
+            505.271240234375,
+            637.8999999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "decisions are finalized, since discrepancies discovered later are materially harder to",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            637.8999999999996,
+            133.433837890625,
+            654.1749999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "resolve fairly.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            660.1749999999996,
+            530.275390625,
+            676.4499999999996
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Any verbal instruction that changes scope, schedule, or assessment weighting should be",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            676.4499999999996,
+            517.688720703125,
+            692.7249999999996
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "confirmed in writing within a short period so that the record reflects what was actually",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            692.7249999999996,
+            102.3388671875,
+            708.9999999999995
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "agreed.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            714.9999999999995,
+            491.89501953125,
+            731.2749999999995
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Participants who join late in the programme may require a documented induction",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            731.2749999999995,
+            482.0205078125,
+            747.5499999999995
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "covering prior content, assessment expectations, and the attendance threshold",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            747.5499999999995,
+            218.438720703125,
+            763.8249999999995
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "applicable to their enrolment.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            531.941650390625,
+            78.275
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "The provider should retain facilitator credentials and continuing development records, as",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            490.31591796875,
+            94.55000000000001
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "these are commonly requested when the commissioning organization conducts a",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            94.55000000000001,
+            202.7041015625,
+            110.82500000000002
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "supplier assurance review.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            116.82500000000002,
+            533.276,
+            250.82500000000002
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0009",
+          "belongs_to": "h0009",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Matter",
+              "Responsible",
+              "Period",
+              "Record"
+            ],
+            [
+              "Nomination decision",
+              "Commissioner",
+              "2 days",
+              "Written"
+            ],
+            [
+              "Reschedule request",
+              "Provider",
+              "2 days",
+              "Written"
+            ],
+            [
+              "Moderation outcome",
+              "Provider",
+              "5 days",
+              "Record"
+            ],
+            [
+              "Fee variation notice",
+              "Provider",
+              "5 days",
+              "Written"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            116.82500000000002,
+            533.276,
+            283.82500000000005
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            257.82500000000005,
+            332.775634765625,
+            271.00000000000006
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 5: Obligations and response periods for schedule matters",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4388 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            76.28546093749998,
+            52.0,
+            518.9905390624999,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Urban Heat Sensing with Sparse Monitoring Sites",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            234.2314453125,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This paper examines the design and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            282.64453125,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "interpretation of urban heat sensing networks",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            269.8564453125,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "that rely on a limited number of monitoring",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            287.13671875,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "sites. Sparse networks are common in practice",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            256.853515625,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "due to budget constraints, yet they raise",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            169.4,
+            253.9189453125,
+            184.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "questions about representativeness and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            184.9,
+            285.7939453125,
+            200.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "inference. We draw on simulated deployments",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            200.4,
+            235.4716796875,
+            215.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "to explore how site selection, sensor",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            215.9,
+            280.193359375,
+            231.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "placement, and statistical methods affect the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            231.4,
+            286.6923828125,
+            246.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "ability to characterize intra-urban temperature",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            246.9,
+            285.5546875,
+            262.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "variability. The analysis distinguishes between",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            262.4,
+            281.755859375,
+            277.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "observed patterns at monitored locations and",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            277.9,
+            255.2568359375,
+            293.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "broader causal claims about urban heat,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            293.4,
+            225.603515625,
+            308.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "emphasizing the need for cautious",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            308.9,
+            121.9365234375,
+            324.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "extrapolation.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            330.4,
+            276.912109375,
+            345.9
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 6.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            351.9,
+            270.1005859375,
+            373.59999999999997
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Background and Motivation",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            377.59999999999997,
+            267.2490234375,
+            393.09999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Urban heat islands pose significant risks to",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.09999999999997,
+            277.6884765625,
+            408.59999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "public health and energy demand, but dense",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            408.59999999999997,
+            261.2333984375,
+            424.09999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "monitoring is often infeasible. Many cities",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            424.09999999999997,
+            268.494140625,
+            439.59999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "operate only a handful of weather stations,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            439.59999999999997,
+            284.841796875,
+            455.09999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "creating gaps in spatial coverage. This section",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            455.09999999999997,
+            239.3583984375,
+            470.59999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "motivates the study by reviewing the",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            470.59999999999997,
+            285.671875,
+            486.09999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "challenges of sparse sensing and the potential",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            486.09999999999997,
+            286.833984375,
+            501.59999999999997
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "for bias when using such data to inform policy.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            501.59999999999997,
+            267.146484375,
+            517.0999999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "We highlight the tension between cost and",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            517.0999999999999,
+            258.77734375,
+            532.5999999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "coverage, and the need for methods that",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            532.5999999999999,
+            248.7724609375,
+            548.0999999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "make the most of limited observations.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            554.0999999999999,
+            214.51953125,
+            572.6999999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "Sparse Network Design",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            572.6999999999999,
+            157.373046875,
+            591.3
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "Considerations",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            595.3,
+            249.1923828125,
+            610.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Designing a sparse monitoring network",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            610.8,
+            280.701171875,
+            626.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "involves trade-offs between spatial coverage,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            626.3,
+            283.7431640625,
+            641.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "sensor accuracy, and cost. Key considerations",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            641.8,
+            258.2158203125,
+            657.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "include the placement of sites to capture",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            657.3,
+            255.4912109375,
+            672.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "representative microclimates, the use of",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            672.8,
+            255.1396484375,
+            688.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "low-cost sensors versus reference-grade",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            688.3,
+            248.89453125,
+            703.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "instruments, and the frequency of data",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            703.8,
+            269.5927734375,
+            719.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "collection. We discuss how network density",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            719.3,
+            245.916015625,
+            734.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "affects the ability to detect urban heat",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            734.8,
+            287.048828125,
+            750.3
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "patterns and the importance of metadata such",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            750.3,
+            266.423828125,
+            765.8
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "as land use and canopy cover at each site.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            91.9,
+            476.96075390625,
+            108.95
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Site Selection and Sensor",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            108.95,
+            382.886046875,
+            126.0
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Placement",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            130.0,
+            520.4309687499999,
+            145.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Site selection is critical in sparse networks",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            145.5,
+            534.1419062499999,
+            161.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "because each location must serve as a proxy",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            161.0,
+            504.7864375,
+            176.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "for a larger area. We outline criteria for",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            176.5,
+            529.9768671874999,
+            192.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "choosing sites that maximize environmental",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            192.0,
+            533.5706171874999,
+            207.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "diversity, such as including parks, residential",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            207.5,
+            539.5618281249999,
+            223.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "areas, and industrial zones. Sensor placement",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            223.0,
+            509.034484375,
+            238.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "within a site also matters, as height and",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            238.5,
+            513.8001093749999,
+            254.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "exposure influence readings. The section",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            254.0,
+            501.2463984375,
+            269.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "provides a checklist for evaluating site",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            269.5,
+            523.8001093749999,
+            285.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "representativeness and discusses common",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            285.0,
+            543.0139765624999,
+            300.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "pitfalls like locating sensors near heat sources.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            306.5,
+            532.5501093749999,
+            322.0
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            328.0,
+            543.276,
+            462.0
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Criterion",
+              "Description",
+              "Indicator",
+              "Action if lacking"
+            ],
+            [
+              "Land cover",
+              "Variety in buffer",
+              "Shannon index",
+              "Add missing class"
+            ],
+            [
+              "Canopy cover",
+              "Tree shade fraction",
+              "Percent cover",
+              "Adjust for shade"
+            ],
+            [
+              "Heat sources",
+              "Proximity to roads",
+              "Meters",
+              "Increase buffer"
+            ],
+            [
+              "Sensor exposure",
+              "Height and shield",
+              "Standard height",
+              "Adjust mounting"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            328.0,
+            543.276,
+            509.0
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            469.0,
+            463.381408203125,
+            482.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 1: Checklist for evaluating site",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            482.175,
+            389.496154296875,
+            495.35
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "representativeness",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            509.0,
+            536.8320917968749,
+            525.275
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Representativeness of Chosen Sites",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            529.275,
+            529.8596796874999,
+            544.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Representativeness refers to how well a site",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            544.775,
+            539.5325312499999,
+            560.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "reflects the conditions of its surrounding area.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            560.275,
+            529.3225703124999,
+            575.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "For sparse networks, this is a major concern",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            575.775,
+            519.9622187499999,
+            591.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "because a single site may be used to infer",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            591.275,
+            515.7141718749999,
+            606.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "temperatures across a neighborhood. We",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            606.775,
+            444.5667109375,
+            622.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "propose methods to assess",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            622.275,
+            537.5745234374999,
+            637.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "representativeness using land cover data and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            637.775,
+            527.9407343749999,
+            653.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "local climate zones. The discussion includes",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            653.275,
+            538.0335078124999,
+            668.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "how to quantify uncertainty when a site is not",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            668.775,
+            498.468078125,
+            684.275
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "fully representative and how to adjust",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            684.275,
+            446.182921875,
+            699.775
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "interpretations accordingly.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            705.775,
+            525.4092402343749,
+            722.05
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Instrumentation and Maintenance",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            323.638,
+            722.05,
+            379.24493359375,
+            738.3249999999999
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Protocols",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            742.3249999999999,
+            535.7483515624999,
+            757.8249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The reliability of sparse networks depends on",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            757.8249999999999,
+            484.132140625,
+            773.3249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "robust instrumentation and regular",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            252.0146484375,
+            67.5
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "maintenance. We describe protocols for",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            272.91796875,
+            83.0
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "sensor calibration, data logging, and quality",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            247.1513671875,
+            98.5
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "control. Maintenance schedules should",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            98.5,
+            278.865234375,
+            114.0
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "account for environmental stressors like dust",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            114.0,
+            264.3779296875,
+            129.5
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "and humidity. The section emphasizes the",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            129.5,
+            272.419921875,
+            145.0
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "need for standardized procedures to ensure",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            145.0,
+            280.9111328125,
+            160.5
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "comparability across sites and over time, and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            160.5,
+            238.5380859375,
+            176.0
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "discusses the role of automated fault",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.0,
+            248.640625,
+            191.5
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "detection in maintaining data integrity.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            197.5,
+            273.00341796875,
+            214.55
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Trade-offs Between Coverage and",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            214.55,
+            89.435546875,
+            231.60000000000002
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Cost",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            235.60000000000002,
+            275.7353515625,
+            251.10000000000002
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Budget constraints often limit the number of",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            251.10000000000002,
+            265.6962890625,
+            266.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "monitoring sites. This section analyzes the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            266.6,
+            274.529296875,
+            282.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "trade-offs between expanding coverage and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            282.1,
+            259.0166015625,
+            297.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "investing in higher-quality sensors. Using",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            297.6,
+            277.1611328125,
+            313.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "simulated cost and output data, we illustrate",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            313.1,
+            278.7138671875,
+            328.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "how different configurations affect the ability",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            328.6,
+            248.1962890625,
+            344.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "to detect heat patterns. The discussion",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            344.1,
+            255.1201171875,
+            359.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "includes a comparison of low-cost dense",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            359.6,
+            243.982421875,
+            375.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "networks versus sparse high-accuracy",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            375.1,
+            268.005859375,
+            390.6
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "networks, and considerations for balancing",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            390.6,
+            257.1953125,
+            406.1
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "initial costs with long-term maintenance.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            412.1,
+            287.638,
+            546.1
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Scenario",
+              "Cause",
+              "Mitigation",
+              "Priority"
+            ],
+            [
+              "Power failure",
+              "Infrastructure",
+              "Battery backup",
+              "High"
+            ],
+            [
+              "Sensor drift",
+              "Aging",
+              "Regular calibration",
+              "Medium"
+            ],
+            [
+              "Comms loss",
+              "Network issue",
+              "Redundant links",
+              "High"
+            ],
+            [
+              "Physical damage",
+              "Vandalism",
+              "Secure housing",
+              "Low"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            412.1,
+            287.638,
+            593.1
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            553.1,
+            275.627197265625,
+            566.275
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 2: Common data gap scenarios and mitigation",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            566.275,
+            93.6865234375,
+            579.45
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "measures",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            593.1,
+            200.8203125,
+            611.7
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Data Quality and Gap",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            611.7,
+            144.330078125,
+            630.3000000000001
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Management",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            634.3000000000001,
+            284.3193359375,
+            649.8000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Sparse networks are particularly vulnerable to",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            649.8000000000001,
+            226.892578125,
+            665.3000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "data gaps due to sensor failures or",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            665.3000000000001,
+            276.521484375,
+            680.8000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "communication issues. We outline strategies",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            680.8000000000001,
+            285.740234375,
+            696.3000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "for gap management, including redundancy at",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            696.3000000000001,
+            242.9716796875,
+            711.8000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "critical sites and statistical imputation",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            711.8000000000001,
+            262.13671875,
+            727.3000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "methods. The section discusses how gaps",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            727.3000000000001,
+            271.482421875,
+            742.8000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "affect the reliability of spatial interpolations",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            742.8000000000001,
+            265.0419921875,
+            758.3000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "and offers guidelines for documenting and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            758.3000000000001,
+            238.4306640625,
+            773.8000000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "reporting data completeness. A table",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            52,
+            509.747375,
+            67.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "summarizes common gap scenarios and",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            67.5,
+            413.888,
+            83.0
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "mitigation measures.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            89.0,
+            532.5501093749999,
+            104.5
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            110.5,
+            486.2678828125,
+            132.2
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "Analytical Methods for",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            132.2,
+            404.0042109375,
+            153.89999999999998
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "Sparse Data",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            157.89999999999998,
+            538.4436640624999,
+            173.39999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Analyzing data from sparse networks requires",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            173.39999999999998,
+            509.04425,
+            188.89999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "methods that account for limited spatial",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            188.89999999999998,
+            519.9817499999999,
+            204.39999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "coverage. This section reviews techniques",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            204.39999999999998,
+            532.2962031249999,
+            219.89999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "such as spatial interpolation, regression with",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            219.89999999999998,
+            514.7180781249999,
+            235.39999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "auxiliary variables, and machine learning",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            235.39999999999998,
+            530.1721796874999,
+            250.89999999999998
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "approaches that leverage land use data. We",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            250.89999999999998,
+            507.0960078125,
+            266.4
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "emphasize the importance of validating",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            266.4,
+            537.5403437499999,
+            281.9
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "models with holdout data and caution against",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            281.9,
+            521.1536249999999,
+            297.4
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "overfitting. The discussion includes how to",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            297.4,
+            539.6448359374999,
+            312.9
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "quantify uncertainty in predictions and how to",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            312.9,
+            487.30596875,
+            328.4
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "communicate it to decision-makers.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            334.4,
+            481.096984375,
+            353.0
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "Spatial Interpolation and",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            353.0,
+            373.9114375,
+            371.6
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "Modeling",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            375.6,
+            538.0090937499999,
+            391.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Spatial interpolation methods, such as kriging",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            391.1,
+            542.3792109374999,
+            406.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "and inverse distance weighting, are commonly",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            406.6,
+            504.4739375,
+            422.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "used to create continuous temperature",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            422.1,
+            502.7405390625,
+            437.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "surfaces from sparse observations. We",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            437.6,
+            517.9358515624999,
+            453.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "compare these methods and discuss their",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            453.1,
+            536.2024531249999,
+            468.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "assumptions and limitations. The section also",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            468.6,
+            541.2073359374999,
+            484.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "covers the use of covariates like elevation and",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            484.1,
+            502.42315625,
+            499.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "impervious surface fraction to improve",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            499.6,
+            497.4671015625,
+            515.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "predictions. We highlight the need for",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            515.1,
+            503.1506953125,
+            530.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "cross-validation to assess interpolation",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            530.6,
+            516.8713984374999,
+            546.1
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "accuracy and the importance of reporting",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            546.1,
+            398.8635859375,
+            561.6
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "uncertainty maps.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            567.6,
+            525.9343867187499,
+            584.65
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Model Validation and Uncertainty",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            584.65,
+            406.01934765625,
+            601.6999999999999
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Quantification",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            605.6999999999999,
+            511.7346796875,
+            621.1999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Validating models built on sparse data is",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            621.1999999999999,
+            522.8674921874999,
+            636.6999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "challenging due to the lack of independent",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            636.6999999999999,
+            499.68878125,
+            652.1999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "observations. We propose a validation",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            652.1999999999999,
+            515.2258906249999,
+            667.6999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "framework that uses cross-validation and",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            667.6999999999999,
+            539.9036249999999,
+            683.1999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "sensitivity analysis. The section details how to",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            683.1999999999999,
+            539.9671015624999,
+            698.6999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "quantify uncertainty from sensor error, spatial",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            698.6999999999999,
+            534.6057734374999,
+            714.1999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "representativeness, and model structure. We",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            714.1999999999999,
+            522.2473749999999,
+            729.6999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "also discuss the importance of transparent",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            729.6999999999999,
+            531.2708124999999,
+            745.1999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "reporting of validation results and the use of",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            745.1999999999999,
+            492.725890625,
+            760.6999999999999
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "ensemble methods to capture model",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            112.6201171875,
+            67.5
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "uncertainty.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            73.5,
+            287.638,
+            207.5
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Design",
+              "Description",
+              "Strengths",
+              "Limitations"
+            ],
+            [
+              "Leave-one-site-out",
+              "Hold out each site",
+              "Tests extrapolation",
+              "Computationally heavy"
+            ],
+            [
+              "K-fold",
+              "Split sites into folds",
+              "Efficient use",
+              "Weak spatial test"
+            ],
+            [
+              "Temporal holdout",
+              "Hold out periods",
+              "Tests transfer",
+              "Ignores spatial gaps"
+            ],
+            [
+              "Bootstrap",
+              "Resample sites",
+              "Estimates uncertainty",
+              "Underestimates variability"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            73.5,
+            287.638,
+            254.5
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            214.5,
+            275.291015625,
+            227.675
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Table 3: Cross-validation designs for sparse network",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            227.675,
+            96.7080078125,
+            240.85
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "evaluation",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            254.5,
+            230.4013671875,
+            270.775
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "Cross-Validation Strategies",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            274.775,
+            260.1787109375,
+            290.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Cross-validation is essential for assessing",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            290.275,
+            259.3681640625,
+            305.775
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "model performance with sparse data. We",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            305.775,
+            270.9453125,
+            321.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "describe leave-one-site-out cross-validation",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            321.275,
+            283.4697265625,
+            336.775
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "and its variants, which help evaluate how well",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            336.775,
+            267.9423828125,
+            352.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "a model predicts at unmonitored locations.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            352.275,
+            278.7529296875,
+            367.775
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "The section discusses the trade-offs between",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.775,
+            262.888671875,
+            383.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "different validation schemes and provides",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            383.275,
+            277.3759765625,
+            398.775
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "guidance on selecting appropriate metrics. A",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            398.775,
+            265.8623046875,
+            414.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "table outlines cross-validation designs and",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            414.275,
+            234.1142578125,
+            429.775
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "their suitability for different network",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            429.775,
+            126.7216796875,
+            445.275
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "configurations.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            451.275,
+            276.912109375,
+            466.775
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            472.775,
+            266.4951171875,
+            489.04999999999995
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "Error Propagation and Sensitivity",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            68.0,
+            489.04999999999995,
+            117.22900390625,
+            505.32499999999993
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "Analysis",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            509.32499999999993,
+            248.0888671875,
+            524.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Errors in sparse sensing can propagate",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            524.8249999999999,
+            280.6572265625,
+            540.3249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "through analyses and affect conclusions. This",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            540.3249999999999,
+            273.9287109375,
+            555.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "section examines sources of error, including",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            555.8249999999999,
+            247.8447265625,
+            571.3249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "instrument bias, spatial mismatch, and",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            571.3249999999999,
+            273.3623046875,
+            586.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "temporal sampling. We present a sensitivity",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            586.8249999999999,
+            268.97265625,
+            602.3249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "analysis framework to identify which errors",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            602.3249999999999,
+            258.298828125,
+            617.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "most influence outcomes. The discussion",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            617.8249999999999,
+            253.4453125,
+            633.3249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "includes how to prioritize quality control",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            633.3249999999999,
+            275.6279296875,
+            648.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "efforts and how to communicate uncertainty",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            648.8249999999999,
+            262.80078125,
+            664.3249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "to stakeholders. A table summarizes error",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            664.3249999999999,
+            232.751953125,
+            679.8249999999999
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "sources and their potential impacts.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            685.8249999999999,
+            276.912109375,
+            701.3249999999999
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            707.3249999999999,
+            276.912109375,
+            722.8249999999999
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 5.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Error source",
+              "Typical size",
+              "Impact",
+              "Mitigation"
+            ],
+            [
+              "Instrument bias",
+              "Small",
+              "Systematic offset",
+              "Calibration"
+            ],
+            [
+              "Spatial mismatch",
+              "Moderate",
+              "Representativeness",
+              "Dense sampling"
+            ],
+            [
+              "Temporal sampling",
+              "Small",
+              "Diurnal aliasing",
+              "Higher frequency"
+            ],
+            [
+              "Data gaps",
+              "Varies",
+              "Information loss",
+              "Imputation"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            52,
+            543.276,
+            233
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            193.0,
+            532.6846308593749,
+            206.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 4: Error sources and their potential impacts on",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            206.175,
+            371.143126953125,
+            219.35
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "sparse sensing",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            233,
+            543.276,
+            367
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0013",
+          "belongs_to": "h0013",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Error source",
+              "Typical size",
+              "Impact",
+              "Mitigation"
+            ],
+            [
+              "Instrument bias",
+              "Small",
+              "Systematic offset",
+              "Calibration"
+            ],
+            [
+              "Spatial mismatch",
+              "Moderate",
+              "Representativeness",
+              "Dense sampling"
+            ],
+            [
+              "Temporal sampling",
+              "Small",
+              "Diurnal aliasing",
+              "Higher frequency"
+            ],
+            [
+              "Data gaps",
+              "Varies",
+              "Information loss",
+              "Imputation"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            233,
+            543.276,
+            414
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            374.0,
+            532.6846308593749,
+            387.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 5: Error sources and their potential impacts on",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            387.175,
+            371.143126953125,
+            400.35
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "sparse sensing",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            414,
+            532.4924921874999,
+            431.05
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "Integrating Auxiliary Data Sources",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            435.05,
+            530.5335078124999,
+            450.55
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Auxiliary data, such as satellite imagery and",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            450.55,
+            506.4270625,
+            466.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "traffic cameras, can supplement sparse",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            466.05,
+            541.4514765624999,
+            481.55
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "ground networks. We explore how to integrate",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            481.55,
+            535.4993281249999,
+            497.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "these sources to fill spatial gaps and improve",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            497.05,
+            521.2610468749999,
+            512.55
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "temporal resolution. The section discusses",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            512.55,
+            528.5071406249999,
+            528.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "challenges like data alignment and differing",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            528.05,
+            525.6116328124999,
+            543.55
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "spatial supports, and proposes methods for",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            543.55,
+            527.3987421874999,
+            559.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "fusion. Examples include using land surface",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            559.05,
+            492.7112421875,
+            574.55
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "temperature from satellites to adjust",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            574.55,
+            452.4280390625,
+            590.05
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "ground-based interpolations.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            596.05,
+            499.237609375,
+            614.65
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "Implications for Urban Heat",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            311.638,
+            614.65,
+            351.839171875,
+            633.25
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "Policy",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            637.25,
+            501.3489375,
+            652.75
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "The findings from sparse sensing have",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            652.75,
+            531.5198359374999,
+            668.25
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "important implications for urban heat policy.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            668.25,
+            526.4319453124999,
+            683.75
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "We discuss how uncertainty in temperature",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            683.75,
+            517.2571406249999,
+            699.25
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "estimates should inform decision-making,",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            699.25,
+            474.5081171875,
+            714.75
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "such as targeting heat mitigation",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            714.75,
+            519.9378046874999,
+            730.25
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "interventions. The section emphasizes the",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            730.25,
+            496.436828125,
+            745.75
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "need for clear communication of data",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            745.75,
+            536.8225703124999,
+            761.25
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "limitations and the value of combining sparse",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            262.3271484375,
+            67.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "monitoring with modeling and community",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            228.89453125,
+            83.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "observations. We also highlight the",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            272.478515625,
+            98.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "importance of adaptive network design that",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            98.5,
+            199.7490234375,
+            114.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "can evolve with policy needs.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            120.0,
+            287.638,
+            254.0
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Year",
+              "Output (simulated)",
+              "Cost (simulated)",
+              "Balance (simulated)"
+            ],
+            [
+              "2022",
+              "78.17",
+              "50.81",
+              "27.36"
+            ],
+            [
+              "2023",
+              "94.54",
+              "61.45",
+              "33.09"
+            ],
+            [
+              "2024",
+              "105.68",
+              "68.69",
+              "36.99"
+            ],
+            [
+              "2025",
+              "117.16",
+              "76.15",
+              "41.01"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            120.0,
+            287.638,
+            301.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            261.0,
+            280.22998046875,
+            274.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 6: Summary of simulated network performance",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            274.175,
+            93.84423828125,
+            287.35
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "indicators",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

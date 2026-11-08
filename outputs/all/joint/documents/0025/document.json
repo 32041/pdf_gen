@@ -1,0 +1,676 @@
+{
+  "doc_id": "0025",
+  "kind": "report",
+  "domain": "report",
+  "language": "zh",
+  "title": "公共图书馆容量与服务评估",
+  "seed": 66,
+  "target_depth": 4,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "公共图书馆容量与服务评估",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "公共图书馆容量与服务评估",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "评估范围与方法说明",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 评估范围与方法说明",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "容量测量口径",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 容量测量口径",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "阅览座位占用观察",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 阅览座位占用观察",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "藏书空间与周转记录",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 藏书空间与周转记录",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "数字服务并发测试",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 数字服务并发测试",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "服务供给与需求匹配",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 服务供给与需求匹配",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "高峰时段压力分析",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 高峰时段压力分析",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "等候与分流记录",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 等候与分流记录",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "馆员配置与咨询负荷",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 馆员配置与咨询负荷",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "改进建议与复测安排",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 改进建议与复测安排",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      78.45,
+      91.33,
+      103.59,
+      122.37
+    ],
+    "cost": [
+      50.99,
+      59.36,
+      67.33,
+      79.54
+    ],
+    "balance": [
+      27.46,
+      31.97,
+      36.26,
+      42.83
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0002",
+      "target_previous_id": "h0003",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "评估范围与方法说明",
+      "caption": "表 2：评估范围与方法要素对照",
+      "rows": [
+        [
+          "要素",
+          "取值",
+          "证据来源",
+          "备注"
+        ],
+        [
+          "观察馆区",
+          "4个",
+          "门禁日志",
+          "分层抽样"
+        ],
+        [
+          "有效记录",
+          "240份",
+          "现场计数",
+          "交叉校验"
+        ],
+        [
+          "评估周期",
+          "12周",
+          "排期表",
+          "含复测"
+        ],
+        [
+          "时段类型",
+          "三类",
+          "观察表",
+          "分层呈现"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "评估范围与方法要素对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "服务供给与需求匹配",
+      "caption": "表 4：供需匹配观察要点与判定",
+      "rows": [
+        [
+          "观察项",
+          "高峰表现",
+          "判定",
+          "后续动作"
+        ],
+        [
+          "入口排队",
+          "偏长",
+          "关注",
+          "弹性引导"
+        ],
+        [
+          "座位等候",
+          "局部出现",
+          "关注",
+          "分区分流"
+        ],
+        [
+          "咨询响应",
+          "偏慢",
+          "关注",
+          "排班优化"
+        ],
+        [
+          "数字入口",
+          "部分变慢",
+          "观察",
+          "缓存调整"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "供需匹配观察要点与判定",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0005",
+      "target_previous_id": "h0004",
+      "target_subtype": "before_heading",
+      "target_relation": "siblings",
+      "topic": "藏书空间与周转记录",
+      "caption": "图 1：藏书空间与周转观察记录",
+      "rows": [
+        [
+          "区域",
+          "满载情况",
+          "周转表现",
+          "处理建议"
+        ],
+        [
+          "学科书架",
+          "接近饱和",
+          "偏慢",
+          "剔旧调拨"
+        ],
+        [
+          "综合阅览",
+          "尚有空位",
+          "正常",
+          "维持观察"
+        ],
+        [
+          "新书待架",
+          "等待偏长",
+          "偏慢",
+          "增派人手"
+        ],
+        [
+          "密集书库",
+          "基本稳定",
+          "正常",
+          "定期盘点"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "藏书空间与周转观察记录",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional report document. Document: 公共图书馆容量与服务评估. Section: 藏书空间与周转记录. Caption: 藏书空间与周转观察记录. Article context: 藏书空间评估以书架满载率与年度剔旧量为主要依据，同时记录新书入藏后上架等待时间。观察发现部分学科书架接近饱和，而综合阅览区仍有空余格位，说明空间压力在馆内分布不均。周转记录用于判断剔旧与调拨能否缓解局部拥挤，相关结论需在下一轮盘点中复核，避免单次盘点误差被放大为结构性判断。. Supporting records: [[\"区域\", \"满载情况\", \"周转表现\", \"处理建议\"], [\"学科书架\", \"接近饱和\", \"偏慢\", \"剔旧调拨\"], [\"综合阅览\", \"尚有空位\", \"正常\", \"维持观察\"], [\"新书待架\", \"等待偏长\", \"偏慢\", \"增派人手\"], [\"密集书库\", \"基本稳定\", \"正常\", \"定期盘点\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0008",
+      "target_previous_id": "h0007",
+      "target_subtype": "before_heading",
+      "target_relation": "prev_is_ancestor",
+      "topic": "高峰时段压力分析",
+      "caption": "表 5：高峰压力指标与观察结论",
+      "rows": [
+        [
+          "指标",
+          "高峰时段",
+          "观察结论",
+          "待验证假设"
+        ],
+        [
+          "入口排队",
+          "周末午后",
+          "偏长",
+          "引导可缓解"
+        ],
+        [
+          "座位等候",
+          "考试季晚间",
+          "局部",
+          "分区有效"
+        ],
+        [
+          "咨询负荷",
+          "周末午后",
+          "偏高",
+          "排班可改善"
+        ],
+        [
+          "分流接受",
+          "高峰全程",
+          "部分放弃",
+          "指引需加强"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 5。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "高峰压力指标与观察结论",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0001",
+      "target_previous_id": "h0001",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "公共图书馆容量与服务评估",
+      "caption": "表 1：模拟核算指标年度记录",
+      "rows": [
+        [
+          "年度",
+          "产出",
+          "成本",
+          "结余"
+        ],
+        [
+          "2022",
+          "78.45",
+          "50.99",
+          "27.46"
+        ],
+        [
+          "2023",
+          "91.33",
+          "59.36",
+          "31.97"
+        ],
+        [
+          "2024",
+          "103.59",
+          "67.33",
+          "36.26"
+        ],
+        [
+          "2025",
+          "122.37",
+          "79.54",
+          "42.83"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "模拟核算指标年度记录",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "数字服务并发测试",
+      "caption": "表 3：数字服务并发测试观察项",
+      "rows": [
+        [
+          "测试项",
+          "高峰表现",
+          "影响范围",
+          "处置建议"
+        ],
+        [
+          "检索响应",
+          "变慢",
+          "部分入口",
+          "缓存调整"
+        ],
+        [
+          "电子借阅",
+          "基本正常",
+          "全馆",
+          "持续监测"
+        ],
+        [
+          "远程续借",
+          "正常",
+          "全馆",
+          "维持现状"
+        ],
+        [
+          "并发登录",
+          "短时排队",
+          "部分入口",
+          "带宽评估"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "数字服务并发测试观察项",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "公共图书馆容量与服务评估",
+        "paragraph": "本报告面向市域公共图书馆体系，评估阅览座位、藏书空间与数字服务通道的承载能力，并考察高峰时段服务供给与实际使用之间的匹配程度。评估以4个馆区为观察范围，结合门禁计数、借阅日志与读者问卷形成证据链，重点回答容量是否充足、服务是否均衡、扩容应优先投向何处。报告中的产出、成本与结余均为模拟核算指标，仅用于方法演示，不作为财政承诺。"
+      },
+      "h0002": {
+        "title": "评估范围与方法说明",
+        "paragraph": "评估覆盖总馆与分馆的开放区域，按工作日、周末与考试季三类时段分层抽样，共获得240份有效观察记录。方法上采用现场计数与系统日志交叉校验，对座位占用、借还周转与数字资源并发访问分别设定判定阈值。凡涉及因果推断的表述均标注为待验证假设，与直接观测到的容量数据严格区分，避免将相关性误读为扩容效果。"
+      },
+      "h0003": {
+        "title": "容量测量口径",
+        "paragraph": "容量测量区分设计容量与实际可用容量，前者依据建筑图纸与家具布置，后者扣除维修封闭、设备占用与临时活动区域。测量小组在每个观察时段记录入口人流、座位占用与离馆时间，形成可比的时间序列。口径统一后，不同馆区之间的数据才具备横向比较基础，也便于后续复测时检验变化是否来自真实需求而非统计偏差。"
+      },
+      "h0004": {
+        "title": "阅览座位占用观察",
+        "paragraph": "座位观察显示，考试季晚间自习区占用率明显高于平日，部分楼层出现短时等候。观察员按半小时间隔记录占座与空置情况，并区分长时间离座与短暂离开。该结果属于描述性发现，尚不能断言座位不足直接导致读者流失，因为读者流向还受开放时间、交通与馆藏分布影响，需要结合后续访谈进一步核实。"
+      },
+      "h0005": {
+        "title": "藏书空间与周转记录",
+        "paragraph": "藏书空间评估以书架满载率与年度剔旧量为主要依据，同时记录新书入藏后上架等待时间。观察发现部分学科书架接近饱和，而综合阅览区仍有空余格位，说明空间压力在馆内分布不均。周转记录用于判断剔旧与调拨能否缓解局部拥挤，相关结论需在下一轮盘点中复核，避免单次盘点误差被放大为结构性判断。"
+      },
+      "h0006": {
+        "title": "数字服务并发测试",
+        "paragraph": "数字服务测试在非侵入前提下模拟多终端并发访问，记录检索响应、电子借阅授权与远程续借的成功情况。测试表明高峰时段部分资源入口响应变慢，但未出现整体不可用。测试结果仅反映特定时段的通道表现，不能外推为全年服务水平，运维团队据此提出缓存与带宽调整的初步清单，等待实际运行数据验证。"
+      },
+      "h0007": {
+        "title": "服务供给与需求匹配",
+        "paragraph": "服务匹配分析将容量数据与读者行为数据并置，考察开放时段、馆员配置与活动安排是否贴合需求节律。评估组以时段为单位比较到馆人数与服务窗口数量，识别出若干供需错位点。此类分析属于关联性观察，扩容或延时是否真正提升满意度，仍需通过对照观察与回访确认，报告中不将其表述为既定因果结论。"
+      },
+      "h0008": {
+        "title": "高峰时段压力分析",
+        "paragraph": "高峰压力分析聚焦周末午后与考试季晚间，综合入口排队、座位等候与咨询台响应时间三项指标。数据显示压力集中在少数时段与少数楼层，具有明显的时空局部性。评估组据此建议以弹性排班与分区引导先行缓解，而非立即启动大规模改建。该建议基于观察到的分布特征，其有效性尚待实施后的跟踪测量检验。"
+      },
+      "h0009": {
+        "title": "等候与分流记录",
+        "paragraph": "等候记录由入口引导员与自助设备共同采集，区分排队等候、取号等候与自行离开三类情形。分流记录则追踪读者被引导至其他楼层或其他馆区的路径与结果。观察显示分流可缓解局部拥挤，但部分读者因不熟悉馆区布局而放弃。该发现提示分流措施需配套指引设计，其实际效果应在下一评估周期用同一口径复测。"
+      },
+      "h0010": {
+        "title": "馆员配置与咨询负荷",
+        "paragraph": "咨询负荷以单位时间受理问题数与平均处理时长衡量，并结合馆员交接班记录判断配置是否合理。观察发现高峰时段咨询台负荷偏高，而部分时段人力相对闲置，存在排班优化空间。评估组强调，负荷指标受问题类型构成影响，简单比较绝对值可能失真，因此建议同时记录问题复杂度分级，供后续排班模型参考。"
+      },
+      "h0011": {
+        "title": "改进建议与复测安排",
+        "paragraph": "改进建议按优先级分为即时调整、季度优化与中长期建设三类，分别对应引导标识、弹性排班与空间改造。每项建议均附观察依据与待验证假设，明确责任岗位与复测时点。复测沿用本报告口径，重点检验高峰压力是否下降、分流接受度是否提升。评估组提醒，建议实施与效果之间可能存在其他干扰因素，结论需谨慎表述。"
+      }
+    },
+    "continuations": [
+      "观察记录应保留原始计数表与值班签字，便于复测时追溯口径变化，避免因人员更替导致数据不可比。",
+      "对问卷中关于等候感受的条目，应区分主观不满与客观等候时长，两者不可互相替代，分析时需分别呈现。",
+      "馆区之间的比较应控制开放时长与馆藏规模差异，否则容量利用率的高低可能只反映排班安排而非真实需求。",
+      "数字服务测试应避开系统升级窗口，并在记录中注明测试版本，防止将版本差异误判为容量瓶颈。",
+      "考试季与平日的观察样本不宜简单合并，分层呈现更能说明压力分布的时段特征。",
+      "若后续引入预约座位系统，应同步采集预约履约率，作为判断座位紧张程度的新增证据。",
+      "剔旧与调拨记录需与书架满载率同步更新，否则空间缓解效果会被滞后数据掩盖。",
+      "分流引导的接受度可通过回访抽样估计，但抽样偏差需在报告中说明，避免过度概括。",
+      "咨询负荷分级标准应在评估启动前确定，中途调整会削弱不同时段之间的可比性。",
+      "所有涉及读者个人信息的日志在分析前应完成脱敏，仅保留时段与区域维度。",
+      "复测时点宜与本次观察季节保持一致，减少季节性因素对结论的干扰。",
+      "建议清单应标注预计实施窗口，便于后续核对哪些措施已落地、哪些仍待审批。",
+      "对未观测到的馆区应明确说明排除原因，避免读者误以为评估覆盖全部分支。",
+      "容量阈值设定属于管理判断，报告中应说明依据来源，便于不同意见的公开讨论。",
+      "若实际到馆人数显著偏离历史区间，应优先排查统计设备故障而非直接归因于需求变化。",
+      "评估组与运维团队的数据交接应有书面记录，防止口径在传递过程中被无意修改。",
+      "读者访谈可作为问卷的补充，但访谈对象选择需说明方法，避免仅采访活跃读者。",
+      "开放时段调整属于管理决策，评估报告只提供观察依据，不替代决策程序。",
+      "电子资源访问日志的保留周期有限，分析应尽早启动，避免关键证据过期删除。",
+      "跨馆区调拨图书的运输时间应计入周转指标，否则会高估空间释放速度。",
+      "报告中凡标注为假设的表述，复测后应明确更新为支持、部分支持或未获支持。",
+      "活动占用区域在测量时应单独标注，避免与常规阅览座位混算造成容量低估。",
+      "建议引入第三方复核关键计数，以提升数据可信度，复核范围可先限定高峰时段。",
+      "对分流后放弃的读者，可在出口处简短询问原因，形成定性补充材料。",
+      "排班优化试点宜选择单一楼层先行，便于与未试点楼层形成对照观察。",
+      "所有图表数据应与原始记录一一对应，任何汇总口径变化都需在附注中说明。",
+      "评估周期内若发生馆舍维修，应在时间序列中标注，防止异常点被误读为趋势。",
+      "读者满意度与容量指标之间的关系需谨慎解读，满意度还受馆藏质量与服务态度影响。",
+      "复测报告应沿用本次的术语定义，术语漂移会使跨期比较失去意义。",
+      "建议清单的优先级可随复测结果调整，调整理由应留档备查。",
+      "对咨询问题复杂度分级，可先由资深馆员标定样例，再推广至全体值班人员。",
+      "报告发布前应组织内部审读，重点检查因果措辞是否超出观察证据的支持范围。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1584,
+        "completion_tokens": 2528,
+        "total_tokens": 4112,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1072
+      },
+      "finish_reason": "stop",
+      "request_hash": "46793b3a4124d69d59db5e75ddb40dc1e29096642ee3b535df23bcfb7c682975",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 2,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

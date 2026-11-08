@@ -1,0 +1,2596 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            189.63799999999998,
+            52.0,
+            405.638,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "办公建筑能源绩效评估报告",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            536.4000005722046,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本报告针对四处办公场所的能源绩效开展系统评估，覆盖2022至2025的连续观测期。评估以计量台账、运行日",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            532.0,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "志与现场核查为主要证据来源，采用统一口径对产出、成本与结余进行归集，并区分模拟观测值与因果推断结",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            542.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "论。报告旨在回答能耗变化是否可归因于管理措施，以及哪些环节需要优先整改，供资产管理与运营团队共同使",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            72.0,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "用。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            159.9,
+            178.0,
+            181.6
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "评估范围与数据来源",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            185.6,
+            542.0,
+            201.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "评估范围限定为四处办公场所的常规运营用能，包括照明、空调、办公设备与给排水动力，不含租户自建机房与",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            201.1,
+            538.6500002145767,
+            216.6
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "临时施工用电。数据来源包括分项计量表读数、月度费用单据与值班巡检记录，样本总量为240条。所有数据在",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            216.6,
+            372.0,
+            232.1
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "纳入分析前经过缺失值核查与异常点复核，口径差异在附表中逐项说明。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            238.1,
+            164.0,
+            256.7
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "计量口径与归集方法",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            260.7,
+            542.0,
+            276.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "计量口径以场所为单位、以月为粒度归集，产出、成本与结余三类指标分别对应服务量、支出与净额。归集时对",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            276.2,
+            542.0,
+            291.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "跨月抄表进行按日拆分，对共用区域能耗按面积比例分摊。为避免口径漂移，评估期内不调整分摊系数，任何调",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            291.7,
+            222.0,
+            307.2
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "整均需在变更记录中留痕并说明理由。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            313.2,
+            161.0,
+            330.25
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "分项计量与校验流程",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            334.25,
+            542.0,
+            349.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "分项计量依托楼层与系统两级表计，校验流程包括读数比对、总量闭合检查与人工抽抄三步。若分项之和与总表",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            349.75,
+            542.0,
+            365.25
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "偏差超出预设阈值，须在两日内发起复核，并在五个工作日内完成原因说明。校验记录按场所归档，作为后续归",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            365.25,
+            292.0,
+            380.75
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "因分析的证据基础，避免将计量误差误判为节能成效。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            386.75,
+            161.0,
+            403.8
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "数据质量与异常处理",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            407.8,
+            542.0,
+            423.3
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "数据质量问题主要表现为抄表时点不一致、表计故障与录入错位三类。处理原则是先标记、后核实、再修正，修",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            423.3,
+            542.0,
+            438.8
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "正过程保留原始值与调整值双记录。对于无法追溯原因的异常段，采用同期均值替代并在报告中标注为估计值，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            438.8,
+            232.0,
+            454.3
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "不参与因果归因，仅用于描述总体趋势。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            460.3,
+            159.79000014066696,
+            475.8
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            481.8,
+            543.276,
+            615.8
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0005",
+          "belongs_to": "h0005",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "环节",
+              "责任岗位",
+              "时限要求",
+              "记录形式"
+            ],
+            [
+              "读数比对",
+              "计量管理员",
+              "按日",
+              "比对台账"
+            ],
+            [
+              "总量闭合",
+              "能源分析员",
+              "按周",
+              "闭合报告"
+            ],
+            [
+              "人工抽抄",
+              "巡检人员",
+              "按月",
+              "抽抄记录"
+            ],
+            [
+              "异常复核",
+              "复核负责人",
+              "2日",
+              "复核单"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            481.8,
+            543.276,
+            648.8
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            622.8,
+            186.12150011956692,
+            635.9749999999999
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 1：分项计量校验与异常处理要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            648.8,
+            164.0,
+            667.4
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "指标定义与计算规则",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            671.4,
+            542.0,
+            686.9
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "产出指标反映评估期内可计量的服务规模，成本指标反映对应支出，结余指标为两者差额，均以统一单位呈现。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            686.9,
+            542.0,
+            702.4
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "计算规则明确取数边界、时间窗口与舍入方式，确保跨场所可比。任何指标的重述须同步更新历史序列，并在表",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            702.4,
+            252.0,
+            717.9
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "中注明重述原因，防止趋势被口径变化扭曲。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            723.9,
+            159.79000014066696,
+            739.4
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            745.4,
+            159.79000014066696,
+            760.9
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "指标",
+              "含义",
+              "取数边界",
+              "单位"
+            ],
+            [
+              "产出",
+              "服务规模",
+              "常规运营",
+              "统一单位"
+            ],
+            [
+              "成本",
+              "对应支出",
+              "费用单据",
+              "统一单位"
+            ],
+            [
+              "结余",
+              "差额净额",
+              "同上口径",
+              "统一单位"
+            ],
+            [
+              "增幅",
+              "累计变化",
+              "评估期内",
+              "百分比"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            169.12150011956692,
+            206.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 2：绩效指标定义与取数边界",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            219,
+            542.0,
+            234.5
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "评估期内的数据覆盖并非完全均匀，部分场所存在短期缺抄情况。报告采用同期均值填补并在记录中标注，读者",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            234.5,
+            312.0,
+            250.0
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "应将这些区段视为估计而非实测，避免据此作出精确比较。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            256.0,
+            542.0,
+            271.5
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "分项计量表计的精度等级不尽相同，老旧表计在小负荷工况下偏差更明显。建议在下一周期统一校准计划，并将",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.5,
+            302.0,
+            287.0
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "校准结果与能耗异常记录交叉比对，以提升数据可信度。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            293.0,
+            542.0,
+            308.5
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "运行日志的完整性直接影响归因分析的质量。若值班记录缺失关键时段，应优先补充现场巡查，而不是依赖模型",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            308.5,
+            252.0,
+            324.0
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "推算，以免将管理疏漏误读为设备效率变化。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            330.0,
+            542.0,
+            345.5
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "场所之间的使用强度差异较大，直接比较总量意义有限。分析时应同时呈现单位服务量指标与运行时长，并在说",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            345.5,
+            312.0,
+            361.0
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "明中交代使用模式变化，使读者能够判断差异的真实来源。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.0,
+            542.0,
+            382.5
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "设备改造往往与运行策略调整同期发生，二者效果难以分离。报告建议对改造项目采用分阶段实施，保留未改造",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            382.5,
+            302.0,
+            398.0
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "区域作为参照，从而在观测层面获得更清晰的对比证据。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            404.0,
+            542.0,
+            419.5
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "气候因素对空调能耗影响显著，评估期内若出现极端天气，应在趋势解释中单独说明。未加区分地将能耗上升归",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            419.5,
+            252.0,
+            435.0
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "因于管理不善，容易导致整改方向偏离实际。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            441.0,
+            542.0,
+            456.5
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "改进措施的验证窗口应覆盖完整季节周期，短期对比可能受偶然因素干扰。建议至少观察一个完整冷热循环，再",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            456.5,
+            282.0,
+            472.0
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "对措施效果作出阶段性判断，并保留后续复核空间。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            478.0,
+            542.0,
+            493.5
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "责任岗位的明确是整改闭环的前提。每项措施应指定执行人与验证人，二者分离有助于避免自评自证，也使验证",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            493.5,
+            142.0,
+            509.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "记录具备可追溯性。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            515.0,
+            542.0,
+            530.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "分项计量补装应优先覆盖高耗环节与争议区域，避免平均用力。补装方案需评估施工对正常办公的影响，并明确",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            530.5,
+            172.0,
+            546.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "停运时段与恢复确认流程。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            552.0,
+            542.0,
+            567.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "异常处理的时效要求需要与人员配置匹配。若复核响应过慢，异常段会持续累积并污染趋势序列，建议设置预警",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            567.5,
+            152.0,
+            583.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "阈值并明确升级路径。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            589.0,
+            542.0,
+            604.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "报告中的结余指标为观测差额，不等同于财务意义上的净收益。引用时应说明其计算口径与边界，防止读者将其",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            604.5,
+            172.0,
+            620.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "误解为可直接支配的资金。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            626.0,
+            542.0,
+            641.5
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "跨场所对比应采用统一的时间窗口与分摊规则。若某场所中途变更分摊系数，应在对比表中单独标注，并将变更",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            641.5,
+            152.0,
+            657.0
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "前后的序列分段呈现。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            663.0,
+            542.0,
+            678.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "现场核查是排除假性高耗的关键步骤。核查内容包括表计接线、设备运行状态与设定参数，核查结论应形成书面",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            678.5,
+            172.0,
+            694.0
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "记录并由核查人签字确认。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            700.0,
+            542.0,
+            715.5
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "趋势分析应同时呈现绝对量与相对量，避免单一视角造成误读。相对指标便于横向比较，绝对量则反映实际负荷",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            715.5,
+            212.0,
+            731.0
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "规模，二者结合才能支撑合理判断。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            737.0,
+            542.0,
+            752.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "评估结论的适用范围限于本报告界定的场所与时段。若场所用途发生重大变化，原有指标序列的可比性下降，应",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            752.5,
+            192.0,
+            768.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "重新界定口径后再作延续分析。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            542.0,
+            67.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "数据归档应保留原始读数与调整记录两条线索，便于后续审计复核。归档周期建议与合同周期一致，并在移交时",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            162.0,
+            83.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "附口径说明与变更清单。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            89.0,
+            543.276,
+            223.0
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "问题类型",
+              "识别方式",
+              "处理原则",
+              "记录要求"
+            ],
+            [
+              "抄表时点不一致",
+              "时点比对",
+              "按日拆分",
+              "双记录"
+            ],
+            [
+              "表计故障",
+              "闭合检查",
+              "标记核实",
+              "故障单"
+            ],
+            [
+              "录入错位",
+              "逻辑校验",
+              "修正留痕",
+              "调整记录"
+            ],
+            [
+              "无法追溯",
+              "复核确认",
+              "均值替代",
+              "标注估计"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            89.0,
+            543.276,
+            256.0
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            230.0,
+            186.12150011956692,
+            243.175
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 3：数据质量问题分类与处理原则",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            256.0,
+            178.0,
+            277.7
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "绩效结果与趋势分析",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            281.7,
+            536.8600018024445,
+            297.2
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "评估期内产出由80.15增长至120.87，成本由52.10上升至78.57，结余相应由28.05增至42.30，累计增幅为50.8",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            297.2,
+            542.0,
+            312.7
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "百分比。趋势显示成本增速低于产出增速，但各场所差异明显，需结合运行工况与设备状态进一步解释，不宜直",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            312.7,
+            202.0,
+            328.2
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "接推断管理措施已产生因果效应。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            334.2,
+            159.79000014066696,
+            349.7
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 6。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            355.7,
+            176.0,
+            374.3
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "分场所对比与差异解释",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            378.3,
+            542.0,
+            393.8
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "四处场所在建筑年代、使用强度与设备配置上存在差异，直接横向比较易产生误导。对比分析以单位服务量指标",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.8,
+            537.0500005483627,
+            409.3
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "为主，辅以运行时长与 occupancy 特征说明。差异解释优先排查使用模式变化与设备改造，其次考虑气候与季",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            409.3,
+            262.0,
+            424.8
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "节因素，无法解释的残差部分列为待核查事项。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            430.8,
+            159.79000014066696,
+            446.3
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            452.3,
+            543.276,
+            586.3
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "场所",
+              "产出",
+              "成本",
+              "结余"
+            ],
+            [
+              "场所甲",
+              "80.15",
+              "52.10",
+              "28.05"
+            ],
+            [
+              "场所乙",
+              "94.61",
+              "61.50",
+              "33.11"
+            ],
+            [
+              "场所丙",
+              "105.55",
+              "68.61",
+              "36.94"
+            ],
+            [
+              "场所丁",
+              "120.87",
+              "78.57",
+              "42.30"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            452.3,
+            543.276,
+            619.3
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            593.3,
+            177.62150011956692,
+            606.4749999999999
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 4：四处办公场所绩效指标对比",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            619.3,
+            139.0,
+            636.3499999999999
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "高耗能环节识别",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            640.3499999999999,
+            542.0,
+            655.8499999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "高耗能环节识别依据分项占比与同比变化双重条件，重点关注空调主机、末端风机与夜间照明。识别结果需经现",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            655.8499999999999,
+            542.0,
+            671.3499999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "场核查确认，排除计量串接与设备故障造成的假性高耗。对确认的高耗环节，按影响程度排序形成整改清单，并",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            671.3499999999999,
+            172.0,
+            686.8499999999999
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "明确责任岗位与验证方式。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "措施",
+              "验证指标",
+              "观察窗口",
+              "责任人"
+            ],
+            [
+              "运行策略优化",
+              "单位服务量",
+              "一个季度",
+              "运营主管"
+            ],
+            [
+              "维护计划调整",
+              "设备运行时长",
+              "一个季度",
+              "设备工程师"
+            ],
+            [
+              "分区计量补装",
+              "数据完整率",
+              "两个月",
+              "计量管理员"
+            ],
+            [
+              "照明分区控制",
+              "夜间负荷",
+              "一个月",
+              "物业值班长"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            186.12150011956692,
+            206.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 5：改进措施验证安排与责任分工",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            219,
+            161.0,
+            236.05
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "改进措施与验证安排",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            240.05,
+            542.0,
+            255.55
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "改进措施包括运行策略优化、设备维护计划调整与分区计量补装三类，按优先级分批实施。每项措施须设定验证",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            255.55,
+            532.0,
+            271.05
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "指标、观察窗口与责任人，验证期结束后对比实施前后同期数据。验证结论仅描述观测到的变化，若需因果判",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.05,
+            232.0,
+            286.55
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "断，应另行设计对照或分阶段实施方案。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            292.55,
+            159.79000014066696,
+            308.05
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            314.05,
+            164.0,
+            332.65000000000003
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "结论与后续工作建议",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            336.65000000000003,
+            532.0,
+            352.15000000000003
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "综合来看，评估期内的产出与结余呈上升态势，成本控制总体平稳，但场所间差异与数据质量问题仍需持续关",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            352.15000000000003,
+            542.0,
+            367.65000000000003
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "注。建议将分项计量校验、异常处理与措施验证纳入常态化管理，按季度更新指标序列，并在下一评估周期前完",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.65000000000003,
+            182.0,
+            383.15000000000003
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "成高耗环节整改的闭环确认。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            389.15000000000003,
+            542.0,
+            404.65000000000003
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "改进措施的优先级应综合考虑影响程度、实施难度与验证成本。单纯按能耗占比排序可能忽略实施可行性，导致",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            404.65000000000003,
+            182.0,
+            420.15000000000003
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "资源投入与实际收益不匹配。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            426.15000000000003,
+            542.0,
+            441.65000000000003
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "报告不主张将观测到的变化直接认定为因果效应。若管理方需要因果结论，应另行设计对照方案，或在报告中明",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            441.65000000000003,
+            172.0,
+            457.15000000000003
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "确标注推断的假设与局限。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            463.15000000000003,
+            542.0,
+            478.65000000000003
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "季度更新机制有助于及早发现口径漂移与设备劣化。更新时应复核指标定义是否仍然适用，并对历史序列作必要",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            478.65000000000003,
+            172.0,
+            494.15000000000003
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "重述，保持趋势连续可比。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            500.15000000000003,
+            542.0,
+            515.6500000000001
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "共用区域分摊容易引发争议，建议在评估启动前与使用方确认分摊规则，并将规则写入记录。评估期内不宜频繁",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            515.6500000000001,
+            182.0,
+            531.1500000000001
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "调整，以免破坏序列一致性。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            537.1500000000001,
+            532.0,
+            552.6500000000001
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "设备维护计划的调整应与运行策略优化协同推进。单独更换设备而不同步修正设定参数，往往难以体现预期效",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            552.6500000000001,
+            182.0,
+            568.1500000000001
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "果，甚至造成新的能耗波动。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            574.1500000000001,
+            542.0,
+            589.6500000000001
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "验证指标的选择应兼顾灵敏性与稳定性。过于敏感的指标易受短期扰动影响，过于稳定的指标则难以反映措施成",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            589.6500000000001,
+            182.0,
+            605.1500000000001
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "效，需在两者之间取得平衡。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            611.1500000000001,
+            542.0,
+            626.6500000000001
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "报告中的估计值区段应在图表与正文中一致标注，避免读者在不同章节获得矛盾印象。标注方式应简洁明确，并",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            626.6500000000001,
+            142.0,
+            642.1500000000001
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "附简要说明其局限。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            648.1500000000001,
+            542.0,
+            663.6500000000001
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "人员操作习惯对办公建筑能耗影响不容忽视。建议将操作规范纳入日常培训，并通过抽查方式确认执行情况，形",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            663.6500000000001,
+            162.0,
+            679.1500000000001
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "成行为层面的持续改进。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            685.1500000000001,
+            542.0,
+            700.6500000000001
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "若后续新增场所，应先在试运行期完成计量校验与口径对齐，再纳入正式序列。仓促并入会削弱整体可比性，也",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            700.6500000000001,
+            162.0,
+            716.1500000000001
+          ],
+          "block_id": "t00036",
+          "type": "text",
+          "text": "会增加异常处理的负担。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            722.1500000000001,
+            542.0,
+            737.6500000000001
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "整改清单应随验证进展动态更新，完成项需附验证证据，未完成项需说明原因与新的时间安排。静态清单容易流",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            737.6500000000001,
+            182.0,
+            753.1500000000001
+          ],
+          "block_id": "t00037",
+          "type": "text",
+          "text": "于形式，难以支撑闭环管理。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            759.1500000000001,
+            542.0,
+            774.6500000000001
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "报告建议将数据质量指标纳入日常考核，例如缺抄率与复核时效。考核的目的在于提升记录可靠性，而非单纯追",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            112.0,
+            67.5
+          ],
+          "block_id": "t00038",
+          "type": "text",
+          "text": "求数字好看。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            73.5,
+            543.276,
+            207.5
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "年度",
+              "产出",
+              "成本",
+              "结余"
+            ],
+            [
+              "2022",
+              "80.15",
+              "52.10",
+              "28.05"
+            ],
+            [
+              "2023",
+              "94.61",
+              "61.50",
+              "33.11"
+            ],
+            [
+              "2024",
+              "105.55",
+              "68.61",
+              "36.94"
+            ],
+            [
+              "2025",
+              "120.87",
+              "78.57",
+              "42.30"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            73.5,
+            543.276,
+            240.5
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            214.5,
+            169.12150011956692,
+            227.675
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 6：评估期年度指标序列概览",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

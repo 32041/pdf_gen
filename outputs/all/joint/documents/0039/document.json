@@ -1,0 +1,682 @@
+{
+  "doc_id": "0039",
+  "kind": "paper",
+  "domain": "academic_paper",
+  "language": "en",
+  "title": "Demand Forecasting for Public Library Services",
+  "seed": 80,
+  "target_depth": 4,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "clear",
+  "template": "compact",
+  "columns": 2,
+  "margin_pt": 52,
+  "font_size": 10,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Demand Forecasting for Public Library Services",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Demand Forecasting for Public Library Services",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Study Scope and Forecasting Questions",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "A Study Scope and Forecasting Questions",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Data Sources and Preparation",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 Data Sources and Preparation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Cleaning Rules for Circulation Records",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1 Cleaning Rules for Circulation Records",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Handling Closures and Seasonal Gaps",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.2 Handling Closures and Seasonal Gaps",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Constructing Weekly Demand Series",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 Constructing Weekly Demand Series",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Model Comparison and Validation",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "B Model Comparison and Validation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Evaluation Metrics and Error Patterns",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 Evaluation Metrics and Error Patterns",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Backtesting Across Branches",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "B.1.1 Backtesting Across Branches",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Interpreting Forecast Intervals",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "B.1.2 Interpreting Forecast Intervals",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Governance and Implementation Duties",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 Governance and Implementation Duties",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      76.13,
+      89.03,
+      106.22,
+      117.38
+    ],
+    "cost": [
+      49.48,
+      57.87,
+      69.04,
+      76.3
+    ],
+    "balance": [
+      26.65,
+      31.16,
+      37.18,
+      41.08
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0003",
+      "target_previous_id": "h0004",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Data Sources and Preparation",
+      "caption": "Figure 1: Data preparation steps and their review owners",
+      "rows": [
+        [
+          "Step",
+          "Purpose",
+          "Owner",
+          "Check"
+        ],
+        [
+          "Deduplicate",
+          "Remove repeats",
+          "Analyst",
+          "Sample audit"
+        ],
+        [
+          "Flag closures",
+          "Mark gaps",
+          "Supervisor",
+          "Calendar match"
+        ],
+        [
+          "Aggregate",
+          "Build weeks",
+          "Analyst",
+          "Row counts"
+        ],
+        [
+          "Version",
+          "Freeze extract",
+          "Data lead",
+          "Hash record"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Data preparation steps and their review owners",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional paper document. Document: Demand Forecasting for Public Library Services. Section: Data Sources and Preparation. Caption: Data preparation steps and their review owners. Article context: Records come from circulation systems, door counters and registration logs covering 2022 through 2025. We harmonize branch identifiers, remove duplicate checkouts, and flag closure days and system outages before aggregation. Weekly series are constructed so that holiday spikes are visible rather than smoothed away, and every exclusion is logged so that reviewers can reconstruct the prepared dataset from the raw extracts.. Supporting records: [[\"Step\", \"Purpose\", \"Owner\", \"Check\"], [\"Deduplicate\", \"Remove repeats\", \"Analyst\", \"Sample audit\"], [\"Flag closures\", \"Mark gaps\", \"Supervisor\", \"Calendar match\"], [\"Aggregate\", \"Build weeks\", \"Analyst\", \"Row counts\"], [\"Version\", \"Freeze extract\", \"Data lead\", \"Hash record\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0008",
+      "target_previous_id": "h0011",
+      "target_subtype": "far_float",
+      "target_relation": "siblings",
+      "topic": "Evaluation Metrics and Error Patterns",
+      "caption": "Table 4: Model comparison criteria used in validation",
+      "rows": [
+        [
+          "Criterion",
+          "Baseline",
+          "Regression",
+          "Boosted"
+        ],
+        [
+          "Seasonal fit",
+          "Strong",
+          "Moderate",
+          "Strong"
+        ],
+        [
+          "Calendar use",
+          "None",
+          "Yes",
+          "Yes"
+        ],
+        [
+          "Interpretability",
+          "High",
+          "High",
+          "Low"
+        ],
+        [
+          "Setup effort",
+          "Low",
+          "Medium",
+          "High"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Model comparison criteria used in validation",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0011",
+      "target_previous_id": "h0010",
+      "target_subtype": "before_heading",
+      "target_relation": "cross_branch",
+      "topic": "Governance and Implementation Duties",
+      "caption": "Table 2: Review duties and cadence for forecast governance",
+      "rows": [
+        [
+          "Duty",
+          "Role",
+          "Timing",
+          "Output"
+        ],
+        [
+          "Assumption check",
+          "Supervisor",
+          "Pre-roster",
+          "Memo"
+        ],
+        [
+          "Error review",
+          "Analyst",
+          "Quarterly",
+          "Report"
+        ],
+        [
+          "Model change",
+          "Data lead",
+          "As needed",
+          "Rationale"
+        ],
+        [
+          "Decision record",
+          "Manager",
+          "Each cycle",
+          "Log entry"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Review duties and cadence for forecast governance",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0004",
+      "target_previous_id": "h0003",
+      "target_subtype": "before_heading",
+      "target_relation": "prev_is_ancestor",
+      "topic": "Cleaning Rules for Circulation Records",
+      "caption": "Table 1: Cleaning rule checks applied to circulation extracts",
+      "rows": [
+        [
+          "Rule",
+          "Action",
+          "Tag",
+          "Reviewer"
+        ],
+        [
+          "Test scans",
+          "Remove",
+          "R1",
+          "Second pass"
+        ],
+        [
+          "Bulk loans",
+          "Exclude",
+          "R2",
+          "Supervisor"
+        ],
+        [
+          "Duplicates",
+          "Collapse",
+          "R3",
+          "Sample"
+        ],
+        [
+          "Outages",
+          "Flag",
+          "R4",
+          "Data lead"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Cleaning rule checks applied to circulation extracts",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0011",
+      "target_previous_id": "h0011",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Governance and Implementation Duties",
+      "caption": "Table 3: Implementation readiness checks before forecasts drive rosters",
+      "rows": [
+        [
+          "Check",
+          "Owner",
+          "Status",
+          "Evidence"
+        ],
+        [
+          "Calendar match",
+          "Supervisor",
+          "Open",
+          "Closure list"
+        ],
+        [
+          "Interval brief",
+          "Analyst",
+          "Open",
+          "Plain summary"
+        ],
+        [
+          "Owner named",
+          "Manager",
+          "Open",
+          "Memo"
+        ],
+        [
+          "Shadow run",
+          "Data lead",
+          "Open",
+          "Comparison"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Implementation readiness checks before forecasts drive rosters",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0010",
+      "target_previous_id": "h0009",
+      "target_subtype": "before_heading",
+      "target_relation": "siblings",
+      "topic": "Interpreting Forecast Intervals",
+      "caption": "Figure 2: Interpretation guide for forecast intervals by service",
+      "rows": [
+        [
+          "Service",
+          "Interval use",
+          "Risk",
+          "Note"
+        ],
+        [
+          "Loans",
+          "Midpoint",
+          "Low",
+          "Stable"
+        ],
+        [
+          "Visits",
+          "Upper bound",
+          "Queueing",
+          "Peak hours"
+        ],
+        [
+          "Programs",
+          "Wide range",
+          "Seats",
+          "Announcement"
+        ],
+        [
+          "Reference",
+          "Sampled",
+          "Coverage",
+          "Tally gap"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Interpretation guide for forecast intervals by service",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional paper document. Document: Demand Forecasting for Public Library Services. Section: Interpreting Forecast Intervals. Caption: Interpretation guide for forecast intervals by service. Article context: Point forecasts are presented with prediction intervals so planners can see the plausible range. A branch planning staffing against the upper bound will over-staff on average, while planning against the lower bound risks queues at peak hours. We recommend choosing the interval width according to the cost of being wrong for each service, and we label intervals as simulated estimates rather than guarantees.. Supporting records: [[\"Service\", \"Interval use\", \"Risk\", \"Note\"], [\"Loans\", \"Midpoint\", \"Low\", \"Stable\"], [\"Visits\", \"Upper bound\", \"Queueing\", \"Peak hours\"], [\"Programs\", \"Wide range\", \"Seats\", \"Announcement\"], [\"Reference\", \"Sampled\", \"Coverage\", \"Tally gap\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Demand Forecasting for Public Library Services",
+        "paragraph": "This paper examines how a four-site library network can forecast demand for lending, reference and programming services using circulation logs, visitor counts and program registrations. We treat forecasts as decision aids rather than verdicts, and we separate simulated observations from causal claims throughout. The analysis covers data preparation, model comparison, scenario interpretation and the governance duties that keep forecasts accountable to branch staff and residents."
+      },
+      "h0002": {
+        "title": "Study Scope and Forecasting Questions",
+        "paragraph": "The study addresses a practical question: how many loans, visits and program seats should each branch plan for in the coming cycle? We frame forecasting as a planning instrument for staffing, collection rotation and room booking, not as a performance rating. The scope covers the main circulating collections and public programs across the participating sites, while excluding interlibrary transfers and one-off outreach events that follow their own scheduling logic."
+      },
+      "h0003": {
+        "title": "Data Sources and Preparation",
+        "paragraph": "Records come from circulation systems, door counters and registration logs covering 2022 through 2025. We harmonize branch identifiers, remove duplicate checkouts, and flag closure days and system outages before aggregation. Weekly series are constructed so that holiday spikes are visible rather than smoothed away, and every exclusion is logged so that reviewers can reconstruct the prepared dataset from the raw extracts."
+      },
+      "h0004": {
+        "title": "Cleaning Rules for Circulation Records",
+        "paragraph": "Duplicate scans, staff test checkouts and bulk class loans are removed under written rules agreed with branch supervisors. Each removal is tagged with a reason code, and a sample of flagged rows is re-checked by a second reviewer. The cleaning log records the rule version applied, so a later analyst can reproduce the same dataset and see exactly which records changed and why."
+      },
+      "h0005": {
+        "title": "Handling Closures and Seasonal Gaps",
+        "paragraph": "Closure days, renovation periods and holiday weeks create gaps that distort naive averages. We mark these intervals explicitly and model them as known absences rather than missing demand. Where a gap exceeds a full week, the branch series is re-based on the surrounding comparable weeks, and the adjustment is documented alongside the original counts so that planners can judge how much of a forecast rests on imputed values."
+      },
+      "h0006": {
+        "title": "Constructing Weekly Demand Series",
+        "paragraph": "Weekly aggregates combine loans, visits and program registrations into separate series rather than a single composite index. Keeping the series apart preserves interpretability: a rise in visits without a matching rise in loans suggests different service use. Each series carries a data-quality flag, and weeks below a completeness threshold are excluded from model fitting but retained in the audit trail for transparency."
+      },
+      "h0007": {
+        "title": "Model Comparison and Validation",
+        "paragraph": "We compare a seasonal baseline, a regression with calendar and weather covariates, and a gradient-boosted model across the prepared series. Validation uses rolling-origin splits so that each model is tested only on weeks after its training window. Accuracy is reported per branch and per service line, because aggregate scores can hide a branch where a model consistently under-predicts weekend demand."
+      },
+      "h0008": {
+        "title": "Evaluation Metrics and Error Patterns",
+        "paragraph": "Forecast error is summarized with mean absolute percentage error and a bias measure that reveals systematic over- or under-prediction. Errors cluster around school holiday transitions and program launch weeks, which suggests calendar features deserve more weight than weather variables. We also report error by branch size, since small branches show wider relative error even when absolute differences are modest."
+      },
+      "h0009": {
+        "title": "Backtesting Across Branches",
+        "paragraph": "Backtests replay 12 weeks of history for each of the 4 sites, refitting models at fixed intervals. Results show that the seasonal baseline is competitive for loans but weaker for program registrations, which respond to announcement timing. These are simulated backtest observations, not evidence that any single model causes better service outcomes; they indicate where model choice matters most for planning."
+      },
+      "h0010": {
+        "title": "Interpreting Forecast Intervals",
+        "paragraph": "Point forecasts are presented with prediction intervals so planners can see the plausible range. A branch planning staffing against the upper bound will over-staff on average, while planning against the lower bound risks queues at peak hours. We recommend choosing the interval width according to the cost of being wrong for each service, and we label intervals as simulated estimates rather than guarantees."
+      },
+      "h0011": {
+        "title": "Governance and Implementation Duties",
+        "paragraph": "Forecasts enter branch planning only after a review meeting where supervisors check assumptions, note local events and record dissent. The review produces a decision memo with owners and review dates, and model changes require a documented rationale. This governance keeps forecasting accountable: staff know which numbers drive rosters, and residents can ask how service levels were set without confronting an unexplained algorithm."
+      }
+    },
+    "continuations": [
+      "Branch supervisors should confirm that holiday calendars used in fitting match the actual closure schedule; a mismatch quietly shifts seasonal effects and inflates error in the weeks surrounding each break.",
+      "When a counter fails for part of a day, the affected week should be flagged rather than scaled up, because scaling assumes a stable visitor pattern that the outage itself may have disturbed.",
+      "Model documentation should name the training window, feature set and validation split so that a later analyst can reproduce results without reconstructing decisions from memory or informal notes.",
+      "Program registration series often lead actual attendance; planners should keep both measures visible so that forecasted demand reflects seats offered as well as seats filled.",
+      "Rolling-origin validation is preferred to a single holdout because library demand shifts gradually and one split can flatter a model that performs poorly in other periods.",
+      "Where two models disagree sharply for a branch, the review meeting should record both ranges and the reasoning behind the chosen planning figure rather than averaging silently.",
+      "Small branches need wider intervals; treating their forecasts with the same precision as large sites invites overconfidence in staffing and collection decisions.",
+      "Weather covariates add little explanatory value in our simulated tests, so teams should weigh whether the data collection burden is justified before retaining them.",
+      "Renovation periods should be excluded from fitting but retained in reporting, since planners still need to know what demand looked like before and after the disruption.",
+      "Forecast review should occur before roster deadlines, not after, so that adjustments can still influence staffing rather than merely annotate past choices.",
+      "Any change to cleaning rules should trigger a refit and a short note explaining the expected effect, because rule changes can move error metrics without any real change in demand.",
+      "Reference desk queries are poorly captured by door counters alone; a separate tally or sampling scheme improves visibility into demand that never reaches the circulation system.",
+      "Prediction intervals should be shown to branch staff in plain language, with a short explanation of what the range means for a typical planning week.",
+      "Aggregate accuracy figures should be accompanied by per-branch breakdowns, since a network-wide score can mask a site where forecasts consistently miss peak days.",
+      "Registration for children's programs is sensitive to school term dates; the calendar feature set should encode term boundaries explicitly rather than relying on month indicators.",
+      "A forecast that is accurate on average but biased in one direction is riskier for planning than its error score suggests, so bias should be reviewed alongside absolute error.",
+      "Data extracts should be versioned and stored with their preparation scripts, allowing auditors to confirm that reported figures trace back to the same source snapshot.",
+      "Staff should be told which forecast version drives each roster, so that questions about service levels can be answered with reference to a specific, dated output.",
+      "Seasonal baselines remain useful as a sanity check even when more complex models are adopted, because large divergences often signal a data problem rather than a genuine shift.",
+      "Interlibrary transfers and outreach events are excluded from the main series but should be tracked separately, since they consume staff time that forecasts otherwise ignore.",
+      "Before adopting a new model, run it in shadow mode for several weeks and compare its forecasts with outcomes without letting it influence decisions.",
+      "The review memo should name a single accountable owner for each planning figure, so that later questions have a clear route to an answer.",
+      "Missing weeks should never be filled by interpolation without a flag; planners need to know how much of a forecast rests on estimated rather than observed values.",
+      "Program announcement dates are a plausible driver of registration spikes, but our simulated data cannot establish causation; treat the association as a hypothesis for testing.",
+      "Branch-level error reports should be shared with supervisors in advance of review meetings so that discussion focuses on interpretation rather than first impressions.",
+      "A quarterly recalibration cadence balances responsiveness against the disruption of frequent model changes, and it gives staff time to observe how forecasts perform.",
+      "When a branch's demand shifts after a service change, keep the old and new series separate for a period rather than splicing them into one unbroken line.",
+      "Forecast outputs should carry a visible label indicating simulated or provisional status until validated against observed outcomes over a full cycle.",
+      "Roster planning benefits from weekly rather than daily forecasts, because staffing decisions are usually made at the week level and daily noise can mislead.",
+      "Any exclusion of a branch from a comparative report should be stated with its reason, so that readers do not mistake absence for a zero or a good result.",
+      "The governance group should include a frontline staff member, since local knowledge about events and closures often explains deviations that models cannot see.",
+      "Documentation should record rejected models and the reasons for rejection, preventing the same comparison from being repeated without new evidence."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1607,
+        "completion_tokens": 2713,
+        "total_tokens": 4320,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1095
+      },
+      "finish_reason": "stop",
+      "request_hash": "e2ffff7f4eb60dcc2e8c9fd2157479de3a2876b52516c19322c9d94f467274ae",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

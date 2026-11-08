@@ -1,0 +1,814 @@
+{
+  "doc_id": "0008",
+  "kind": "annual_report",
+  "domain": "annual_report",
+  "language": "zh",
+  "title": "区域供水服务企业年度运营报告",
+  "seed": 49,
+  "target_depth": 5,
+  "has_title": true,
+  "numbering_mode": "none",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "区域供水服务企业年度运营报告",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "区域供水服务企业年度运营报告",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "年度运营总体回顾",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "年度运营总体回顾",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "供水规模与成本表现",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "供水规模与成本表现",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "核心指标年度序列",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "核心指标年度序列",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "供水量变化解读",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "供水量变化解读",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "成本结构变动解读",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "成本结构变动解读",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "结余与可持续性观察",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "结余与可持续性观察",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "结余资金配置与审批",
+      "level": 5,
+      "parent_id": "h0007",
+      "path": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "text": "结余资金配置与审批",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "结余增长的持续性判断",
+      "level": 5,
+      "parent_id": "h0007",
+      "path": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "text": "结余增长的持续性判断",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "指标口径与核对清单",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "指标口径与核对清单",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "服务治理与用户响应",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "服务治理与用户响应",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "响应机制与处理流程",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        1
+      ],
+      "text": "响应机制与处理流程",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "响应时效与办结质量",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "响应时效与办结质量",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "首次响应时限执行",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "首次响应时限执行",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "回访与复核安排",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "回访与复核安排",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "信息公开与用户沟通",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "信息公开与用户沟通",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "下一年度工作重点",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        2
+      ],
+      "text": "下一年度工作重点",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      76.52,
+      91.04,
+      106.77,
+      117.55
+    ],
+    "cost": [
+      49.74,
+      59.18,
+      69.4,
+      76.41
+    ],
+    "balance": [
+      26.78,
+      31.86,
+      37.37,
+      41.14
+    ],
+    "synthetic": true
+  },
+  "page_width": 612.0,
+  "page_height": 792.0,
+  "paper": "Letter",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0008",
+      "target_previous_id": "h0015",
+      "target_subtype": "plate",
+      "target_relation": "cross_branch",
+      "topic": "指标口径与核对清单",
+      "caption": "表 2：指标核对事项与责任分工清单",
+      "rows": [
+        [
+          "核对事项",
+          "取数来源",
+          "复核责任",
+          "异常处理"
+        ],
+        [
+          "供水量口径",
+          "调度系统",
+          "运营组",
+          "月度说明"
+        ],
+        [
+          "成本归集",
+          "财务台账",
+          "财务组",
+          "分类复核"
+        ],
+        [
+          "结余计算",
+          "财务台账",
+          "财务组",
+          "交叉验算"
+        ],
+        [
+          "服务工单",
+          "服务系统",
+          "服务组",
+          "抽查归档"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": "plate-8",
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "指标核对事项与责任分工清单",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0009",
+      "target_previous_id": "h0015",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "服务治理与用户响应",
+      "caption": "表 3：年度核心指标序列对照",
+      "rows": [
+        [
+          "年度",
+          "供水量",
+          "运营成本",
+          "运营结余"
+        ],
+        [
+          "2022",
+          "76.52",
+          "49.74",
+          "26.78"
+        ],
+        [
+          "2023",
+          "91.04",
+          "59.18",
+          "31.86"
+        ],
+        [
+          "2024",
+          "106.77",
+          "69.40",
+          "37.37"
+        ],
+        [
+          "2025",
+          "117.55",
+          "76.41",
+          "41.14"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": "plate-8",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "年度核心指标序列对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0009",
+      "target_previous_id": "h0015",
+      "target_subtype": "plate",
+      "target_relation": "owner_is_ancestor",
+      "topic": "服务治理与用户响应",
+      "caption": "图 3：服务治理工作事项与审议节奏",
+      "rows": [
+        [
+          "工作事项",
+          "主责部门",
+          "汇总频次",
+          "审议方式"
+        ],
+        [
+          "报修响应",
+          "服务组",
+          "按月",
+          "例会审议"
+        ],
+        [
+          "水质投诉",
+          "水质组",
+          "按月",
+          "例会审议"
+        ],
+        [
+          "信息公开",
+          "服务组",
+          "按季",
+          "书面意见"
+        ],
+        [
+          "回访复核",
+          "质量岗",
+          "按月",
+          "抽查记录"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 3。",
+      "plate_group": "plate-8",
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "服务治理工作事项与审议节奏",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: 区域供水服务企业年度运营报告. Section: 服务治理与用户响应. Caption: 服务治理工作事项与审议节奏. Article context: 服务治理部分聚焦用户报修响应、水质投诉处理与信息公开三项工作。企业按区域划分服务网格，明确首接责任与升级路径，并定期回访高风险用户。治理成效通过响应时效与办结质量两类记录衡量，相关数据由服务部门按月汇总，纳入管理层例会审议。. Supporting records: [[\"工作事项\", \"主责部门\", \"汇总频次\", \"审议方式\"], [\"报修响应\", \"服务组\", \"按月\", \"例会审议\"], [\"水质投诉\", \"水质组\", \"按月\", \"例会审议\"], [\"信息公开\", \"服务组\", \"按季\", \"书面意见\"], [\"回访复核\", \"质量岗\", \"按月\", \"抽查记录\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "年度运营总体回顾",
+      "caption": "图 1：年度运营主线与季度关注要点",
+      "rows": [
+        [
+          "运营主线",
+          "关注要点",
+          "比对方式",
+          "跟踪部门"
+        ],
+        [
+          "安全供水",
+          "水质记录",
+          "季度比对",
+          "水质组"
+        ],
+        [
+          "成本控制",
+          "能耗波动",
+          "季度比对",
+          "财务组"
+        ],
+        [
+          "用户服务",
+          "响应时效",
+          "月度汇总",
+          "服务组"
+        ],
+        [
+          "管网维护",
+          "漏损记录",
+          "季度比对",
+          "运营组"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "年度运营主线与季度关注要点",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: 区域供水服务企业年度运营报告. Section: 年度运营总体回顾. Caption: 年度运营主线与季度关注要点. Article context: 回顾期内，企业围绕安全供水、成本控制与用户服务三条主线推进工作。管理层按季度比对供水量与运营成本的匹配关系，识别管网漏损与能耗波动带来的偏差，并将偏差纳入下一季度调度计划。总体判断是运营规模稳步扩大，但成本增速与服务水平之间的平衡仍需持续观察。. Supporting records: [[\"运营主线\", \"关注要点\", \"比对方式\", \"跟踪部门\"], [\"安全供水\", \"水质记录\", \"季度比对\", \"水质组\"], [\"成本控制\", \"能耗波动\", \"季度比对\", \"财务组\"], [\"用户服务\", \"响应时效\", \"月度汇总\", \"服务组\"], [\"管网维护\", \"漏损记录\", \"季度比对\", \"运营组\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0009",
+      "target_previous_id": "h0015",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "服务治理与用户响应",
+      "caption": "图 2：响应时效与回访安排要点",
+      "rows": [
+        [
+          "环节",
+          "时限要求",
+          "记录方式",
+          "复核安排"
+        ],
+        [
+          "首次到场",
+          "2天",
+          "系统时间戳",
+          "月度抽查"
+        ],
+        [
+          "办结回访",
+          "5天",
+          "回访记录",
+          "质量岗复核"
+        ],
+        [
+          "超时说明",
+          "按工单",
+          "原因分类",
+          "网格负责"
+        ],
+        [
+          "记录补正",
+          "限期",
+          "整改清单",
+          "服务组验收"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "响应时效与回访安排要点",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional annual_report document. Document: 区域供水服务企业年度运营报告. Section: 服务治理与用户响应. Caption: 响应时效与回访安排要点. Article context: 服务治理部分聚焦用户报修响应、水质投诉处理与信息公开三项工作。企业按区域划分服务网格，明确首接责任与升级路径，并定期回访高风险用户。治理成效通过响应时效与办结质量两类记录衡量，相关数据由服务部门按月汇总，纳入管理层例会审议。. Supporting records: [[\"环节\", \"时限要求\", \"记录方式\", \"复核安排\"], [\"首次到场\", \"2天\", \"系统时间戳\", \"月度抽查\"], [\"办结回访\", \"5天\", \"回访记录\", \"质量岗复核\"], [\"超时说明\", \"按工单\", \"原因分类\", \"网格负责\"], [\"记录补正\", \"限期\", \"整改清单\", \"服务组验收\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0001",
+      "target_previous_id": "h0001",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "区域供水服务企业年度运营报告",
+      "caption": "表 1：报告编制与审定环节职责",
+      "rows": [
+        [
+          "环节",
+          "承担角色",
+          "主要职责",
+          "输出记录"
+        ],
+        [
+          "编制",
+          "编制组",
+          "汇总指标",
+          "报告底稿"
+        ],
+        [
+          "复核",
+          "财务与运营",
+          "口径比对",
+          "复核记录"
+        ],
+        [
+          "审定",
+          "管理层",
+          "结论确认",
+          "会议纪要"
+        ],
+        [
+          "归档",
+          "综合岗",
+          "版本保存",
+          "归档清单"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "报告编制与审定环节职责",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "区域供水服务企业年度运营报告",
+        "paragraph": "本报告汇总虚构区域供水服务企业在2025年度的供水运营、财务表现与服务治理情况。报告以四个年度可比口径的模拟指标为基础，说明供水量、运营成本与运营结余的变化轨迹，并交代数据来源、核对方法与责任分工。读者应将其视为内部管理复盘材料，而非对外披露文件；所有数值均为模拟口径，用于检验指标之间的逻辑一致性。"
+      },
+      "h0002": {
+        "title": "年度运营总体回顾",
+        "paragraph": "回顾期内，企业围绕安全供水、成本控制与用户服务三条主线推进工作。管理层按季度比对供水量与运营成本的匹配关系，识别管网漏损与能耗波动带来的偏差，并将偏差纳入下一季度调度计划。总体判断是运营规模稳步扩大，但成本增速与服务水平之间的平衡仍需持续观察。"
+      },
+      "h0003": {
+        "title": "供水规模与成本表现",
+        "paragraph": "本节以四个年度的供水量、运营成本与运营结余序列为骨架，说明规模扩张与成本投入之间的关系。分析采用同口径折算，排除一次性检修支出对可比性的干扰，并对异常月份单独标注。结论仅描述模拟观测到的关联，不对扩张与成本之间的因果方向作出断言。"
+      },
+      "h0004": {
+        "title": "核心指标年度序列",
+        "paragraph": "核心指标序列覆盖2022至2025四个年度。供水量由76.52升至117.55，运营成本由49.74升至76.41，运营结余由26.78升至41.14。财务与运营部门共同复核了口径一致性，确认各年度均按同一折算规则处理，未对历史数据作追溯调整。"
+      },
+      "h0005": {
+        "title": "供水量变化解读",
+        "paragraph": "供水量在四个年度内累计增长53.6个百分点，增长主要出现在用水需求集中的季节。调度部门结合分区计量记录核对增量来源，区分新增用户接入与季节性波动两类因素。由于缺少对照区域数据，本报告不将增长归因于单一因素，仅将其列为后续跟踪的重点观察项。"
+      },
+      "h0006": {
+        "title": "成本结构变动解读",
+        "paragraph": "运营成本的增长与供水量扩张在时间上同步，但两者比例并不恒定。成本核算组按能耗、药剂、人工与维护四类归集支出，发现能耗与维护两类波动最明显。该结果提示成本管理应聚焦于设备运行效率，而非简单压缩总量；相关判断仍需更长序列验证。"
+      },
+      "h0007": {
+        "title": "结余与可持续性观察",
+        "paragraph": "运营结余逐年上升，为管网更新与应急储备提供了空间。财务组建议将结余的一部分定向用于老旧管段替换，另一部分保留为流动性缓冲。该配置方案属于管理建议，尚未经过预算审批程序，实际执行需结合下一年度资本计划统筹安排。"
+      },
+      "h0016": {
+        "title": "结余资金配置与审批",
+        "paragraph": "财务组提出的结余配置思路，将资金划分为管网更新与流动性缓冲两类用途。从数据看，结余由26.78逐步增至41.14，具备一定腾挪空间。但该方案目前仅为内部管理建议，尚需经过预算审批程序，并与下一年度资本计划衔接后才能落地执行。"
+      },
+      "h0017": {
+        "title": "结余增长的持续性判断",
+        "paragraph": "结余连续增长的基础在于供水量与成本之间的差额保持稳定。2022至2025期间，结余从26.78升至41.14，增幅温和。后续需关注成本端波动对结余的侵蚀，若成本增速超过供水量增速，结余空间可能收窄，因此应保留必要的流动性缓冲。"
+      },
+      "h0008": {
+        "title": "指标口径与核对清单",
+        "paragraph": "为确保各年度数据可比，报告编制组制定了统一的核对清单，明确指标定义、取数来源、复核责任人与异常处理规则。清单在每季度结账后执行一次，发现差异须在复核记录中说明原因。下表列出主要核对事项及其责任分工，供后续审计与内部复核参照使用。"
+      },
+      "h0009": {
+        "title": "服务治理与用户响应",
+        "paragraph": "服务治理部分聚焦用户报修响应、水质投诉处理与信息公开三项工作。企业按区域划分服务网格，明确首接责任与升级路径，并定期回访高风险用户。治理成效通过响应时效与办结质量两类记录衡量，相关数据由服务部门按月汇总，纳入管理层例会审议。"
+      },
+      "h0010": {
+        "title": "响应机制与处理流程",
+        "paragraph": "响应机制以工单系统为载体，从受理、派单、现场处理到回访形成闭环。流程设计强调时限约束与责任可追溯，避免工单在部门之间滞留。服务部门与调度部门共享工单状态，遇到管网突发情况时同步启动应急通道，确保用户知情与处置进度一致。"
+      },
+      "h0011": {
+        "title": "响应时效与办结质量",
+        "paragraph": "响应时效以受理至首次到场的时间衡量，办结质量以回访确认与重复报修率衡量。两类记录按月度汇总后与目标值比对，偏差较大的网格须提交原因说明。本节数据来自服务系统导出记录，属于模拟观测，不构成对服务水平的因果解释。"
+      },
+      "h0012": {
+        "title": "首次响应时限执行",
+        "paragraph": "首次响应时限设定为2天内到场，适用于常规报修场景。执行记录显示多数工单在时限内完成首次到场，超时工单主要集中在偏远网格与恶劣天气时段。服务部门据此调整了值班排班与车辆调度，并将超时原因分类归档，供后续流程优化参考。"
+      },
+      "h0013": {
+        "title": "回访与复核安排",
+        "paragraph": "回访在工单办结后5天内完成，重点确认问题是否彻底解决以及用户对处理过程的评价。复核由服务质量岗抽查一定比例的工单，核对现场记录与系统状态是否一致。抽查发现的记录缺失问题已纳入整改清单，由网格负责人限期补正。"
+      },
+      "h0014": {
+        "title": "信息公开与用户沟通",
+        "paragraph": "信息公开覆盖水质公告、停水通知与服务承诺三类内容，通过服务窗口与线上渠道同步发布。沟通工作强调提前告知与用语清晰，避免因信息滞后引发集中咨询。服务部门定期收集用户反馈，将高频问题整理为问答口径，供一线人员统一使用。"
+      },
+      "h0015": {
+        "title": "下一年度工作重点",
+        "paragraph": "下一年度工作围绕管网更新、成本精细化与响应时效提升展开。管理层要求各业务组在年初提交可量化的改进目标，并按季度复盘执行进度。报告建议将本年度识别的薄弱环节纳入专项跟踪，同时保持指标口径稳定，以便跨年度比较不因定义调整而失真。"
+      }
+    },
+    "continuations": [
+      "报告编制过程中，各业务组提交的原始记录须与系统导出数据逐项比对，差异说明应附在复核底稿中，便于后续查阅与追溯。",
+      "指标口径一旦调整，应在报告中同步说明调整范围与影响，避免跨年度比较出现口径断层，影响管理层判断。",
+      "对于波动明显的月份，建议单独列示原因分类，而不将其简单并入年度均值，以保留异常信息的诊断价值。",
+      "服务工单的时限记录依赖系统时间戳，若存在人工补录情形，应在复核时标注，避免时效统计被高估或低估。",
+      "成本归集应保持分类稳定，临时性支出若需单列，应说明其性质与金额来源，防止与常规运营支出混淆。",
+      "管网更新项目的优先级排序宜结合漏损记录与用户报修分布，单纯依据管龄排序可能忽略实际风险差异。",
+      "用户回访结果宜按问题类型分层统计，整体满意度指标容易掩盖局部薄弱环节，不利于精准改进。",
+      "跨部门共享工单状态有助于减少重复派单，但需明确各环节的责任边界，防止出现推诿或状态长期滞留。",
+      "应急通道的启动条件应事先约定，并在事后复盘启动是否及时，避免应急机制被常规工单挤占。",
+      "信息公开内容需与一线口径保持一致，发布前应经服务与调度双方确认，减少用户咨询中的信息冲突。",
+      "本报告所列数值均来自模拟口径，未经过外部审验，引用时须注明来源性质，避免被误作正式披露数据。",
+      "季度复盘会议应保留决议记录，明确改进事项的责任人与完成时限，使年度目标能够逐季落地。",
+      "对于新增用户接入带来的水量变化，宜与季节性波动分开记录，以便在需求预测中采用不同的处理方式。",
+      "能耗数据的采集频次影响成本分析的精细度，若采集间隔过长，异常波动可能被平均化而难以识别。",
+      "流动性缓冲的规模设定应结合未来资本支出节奏，过高会降低资金使用效率，过低则削弱应急能力。",
+      "服务网格的划分宜定期评估，用户分布变化后原有边界可能不再均衡，导致部分网格负荷偏高。",
+      "抽查比例与抽查方式应在年初确定并保持稳定，频繁调整会使办结质量的跨期比较失去参考价值。",
+      "报告建议的改进目标应避免过多，聚焦少数可量化事项更有利于执行跟踪与责任落实。",
+      "原始记录的保存期限与归档方式应有明确规定，避免年度复核时因资料缺失而无法完成比对。",
+      "在缺少对照区域数据的情况下，增长与成本变化的关联只能作为观察记录，不宜表述为因果结论。",
+      "值班排班调整后应观察一段时间的超时工单变化，再评估措施是否有效，避免过早下结论。",
+      "用户反馈中的高频问题可作为服务承诺修订的输入，但修订前需评估其对运营成本的连带影响。",
+      "指标序列的年度比较应同时关注绝对水平与变化幅度，仅看增幅可能忽略基数差异带来的误读。",
+      "专项跟踪事项宜设定阶段性检查点，中期评估能够及时暴露执行偏差，减少年末集中整改的压力。",
+      "报告中的管理建议需经预算与运营双方会商后方可执行，未经审批的建议不应视为已承诺事项。",
+      "管网维护记录与工单记录应建立关联标识，便于在分析重复报修时快速定位对应的设施与管段。",
+      "服务承诺的表述应具体可核验，模糊用语会增加回访判断的难度，也容易引发用户争议。",
+      "年度报告的编制分工应事先明确，编制、复核与审定三个环节由不同人员承担，以形成相互制约。",
+      "对于识别出的薄弱环节，建议同时记录其影响范围与发生频次，以便在资源有限时合理排序。",
+      "数据导出与归档应保留版本信息，若后续发现录入错误，可依据版本记录进行更正并说明影响。",
+      "管理层例会对服务指标的审议应形成书面意见，便于下一季度核对改进事项是否得到落实。",
+      "本报告的结论以现有记录为限，若后续补充新的观测数据，相关判断应重新评估而非直接沿用。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1682,
+        "completion_tokens": 3098,
+        "total_tokens": 4780,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1170
+      },
+      "finish_reason": "stop",
+      "request_hash": "591908e0d6a8955be27ffe6072d17efe049be3c6b97320575ccb90cfe09a12eb",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true,
+      "base_request_hash": "b1642be71754a194669a9a89f2c384b0993fc6a342f29b72ec40b8b1d66242ab",
+      "augmentation_usage": {
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 742,
+          "completion_tokens": 204,
+          "total_tokens": 946,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 742
+        },
+        "finish_reason": "stop"
+      }
+    }
+  },
+  "variant_index": 2,
+  "augmentation_ids": [
+    "h0016",
+    "h0017"
+  ],
+  "explicit_hierarchy": false,
+  "title_alignment": "center"
+}

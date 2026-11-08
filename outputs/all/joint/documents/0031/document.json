@@ -1,0 +1,614 @@
+{
+  "doc_id": "0031",
+  "kind": "exam_paper",
+  "domain": "exam_paper",
+  "language": "zh",
+  "title": "技术证据解读能力考核试卷",
+  "seed": 72,
+  "target_depth": 3,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "技术证据解读能力考核试卷",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "技术证据解读能力考核试卷",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "第一部分 材料解读与证据分级",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 第一部分 材料解读与证据分级",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "第一题 观测记录与推断的区分",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 第一题 观测记录与推断的区分",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "第二题 指标口径一致性核对",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 第二题 指标口径一致性核对",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "第二部分 论证构建与结论表述",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 第二部分 论证构建与结论表述",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "第三题 结论边界与不确定性表述",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 第三题 结论边界与不确定性表述",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "第四题 复核流程与责任分工",
+      "level": 3,
+      "parent_id": "h0005",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 第四题 复核流程与责任分工",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      79.9,
+      90.99,
+      106.75,
+      120.58
+    ],
+    "cost": [
+      51.94,
+      59.14,
+      69.39,
+      78.38
+    ],
+    "balance": [
+      27.96,
+      31.85,
+      37.36,
+      42.2
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0004",
+      "target_previous_id": "h0004",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "第二题 指标口径一致性核对",
+      "caption": "表 1：指标口径核对要点与核验方式",
+      "rows": [
+        [
+          "核对项",
+          "关注点",
+          "核验方式",
+          "结论影响"
+        ],
+        [
+          "统计周期",
+          "起止是否一致",
+          "比对记录日期",
+          "影响趋势判断"
+        ],
+        [
+          "计量单位",
+          "是否统一换算",
+          "抽查原始条目",
+          "影响幅度比较"
+        ],
+        [
+          "字段定义",
+          "是否中途变更",
+          "查版本记录",
+          "影响可比性"
+        ],
+        [
+          "缺项处理",
+          "是否填补",
+          "核对缺项清单",
+          "影响可靠性"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "指标口径核对要点与核验方式",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0001",
+      "target_previous_id": "h0007",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "技术证据解读能力考核试卷",
+      "caption": "表 2：试卷结构与作答要求概览",
+      "rows": [
+        [
+          "部分",
+          "考查重点",
+          "作答形式",
+          "评分侧重"
+        ],
+        [
+          "第一部分",
+          "证据分级",
+          "简答",
+          "区分观测与推断"
+        ],
+        [
+          "第二部分",
+          "论证构建",
+          "短文",
+          "结论边界表述"
+        ],
+        [
+          "复核题",
+          "流程设计",
+          "流程说明",
+          "职责与时限"
+        ],
+        [
+          "全程",
+          "口径一致",
+          "书面答卷",
+          "引用规范"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "试卷结构与作答要求概览",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0001",
+      "target_previous_id": "h0003",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "技术证据解读能力考核试卷",
+      "caption": "图 1：模拟记录中的产出成本与余额对照",
+      "rows": [
+        [
+          "年度",
+          "模拟产出",
+          "模拟成本",
+          "模拟余额"
+        ],
+        [
+          "2022",
+          "79.90",
+          "51.94",
+          "27.96"
+        ],
+        [
+          "2023",
+          "90.99",
+          "59.14",
+          "31.85"
+        ],
+        [
+          "2024",
+          "106.75",
+          "69.39",
+          "37.36"
+        ],
+        [
+          "2025",
+          "120.58",
+          "78.38",
+          "42.20"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "模拟记录中的产出成本与余额对照",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional exam_paper document. Document: 技术证据解读能力考核试卷. Section: 技术证据解读能力考核试卷. Caption: 模拟记录中的产出成本与余额对照. Article context: 本试卷用于评估受测者对技术证据的提取、核验与解释能力，考试时长为12周内的两次集中考核，共24场次、48学时。答题者须在收到材料后2个工作日内提交初稿，评阅周期为5个工作日。试卷所有案例均为模拟记录，涉及的数字只作演示，不得视为真实观测结果或因果结论。. Supporting records: [[\"年度\", \"模拟产出\", \"模拟成本\", \"模拟余额\"], [\"2022\", \"79.90\", \"51.94\", \"27.96\"], [\"2023\", \"90.99\", \"59.14\", \"31.85\"], [\"2024\", \"106.75\", \"69.39\", \"37.36\"], [\"2025\", \"120.58\", \"78.38\", \"42.20\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0001",
+      "target_previous_id": "h0007",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "技术证据解读能力考核试卷",
+      "caption": "表 3：复核环节职责与时限安排",
+      "rows": [
+        [
+          "环节",
+          "责任人",
+          "时限",
+          "输出"
+        ],
+        [
+          "初核",
+          "考生本人",
+          "2日",
+          "初核稿"
+        ],
+        [
+          "复核",
+          "复核人",
+          "5日",
+          "复核意见"
+        ],
+        [
+          "终审",
+          "评阅组",
+          "按计划",
+          "终审结论"
+        ],
+        [
+          "留存",
+          "记录员",
+          "全周期",
+          "留档记录"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "复核环节职责与时限安排",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0002",
+      "target_previous_id": "h0005",
+      "target_subtype": "after_section",
+      "target_relation": "siblings",
+      "topic": "第一部分 材料解读与证据分级",
+      "caption": "图 2：证据分级维度与判定说明",
+      "rows": [
+        [
+          "维度",
+          "高",
+          "中",
+          "低"
+        ],
+        [
+          "来源",
+          "原始记录",
+          "二次汇总",
+          "口头转述"
+        ],
+        [
+          "可复核",
+          "可追溯",
+          "部分可查",
+          "难以复核"
+        ],
+        [
+          "独立性",
+          "独立采集",
+          "部分关联",
+          "同源重复"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "证据分级维度与判定说明",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional exam_paper document. Document: 技术证据解读能力考核试卷. Section: 第一部分 材料解读与证据分级. Caption: 证据分级维度与判定说明. Article context: 本部分给出若干份模拟技术记录，要求考生区分原始观测、加工指标与推断结论三类信息。考生须说明每一类证据的来源、可复核性与局限，并对证据强度作出分级判断。答题时应明确指出哪些陈述属于描述性事实，哪些属于尚待验证的因果假设，避免把模拟数据当作实测结论。. Supporting records: [[\"维度\", \"高\", \"中\", \"低\"], [\"来源\", \"原始记录\", \"二次汇总\", \"口头转述\"], [\"可复核\", \"可追溯\", \"部分可查\", \"难以复核\"], [\"独立性\", \"独立采集\", \"部分关联\", \"同源重复\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0005",
+      "target_previous_id": "h0006",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "第二部分 论证构建与结论表述",
+      "caption": "图 3：论证评分要点与观察项",
+      "rows": [
+        [
+          "评分项",
+          "观察内容",
+          "常见问题",
+          "改进方向"
+        ],
+        [
+          "前提明确",
+          "是否列出前提",
+          "前提隐含",
+          "显式列出"
+        ],
+        [
+          "推理连贯",
+          "证据与结论对应",
+          "跳跃推断",
+          "补足中间步骤"
+        ],
+        [
+          "边界表述",
+          "是否限定范围",
+          "过度外推",
+          "加入限定语"
+        ],
+        [
+          "不确定性",
+          "是否标注风险",
+          "措辞绝对",
+          "说明反例风险"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "论证评分要点与观察项",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional exam_paper document. Document: 技术证据解读能力考核试卷. Section: 第二部分 论证构建与结论表述. Caption: 论证评分要点与观察项. Article context: 本部分要求考生基于前一部分的材料撰写简短论证，明确前提、推理链与结论边界。评分关注结论是否与证据强度匹配、是否标注不确定性、是否避免过度外推。考生须在答卷中区分模拟观察与因果主张，并对可能影响结论的混杂因素给出说明。. Supporting records: [[\"评分项\", \"观察内容\", \"常见问题\", \"改进方向\"], [\"前提明确\", \"是否列出前提\", \"前提隐含\", \"显式列出\"], [\"推理连贯\", \"证据与结论对应\", \"跳跃推断\", \"补足中间步骤\"], [\"边界表述\", \"是否限定范围\", \"过度外推\", \"加入限定语\"], [\"不确定性\", \"是否标注风险\", \"措辞绝对\", \"说明反例风险\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "技术证据解读能力考核试卷",
+        "paragraph": "本试卷用于评估受测者对技术证据的提取、核验与解释能力，考试时长为12周内的两次集中考核，共24场次、48学时。答题者须在收到材料后2个工作日内提交初稿，评阅周期为5个工作日。试卷所有案例均为模拟记录，涉及的数字只作演示，不得视为真实观测结果或因果结论。"
+      },
+      "h0002": {
+        "title": "第一部分 材料解读与证据分级",
+        "paragraph": "本部分给出若干份模拟技术记录，要求考生区分原始观测、加工指标与推断结论三类信息。考生须说明每一类证据的来源、可复核性与局限，并对证据强度作出分级判断。答题时应明确指出哪些陈述属于描述性事实，哪些属于尚待验证的因果假设，避免把模拟数据当作实测结论。"
+      },
+      "h0003": {
+        "title": "第一题 观测记录与推断的区分",
+        "paragraph": "题目提供一份包含240条模拟记录的汇总表，记录覆盖4个模拟站点。请考生指出表中哪些字段属于直接观测，哪些字段由计算得出，并说明若原始记录缺失，结论会受到何种影响。答题须给出至少两条可执行的核验步骤，并说明为何不能由相关关系直接推出因果结论。"
+      },
+      "h0004": {
+        "title": "第二题 指标口径一致性核对",
+        "paragraph": "题目给出跨2022至2025的模拟产出与成本记录，其中产出由79.90变化至120.58，成本由51.94变化至78.38，余额相应由27.96变化至42.20。请考生核对口径是否一致，指出可能的口径漂移，并说明在何种条件下才能对变化幅度作出解释。"
+      },
+      "h0005": {
+        "title": "第二部分 论证构建与结论表述",
+        "paragraph": "本部分要求考生基于前一部分的材料撰写简短论证，明确前提、推理链与结论边界。评分关注结论是否与证据强度匹配、是否标注不确定性、是否避免过度外推。考生须在答卷中区分模拟观察与因果主张，并对可能影响结论的混杂因素给出说明。"
+      },
+      "h0006": {
+        "title": "第三题 结论边界与不确定性表述",
+        "paragraph": "请考生针对给定材料撰写一段不超过限定篇幅的结论表述，要求同时给出支持性证据与反例风险。答题须说明结论适用的范围、时间窗口与前提条件，并指出若新增样本后结论可能如何变化。凡涉及数量，只能引用题目提供的模拟指标，不得自行编造测量值。"
+      },
+      "h0007": {
+        "title": "第四题 复核流程与责任分工",
+        "paragraph": "题目要求考生设计一份复核流程，明确初核、复核与终审三个环节的职责与时限，其中初核提交不得晚于2个工作日，复核意见应在5个工作日内返回。考生须说明记录留存要求、异议处理路径，以及在12个月有效期内如何保持口径稳定。"
+      }
+    },
+    "continuations": [
+      "考生在引用模拟指标时应同时标注其来源字段，避免把不同口径的数值直接拼接比较，否则结论的可复核性会明显下降。",
+      "对于跨年度材料，建议先确认统计周期与单位是否一致，再讨论变化趋势，否则容易把口径差异误读为实质变化。",
+      "复核人员应独立于初核人员，并在意见中写明所依据的具体记录条目，便于后续追溯与异议处理。",
+      "当原始记录存在缺项时，考生应说明缺项对结论方向的影响，而不是用估计值填补后直接给出确定性判断。",
+      "描述性统计可以支持现状说明，但不能单独支撑因果主张，答题时须明确这一界限并给出替代解释。",
+      "题目提供的站点数量与样本数量仅用于说明规模，考生不应据此推断总体分布或代表性。",
+      "结论表述宜采用限定语，如在一定条件下、就现有材料而言，以体现证据强度的差异。",
+      "若不同来源的记录相互矛盾，应优先核查采集时间与口径定义，再决定采信顺序并记录判断理由。",
+      "复核流程中的时限安排应与实际工作量匹配，过短的复核窗口会削弱意见的独立性。",
+      "考生应避免在答卷中出现未经题目支持的数值，任何数量陈述都须对应给定的模拟指标。",
+      "对于趋势类问题，建议同时给出支持与不支持该趋势的证据，以体现论证的平衡性。",
+      "记录留存应包含修改痕迹与责任人，缺少痕迹的材料在复核阶段通常难以采信。",
+      "在讨论变化幅度时，应说明基期选择对结论的影响，并指出更换基期后结论是否稳健。",
+      "答题结构建议先列证据、再作推断、最后给结论边界，这样更便于评阅者核对推理链。",
+      "若材料涉及多个站点，应说明站点间差异是否影响合并结论，避免以个别站点代表整体。",
+      "异议处理应有明确受理口径与答复时限，并在答复中引用具体条款或记录编号。",
+      "考生在评价证据强度时，可参考来源可靠性、可复核性与独立性三个维度分别说明。",
+      "模拟记录中的余额类指标由产出与成本计算得出，答题时不宜将其视为独立观测。",
+      "对于因果假设，应提出至少一个可检验的预测，并说明何种观测结果会推翻该假设。",
+      "结论若依赖特定前提，应在文中显式列出前提，便于评阅者判断前提是否成立。",
+      "复核意见应区分必须修改与建议修改两类，以免责任边界模糊导致反复返工。",
+      "在有效期内保持口径稳定，需要固定字段定义与采集频率，并记录任何变更及其理由。",
+      "考生应避免使用绝对化措辞，除非材料足以排除主要替代解释，否则应保留不确定性。",
+      "对于跨站点比较，建议先统一单位与统计周期，再讨论差异，否则比较结果缺乏意义。",
+      "答题中引用他人观点时，应说明其与本题材料的关系，避免以权威替代证据。",
+      "若结论仅适用于短时间窗口，应明确写出该窗口，并说明超出窗口后需要重新核验。",
+      "复核记录应包含核查项清单与结论栏，便于后续审计时快速定位关键判断。",
+      "考生在说明局限时，宜具体指出受限环节，而非笼统表示材料不足。",
+      "对于同一指标的不同版本，应保留版本标识与生效时间，防止新旧口径混用。",
+      "论证中若使用类比，应说明类比的适用条件，并指出类比失效时结论如何调整。",
+      "评阅时关注考生是否把模拟观察与因果主张分开表述，这是本题的核心考查点之一。",
+      "最终结论应与前文证据一一对应，凡未在证据部分出现的判断，不宜在结论中首次提出。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1462,
+        "completion_tokens": 2359,
+        "total_tokens": 3821,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 950
+      },
+      "finish_reason": "stop",
+      "request_hash": "ac1468539fe3de745b01b3e6b6c993cb5f56b69b5965339076bdf7d550b07e44",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

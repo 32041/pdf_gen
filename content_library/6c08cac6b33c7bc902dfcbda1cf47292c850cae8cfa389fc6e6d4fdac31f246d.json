@@ -1,0 +1,528 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "official",
+    "language": "en",
+    "subject": "Vocational skills training implementation notice",
+    "seed": 74,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0011",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0010",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0009",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0002",
+        "cell_width": 118.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0012",
+        "cell_width": 118.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0008",
+        "cell_width": 118.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0004",
+        "cell_width": 118.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0012",
+        "cell_width": 118.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0012",
+        "cell_width": 118.0,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "81.73",
+      "output_2": "91.67",
+      "output_3": "102.16",
+      "output_4": "120.52",
+      "cost_1": "53.12",
+      "cost_2": "59.59",
+      "cost_3": "66.40",
+      "cost_4": "78.34",
+      "balance_1": "28.61",
+      "balance_2": "32.08",
+      "balance_3": "35.76",
+      "balance_4": "42.18",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "47.5"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Vocational Skills Training Implementation Notice",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Vocational Skills Training Implementation Notice",
+        "paragraph": "This notice sets out the binding arrangements for delivering the vocational skills training programme during the [[F:year_last]] cycle. It applies to all training sites, contracted instructors and enrolled trainees, and replaces prior informal guidance. The programme runs for [[F:duration_weeks]] weeks with [[F:sessions]] sessions and [[F:teaching_hours]] teaching hours, and must be delivered within the cost and output envelope recorded in the annexed schedule. Site coordinators are accountable for compliance with every clause below."
+      },
+      {
+        "id": "h0002",
+        "title": "Programme Scope and Training Objectives",
+        "paragraph": "The programme targets practical competency in the designated trade areas and is limited to trainees who meet the entry criteria. Its objectives are to raise measurable skill attainment, reduce workplace error rates and prepare trainees for assessment. Training content must align with the approved curriculum and may not be substituted without written approval. Each site must deliver the full [[F:teaching_hours]] teaching hours and document attendance against the session plan."
+      },
+      {
+        "id": "h0003",
+        "title": "Delivery Schedule and Site Allocation",
+        "paragraph": "Delivery is organised across [[F:sites_count]] training sites, each operating the same [[F:duration_weeks]] week schedule to preserve comparability. The schedule fixes [[F:sessions]] sessions per cohort, with no more than two sessions in any single day. Site allocation follows trainee residence and equipment availability; transfers require coordinator approval. Any deviation from the published timetable must be recorded and reported within [[F:response_days]] working days so that central monitoring remains accurate."
+      },
+      {
+        "id": "h0004",
+        "title": "Session Planning and Instructor Duties",
+        "paragraph": "Instructors must prepare session plans that map each of the [[F:sessions]] sessions to a curriculum unit and an assessment checkpoint. Plans are submitted before the cohort starts and are subject to review within [[F:review_days]] working days. Instructors record attendance, practical observations and remedial actions in the session log. They must also verify that safety briefings precede any equipment use and that trainees sign the attendance register at each session."
+      },
+      {
+        "id": "h0005",
+        "title": "Practical Demonstration Standards",
+        "paragraph": "Practical demonstrations must follow the approved task checklist and be observed by a second instructor where the task carries safety risk. Each demonstration is scored against defined criteria, and any trainee scoring below the pass threshold receives a documented retake. Demonstrations may not be compressed to recover lost time. Records of demonstration outcomes are retained for audit and must distinguish observed performance from instructor expectation."
+      },
+      {
+        "id": "h0006",
+        "title": "Assessment and Feedback Cycle",
+        "paragraph": "Assessment comprises a mid programme check and a final practical examination, each contributing to the overall result. Feedback is returned within [[F:review_days]] working days of each assessment so trainees can act on it before the next checkpoint. Assessors must use the standard rubric and record evidence for every criterion. Appeals are lodged within [[F:response_days]] working days and are handled by a reviewer not involved in the original assessment."
+      },
+      {
+        "id": "h0007",
+        "title": "Attendance and Completion Rules",
+        "paragraph": "Trainees must attend at least the minimum number of sessions specified in the cohort agreement to be eligible for completion. Absences are recorded with cause and may be made up only through approved catch up sessions. Completion certificates are issued after the final assessment and attendance verification. Coordinators reconcile attendance registers against session logs before certifying completion, and unresolved discrepancies are escalated to the programme office."
+      },
+      {
+        "id": "h0008",
+        "title": "Resource and Cost Control",
+        "paragraph": "Each site operates within the cost allocation shown in the resource schedule, and expenditure is reviewed monthly against the approved envelope. Equipment, materials and instructor time are the principal cost lines. Sites must report variances promptly and may not commit expenditure beyond their allocation without prior approval. The programme office consolidates site returns and compares them with the planned output and cost profile before releasing the next tranche of funding."
+      },
+      {
+        "id": "h0009",
+        "title": "Monitoring, Reporting and Quality Assurance",
+        "paragraph": "Monitoring combines site visits, record checks and trainee feedback. The programme office reviews [[F:sample_count]] trainee records per cycle to verify attendance, assessment and completion data. Quality assurance focuses on consistency of assessment and adherence to session plans. Findings are graded and tracked to closure, and recurring issues trigger a targeted review. Reports must separate verified observations from inferred causes and must not present correlation as proof of effect."
+      },
+      {
+        "id": "h0010",
+        "title": "Data Collection and Record Keeping",
+        "paragraph": "Sites maintain a single register of trainees, sessions, assessments and completions. Data is entered within [[F:response_days]] working days of each event and reconciled monthly. Records must be accurate, legible and retained for the audit period. Personal data is handled according to the privacy rules in the cohort agreement. The programme office may request extracts at any time and will compare them with site returns to identify gaps."
+      },
+      {
+        "id": "h0011",
+        "title": "Performance Indicators and Review Cycle",
+        "paragraph": "Performance is tracked through output, cost and balance indicators recorded for each cycle. The review cycle compares actual delivery with the planned profile and documents explanations for variances. Indicators are simulated planning values and are not audited financial statements. Reviewers must state clearly when an indicator reflects observation rather than a causal claim, and must avoid attributing changes to the programme without supporting evidence."
+      },
+      {
+        "id": "h0012",
+        "title": "Output, Cost and Balance Records",
+        "paragraph": "The annexed records show output, cost and balance for the recent cycles. Output rose across the period while cost increased more slowly, producing a widening balance. These figures are simulated planning indicators used for internal comparison only. Reviewers should read them alongside delivery records and must not treat the trend as evidence that the programme caused the change. Any variance explanation requires corroborating site documentation."
+      },
+      {
+        "id": "h0013",
+        "title": "Variance Review and Corrective Action",
+        "paragraph": "Where an indicator deviates from plan, the site coordinator prepares a variance note within [[F:review_days]] working days. The note states the observed deviation, the evidence available and the proposed corrective action. Corrective actions are assigned an owner and a closure date and are tracked in the monitoring log. Actions that require additional expenditure must be approved before commitment, and unresolved variances are reported to the programme board."
+      },
+      {
+        "id": "h0014",
+        "title": "Reporting Timelines and Responsibilities",
+        "paragraph": "Site coordinators submit monthly returns by the published deadline, and the programme office consolidates them into the cycle report. Instructors supply session and assessment data; coordinators verify it; the office reviews it. Late or incomplete returns are logged and followed up within [[F:response_days]] working days. The cycle report is circulated to the programme board and retained with the supporting records for audit purposes."
+      },
+      {
+        "id": "h0015",
+        "title": "Implementation Risks and Escalation",
+        "paragraph": "Principal risks include instructor shortages, equipment failure and low trainee attendance. Each site maintains a risk log and reviews it at every cohort meeting. Risks that threaten delivery of the full [[F:teaching_hours]] teaching hours are escalated immediately to the programme office. Escalation includes the observed issue, its likely impact and the proposed response. The office decides whether to adjust the schedule, reallocate resources or pause the affected cohort."
+      }
+    ],
+    "continuations": [
+      "Site coordinators should confirm that the session plan references the correct curriculum unit before the cohort begins, and that any substitution is approved in writing.",
+      "Attendance registers must be signed at each session; retrospective entries are not accepted unless supported by a documented make up arrangement.",
+      "Instructors should retain practical demonstration checklists with trainee scores so that assessment decisions can be reconstructed during audit.",
+      "Where a trainee misses an assessment, the coordinator records the reason and schedules a retake within the published feedback window.",
+      "Monthly returns should reconcile trainee numbers with attendance records and flag any unexplained difference for follow up.",
+      "The programme office compares site returns with central records and reports discrepancies to the coordinator for correction.",
+      "Cost variances should be explained with reference to actual delivery activity rather than assumed causes.",
+      "Equipment maintenance logs should be checked before each cohort to confirm that practical sessions can proceed as planned.",
+      "Feedback from trainees is collected anonymously and summarised without attributing comments to individuals.",
+      "Assessment rubrics must be applied consistently across sites; moderators compare a sample of scored demonstrations each cycle.",
+      "Any change to the published timetable should be communicated to trainees promptly and recorded in the monitoring log.",
+      "The risk log should be reviewed at each cohort meeting, with new risks added and closed risks marked accordingly.",
+      "Records must be legible and stored securely; access is limited to staff with a legitimate monitoring or delivery role.",
+      "When an indicator deviates from plan, the variance note should state the evidence available and avoid speculative attribution.",
+      "Corrective actions are tracked to closure, and overdue actions are escalated to the programme board.",
+      "The cycle report should distinguish verified observations from inferred explanations and should not present correlation as causation.",
+      "Trainee completion certificates are issued only after attendance and assessment verification are both recorded.",
+      "Instructors new to the programme receive an induction covering session planning, assessment rubrics and record keeping duties.",
+      "Safety briefings must precede any equipment use, and the briefing record is retained with the session log.",
+      "Site visits by the programme office include a sample check of registers, assessment records and cost documentation.",
+      "Where a site cannot deliver the full teaching hours, the coordinator proposes a recovery plan for approval.",
+      "Data extracts requested by the programme office should be provided within the response window and checked for completeness.",
+      "Appeals against assessment outcomes are handled by a reviewer independent of the original assessor.",
+      "The programme office should confirm that simulated indicators are labelled as such in every report circulated to the board.",
+      "Cohort meetings should review attendance trends and agree remedial action before completion decisions are made.",
+      "Any reallocation of resources between sites requires approval and should be recorded in the monitoring log.",
+      "Records of practical demonstrations should note the observer and the date so that outcomes can be verified later.",
+      "Feedback should be specific enough for trainees to act on before the next assessment checkpoint.",
+      "The programme office maintains a central list of approved instructors and checks site assignments against it.",
+      "Variance notes that remain unresolved at the end of the cycle are carried forward to the next review.",
+      "Coordinators should confirm that privacy rules are followed when sharing trainee data with the programme office.",
+      "Reports should state the period covered and the source records used so that readers can assess the evidence base."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Programme delivery parameters and site allocation",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Parameter",
+            "Planned value",
+            "Verification",
+            "Owner"
+          ],
+          [
+            "Duration",
+            "[[F:duration_weeks]] weeks",
+            "Schedule check",
+            "Coordinator"
+          ],
+          [
+            "Sessions",
+            "[[F:sessions]]",
+            "Register",
+            "Instructor"
+          ],
+          [
+            "Teaching hours",
+            "[[F:teaching_hours]]",
+            "Session log",
+            "Coordinator"
+          ],
+          [
+            "Sites",
+            "[[F:sites_count]]",
+            "Allocation list",
+            "Programme office"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Instructor session planning and review duties",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Duty",
+            "Timing",
+            "Record",
+            "Reviewer"
+          ],
+          [
+            "Session plan",
+            "Before cohort",
+            "Plan file",
+            "Coordinator"
+          ],
+          [
+            "Attendance",
+            "Each session",
+            "Register",
+            "Coordinator"
+          ],
+          [
+            "Demonstration",
+            "Per task",
+            "Checklist",
+            "Second instructor"
+          ],
+          [
+            "Feedback",
+            "Within window",
+            "Assessment record",
+            "Assessor"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Cost control checks by site",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Check",
+            "Frequency",
+            "Evidence",
+            "Action"
+          ],
+          [
+            "Expenditure",
+            "Monthly",
+            "Ledger",
+            "Variance note"
+          ],
+          [
+            "Allocation",
+            "Per cohort",
+            "Approval",
+            "Reallocation"
+          ],
+          [
+            "Equipment",
+            "Before cohort",
+            "Maintenance log",
+            "Repair"
+          ],
+          [
+            "Materials",
+            "Monthly",
+            "Stock record",
+            "Reorder"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Simulated output, cost and balance indicators by cycle",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Cycle",
+            "Output",
+            "Cost",
+            "Balance"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Indicator review and variance handling steps",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Step",
+            "Responsibility",
+            "Timing",
+            "Output"
+          ],
+          [
+            "Compare",
+            "Coordinator",
+            "Monthly",
+            "Variance list"
+          ],
+          [
+            "Explain",
+            "Coordinator",
+            "Within window",
+            "Variance note"
+          ],
+          [
+            "Approve",
+            "Programme office",
+            "Review cycle",
+            "Decision"
+          ],
+          [
+            "Close",
+            "Coordinator",
+            "By closure date",
+            "Log entry"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Reporting responsibilities and submission timeline",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Report",
+            "Prepared by",
+            "Submitted to",
+            "Deadline"
+          ],
+          [
+            "Session log",
+            "Instructor",
+            "Coordinator",
+            "Each session"
+          ],
+          [
+            "Monthly return",
+            "Coordinator",
+            "Programme office",
+            "Monthly"
+          ],
+          [
+            "Cycle report",
+            "Programme office",
+            "Programme board",
+            "Cycle end"
+          ],
+          [
+            "Audit extract",
+            "Coordinator",
+            "Programme office",
+            "On request"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 1685,
+      "completion_tokens": 3264,
+      "total_tokens": 4949,
+      "prompt_tokens_details": {
+        "cached_tokens": 512
+      },
+      "prompt_cache_hit_tokens": 512,
+      "prompt_cache_miss_tokens": 1173
+    },
+    "finish_reason": "stop",
+    "request_hash": "6c08cac6b33c7bc902dfcbda1cf47292c850cae8cfa389fc6e6d4fdac31f246d",
+    "schema": "llm-content-v1",
+    "validation_retries": 0,
+    "cache_hit": false
+  }
+}

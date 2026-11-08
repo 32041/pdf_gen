@@ -1,0 +1,814 @@
+{
+  "doc_id": "0040",
+  "kind": "official",
+  "domain": "gov_standard",
+  "language": "en",
+  "title": "Recycling Service Pilot Implementation",
+  "seed": 81,
+  "target_depth": 6,
+  "has_title": true,
+  "numbering_mode": "none",
+  "numbering_family": "arabic_dotted",
+  "style": "clear",
+  "template": "spacious",
+  "columns": 1,
+  "margin_pt": 70,
+  "font_size": 11,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Recycling Service Pilot Implementation",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Recycling Service Pilot Implementation",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Pilot Purpose and Operating Scope",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "Pilot Purpose and Operating Scope",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Service Model and Collection Routes",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "Service Model and Collection Routes",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Site Readiness and Equipment",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "Site Readiness and Equipment",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Bin Allocation and Resident Communication",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "Bin Allocation and Resident Communication",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Contamination Checks at Set-Out",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "Contamination Checks at Set-Out",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Sorting Point Intake Records",
+      "level": 6,
+      "parent_id": "h0005",
+      "path": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "Sorting Point Intake Records",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Temporary Site Adjustments",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "Temporary Site Adjustments",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Route Contingency Arrangements",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "Route Contingency Arrangements",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Site Readiness Evidence and Checks",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "Site Readiness Evidence and Checks",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Monitoring, Records and Reporting",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "Monitoring, Records and Reporting",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Sampling and Observation Method",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1
+      ],
+      "text": "Sampling and Observation Method",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Data Handling and Quality Assurance",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "Data Handling and Quality Assurance",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Weekly Summary and Escalation",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "Weekly Summary and Escalation",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Observation Log and Sample Coverage",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "Observation Log and Sample Coverage",
+      "is_document_title": false
+    },
+    {
+      "id": "h0016",
+      "title": "Record Gaps and Follow-Up Actions",
+      "level": 6,
+      "parent_id": "h0014",
+      "path": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "Record Gaps and Follow-Up Actions",
+      "is_document_title": false
+    },
+    {
+      "id": "h0017",
+      "title": "Interpreting Observed Patterns",
+      "level": 5,
+      "parent_id": "h0013",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "Interpreting Observed Patterns",
+      "is_document_title": false
+    },
+    {
+      "id": "h0018",
+      "title": "Review Questions for the Final Report",
+      "level": 4,
+      "parent_id": "h0012",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "Review Questions for the Final Report",
+      "is_document_title": false
+    },
+    {
+      "id": "h0019",
+      "title": "Reporting Calendar and Responsibilities",
+      "level": 3,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        2
+      ],
+      "text": "Reporting Calendar and Responsibilities",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      78.19,
+      91.78,
+      108.23,
+      116.31
+    ],
+    "cost": [
+      50.82,
+      59.66,
+      70.35,
+      75.6
+    ],
+    "balance": [
+      27.37,
+      32.12,
+      37.88,
+      40.71
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0011",
+      "target_previous_id": "h0011",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Monitoring, Records and Reporting",
+      "caption": "Figure 2: Weekly monitoring register fields and record owners",
+      "rows": [
+        [
+          "Field",
+          "Owner",
+          "Frequency",
+          "Check"
+        ],
+        [
+          "Route completion",
+          "Supervisor",
+          "Each pass",
+          "Daily"
+        ],
+        [
+          "Tagged bins",
+          "Crew lead",
+          "Each pass",
+          "Daily"
+        ],
+        [
+          "Intake batch",
+          "Sorting staff",
+          "Each batch",
+          "Same day"
+        ],
+        [
+          "Resident contact",
+          "Phone line",
+          "As raised",
+          "Weekly"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Weekly monitoring register fields and record owners",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: Recycling Service Pilot Implementation. Section: Monitoring, Records and Reporting. Caption: Weekly monitoring register fields and record owners. Article context: Monitoring combines route logs, sorting point intake records and resident contact notes. The pilot coordinator compiles a short weekly summary for the delivery team and a fuller report at the end of the pilot. Records are kept in a single shared register with clear ownership, and any gap is flagged at the next weekly meeting so that it can be corrected while the relevant staff are still available.. Supporting records: [[\"Field\", \"Owner\", \"Frequency\", \"Check\"], [\"Route completion\", \"Supervisor\", \"Each pass\", \"Daily\"], [\"Tagged bins\", \"Crew lead\", \"Each pass\", \"Daily\"], [\"Intake batch\", \"Sorting staff\", \"Each batch\", \"Same day\"], [\"Resident contact\", \"Phone line\", \"As raised\", \"Weekly\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0015",
+      "target_previous_id": "h0015",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Observation Log and Sample Coverage",
+      "caption": "Table 4: Planned observation checks and evidence produced",
+      "rows": [
+        [
+          "Check",
+          "Timing",
+          "Evidence",
+          "Use"
+        ],
+        [
+          "Set-out review",
+          "Morning",
+          "Photo note",
+          "Coverage"
+        ],
+        [
+          "Bin tagging",
+          "Each pass",
+          "Reason code",
+          "Quality"
+        ],
+        [
+          "Batch intake",
+          "Arrival",
+          "Intake record",
+          "Traceability"
+        ],
+        [
+          "Resident call",
+          "As raised",
+          "Contact note",
+          "Concerns"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Planned observation checks and evidence produced",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0007",
+      "target_previous_id": "h0007",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Sorting Point Intake Records",
+      "caption": "Table 1: Sorting point intake record contents",
+      "rows": [
+        [
+          "Entry",
+          "Detail",
+          "Owner",
+          "Retention"
+        ],
+        [
+          "Arrival time",
+          "Clock time",
+          "Sorting staff",
+          "Pilot"
+        ],
+        [
+          "Source site",
+          "Site code",
+          "Sorting staff",
+          "Pilot"
+        ],
+        [
+          "Weight band",
+          "Estimated",
+          "Sorting staff",
+          "Pilot"
+        ],
+        [
+          "Hold reason",
+          "Written note",
+          "Reviewer",
+          "Pilot"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Sorting point intake record contents",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0011",
+      "target_previous_id": "h0011",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Monitoring, Records and Reporting",
+      "caption": "Table 2: Reporting products and their audiences",
+      "rows": [
+        [
+          "Product",
+          "Audience",
+          "Timing",
+          "Owner"
+        ],
+        [
+          "Weekly summary",
+          "Delivery team",
+          "Weekly",
+          "Coordinator"
+        ],
+        [
+          "Checkpoint note",
+          "Committee",
+          "Mid-pilot",
+          "Coordinator"
+        ],
+        [
+          "Final report",
+          "Committee",
+          "End",
+          "Review team"
+        ],
+        [
+          "Register extract",
+          "Auditors",
+          "On request",
+          "Coordinator"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Reporting products and their audiences",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0006",
+      "target_previous_id": "h0006",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Contamination Checks at Set-Out",
+      "caption": "Figure 1: Contamination tag reason codes",
+      "rows": [
+        [
+          "Code",
+          "Meaning",
+          "Action",
+          "Follow-up"
+        ],
+        [
+          "C1",
+          "Bagged waste",
+          "Tag bin",
+          "Note"
+        ],
+        [
+          "C2",
+          "Non-accepted item",
+          "Tag bin",
+          "Note"
+        ],
+        [
+          "C3",
+          "Mixed material",
+          "Tag bin",
+          "Guide"
+        ],
+        [
+          "C4",
+          "Unclear",
+          "Inspect",
+          "Review"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Contamination tag reason codes",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional official document. Document: Recycling Service Pilot Implementation. Section: Contamination Checks at Set-Out. Caption: Contamination tag reason codes. Article context: Collection crews carry out a visual contamination check at set-out and tag bins that contain clearly non-accepted material. Tagged bins are recorded with a reason code and left for the household to correct before the next pass. Crews do not open sealed bags. The check is a service quality measure, not an enforcement action, and households receive a follow-up note explaining the correction needed.. Supporting records: [[\"Code\", \"Meaning\", \"Action\", \"Follow-up\"], [\"C1\", \"Bagged waste\", \"Tag bin\", \"Note\"], [\"C2\", \"Non-accepted item\", \"Tag bin\", \"Note\"], [\"C3\", \"Mixed material\", \"Tag bin\", \"Guide\"], [\"C4\", \"Unclear\", \"Inspect\", \"Review\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0013",
+      "target_previous_id": "h0013",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Data Handling and Quality Assurance",
+      "caption": "Table 3: Quality assurance checks on register entries",
+      "rows": [
+        [
+          "Check",
+          "Method",
+          "Reviewer",
+          "Action"
+        ],
+        [
+          "Missing field",
+          "Weekly scan",
+          "Coordinator",
+          "Follow-up"
+        ],
+        [
+          "Duplicate entry",
+          "Cross-check",
+          "Second reviewer",
+          "Annotate"
+        ],
+        [
+          "Code mismatch",
+          "Sample",
+          "Second reviewer",
+          "Correct"
+        ],
+        [
+          "Paper match",
+          "Sample",
+          "Reviewer",
+          "Annotate"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Quality assurance checks on register entries",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Recycling Service Pilot Implementation",
+        "paragraph": "This document sets out how the recycling service pilot will be implemented across the participating collection sites, from mobilisation through review. It defines the operating scope, the duties of the delivery team, the evidence that will be gathered and the questions the review must answer. The pilot runs for 12 weeks and is treated as a learning exercise: observations are recorded separately from any causal claims about household behaviour or material recovery."
+      },
+      "h0002": {
+        "title": "Pilot Purpose and Operating Scope",
+        "paragraph": "The pilot tests whether a revised collection and sorting arrangement can be delivered reliably at the participating sites within the agreed service window. Scope covers kerbside set-out, transfer to the sorting point, contamination checks and resident communication. Activities outside this scope, including permanent fleet procurement and long-term contract changes, are excluded and will be considered only after the review reports its findings to the sponsoring committee."
+      },
+      "h0003": {
+        "title": "Service Model and Collection Routes",
+        "paragraph": "The service model uses a fixed weekly route pattern with two collection passes per site and a shared transfer point. Route sequencing was chosen to keep vehicle dwell time short and to allow sorting staff to receive material in consistent batches. Route supervisors record arrival and departure times at each stop so that the review can compare planned and actual service delivery without attributing differences to any single cause."
+      },
+      "h0004": {
+        "title": "Site Readiness and Equipment",
+        "paragraph": "Each site must be confirmed ready before collections begin. Readiness covers bin placement, signage, access for collection vehicles, staff briefing and a dry sorting area. Site leads sign a readiness checklist and report exceptions to the pilot coordinator, who decides whether a site starts on schedule or joins in a later wave. Equipment shortfalls are logged and resolved before the first collection pass."
+      },
+      "h0005": {
+        "title": "Bin Allocation and Resident Communication",
+        "paragraph": "Bin allocation follows household size bands agreed with site leads, and every household receives a short printed guide in plain language. Communication covers set-out times, accepted materials and what happens when a bin is rejected. Residents can raise questions through a local phone line, with responses targeted within 2 working days. Messages are kept consistent across sites so that the review can compare experiences fairly."
+      },
+      "h0006": {
+        "title": "Contamination Checks at Set-Out",
+        "paragraph": "Collection crews carry out a visual contamination check at set-out and tag bins that contain clearly non-accepted material. Tagged bins are recorded with a reason code and left for the household to correct before the next pass. Crews do not open sealed bags. The check is a service quality measure, not an enforcement action, and households receive a follow-up note explaining the correction needed."
+      },
+      "h0007": {
+        "title": "Sorting Point Intake Records",
+        "paragraph": "The sorting point keeps an intake record for every batch, noting arrival time, source site, estimated weight band and visible contamination. Records are entered on the same day and cross-checked by a second staff member. Where a batch is held back for inspection, the reason is written on the record. These entries form the main evidence base for the review and are retained for the full pilot period."
+      },
+      "h0008": {
+        "title": "Temporary Site Adjustments",
+        "paragraph": "Site leads may request temporary adjustments, such as a moved collection point or an extra bin, when access or weather conditions require it. Requests are submitted in writing and approved by the pilot coordinator within 5 working days. Approved adjustments are logged with the date, reason and expected duration so that the review can distinguish planned service design from short-term operational fixes."
+      },
+      "h0009": {
+        "title": "Route Contingency Arrangements",
+        "paragraph": "When a route cannot be completed, the supervisor activates a contingency plan that prioritises households missed on the previous pass and defers non-urgent transfers. Affected residents are notified the same day through the local phone line and printed notice where needed. Each activation is recorded with the trigger, the stops affected and the recovery date, allowing the review to assess how often contingency arrangements were needed."
+      },
+      "h0010": {
+        "title": "Site Readiness Evidence and Checks",
+        "paragraph": "Readiness evidence is collected through signed checklists, photographs of bin placement and brief notes from site briefings. The coordinator samples completed checklists to confirm that entries are consistent and that exceptions were resolved. Evidence is filed by site and week, so that any later question about a site's starting condition can be answered from the record rather than from recollection."
+      },
+      "h0011": {
+        "title": "Monitoring, Records and Reporting",
+        "paragraph": "Monitoring combines route logs, sorting point intake records and resident contact notes. The pilot coordinator compiles a short weekly summary for the delivery team and a fuller report at the end of the pilot. Records are kept in a single shared register with clear ownership, and any gap is flagged at the next weekly meeting so that it can be corrected while the relevant staff are still available."
+      },
+      "h0012": {
+        "title": "Sampling and Observation Method",
+        "paragraph": "Observation uses a structured sampling approach across the participating sites, with checks spread over the pilot period rather than concentrated in one week. Observers follow a written checklist and record what they see without inferring household intent. Simulated observations are labelled as such in the register, and the review team is instructed not to treat observed associations as evidence of cause and effect."
+      },
+      "h0013": {
+        "title": "Data Handling and Quality Assurance",
+        "paragraph": "Data handling follows a simple rule: one entry, one owner, one date. The register is reviewed weekly for missing fields, duplicate batch records and inconsistent reason codes. A second reviewer checks a sample of entries against paper forms. Corrections are made by annotation rather than deletion, so that the review can see what changed and why, and the audit trail remains intact."
+      },
+      "h0014": {
+        "title": "Weekly Summary and Escalation",
+        "paragraph": "Each week the coordinator issues a short summary covering collections completed, tagged bins, held batches and open resident questions. Issues that affect safety or service continuity are escalated to the sponsoring committee immediately rather than waiting for the weekly cycle. The summary is deliberately brief so that the delivery team reads it, and detailed figures remain in the register for the final review."
+      },
+      "h0015": {
+        "title": "Observation Log and Sample Coverage",
+        "paragraph": "The observation log records what was seen at each check, the time, the site and the observer. Coverage is tracked against the planned sample so that under-observed periods are visible early. The table below summarises the planned observation schedule and the type of evidence each check produces, distinguishing recorded observations from later interpretation by the review team."
+      },
+      "h0016": {
+        "title": "Record Gaps and Follow-Up Actions",
+        "paragraph": "When a record is missing, the coordinator raises a follow-up action with a named owner and a due date. Actions are closed only when the missing entry is restored or the gap is explained in writing. Recurring gaps are discussed at the weekly meeting, since they often point to a form design problem or an unclear duty rather than to individual error."
+      },
+      "h0017": {
+        "title": "Interpreting Observed Patterns",
+        "paragraph": "Observed patterns, such as a rise in tagged bins during a particular week, are reported as observations and not as proof that a communication change caused the difference. The review team compares records across sites and weeks, notes plausible alternative explanations and states clearly where the evidence is too thin to support any conclusion about cause."
+      },
+      "h0018": {
+        "title": "Review Questions for the Final Report",
+        "paragraph": "The final report must answer a fixed set of questions: whether the service ran as designed, where records were incomplete, which adjustments were needed and what residents asked about most often. It must also state what the pilot cannot tell us, particularly about long-term behaviour change. Recommendations are separated from findings so that decision-makers can see the basis for each proposal."
+      },
+      "h0019": {
+        "title": "Reporting Calendar and Responsibilities",
+        "paragraph": "Reporting follows a fixed calendar: weekly summaries during delivery, a mid-pilot checkpoint and a final report after the last collection. The coordinator owns the calendar, site leads supply site records and the review team drafts findings. Drafts are circulated for correction before publication, and the final report is presented to the sponsoring committee with the underlying register attached."
+      }
+    },
+    "continuations": [
+      "Where a household disputes a contamination tag, the site lead reviews the note and responds in writing. Disputes are logged with the outcome so that recurring disagreements can be examined during the final review.",
+      "Vehicle availability affects route completion more than any other single factor. Supervisors note vehicle changes on the route log so that the review can separate scheduling problems from access problems.",
+      "Weather conditions are recorded daily at each site. Observers note heavy rain or high wind because these affect set-out rates and sorting quality, and the review must account for them when comparing weeks.",
+      "Resident contact notes are kept short and factual. Staff record the question asked and the answer given, avoiding personal opinions, so that the most common concerns can be summarised reliably.",
+      "Site briefings are repeated whenever a new crew member joins. Attendance is recorded, and the coordinator checks that briefing content matches the current written guide rather than an earlier version.",
+      "Bin stock levels are checked weekly. Shortfalls are reported to the coordinator before the next allocation round so that new households are not left without containers during the pilot.",
+      "The shared register is backed up at the end of each working day. Access is limited to named staff, and any change to permissions is recorded with the date and the person who authorised it.",
+      "Photographs are used only to evidence readiness and bin placement. Images are stored with the site and week reference, and no images of residents or their property are retained.",
+      "Held batches are inspected within the same working day wherever staffing allows. Where inspection is delayed, the reason is written on the intake record so that timing differences are visible in the review.",
+      "Contingency activations are reviewed monthly rather than weekly. This keeps the weekly summary readable while ensuring that repeated triggers are noticed and addressed before the pilot ends.",
+      "The mid-pilot checkpoint is an opportunity to correct the sampling plan if coverage is uneven. Changes to the plan are documented with the reason, and earlier observations are not discarded.",
+      "Staff time for record keeping is estimated at the start of each week. Where the estimate is exceeded, the coordinator adjusts duties rather than allowing entries to fall behind.",
+      "Resident guides are tested with a small group before distribution. Feedback on wording is recorded, and the final version is dated so that the review knows which households received which text.",
+      "Sorting point staff rotate between roles to reduce fatigue. Rotation is recorded on the shift sheet, since familiarity with a role can affect the consistency of contamination judgments.",
+      "Any change to accepted materials during the pilot requires written approval and a revised resident guide. The change date is logged so that records before and after can be compared separately.",
+      "The review team meets before drafting to agree how findings will be worded. Observations are kept in one part of the report and interpretation in another, so readers can see where evidence ends."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1853,
+        "completion_tokens": 2850,
+        "total_tokens": 4703,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1341
+      },
+      "finish_reason": "stop",
+      "request_hash": "f2b25d13d2202abb5b45e038666bf541834d0cbd06e5e81032859da719b5054b",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": false,
+  "title_alignment": "center"
+}

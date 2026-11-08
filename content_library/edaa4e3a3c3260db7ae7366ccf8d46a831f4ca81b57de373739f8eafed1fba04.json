@@ -1,0 +1,572 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "manual_guide",
+    "language": "en",
+    "subject": "Warehouse shift handover and inventory guide",
+    "seed": 54,
+    "has_title": true,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": true
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0005",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0004",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0003",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0011",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0012",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0013",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0014",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0015",
+        "parent_id": "h0014",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0016",
+        "parent_id": "h0014",
+        "level": 6,
+        "is_document_title": false
+      },
+      {
+        "id": "h0017",
+        "parent_id": "h0013",
+        "level": 5,
+        "is_document_title": false
+      },
+      {
+        "id": "h0018",
+        "parent_id": "h0012",
+        "level": 4,
+        "is_document_title": false
+      },
+      {
+        "id": "h0019",
+        "parent_id": "h0011",
+        "level": 3,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0004",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0016",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0002",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0019",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0011",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0008",
+        "cell_width": 122.81899999999999,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "83.85",
+      "output_2": "94.60",
+      "output_3": "105.57",
+      "output_4": "119.63",
+      "cost_1": "54.50",
+      "cost_2": "61.49",
+      "cost_3": "68.62",
+      "cost_4": "77.76",
+      "balance_1": "29.35",
+      "balance_2": "33.11",
+      "balance_3": "36.95",
+      "balance_4": "41.87",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "42.7"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Warehouse Shift Handover and Inventory Guide",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Warehouse Shift Handover and Inventory Guide",
+        "paragraph": "This guide sets out how shift supervisors at our distribution sites conduct handover and keep inventory records consistent between crews. It covers the handover sequence, counting duties, discrepancy escalation and the records that must survive each transition. Every procedure here applies across the [[F:sites_count]] operating sites and is reviewed on a [[F:agreement_months]]-month cycle. Supervisors should treat the written handover as the single authoritative record of what one shift passes to the next."
+      },
+      {
+        "id": "h0002",
+        "title": "Handover Principles and Shift Boundaries",
+        "paragraph": "Handover is a controlled transfer of responsibility, not a conversation. The outgoing supervisor remains accountable until the incoming supervisor signs the handover sheet, and the incoming supervisor assumes custody of keys, seals and open tasks at that moment. Boundaries are fixed by roster, and no shift may close without a countersigned sheet. Where a boundary is disputed, the site manager decides and records the decision."
+      },
+      {
+        "id": "h0003",
+        "title": "Preparing Before the Boundary",
+        "paragraph": "Preparation begins well before the boundary. The outgoing supervisor confirms that pick queues are cleared or explicitly carried forward, that damaged goods are segregated, and that the dock area is secured. Preparation checklists are completed in sequence so that nothing is signed off prematurely. Any task that cannot be finished is written as a carry-forward item with a named owner and a realistic completion window."
+      },
+      {
+        "id": "h0004",
+        "title": "The Handover Walk and Verbal Briefing",
+        "paragraph": "The walk follows a fixed route through receiving, storage, packing and dispatch so that both supervisors see the same conditions. The briefing then covers open orders, safety observations, equipment faults and staffing gaps. Neither the walk nor the briefing replaces the written sheet. Supervisors should keep the walk brisk but complete, pausing only where a physical condition needs to be shown rather than described."
+      },
+      {
+        "id": "h0005",
+        "title": "Confirming Physical and System Status",
+        "paragraph": "Physical status and system status are confirmed separately, then reconciled. The outgoing supervisor demonstrates that seals are intact, that quarantine cages are locked and that scanner devices are docked and charging. The incoming supervisor checks the warehouse management system for open tasks and confirms that the system view matches what was seen on the walk. Differences are noted before either supervisor signs."
+      },
+      {
+        "id": "h0006",
+        "title": "Seals, Keys and Equipment Custody",
+        "paragraph": "Custody of seals, keys and powered equipment transfers only against a signature. Each item is listed with its identifier and condition, and any missing item is escalated immediately rather than noted for later. Equipment with a reported fault is tagged out and removed from the available pool. The incoming supervisor confirms that chargers, batteries and access cards are accounted for before releasing the outgoing crew."
+      },
+      {
+        "id": "h0007",
+        "title": "Open Orders and Carry-Forward Tasks",
+        "paragraph": "Open orders are listed with order reference, priority and the reason they remain open. Carry-forward tasks are limited to those that genuinely cannot be completed within the outgoing shift, and each carries an owner and a deadline. The incoming supervisor may re-prioritise but must record the change. Tasks carried forward repeatedly across shifts should be raised to the site manager as a capacity signal."
+      },
+      {
+        "id": "h0008",
+        "title": "Handover Sheet Completion and Signatures",
+        "paragraph": "The handover sheet is completed in full before either supervisor leaves the floor. It records the boundary time, the walk findings, open orders, equipment condition and any escalations raised. Both supervisors sign and time-stamp the sheet, and the incoming supervisor files it in the shift log. Incomplete sheets are not accepted; a supervisor who cannot complete the sheet must escalate to the site manager before departing."
+      },
+      {
+        "id": "h0009",
+        "title": "Escalation During Handover",
+        "paragraph": "Some conditions cannot wait for the next routine review. Safety hazards, suspected theft, failed seals and system outages are escalated to the site manager during handover, not after it. The escalation is recorded with the time raised and the response received. Where the site manager is unreachable, the duty manager acts, and the attempt and outcome are both written on the sheet."
+      },
+      {
+        "id": "h0010",
+        "title": "Handover Records and Retention",
+        "paragraph": "Completed handover sheets are retained in the shift log for audit and dispute resolution. Records are stored so that any past shift can be reconstructed from the sheet, the system log and the equipment register. Retention periods are set by site policy and reviewed with the cycle. Supervisors should treat the log as evidence, writing entries that a reader unfamiliar with the shift could follow without asking questions."
+      },
+      {
+        "id": "h0011",
+        "title": "Inventory Counting and Reconciliation",
+        "paragraph": "Inventory accuracy depends on disciplined counting and honest reconciliation. Counts are scheduled by zone and product class, and each count is performed by someone other than the person who last handled the stock where staffing allows. Results are compared with system balances, and every variance is investigated before an adjustment is posted. The guide treats counting as a control activity, not a clerical chore."
+      },
+      {
+        "id": "h0012",
+        "title": "Count Scheduling and Method",
+        "paragraph": "Counts are scheduled so that high-velocity zones are checked more often than slow-moving storage. Counters use the approved method for each zone, whether full count, spot check or cycle count, and record the method used. Blind counts are preferred so that counters are not anchored by expected figures. The schedule is published in advance and adjusted only with the site manager's agreement."
+      },
+      {
+        "id": "h0013",
+        "title": "Recording Count Results",
+        "paragraph": "Count results are recorded at the point of counting, not reconstructed afterwards. Each entry shows the location, product reference, quantity observed and the counter's identifier. Corrections are made by annotation rather than overwriting, so the original observation remains visible. The incoming supervisor reviews recorded results during handover and flags any zone where counting was interrupted or left incomplete."
+      },
+      {
+        "id": "h0014",
+        "title": "Variance Investigation and Adjustment",
+        "paragraph": "A variance is investigated before any adjustment is posted. The investigator checks recent movements, misplacements, unrecorded returns and possible scanning errors, and documents which explanations were tested. Adjustments require approval from a supervisor who did not perform the count. Where the cause cannot be established, the variance is recorded as unexplained and monitored across subsequent counts rather than written off silently."
+      },
+      {
+        "id": "h0015",
+        "title": "Locating Misplaced Stock",
+        "paragraph": "Misplaced stock is the most common explanation for a variance and should be sought before any adjustment. The investigator searches adjacent locations, overflow areas and the quarantine cage, and checks whether a put-away was scanned to the wrong bin. Findings are recorded with the location where stock was actually found. Repeated misplacements in one zone point to labelling or layout problems rather than individual error."
+      },
+      {
+        "id": "h0016",
+        "title": "Approval and Posting of Adjustments",
+        "paragraph": "Adjustment approval is separated from counting and from stock handling. The approver reviews the investigation record, confirms that plausible explanations were tested, and either approves, queries or rejects the adjustment. Approved adjustments are posted promptly so that system balances reflect reality before the next shift. Rejected adjustments return to the investigator with a written reason, and the stock remains flagged until resolved."
+      },
+      {
+        "id": "h0017",
+        "title": "Cycle Count Sampling and Coverage",
+        "paragraph": "Cycle counting samples a rotating portion of locations so that every zone is covered within the review cycle. Sampling is planned rather than opportunistic, and coverage is tracked so that neglected zones become visible. A sample of [[F:sample_count]] location checks per cycle is the planning reference for coverage across the [[F:sites_count]] sites. Counters should not select their own samples, and coverage gaps are reported at handover."
+      },
+      {
+        "id": "h0018",
+        "title": "Discrepancy Escalation and Fraud Indicators",
+        "paragraph": "Most discrepancies are errors, but some patterns warrant escalation. Repeated shortfalls in one product class, missing seals, or stock found outside recorded locations without explanation are referred to the site manager. The guide does not treat these patterns as proof of wrongdoing; they are indicators that require a documented review. Escalation records distinguish observed facts from inferences drawn from them."
+      },
+      {
+        "id": "h0019",
+        "title": "Improving Handover and Count Accuracy",
+        "paragraph": "Accuracy improves through small, sustained changes rather than periodic campaigns. Supervisors should review handover sheets and count variances together to spot recurring causes, such as unclear labelling or rushed boundaries. Suggestions are logged and reviewed at the cycle review, and adopted changes are briefed at handover. Progress is judged by fewer repeat variances and cleaner handover sheets, not by a single good week."
+      }
+    ],
+    "continuations": [
+      "Where a supervisor is unexpectedly absent, the duty manager performs the handover walk with the incoming supervisor and records the substitution on the sheet.",
+      "Handover sheets written in a hurry tend to omit the reason a task was carried forward, which makes later review far harder than it needs to be.",
+      "Counters working in cold storage or at height should be rotated so that fatigue does not distort observations in the final hour of a shift.",
+      "Adjustment approvals should be reviewed periodically to check that the same approver is not routinely clearing variances in the same zone.",
+      "Equipment faults reported at handover should be tracked to closure, because a tagged-out scanner that quietly returns to service undermines the control.",
+      "When a system outage prevents scanning, counts and movements are recorded on paper and entered once the system returns, with the entry time noted.",
+      "New supervisors benefit from shadowing a full handover cycle before taking custody, including the walk, the briefing and the sheet completion.",
+      "Variance investigations should record which explanations were ruled out, since an unexplained variance is more credible when the search is documented.",
+      "Seasonal peaks change the pattern of misplacements, so sampling plans should be reviewed before peak periods rather than only at the annual cycle.",
+      "Handover records and count records are most useful when stored together, allowing a reviewer to compare what was reported with what was later found.",
+      "Supervisors should avoid carrying forward the same task across several shifts without raising it, as repeated carry-forward usually signals a capacity problem.",
+      "Quarantine cages should be checked during every handover walk, since stock placed there without a record is a common source of later variance.",
+      "Counters should be told the purpose of a blind count, because misunderstanding it leads to guesswork rather than genuine observation.",
+      "Escalation records should state what was observed separately from what was suspected, keeping the record usable in any later review.",
+      "The handover briefing works best when kept short and structured, with detailed matters left to the written sheet rather than spoken at length.",
+      "Zone labelling problems surface repeatedly in variance investigations and should be corrected at source rather than compensated for by frequent adjustments.",
+      "Approvers should query adjustments that lack an investigation record, even when the quantity involved appears small and the explanation plausible.",
+      "Coverage tracking is only meaningful if the sample is genuinely rotated, so counters should not revisit the same convenient locations each cycle.",
+      "A supervisor leaving the floor before the sheet is signed creates a gap in custody that is difficult to reconstruct afterwards.",
+      "Count results recorded after a break are more error-prone, so observations should be written at the shelf rather than recalled later.",
+      "Site managers should review escalation outcomes, not only escalation counts, to confirm that raised concerns actually received a response.",
+      "Handover sheets from the previous cycle can be sampled during review to check that carry-forward tasks were eventually closed.",
+      "Where staffing allows, separating counting from put-away duty reduces the risk that the same person confirms their own work.",
+      "Adjustment postings made late in a shift should be avoided where possible, since they are harder to review and easier to dispute.",
+      "Equipment registers should be reconciled with the physical count of scanners and access cards at least once per review cycle.",
+      "Supervisors should write handover entries for a reader who was not present, avoiding shorthand that only the outgoing crew understands.",
+      "Repeated variances in one location may indicate a layout problem, and the investigation should consider the physical environment as well as the records.",
+      "The incoming supervisor should confirm that open escalations have owners before signing, rather than assuming the outgoing supervisor will follow up.",
+      "Count schedules published in advance help crews plan around them, but they should still allow unannounced spot checks where risk is higher.",
+      "Review meetings should compare handover quality with count accuracy, since rushed boundaries and poor counting often appear together.",
+      "Paper fallback records should be numbered and reconciled against system entries so that no movement is lost during an outage.",
+      "Suggestions logged during handover should receive a written response, even when declined, to keep the improvement loop credible."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Handover walk checkpoints and what each confirms",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Checkpoint",
+            "Confirms",
+            "Owner",
+            "Record"
+          ],
+          [
+            "Receiving dock",
+            "Seals intact",
+            "Outgoing",
+            "Sheet"
+          ],
+          [
+            "Storage aisles",
+            "Stock located",
+            "Both",
+            "Sheet"
+          ],
+          [
+            "Quarantine cage",
+            "Cage locked",
+            "Outgoing",
+            "Register"
+          ],
+          [
+            "Dispatch area",
+            "Orders cleared",
+            "Both",
+            "System"
+          ],
+          [
+            "Equipment bay",
+            "Devices docked",
+            "Incoming",
+            "Register"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Adjustment approval decision criteria",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "Pass",
+            "Fail",
+            "Action"
+          ],
+          [
+            "Investigation",
+            "Recorded",
+            "Missing",
+            "Query"
+          ],
+          [
+            "Approver",
+            "Independent",
+            "Same counter",
+            "Reassign"
+          ],
+          [
+            "Cause",
+            "Tested",
+            "Assumed",
+            "Reopen"
+          ],
+          [
+            "Posting",
+            "Prompt",
+            "Delayed",
+            "Escalate"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Shift boundary responsibilities by role",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Role",
+            "Before boundary",
+            "At boundary",
+            "After boundary"
+          ],
+          [
+            "Outgoing supervisor",
+            "Prepare sheet",
+            "Brief and sign",
+            "Release crew"
+          ],
+          [
+            "Incoming supervisor",
+            "Review log",
+            "Walk and sign",
+            "Assume custody"
+          ],
+          [
+            "Site manager",
+            "Decide disputes",
+            "Receive escalations",
+            "Review outcomes"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Signals that handover and count accuracy are improving",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Signal",
+            "Direction",
+            "Reviewer",
+            "Frequency"
+          ],
+          [
+            "Repeat variances",
+            "Falling",
+            "Site manager",
+            "Cycle"
+          ],
+          [
+            "Carry-forward tasks",
+            "Falling",
+            "Supervisor",
+            "Shift"
+          ],
+          [
+            "Escalation closures",
+            "Rising",
+            "Duty manager",
+            "Cycle"
+          ],
+          [
+            "Sheet completeness",
+            "Rising",
+            "Site manager",
+            "Cycle"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Count method by zone type",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Zone",
+            "Method",
+            "Frequency",
+            "Counter"
+          ],
+          [
+            "High velocity",
+            "Blind count",
+            "Frequent",
+            "Rotated"
+          ],
+          [
+            "Slow storage",
+            "Cycle count",
+            "Periodic",
+            "Rotated"
+          ],
+          [
+            "Quarantine",
+            "Full count",
+            "Each shift",
+            "Supervisor"
+          ],
+          [
+            "Overflow",
+            "Spot check",
+            "Periodic",
+            "Rotated"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Handover sheet fields and their purpose",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Field",
+            "Purpose",
+            "Completed by",
+            "Checked by"
+          ],
+          [
+            "Boundary time",
+            "Custody point",
+            "Both",
+            "Site manager"
+          ],
+          [
+            "Walk findings",
+            "Condition record",
+            "Both",
+            "Incoming"
+          ],
+          [
+            "Open orders",
+            "Continuity",
+            "Outgoing",
+            "Incoming"
+          ],
+          [
+            "Escalations",
+            "Response trail",
+            "Outgoing",
+            "Site manager"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 1833,
+      "completion_tokens": 3428,
+      "total_tokens": 5261,
+      "prompt_tokens_details": {
+        "cached_tokens": 512
+      },
+      "prompt_cache_hit_tokens": 512,
+      "prompt_cache_miss_tokens": 1321
+    },
+    "finish_reason": "stop",
+    "request_hash": "edaa4e3a3c3260db7ae7366ccf8d46a831f4ca81b57de373739f8eafed1fba04",
+    "schema": "llm-content-v1",
+    "validation_retries": 0,
+    "cache_hit": false
+  }
+}

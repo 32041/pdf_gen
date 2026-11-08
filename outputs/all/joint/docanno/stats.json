@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "attempt_seed": 42,
+  "rendered_documents": 40,
+  "rendered_objects": 240,
+  "checks": [
+    "PDF text",
+    "bounds",
+    "caption coupling",
+    "embedded fonts",
+    "float overlap",
+    "reference numbers",
+    "rendered predecessor",
+    "strict ToUnicode UTF-16",
+    "subtype",
+    "tree",
+    "tree relation",
+    "visual object numbering"
+  ],
+  "quota_checks": "Exact integer quota checks passed",
+  "requested_conflict_ratio": 0.5,
+  "actual_conflict_ratio": 0.5,
+  "rounding_resolution": 0.004166666666666667,
+  "baselines": {
+    "nearest_heading": 0.5,
+    "parent_of_nearest": 0.2125,
+    "caption_title_literal": 0.05
+  },
+  "semantic_limit": "LLM prose and tables: numeric tokens, schema and geometry validated; semantic coherence still needs human review.",
+  "content_models": {
+    "deepseek-flash": 40
+  },
+  "attempts": 1,
+  "rejected_attempts": [],
+  "document_repairs": {},
+  "export_validation": {
+    "docs": 40,
+    "headings": 588,
+    "objects": 240,
+    "passed": true
+  }
+}

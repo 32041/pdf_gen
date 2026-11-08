@@ -1,0 +1,87 @@
+{
+  "engine": "pymupdf-custom-pagination",
+  "task": "joint",
+  "version": "0.5.0",
+  "paper": "per-document A4/Letter",
+  "unit": "pt",
+  "dpi": 96,
+  "fonts": {
+    "zh": "Bundled Noto Sans SC (wght=400)",
+    "en": "Bundled DejaVu Sans",
+    "bold": "Bundled DejaVu Sans Bold"
+  },
+  "font_hashes": {
+    "NotoSansSC-Regular.ttf": "6bfd195c291905bf7afb7033c1f7a8d30f4a9a36210effb8cb3fdeb7b819483e",
+    "DejaVuSans.ttf": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e",
+    "DejaVuSans-Bold.ttf": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890"
+  },
+  "style_ladders": {
+    "clear": {
+      "sizes": [
+        18,
+        14,
+        12,
+        11,
+        10.5,
+        10
+      ],
+      "indents": [
+        0,
+        0,
+        4,
+        10,
+        16,
+        22
+      ],
+      "colors": [
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a"
+      ]
+    },
+    "similar": {
+      "sizes": [
+        18,
+        12,
+        11,
+        11,
+        10.5,
+        10.5
+      ],
+      "indents": [
+        0,
+        0,
+        0,
+        10,
+        0,
+        10
+      ],
+      "colors": [
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a",
+        "18384a"
+      ]
+    }
+  },
+  "margins_and_fonts": "per document render_meta and template_profiles in config.json",
+  "python": "3.12.14",
+  "pymupdf": "1.28.2",
+  "seed": 42,
+  "accepted_attempt_seed": 42,
+  "object_numbering": "ascending final reading order; stable internal IDs",
+  "unicode_mapping": "used CID to strict UTF-16BE bfchar",
+  "float_policy": {
+    "far_float_min_owner_page_delta": 2,
+    "plate_heading_count": 0,
+    "plate_min_objects": 2,
+    "plate_max_objects": 3,
+    "allow_end_of_doc": true
+  },
+  "delivery": "L1"
+}

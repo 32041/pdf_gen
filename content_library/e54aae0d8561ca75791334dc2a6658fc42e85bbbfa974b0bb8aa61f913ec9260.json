@@ -1,0 +1,523 @@
+{
+  "request": {
+    "schema": "llm-content-v1",
+    "kind": "exam_paper",
+    "language": "en",
+    "subject": "Data quality reasoning assessment",
+    "seed": 64,
+    "has_title": false,
+    "nodes": [
+      {
+        "id": "h0001",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0002",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0003",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0004",
+        "parent_id": "h0002",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0005",
+        "parent_id": "h0001",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0006",
+        "parent_id": "root",
+        "level": 1,
+        "is_document_title": false
+      },
+      {
+        "id": "h0007",
+        "parent_id": "h0006",
+        "level": 2,
+        "is_document_title": false
+      },
+      {
+        "id": "h0008",
+        "parent_id": "h0007",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0009",
+        "parent_id": "h0007",
+        "level": 3,
+        "is_document_title": false
+      },
+      {
+        "id": "h0010",
+        "parent_id": "h0006",
+        "level": 2,
+        "is_document_title": false
+      }
+    ],
+    "objects": [
+      {
+        "id": "o0001",
+        "owner_id": "h0004",
+        "cell_width": 61.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0002",
+        "owner_id": "h0006",
+        "cell_width": 61.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0003",
+        "owner_id": "h0002",
+        "cell_width": 61.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0004",
+        "owner_id": "h0005",
+        "cell_width": 61.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0005",
+        "owner_id": "h0006",
+        "cell_width": 61.0,
+        "row_height": 26
+      },
+      {
+        "id": "o0006",
+        "owner_id": "h0006",
+        "cell_width": 61.0,
+        "row_height": 26
+      }
+    ],
+    "facts": {
+      "output_1": "78.37",
+      "output_2": "90.10",
+      "output_3": "105.42",
+      "output_4": "119.07",
+      "cost_1": "50.94",
+      "cost_2": "58.56",
+      "cost_3": "68.52",
+      "cost_4": "77.40",
+      "balance_1": "27.43",
+      "balance_2": "31.54",
+      "balance_3": "36.90",
+      "balance_4": "41.67",
+      "year_1": "2022",
+      "year_2": "2023",
+      "year_3": "2024",
+      "year_4": "2025",
+      "year_last": "2025",
+      "duration_weeks": "12",
+      "sessions": "24",
+      "teaching_hours": "48",
+      "response_days": "2",
+      "review_days": "5",
+      "agreement_months": "12",
+      "sample_count": "240",
+      "sites_count": "4",
+      "output_growth_percent": "51.9"
+    },
+    "table_mode": "llm",
+    "continuation_count": 32
+  },
+  "response": {
+    "document_title": "Data Quality Reasoning Assessment",
+    "sections": [
+      {
+        "id": "h0001",
+        "title": "Assessment Overview and Instructions",
+        "paragraph": "This examination assesses your ability to reason about data quality in realistic scenarios. You will encounter incomplete, inconsistent, and ambiguous records. For each question, identify the quality dimension at stake, propose a diagnostic step, and justify a remediation decision. Answers are evaluated on clarity of reasoning, appropriate use of evidence, and recognition of trade-offs. The paper is designed for a [[F:duration_weeks]]-week module with [[F:sessions]] sessions and [[F:teaching_hours]] teaching hours; allocate your time accordingly. Simulated observations must be distinguished from causal claims."
+      },
+      {
+        "id": "h0002",
+        "title": "Section A: Data Quality Foundations",
+        "paragraph": "This section tests foundational concepts. You must define key dimensions such as completeness, consistency, timeliness, and accuracy, and apply them to short cases. Questions require you to distinguish between intrinsic and contextual quality, and to explain how measurement choices affect conclusions. Use the provided scenario descriptions and the sample of [[F:sample_count]] records across [[F:sites_count]] sites to support your answers. Avoid asserting causation from cross-sectional patterns; instead, frame plausible mechanisms and note what additional evidence would be needed."
+      },
+      {
+        "id": "h0003",
+        "title": "Diagnosing Missing Values in a Clinic Registry",
+        "paragraph": "A clinic registry contains missing values for patient age and visit date. Some missingness appears related to site and to whether the visit was urgent. (a) Classify the missingness mechanism you suspect and justify your choice. (b) Propose two diagnostic checks using the available [[F:sample_count]] records across [[F:sites_count]] sites. (c) Recommend a handling strategy and explain how it might bias downstream estimates. (d) State one limitation of your recommendation and what additional data would strengthen the analysis. Your answer should distinguish observed patterns from causal explanations."
+      },
+      {
+        "id": "h0004",
+        "title": "Resolving Conflicting Records Across Source Systems",
+        "paragraph": "Two source systems report different values for the same entity. System A is updated within [[F:response_days]] days, while System B undergoes review every [[F:review_days]] days. (a) Describe a reconciliation procedure that accounts for update latency and review cycles. (b) Specify which record you would treat as authoritative and why. (c) Explain how you would document the decision for audit purposes. (d) Identify a risk of your approach and a mitigation. Use the comparison matrix in the table to structure your reasoning, and avoid claiming that one system is inherently more accurate without evidence."
+      },
+      {
+        "id": "h0005",
+        "title": "Assessing Timeliness and Fitness for Use",
+        "paragraph": "A dashboard reports operational metrics with a refresh lag. Users complain that decisions are based on stale information. (a) Define timeliness in this context and distinguish it from accuracy. (b) Propose a fitness-for-use assessment that considers the decision cycle and the cost of delay. (c) Recommend one process change and one measurement change. (d) Explain how you would evaluate whether the change improved decision quality, noting that observed improvements may not be causal. Refer to the schedule table for the intended review cadence."
+      },
+      {
+        "id": "h0006",
+        "title": "Section B: Applied Reasoning and Evidence",
+        "paragraph": "This section requires longer, scenario-based reasoning. You will analyze a multi-site data collection effort, interpret summary indicators, and propose quality controls. The simulated annual indicators for [[F:year_1]] through [[F:year_4]] show output rising from [[F:output_1]] to [[F:output_4]] and cost rising from [[F:cost_1]] to [[F:cost_4]], with operating surplus from [[F:balance_1]] to [[F:balance_4]]. Use these only as context; do not infer causality. Your answers should demonstrate structured thinking, explicit assumptions, and awareness of ethical and operational constraints."
+      },
+      {
+        "id": "h0007",
+        "title": "Section B: Scenario-Based Questions",
+        "paragraph": "Read each scenario carefully. You are expected to identify the data quality issue, propose an investigation, and recommend an action with justification. Where numeric indicators are provided, treat them as simulated canonical outputs and note their limitations. Credit is given for distinguishing correlation from causation, for specifying what evidence would change your conclusion, and for acknowledging trade-offs between timeliness, cost, and completeness. Use the provided tables to organize your responses where appropriate."
+      },
+      {
+        "id": "h0008",
+        "title": "Multi-Site Consistency Audit Design",
+        "paragraph": "A program collects data from [[F:sites_count]] sites over [[F:duration_weeks]] weeks, with [[F:sample_count]] records in total. Site-level counts vary, and some sites report different definitions for a key field. (a) Design an audit to assess consistency across sites. (b) Specify two quantitative checks and one qualitative check. (c) Propose a governance mechanism to resolve definitional conflicts. (d) Explain how you would report findings without overstating generalizability. Note that differences across sites may reflect operational context rather than data quality failures."
+      },
+      {
+        "id": "h0009",
+        "title": "Interpreting Simulated Indicators with Caution",
+        "paragraph": "The simulated indicators show output growth of [[F:output_growth_percent]] percent from [[F:year_1]] to [[F:year_last]], alongside changes in cost and operating surplus. (a) Identify two alternative explanations for the observed pattern. (b) Specify what additional data would help distinguish among them. (c) Discuss one risk of using these indicators for performance evaluation. (d) Recommend a reporting practice that communicates uncertainty. Your answer must clearly separate observed simulated values from causal claims and note that the indicators are not validated measures of quality."
+      },
+      {
+        "id": "h0010",
+        "title": "Submission Requirements and Marking Criteria",
+        "paragraph": "Submit your answers as a single document. Clearly label each question and sub-part. The total marks are distributed across reasoning quality, use of evidence, recognition of limitations, and clarity of expression. Answers that assert causality without justification will lose marks. You may use the tables to structure comparisons, but tables do not replace written justification. Late submissions are handled according to program policy. Ensure that all numeric claims are clearly attributed to the provided simulated indicators and that speculative statements are labeled as such."
+      }
+    ],
+    "continuations": [
+      "When reviewing answers, check whether the candidate explicitly states assumptions about missing data mechanisms and whether those assumptions are testable with the available records.",
+      "Candidates should note that the simulated indicators are presented for context only and are not designed to support causal inference about program performance.",
+      "A strong response will distinguish between data quality problems that are intrinsic to the record and those that arise from how the data are used in a specific decision context.",
+      "Consider whether the candidate proposes a feasible diagnostic step, such as comparing distributions across sites or reviewing data entry logs, rather than only recommending deletion or imputation.",
+      "The reconciliation procedure should account for update latency and review cycles, and the candidate should explain how conflicts are documented and escalated.",
+      "Look for acknowledgment that timeliness is relative to the decision cycle and that a refresh lag may be acceptable for some uses but not others.",
+      "Candidates should identify at least one limitation of their proposed audit, such as small site-level counts or inconsistent definitions that cannot be resolved with existing data.",
+      "When interpreting simulated indicators, credit answers that propose alternative explanations and specify what evidence would help discriminate among them.",
+      "A good answer will avoid claiming that observed improvements are due to a specific intervention without a comparison group or before-after design with controls.",
+      "The governance mechanism for definitional conflicts should include a clear owner, a decision log, and a process for communicating changes to data users.",
+      "Candidates should recognize that missingness related to site and urgency may induce bias if handled by complete-case analysis, and they should discuss the direction of potential bias.",
+      "For the timeliness question, look for a distinction between data freshness and data accuracy, and a recommendation that addresses both process and measurement.",
+      "The audit design should include both quantitative checks, such as consistency rates, and qualitative checks, such as interviews with site staff about definitions.",
+      "Answers should note that the simulated indicators cover [[F:year_1]] to [[F:year_last]] and that trends over this period may be influenced by changes in scope or definitions.",
+      "Credit candidates who propose documenting reconciliation decisions in an audit trail that records the rationale, the date, and the responsible person.",
+      "A strong response will explain how the recommended handling strategy could bias downstream estimates and what sensitivity analysis could be used to assess robustness.",
+      "Candidates should avoid treating the simulated output and cost figures as validated measures of data quality; they are contextual indicators only.",
+      "Look for explicit statements about what additional data would strengthen the analysis, such as data entry timestamps or site-level process documentation.",
+      "The response to the multi-site consistency question should consider whether definitional differences are legitimate adaptations or unintended inconsistencies.",
+      "Candidates should propose a reporting practice that communicates uncertainty, such as ranges or qualitative confidence statements, rather than presenting point estimates as precise.",
+      "When evaluating process changes for timeliness, credit answers that describe how decision quality would be measured and how confounders would be addressed.",
+      "A good answer will recognize that the [[F:response_days]]-day update and [[F:review_days]]-day review cycles create different windows of vulnerability for stale data.",
+      "Candidates should specify how they would sample records for the audit and justify the sample size relative to the total of [[F:sample_count]] records.",
+      "Look for acknowledgment that the [[F:sites_count]] sites may have different operational contexts, which affects the interpretation of cross-site comparisons.",
+      "The marking criteria reward clarity and structure, so candidates should use headings and tables where appropriate but ensure that written justification is complete.",
+      "Candidates should note that the [[F:duration_weeks]]-week module and [[F:teaching_hours]] teaching hours provide limited time, so prioritization of diagnostic steps is important.",
+      "A strong response will identify ethical considerations, such as privacy and fairness, when recommending data handling or reconciliation strategies.",
+      "Credit answers that propose a feedback loop where data quality findings inform updates to definitions, collection processes, and training.",
+      "Candidates should explain how they would validate the reconciled records against an independent source or a gold-standard subset.",
+      "Look for recognition that the simulated operating surplus figures depend on both output and cost, and that changes in either can drive the pattern.",
+      "When discussing fitness for use, candidates should connect the assessment to specific decisions and the consequences of acting on stale or incomplete data.",
+      "A good answer will state what would count as evidence against the proposed explanation and how that evidence could be collected within existing constraints."
+    ],
+    "tables": [
+      {
+        "id": "o0001",
+        "caption": "Comparison of source system update and review cycles",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "System A",
+            "System B",
+            "Implication"
+          ],
+          [
+            "Update lag",
+            "[[F:response_days]] days",
+            "[[F:review_days]] days",
+            "Freshness differs"
+          ],
+          [
+            "Review cycle",
+            "Continuous",
+            "Periodic",
+            "Audit timing"
+          ],
+          [
+            "Authority basis",
+            "Operational",
+            "Curated",
+            "Context matters"
+          ],
+          [
+            "Risk",
+            "Stale data",
+            "Delayed fixes",
+            "Mitigation needed"
+          ]
+        ]
+      },
+      {
+        "id": "o0002",
+        "caption": "Simulated annual indicators for contextual reference",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Year",
+            "Output",
+            "Cost",
+            "Surplus"
+          ],
+          [
+            "[[F:year_1]]",
+            "[[F:output_1]]",
+            "[[F:cost_1]]",
+            "[[F:balance_1]]"
+          ],
+          [
+            "[[F:year_2]]",
+            "[[F:output_2]]",
+            "[[F:cost_2]]",
+            "[[F:balance_2]]"
+          ],
+          [
+            "[[F:year_3]]",
+            "[[F:output_3]]",
+            "[[F:cost_3]]",
+            "[[F:balance_3]]"
+          ],
+          [
+            "[[F:year_4]]",
+            "[[F:output_4]]",
+            "[[F:cost_4]]",
+            "[[F:balance_4]]"
+          ]
+        ]
+      },
+      {
+        "id": "o0003",
+        "caption": "Data quality dimensions and diagnostic focus",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Dimension",
+            "Question",
+            "Diagnostic",
+            "Example check"
+          ],
+          [
+            "Completeness",
+            "Are values missing?",
+            "Missingness pattern",
+            "By site and urgency"
+          ],
+          [
+            "Consistency",
+            "Do sources agree?",
+            "Conflict rate",
+            "Key field matches"
+          ],
+          [
+            "Timeliness",
+            "Is data current?",
+            "Lag distribution",
+            "Refresh versus use"
+          ],
+          [
+            "Accuracy",
+            "Is data correct?",
+            "Validation sample",
+            "Gold-standard subset"
+          ]
+        ]
+      },
+      {
+        "id": "o0004",
+        "caption": "Fitness-for-use assessment schedule",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Activity",
+            "Cadence",
+            "Owner",
+            "Output"
+          ],
+          [
+            "Data refresh",
+            "[[F:response_days]] days",
+            "Operations",
+            "Updated dataset"
+          ],
+          [
+            "Quality review",
+            "[[F:review_days]] days",
+            "Data team",
+            "Issue log"
+          ],
+          [
+            "User feedback",
+            "Monthly",
+            "Product",
+            "Prioritized fixes"
+          ],
+          [
+            "Audit",
+            "Quarterly",
+            "Governance",
+            "Audit report"
+          ]
+        ]
+      },
+      {
+        "id": "o0005",
+        "caption": "Evidence types and their appropriate use",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Evidence",
+            "Supports",
+            "Limitation",
+            "Causal?"
+          ],
+          [
+            "Cross-sectional",
+            "Association",
+            "No temporal order",
+            "No"
+          ],
+          [
+            "Before-after",
+            "Change",
+            "Confounders",
+            "Weak"
+          ],
+          [
+            "Audit sample",
+            "Quality level",
+            "Sampling error",
+            "No"
+          ],
+          [
+            "Process logs",
+            "Mechanism",
+            "Coverage bias",
+            "Partial"
+          ]
+        ]
+      },
+      {
+        "id": "o0006",
+        "caption": "Marking criteria for scenario questions",
+        "reference": "Table {number}",
+        "rows": [
+          [
+            "Criterion",
+            "Weight",
+            "Indicators",
+            "Notes"
+          ],
+          [
+            "Reasoning",
+            "High",
+            "Logical steps",
+            "Justify choices"
+          ],
+          [
+            "Evidence use",
+            "High",
+            "Relevant checks",
+            "Cite simulated data"
+          ],
+          [
+            "Limitations",
+            "Medium",
+            "Trade-offs",
+            "Avoid overclaim"
+          ],
+          [
+            "Clarity",
+            "Medium",
+            "Structure",
+            "Label parts"
+          ]
+        ]
+      }
+    ]
+  },
+  "provenance": {
+    "provider": "deepseek",
+    "requested_model": "deepseek-flash",
+    "model": "deepseek-flash",
+    "usage": {
+      "prompt_tokens": 4673,
+      "completion_tokens": 3067,
+      "total_tokens": 7740,
+      "prompt_tokens_details": {
+        "cached_tokens": 1408
+      },
+      "prompt_cache_hit_tokens": 1408,
+      "prompt_cache_miss_tokens": 3265
+    },
+    "finish_reason": "stop",
+    "request_hash": "e54aae0d8561ca75791334dc2a6658fc42e85bbbfa974b0bb8aa61f913ec9260",
+    "schema": "llm-content-v1",
+    "validation_retries": 1,
+    "cache_hit": false,
+    "supplement_usage": [
+      {
+        "model": "deepseek-flash",
+        "usage": {
+          "prompt_tokens": 1300,
+          "completion_tokens": 1021,
+          "total_tokens": 2321,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 1300
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  },
+  "extra_continuations": [
+    "Candidates should describe how they would test for non-random missingness by comparing the distribution of observed urgency levels across sites with and without missing records.",
+    "A strong answer will note that the [[F:sample_count]] records may not be representative of all records if sampling was not random, and will propose a sensitivity check.",
+    "Look for a recommendation to stratify the audit by site, given that the [[F:sites_count]] sites may differ in data entry practices and patient mix.",
+    "Candidates should explain how they would use the [[F:response_days]]-day update window to flag records that are likely to be stale at the time of a decision.",
+    "Credit answers that propose a pilot reconciliation on a small subset before scaling up, to identify definitional conflicts early.",
+    "A good response will discuss how the [[F:review_days]]-day review cycle interacts with the update lag to create periods when data are both stale and unverified.",
+    "Candidates should specify how they would document the rationale for any data exclusions, including who approved the exclusion and when.",
+    "Look for acknowledgment that the simulated output growth of [[F:output_growth_percent]] percent may reflect changes in data collection rather than true performance.",
+    "A strong answer will propose comparing the reconciled totals with an independent source, such as administrative records or external benchmarks.",
+    "Candidates should note that the [[F:agreement_months]]-month agreement period may limit the ability to observe long-term trends or seasonal effects.",
+    "Credit answers that describe how they would use the [[F:sessions]] sessions and [[F:teaching_hours]] teaching hours to prioritize which data quality dimensions to address first.",
+    "A good response will recognize that the operating surplus figures for [[F:year_1]] to [[F:year_last]] depend on both output and cost, and will caution against interpreting them as quality measures.",
+    "Candidates should explain how they would handle conflicting definitions across sites, such as by creating a crosswalk or adopting a standard definition with site-specific extensions.",
+    "Look for a discussion of how the [[F:duration_weeks]]-week module constrains the scope of the audit, and a proposal to focus on the most decision-relevant data elements.",
+    "A strong answer will identify potential sources of bias in the simulated indicators, such as changes in site participation or data collection methods over time.",
+    "Candidates should propose a method for quantifying uncertainty in the reconciled estimates, such as bootstrap resampling or Bayesian imputation.",
+    "Credit answers that recommend training site staff on data definitions and entry procedures as part of the feedback loop.",
+    "A good response will discuss how to measure the impact of data quality improvements on decision outcomes, such as by tracking decision reversals or errors.",
+    "Candidates should note that the [[F:cost_1]] to [[F:cost_4]] figures are simulated and should not be used to infer cost efficiency without additional context.",
+    "Look for acknowledgment that the [[F:balance_1]] to [[F:balance_4]] surpluses are derived from output and cost, and that small changes in either can alter the pattern.",
+    "A strong answer will propose a data quality dashboard that displays key metrics with confidence intervals and trends over time.",
+    "Candidates should explain how they would validate the [[F:year_1]] to [[F:year_last]] trend against external data or known events that might affect the indicators.",
+    "Credit answers that describe a process for regularly reviewing and updating data definitions as part of governance.",
+    "A good response will recognize that the [[F:sites_count]] sites may have different data quality issues, and will propose site-specific remediation plans.",
+    "Candidates should discuss how to handle missing data in the [[F:sample_count]] records, such as using multiple imputation and reporting the results under different assumptions.",
+    "Look for a recommendation to collect data entry timestamps to better understand the [[F:response_days]]-day update lag and identify bottlenecks.",
+    "A strong answer will note that the [[F:review_days]]-day review period may be insufficient for thorough validation, and will propose a risk-based review approach.",
+    "Candidates should explain how they would use the [[F:agreement_months]]-month period to plan data quality audits and follow-up actions.",
+    "Credit answers that propose a root cause analysis for data quality issues, involving site staff and data users.",
+    "A good response will discuss the trade-offs between timeliness and accuracy, and how to communicate these trade-offs to decision-makers.",
+    "Candidates should specify how they would measure the success of the reconciliation process, such as by reduction in discrepancies or improved consistency rates.",
+    "Look for acknowledgment that the simulated indicators are not validated measures, and that any conclusions about data quality should be based on the audit findings."
+  ]
+}

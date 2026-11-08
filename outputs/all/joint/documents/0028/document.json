@@ -1,0 +1,748 @@
+{
+  "doc_id": "0028",
+  "kind": "legal_contract",
+  "domain": "legal_contract",
+  "language": "en",
+  "title": "Professional Training Delivery Agreement",
+  "seed": 69,
+  "target_depth": 5,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "alpha_dotted",
+  "style": "clear",
+  "template": "classic",
+  "columns": 1,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "Professional Training Delivery Agreement",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "Professional Training Delivery Agreement",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "Scope of Training Services",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "A Scope of Training Services",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "Programme Design and Curriculum",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "A.1 Programme Design and Curriculum",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "Learning Outcomes and Assessment Design",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1 Learning Outcomes and Assessment Design",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "Formative and Summative Components",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "text": "A.1.1.1 Formative and Summative Components",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "Moderation and Quality Assurance",
+      "level": 5,
+      "parent_id": "h0004",
+      "path": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.1.2 Moderation and Quality Assurance",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "Curriculum Review and Version Control",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "A.1.2 Curriculum Review and Version Control",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "Participant Eligibility and Enrolment",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "A.2 Participant Eligibility and Enrolment",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "Delivery Schedule and Obligations",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "B Delivery Schedule and Obligations",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "Scheduling, Attendance and Rescheduling",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        1
+      ],
+      "text": "B.1 Scheduling, Attendance and Rescheduling",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "Attendance Records and Completion Criteria",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "B.1.1 Attendance Records and Completion Criteria",
+      "is_document_title": false
+    },
+    {
+      "id": "h0012",
+      "title": "Minimum Attendance Threshold",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "text": "B.1.1.1 Minimum Attendance Threshold",
+      "is_document_title": false
+    },
+    {
+      "id": "h0013",
+      "title": "Certification and Records",
+      "level": 5,
+      "parent_id": "h0011",
+      "path": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "text": "B.1.1.2 Certification and Records",
+      "is_document_title": false
+    },
+    {
+      "id": "h0014",
+      "title": "Facilitator Qualifications and Substitution",
+      "level": 4,
+      "parent_id": "h0010",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "B.1.2 Facilitator Qualifications and Substitution",
+      "is_document_title": false
+    },
+    {
+      "id": "h0015",
+      "title": "Fees, Invoicing and Payment Terms",
+      "level": 3,
+      "parent_id": "h0009",
+      "path": [
+        2,
+        2
+      ],
+      "text": "B.2 Fees, Invoicing and Payment Terms",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      78.98,
+      89.33,
+      102.75,
+      115.24
+    ],
+    "cost": [
+      51.34,
+      58.06,
+      66.79,
+      74.91
+    ],
+    "balance": [
+      27.64,
+      31.27,
+      35.96,
+      40.33
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      14,
+      12,
+      11,
+      10.5,
+      10
+    ],
+    "indents": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      22
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Scope of Training Services",
+      "caption": "Table 3: Delivery responsibilities allocated between the parties",
+      "rows": [
+        [
+          "Activity",
+          "Provider",
+          "Commissioner",
+          "Evidence"
+        ],
+        [
+          "Curriculum design",
+          "Lead",
+          "Review",
+          "Version log"
+        ],
+        [
+          "Venue provision",
+          "Support",
+          "Lead",
+          "Booking record"
+        ],
+        [
+          "Assessment",
+          "Lead",
+          "Nominate",
+          "Moderation note"
+        ],
+        [
+          "Attendance",
+          "Record",
+          "Release staff",
+          "Register"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 3.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "Delivery responsibilities allocated between the parties",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Professional Training Delivery Agreement",
+      "caption": "Table 1: Core terms recorded at agreement signature",
+      "rows": [
+        [
+          "Term",
+          "Value",
+          "Owner",
+          "Status"
+        ],
+        [
+          "Duration",
+          "12 months",
+          "Both",
+          "Agreed"
+        ],
+        [
+          "Sessions",
+          "24",
+          "Provider",
+          "Planned"
+        ],
+        [
+          "Teaching hours",
+          "48",
+          "Provider",
+          "Planned"
+        ],
+        [
+          "Sites",
+          "4",
+          "Both",
+          "Agreed"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Core terms recorded at agreement signature",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0003",
+      "target_previous_id": "h0003",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "Programme Design and Curriculum",
+      "caption": "Table 4: Curriculum design checkpoints and required outputs",
+      "rows": [
+        [
+          "Checkpoint",
+          "Output",
+          "Reviewer",
+          "Timing"
+        ],
+        [
+          "Needs analysis",
+          "Competency map",
+          "Commissioner",
+          "Before design"
+        ],
+        [
+          "Session plans",
+          "Module outlines",
+          "Provider lead",
+          "Before delivery"
+        ],
+        [
+          "Assessment design",
+          "Criteria set",
+          "Moderator",
+          "Before delivery"
+        ],
+        [
+          "Term review",
+          "Revision log",
+          "Both",
+          "Mid-term"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 4.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "Curriculum design checkpoints and required outputs",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Professional Training Delivery Agreement",
+      "caption": "Table 2: Programme delivery parameters used for planning",
+      "rows": [
+        [
+          "Parameter",
+          "Value",
+          "Basis",
+          "Review"
+        ],
+        [
+          "Weeks",
+          "12",
+          "Schedule",
+          "Mid-term"
+        ],
+        [
+          "Sessions",
+          "24",
+          "Schedule",
+          "Monthly"
+        ],
+        [
+          "Teaching hours",
+          "48",
+          "Schedule",
+          "Monthly"
+        ],
+        [
+          "Sites",
+          "4",
+          "Agreement",
+          "Term end"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 2.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "Programme delivery parameters used for planning",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0001",
+      "target_previous_id": "h0002",
+      "target_subtype": "after_section",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Professional Training Delivery Agreement",
+      "caption": "Figure 1: Completion evidence held for each participant",
+      "rows": [
+        [
+          "Record",
+          "Holder",
+          "Retention",
+          "Access"
+        ],
+        [
+          "Attendance",
+          "Provider",
+          "Term plus policy",
+          "On request"
+        ],
+        [
+          "Assessment",
+          "Provider",
+          "Term plus policy",
+          "Moderated"
+        ],
+        [
+          "Certificate",
+          "Provider",
+          "Register",
+          "On request"
+        ],
+        [
+          "Mitigation",
+          "Provider",
+          "Restricted",
+          "Panel only"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Figure 1.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "Completion evidence held for each participant",
+      "reference_template": "Supporting records are presented in Figure {number}.",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional legal_contract document. Document: Professional Training Delivery Agreement. Section: Professional Training Delivery Agreement. Caption: Completion evidence held for each participant. Article context: This agreement records the arrangement between the commissioning organization and the training provider for the design and delivery of a professional development programme over 12 months. It sets out the scope of instruction, the schedule of 24 sessions across 12 weeks, the obligations of each party, and the standards by which satisfactory completion is judged. Both parties confirm they have authority to enter this arrangement and that the terms below reflect their agreed understanding.. Supporting records: [[\"Record\", \"Holder\", \"Retention\", \"Access\"], [\"Attendance\", \"Provider\", \"Term plus policy\", \"On request\"], [\"Assessment\", \"Provider\", \"Term plus policy\", \"Moderated\"], [\"Certificate\", \"Provider\", \"Register\", \"On request\"], [\"Mitigation\", \"Provider\", \"Restricted\", \"Panel only\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0009",
+      "target_previous_id": "h0015",
+      "target_subtype": "far_float",
+      "target_relation": "owner_is_ancestor",
+      "topic": "Delivery Schedule and Obligations",
+      "caption": "Table 5: Obligations and response periods for schedule matters",
+      "rows": [
+        [
+          "Matter",
+          "Responsible",
+          "Period",
+          "Record"
+        ],
+        [
+          "Nomination decision",
+          "Commissioner",
+          "2 days",
+          "Written"
+        ],
+        [
+          "Reschedule request",
+          "Provider",
+          "2 days",
+          "Written"
+        ],
+        [
+          "Moderation outcome",
+          "Provider",
+          "5 days",
+          "Record"
+        ],
+        [
+          "Fee variation notice",
+          "Provider",
+          "5 days",
+          "Written"
+        ]
+      ],
+      "reference_text": "Supporting records are presented in Table 5.",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "Obligations and response periods for schedule matters",
+      "reference_template": "Supporting records are presented in Table {number}.",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "Professional Training Delivery Agreement",
+        "paragraph": "This agreement records the arrangement between the commissioning organization and the training provider for the design and delivery of a professional development programme over 12 months. It sets out the scope of instruction, the schedule of 24 sessions across 12 weeks, the obligations of each party, and the standards by which satisfactory completion is judged. Both parties confirm they have authority to enter this arrangement and that the terms below reflect their agreed understanding."
+      },
+      "h0002": {
+        "title": "Scope of Training Services",
+        "paragraph": "The provider shall design and deliver a structured programme covering the agreed competency areas, comprising 24 facilitated sessions and 48 teaching hours in total. Delivery may occur at up to 4 designated sites or through equivalent remote channels where the parties agree in writing. Any material expansion of subject coverage, additional cohorts, or supplementary site deployments requires a written variation signed by both parties before work begins."
+      },
+      "h0003": {
+        "title": "Programme Design and Curriculum",
+        "paragraph": "The curriculum shall be built from a documented needs analysis and mapped to the competency framework supplied by the commissioning organization. Learning outcomes, session plans, and assessment instruments must be submitted for review before delivery begins. The provider retains editorial control over instructional method while ensuring alignment with the agreed outcomes and the professional standards applicable to the participants' roles."
+      },
+      "h0004": {
+        "title": "Learning Outcomes and Assessment Design",
+        "paragraph": "Each module shall state measurable learning outcomes and the evidence that will demonstrate achievement. Assessment instruments must be valid for the stated outcomes, applied consistently across cohorts, and moderated by a second qualified assessor. The provider shall retain assessment records for the period required by the commissioning organization's policy and make them available on reasonable request."
+      },
+      "h0005": {
+        "title": "Formative and Summative Components",
+        "paragraph": "The programme shall combine formative activities that give participants feedback during instruction with summative assessments that determine final achievement. Formative tasks may include structured practice, peer review, and facilitator observation; summative tasks shall be specified in advance with published criteria. Weighting between components must be disclosed to participants at the start of each module."
+      },
+      "h0006": {
+        "title": "Moderation and Quality Assurance",
+        "paragraph": "A moderation process shall verify that assessor judgements are consistent and defensible. A sample of assessments, proportionate to cohort size and no smaller than the provider's published standard, shall be independently reviewed. Where moderation identifies inconsistency, the provider shall adjust results and document the corrective action taken before issuing final records."
+      },
+      "h0007": {
+        "title": "Curriculum Review and Version Control",
+        "paragraph": "All curriculum materials shall be version-controlled, with each revision dated and attributed to an authorized reviewer. The provider shall conduct a scheduled review at least once during the term and incorporate feedback from participants and the commissioning organization. Superseded materials must be withdrawn from use so that participants are not assessed against conflicting criteria."
+      },
+      "h0008": {
+        "title": "Participant Eligibility and Enrolment",
+        "paragraph": "The commissioning organization shall nominate participants who meet the stated prerequisite knowledge and confirm their availability for the scheduled sessions. The provider shall verify eligibility before enrolment and notify the commissioning organization of any nominee who does not meet the prerequisites. Substitutions are permitted with reasonable notice provided the replacement satisfies the same eligibility requirements."
+      },
+      "h0009": {
+        "title": "Delivery Schedule and Obligations",
+        "paragraph": "The programme shall be delivered over 12 weeks in accordance with the schedule annexed to this agreement. The provider shall supply qualified facilitators, learning materials, and assessment administration; the commissioning organization shall supply suitable venues or platform access, participant release time, and timely decisions on nominations. Neither party shall be liable for delay caused by the other's failure to perform its obligations."
+      },
+      "h0010": {
+        "title": "Scheduling, Attendance and Rescheduling",
+        "paragraph": "Sessions shall follow the agreed timetable, and the provider shall give reasonable notice of any necessary change. Participants are expected to attend all scheduled sessions; where absence exceeds the published threshold, the provider shall offer a catch-up arrangement or record the module as incomplete. Rescheduling requested by the commissioning organization is subject to facilitator availability and may attract a reasonable administrative charge."
+      },
+      "h0011": {
+        "title": "Attendance Records and Completion Criteria",
+        "paragraph": "The provider shall maintain attendance records for every session and reconcile them against enrolment data before final results are issued. A participant is deemed to have completed the programme only where attendance and assessment requirements are both satisfied. Records of completion shall be issued within a reasonable period after the final assessment and retained for audit purposes."
+      },
+      "h0012": {
+        "title": "Minimum Attendance Threshold",
+        "paragraph": "Participants must attend at least the published proportion of scheduled sessions to remain eligible for summative assessment. The provider shall publish this threshold before enrolment and apply it uniformly. Absences supported by documented exceptional circumstances may be considered under the provider's mitigation procedure, with the outcome recorded and communicated to the participant."
+      },
+      "h0013": {
+        "title": "Certification and Records",
+        "paragraph": "Certificates shall state the programme title, the participant's name, the completion date, and the awarding body where applicable. The provider shall issue certificates only after moderation is complete and all completion criteria are verified. Duplicate certificates may be issued on written request, and the provider shall maintain a register linking each certificate to its supporting assessment record."
+      },
+      "h0014": {
+        "title": "Facilitator Qualifications and Substitution",
+        "paragraph": "Facilitators assigned to the programme must hold relevant subject expertise and demonstrated instructional experience. The provider shall notify the commissioning organization of any proposed substitution and confirm that the replacement meets equivalent standards. Persistent facilitator underperformance identified through participant feedback shall be addressed through the provider's performance management process."
+      },
+      "h0015": {
+        "title": "Fees, Invoicing and Payment Terms",
+        "paragraph": "Fees for the programme shall be invoiced in accordance with the payment schedule agreed by the parties, with each invoice identifying the services delivered. The commissioning organization shall pay undisputed invoices within the stated period and may withhold disputed amounts pending resolution. The provider shall give written notice of any fee adjustment before it takes effect."
+      }
+    },
+    "continuations": [
+      "Where a session is delivered remotely, the provider should confirm platform access, recording consent, and participant connectivity in advance so that instructional time is not lost to technical difficulties.",
+      "Attendance data should be reconciled against enrolment records before completion decisions are finalized, since discrepancies discovered later are materially harder to resolve fairly.",
+      "Any verbal instruction that changes scope, schedule, or assessment weighting should be confirmed in writing within a short period so that the record reflects what was actually agreed.",
+      "Participants who join late in the programme may require a documented induction covering prior content, assessment expectations, and the attendance threshold applicable to their enrolment.",
+      "The provider should retain facilitator credentials and continuing development records, as these are commonly requested when the commissioning organization conducts a supplier assurance review.",
+      "Assessment criteria should be shared with participants before each summative task, and any subsequent adjustment should be communicated to all affected cohorts rather than applied selectively.",
+      "Where moderation results in changed marks, the provider should notify affected participants with a brief explanation and confirm that certification records have been updated accordingly.",
+      "Venue bookings and platform licences should be confirmed sufficiently early that rescheduling pressures do not force compression of teaching hours or the merging of distinct modules.",
+      "Feedback from participants should be collected through a consistent instrument so that comparisons across cohorts and sites remain meaningful for programme improvement.",
+      "The commissioning organization should nominate a single point of contact empowered to approve schedule changes, so that decisions are not delayed by internal escalation.",
+      "Records of exceptional circumstances should be held separately from routine attendance data and accessed only by those involved in the mitigation decision.",
+      "Invoices should reference the specific modules or sessions delivered, which reduces disputes and allows the commissioning organization to reconcile charges against the agreed timetable.",
+      "Where the programme spans a holiday period, the parties should agree in advance whether sessions continue and how any suspension affects the attendance threshold calculation.",
+      "Materials containing participant information should be stored under access controls, and shared folders should be reviewed at the end of the term to remove unnecessary copies.",
+      "A short end-of-programme report summarizing delivery against plan, assessment outcomes, and identified improvements gives the commissioning organization a defensible basis for future procurement.",
+      "If a facilitator leaves during the term, the replacement should receive a structured handover covering cohort progress, outstanding assessments, and any agreed participant adjustments.",
+      "The provider should test assessment instruments with a small pilot group where feasible, since ambiguous questions are a frequent source of appeals and re-marking requests.",
+      "Termination for convenience should be paired with a clear settlement method covering delivered sessions, committed facilitator time, and any non-cancellable third-party costs.",
+      "Participants should be told how their assessment data will be used and retained, including whether results are shared with their employing organization.",
+      "Scheduled review points during the term allow the parties to correct drift in scope or schedule before it becomes a formal dispute requiring escalation.",
+      "Where multiple sites are used, the provider should verify that facilitator travel and equipment logistics do not reduce the effective teaching time below the agreed allocation.",
+      "Certificates should be checked against the moderation record before release, as issuing and later withdrawing a certificate creates avoidable reputational and administrative difficulty.",
+      "The commissioning organization should confirm participant release time in writing, since operational pressures frequently cause late withdrawals that affect cohort dynamics and assessment planning.",
+      "Any change to assessment weighting after the programme has begun should be treated as a variation requiring written agreement rather than a routine provider decision.",
+      "Appeal routes and response periods should be published to participants at enrolment so that challenges to assessment outcomes follow a known and time-bound process.",
+      "Supplier performance reviews should draw on attendance records, assessment outcomes, and participant feedback together, because any single indicator can mislead when read in isolation.",
+      "Where sessions are recorded, the provider should confirm consent, storage location, and deletion dates, and should not reuse recordings for other cohorts without agreement.",
+      "Budget holders should reconcile committed spend against delivered sessions at each review point so that variations are identified while there is still room to adjust.",
+      "The parties should agree how disputes about assessment outcomes are separated from commercial disputes, since the two require different expertise and different timescales.",
+      "Continuity planning should identify a deputy facilitator for each module so that short-notice absence does not force cancellation of a scheduled session.",
+      "Documentation handed to participants should carry the current version identifier, as outdated handouts are a common source of confusion during summative assessment.",
+      "At programme close, the provider should return or securely destroy any commissioning organization materials held for delivery purposes and confirm this in writing."
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1711,
+        "completion_tokens": 2782,
+        "total_tokens": 4493,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1199
+      },
+      "finish_reason": "stop",
+      "request_hash": "1ab32a68d491dca5b3f1ff751a551acb5c002ba27f25a35afb20757ed97d6f0b",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

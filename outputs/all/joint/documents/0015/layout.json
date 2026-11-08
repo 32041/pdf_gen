@@ -1,0 +1,3090 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            81.087890625,
+            62.0,
+            530.912109375,
+            89.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Meridian Forge Industrial Software Annual Review",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            101.9,
+            543.302978515625,
+            118.17500000000001
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This review records how Meridian Forge, a fictional industrial software vendor serving plant",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            118.17500000000001,
+            530.834228515625,
+            134.45000000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "operators, closed the 2025 operating cycle and what its leadership proposes for the next",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            134.45000000000002,
+            512.6181640625,
+            150.72500000000002
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "one. It sets out the portfolio decisions behind the ForgeLine platform, the commercial",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            150.72500000000002,
+            541.27783203125,
+            167.00000000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "results reported in simulated terms, the service commitments made to customers, and the",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            167.00000000000003,
+            531.45458984375,
+            183.27500000000003
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "governance questions the board will carry into the coming year. All figures are simulated",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            183.27500000000003,
+            313.3232421875,
+            199.55000000000004
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "canonical indicators used for internal rehearsal.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            205.55000000000004,
+            302.32080078125,
+            221.82500000000005
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 3.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            227.82500000000005,
+            298.15771484375,
+            244.10000000000005
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            250.10000000000005,
+            550.0,
+            384.1
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Question",
+              "Evidence sought",
+              "Owner",
+              "Timing"
+            ],
+            [
+              "Service capacity",
+              "Patch demand data",
+              "Operations",
+              "Next quarter"
+            ],
+            [
+              "Compatibility limits",
+              "Integration inventory",
+              "Engineering",
+              "Next quarter"
+            ],
+            [
+              "Discount governance",
+              "Exception outcomes",
+              "Commercial",
+              "Half year"
+            ],
+            [
+              "Retention drivers",
+              "Renewal segments",
+              "Account leads",
+              "Half year"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            250.10000000000005,
+            550.0,
+            417.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            391.1,
+            320.71875,
+            404.27500000000003
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 1: Board questions with expected supporting evidence",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            417.1,
+            348.546875,
+            435.70000000000005
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 Platform Portfolio and Product Direction",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            439.70000000000005,
+            545.0205078125,
+            455.975
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "Leadership consolidated three overlapping product lines into a single ForgeLine platform so",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            455.975,
+            537.601806640625,
+            472.25
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "that plant engineers, maintenance planners and quality teams work from one data model.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            472.25,
+            541.13427734375,
+            488.525
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The portfolio committee weighed customer migration effort against long-term support cost",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            488.525,
+            544.379638671875,
+            504.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "and chose a staged retirement rather than a hard cutover. Product direction for the coming",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            504.79999999999995,
+            542.0673828125,
+            521.0749999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "year follows the same logic: fewer modules, deeper integration, and published deprecation",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.0749999999999,
+            288.072998046875,
+            537.3499999999999
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "calendars that customers can plan around.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            543.3499999999999,
+            294.1064453125,
+            560.3999999999999
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 ForgeLine Core Engineering Suite",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            564.3999999999999,
+            547.055908203125,
+            580.6749999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "ForgeLine Core carries the engineering functions that most plants use daily: asset registers,",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            580.6749999999998,
+            524.610107421875,
+            596.9499999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "work order routing, shift handover records and production reporting. The product group",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            596.9499999999998,
+            503.57421875,
+            613.2249999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "prioritised reliability of these routines over new features, because downtime in core",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            613.2249999999998,
+            504.758544921875,
+            629.4999999999998
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "workflows damages trust faster than missing extras. Release notes now state which",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            629.4999999999998,
+            486.547607421875,
+            645.7749999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "routines changed and which customer sites validated the change before general",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            645.7749999999997,
+            314.25634765625,
+            662.0499999999997
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "availability, giving buyers a clear evidence trail.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            62,
+            409.99755859375,
+            79.05
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 Deployment Models and Customer Environments",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            83.05,
+            509.362548828125,
+            99.325
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Customers run ForgeLine in two broad ways: on-premise within the plant network, or",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            99.325,
+            508.05517578125,
+            115.60000000000001
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "through a managed regional service operated under contract. The deployment team",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            115.60000000000001,
+            534.084716796875,
+            131.875
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "documents a standard configuration baseline for each model and records every deviation",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            131.875,
+            507.93212890625,
+            148.15
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "with a named owner. This section explains how those baselines are maintained, how",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            148.15,
+            489.049560546875,
+            164.425
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "upgrades are scheduled, and what evidence the team collects before declaring a",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            164.425,
+            163.54443359375,
+            180.70000000000002
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "deployment stable.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            186.70000000000002,
+            287.273193359375,
+            202.97500000000002
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 On-Premise Plant Installations",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            206.97500000000002,
+            545.7177734375,
+            223.25000000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "On-premise installations remain the default for plants with strict network isolation or legacy",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            223.25000000000003,
+            537.15576171875,
+            239.52500000000003
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "equipment interfaces. The field engineering group keeps a validated hardware matrix and",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            239.52500000000003,
+            540.6728515625,
+            255.80000000000004
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "refuses to certify configurations outside it, even when customers request exceptions. Each",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            255.80000000000004,
+            489.35205078125,
+            272.07500000000005
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "installation receives a signed acceptance record covering interface tests, backup",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            272.07500000000005,
+            549.947509765625,
+            288.35
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "restoration and rollback rehearsal, so support staff can distinguish a configuration fault from",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            288.35,
+            273.235595703125,
+            304.625
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "a product defect during incident review.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            310.625,
+            550.0,
+            444.625
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0006",
+          "belongs_to": "h0006",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Item",
+              "Content",
+              "Owner",
+              "Frequency"
+            ],
+            [
+              "Availability",
+              "Service summary",
+              "Operations",
+              "Monthly"
+            ],
+            [
+              "Patch windows",
+              "Planned schedule",
+              "Release lead",
+              "Monthly"
+            ],
+            [
+              "Incidents",
+              "Acknowledgement log",
+              "Duty engineer",
+              "Monthly"
+            ],
+            [
+              "Changes",
+              "Escalation updates",
+              "Account lead",
+              "As needed"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            310.625,
+            550.0,
+            477.625
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            451.625,
+            344.724609375,
+            464.8
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Table 2: Managed service monthly record contents for subscribers",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            477.625,
+            332.790283203125,
+            493.9
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.2 Managed Regional Service Operations",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            497.9,
+            502.056640625,
+            514.175
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "The managed regional service runs ForgeLine for customers who prefer predictable",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            514.175,
+            536.361083984375,
+            530.4499999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "operating cost over local control. Operations staff monitor availability, patch windows and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            530.4499999999999,
+            534.146240234375,
+            546.7249999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "tenant isolation, and they publish a monthly service record to each subscriber. Escalation",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            546.7249999999999,
+            501.897705078125,
+            562.9999999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "duties are explicit: the duty engineer acknowledges incidents within the contracted",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            562.9999999999999,
+            519.43701171875,
+            579.2749999999999
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "response window, while the account lead owns communication with the customer until",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            579.2749999999999,
+            103.35400390625,
+            595.5499999999998
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "closure.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            601.5499999999998,
+            298.15771484375,
+            617.8249999999998
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            623.8249999999998,
+            420.2724609375,
+            640.8749999999998
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.2 Upgrade Cadence and Compatibility Commitments",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            644.8749999999998,
+            495.09423828125,
+            661.1499999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Upgrades follow a published cadence with a compatibility commitment: interfaces",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            661.1499999999997,
+            540.247314453125,
+            677.4249999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "supported in one release remain supported for a defined overlap period before retirement.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            677.4249999999997,
+            546.88671875,
+            693.6999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "The engineering change board reviews every schema change against that commitment and",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            693.6999999999997,
+            500.59033203125,
+            709.9749999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "rejects proposals that would break customer integrations without a migration path.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            532.936279296875,
+            78.275
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "Customers receive advance notice, a test environment, and a documented rollback route",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            78.275,
+            308.211669921875,
+            94.55000000000001
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "before any mandatory upgrade window opens.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            100.55000000000001,
+            298.15771484375,
+            116.82500000000002
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            122.82500000000002,
+            302.32080078125,
+            139.10000000000002
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            62.0,
+            145.10000000000002,
+            550.0,
+            279.1
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Criterion",
+              "Owner",
+              "Record"
+            ],
+            [
+              "Compatibility",
+              "Interfaces retained",
+              "Change board",
+              "Review minute"
+            ],
+            [
+              "Test environment",
+              "Customer rehearsed",
+              "Field engineer",
+              "Test log"
+            ],
+            [
+              "Rollback route",
+              "Documented",
+              "Release lead",
+              "Runbook"
+            ],
+            [
+              "Notice period",
+              "Advance warning sent",
+              "Account lead",
+              "Notice copy"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            62.0,
+            145.10000000000002,
+            550.0,
+            312.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            286.1,
+            372.088134765625,
+            299.27500000000003
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 3: Upgrade readiness checklist before mandatory release windows",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            312.1,
+            515.7763671875,
+            328.375
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Support ticket categories should be reviewed alongside renewal timing, since a rise in",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            328.375,
+            509.97265625,
+            344.65
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "configuration questions may reflect migration activity rather than product instability.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            350.65,
+            528.506591796875,
+            366.92499999999995
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Field engineers report that acceptance records are most useful when signed by both the",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            366.92499999999995,
+            416.5390625,
+            383.19999999999993
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "plant contact and the visiting engineer, so accountability is shared.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            389.19999999999993,
+            535.82275390625,
+            405.4749999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "The compatibility commitment deserves a periodic audit against actual partner connector",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            405.4749999999999,
+            412.4990234375,
+            421.7499999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "behaviour, because published promises drift from practice quietly.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            427.7499999999999,
+            539.160400390625,
+            444.02499999999986
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Discount approvals should record the specific commitment offered in exchange, otherwise",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            444.02499999999986,
+            443.53759765625,
+            460.29999999999984
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "the committee cannot later judge whether the concession paid for itself.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.29999999999984,
+            509.32666015625,
+            482.5749999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Managed service subscribers may benefit from a short quarterly review call covering",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            482.5749999999998,
+            452.812255859375,
+            498.8499999999998
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "availability, patch windows and any planned changes to escalation duties.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            504.8499999999998,
+            523.671875,
+            521.1249999999998
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "Upgrade notices should be tested with customers who have limited IT staffing, as those",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            521.1249999999998,
+            333.661865234375,
+            537.3999999999997
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "accounts are most exposed to scheduling pressure.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            543.3999999999997,
+            542.585205078125,
+            559.6749999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "The board may wish to separate new-logo pipeline from renewal volume in every summary",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            559.6749999999997,
+            377.7998046875,
+            575.9499999999997
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "chart, since the two respond to different commercial levers.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            581.9499999999997,
+            506.758056640625,
+            598.2249999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Deployment baselines should be re-validated whenever a customer adds equipment",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            598.2249999999997,
+            361.62939453125,
+            614.4999999999997
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "interfaces, even if the platform version has not changed.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            620.4999999999997,
+            528.87060546875,
+            636.7749999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Retention analysis should note account size and sector, because small utilities and large",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            636.7749999999996,
+            357.645751953125,
+            653.0499999999996
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "process plants behave differently for structural reasons.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            659.0499999999996,
+            490.58251953125,
+            675.3249999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Partner conformance results should be retained for several release cycles so that",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            675.3249999999996,
+            358.507080078125,
+            691.5999999999996
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "regressions can be traced to a specific platform change.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            697.5999999999996,
+            541.93408203125,
+            713.8749999999995
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Pricing exceptions granted late in a quarter warrant extra scrutiny, as time pressure rather",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            270.866943359375,
+            78.275
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "than customer value often drives them.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            84.275,
+            550.0,
+            218.275
+          ],
+          "block_id": "o0004",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Question",
+              "Decision",
+              "Owner"
+            ],
+            [
+              "Interface impact",
+              "Breaks partners?",
+              "Reject or migrate",
+              "Change board"
+            ],
+            [
+              "Overlap period",
+              "Sufficient notice?",
+              "Extend if short",
+              "Release lead"
+            ],
+            [
+              "Migration path",
+              "Documented?",
+              "Require before merge",
+              "Engineering"
+            ],
+            [
+              "Customer effort",
+              "Reasonable?",
+              "Consult accounts",
+              "Account lead"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            84.275,
+            550.0,
+            251.275
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            411.060302734375,
+            238.45000000000002
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Figure 1: Compatibility commitment review criteria for proposed schema changes",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            251.275,
+            366.8095703125,
+            268.325
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.2 Partner Integrations and Interface Standards",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            272.325,
+            538.955322265625,
+            288.59999999999997
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Partner integrations connect ForgeLine to historians, maintenance systems and laboratory",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            288.59999999999997,
+            528.742431640625,
+            304.87499999999994
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "information tools. The integration team maintains a conformance suite that partners run",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            304.87499999999994,
+            539.109130859375,
+            321.1499999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "before listing, and it re-tests listings after major platform releases. Interface standards are",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            321.1499999999999,
+            516.75048828125,
+            337.4249999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "published openly so that smaller partners can build without negotiating private terms,",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            337.4249999999999,
+            496.7041015625,
+            353.6999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "which the committee judged healthier for the ecosystem than exclusive connector",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            353.6999999999999,
+            139.55029296875,
+            369.97499999999985
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "arrangements.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            375.97499999999985,
+            380.2109375,
+            394.5749999999999
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "2 Commercial Performance and Customer Base",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            398.5749999999999,
+            524.384521484375,
+            414.84999999999985
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "Commercial results are reported in simulated terms to show how the portfolio decisions",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            414.84999999999985,
+            546.368896484375,
+            431.12499999999983
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "translated into operating outcomes. The review presents output, cost and operating surplus",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            431.12499999999983,
+            527.573486328125,
+            447.3999999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "across four annual periods, then turns to the customer base and the contract terms that",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            447.3999999999998,
+            535.84326171875,
+            463.6749999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "govern renewals. Readers should treat every figure as a planning indicator rather than an",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            463.6749999999998,
+            520.30859375,
+            479.94999999999976
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "audited statement, and should read the trends together with the service commitments",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            479.94999999999976,
+            173.854736328125,
+            496.22499999999974
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "described elsewhere.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            502.22499999999974,
+            318.52880859375,
+            519.2749999999997
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "2.1 Revenue, Cost and Operating Surplus",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            523.2749999999997,
+            540.39599609375,
+            539.5499999999997
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "Simulated output rose from 77.52 in 2022 to 120.12 in 2025, while cost moved from 50.39",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            539.5499999999997,
+            537.42236328125,
+            555.8249999999997
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "to 78.08 over the same periods. Operating surplus followed from 27.13 to 42.04, a growth",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            555.8249999999997,
+            486.8603515625,
+            572.0999999999997
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "of 55.0 percent in output across the span. Management attributes the pattern to",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            572.0999999999997,
+            544.55908203125,
+            588.3749999999997
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "subscription renewals and reduced support burden after platform consolidation, though the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            588.3749999999997,
+            411.4326171875,
+            604.6499999999996
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "review treats this as an interpretation rather than a proven cause.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            610.6499999999996,
+            349.18603515625,
+            627.6999999999996
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2.1.1 Customer Base and Retention Patterns",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            631.6999999999996,
+            542.492919921875,
+            647.9749999999996
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "The customer base spans process manufacturers, utilities and heavy assembly plants, with",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            647.9749999999996,
+            544.451416015625,
+            664.2499999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "a small number of large accounts contributing a disproportionate share of recurring output.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            664.2499999999995,
+            538.493896484375,
+            680.5249999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "Retention analysis tracks renewal timing, support ticket volume and upgrade participation",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            680.5249999999995,
+            526.507080078125,
+            696.7999999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "together, because each alone misleads. Accounts that completed upgrades on schedule",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            696.7999999999995,
+            536.955810546875,
+            713.0749999999995
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "renewed more consistently in the simulated record, but the review stops short of claiming",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            224.919189453125,
+            78.275
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "that upgrades cause retention.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            84.275,
+            333.866943359375,
+            100.55000000000001
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1.1.1 Subscription and Support Agreements",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            104.55000000000001,
+            539.2783203125,
+            120.82500000000002
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "Standard agreements run for 12 months and pair a subscription licence with a support tier",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            120.82500000000002,
+            504.850830078125,
+            137.10000000000002
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "that defines acknowledgement and resolution targets. The support desk commits to",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            137.10000000000002,
+            517.01708984375,
+            153.37500000000003
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "acknowledging incidents within 2 days and to a substantive review within 5 days, with",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            153.37500000000003,
+            533.3310546875,
+            169.65000000000003
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "escalation to engineering when the review finds a product defect. Renewal conversations",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            169.65000000000003,
+            529.208984375,
+            185.92500000000004
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "begin well before expiry so that tier changes can be agreed without service interruption.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            191.92500000000004,
+            302.32080078125,
+            208.20000000000005
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            214.20000000000005,
+            550.0,
+            348.20000000000005
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Commitment",
+              "Target",
+              "Owner",
+              "Evidence"
+            ],
+            [
+              "Acknowledgement",
+              "2 days",
+              "Duty engineer",
+              "Ticket log"
+            ],
+            [
+              "Substantive review",
+              "5 days",
+              "Support lead",
+              "Review note"
+            ],
+            [
+              "Escalation trigger",
+              "Defect found",
+              "Engineering",
+              "Defect record"
+            ],
+            [
+              "Term length",
+              "12 months",
+              "Account lead",
+              "Signed agreement"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            214.20000000000005,
+            550.0,
+            381.20000000000005
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            355.20000000000005,
+            345.421875,
+            368.37500000000006
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Figure 2: Support agreement service targets and escalation duties",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            381.20000000000005,
+            364.859375,
+            397.475
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1.2 Pricing Discipline and Discount Governance",
+          "parent_id": "h0011",
+          "level": 5,
+          "size": 10.5,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            401.475,
+            517.9296875,
+            417.75
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "Pricing follows a published list with a narrow band of permitted discounting, and every",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            417.75,
+            535.7099609375,
+            434.025
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "exception above the band requires written approval from the commercial committee. The",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            434.025,
+            547.906982421875,
+            450.29999999999995
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "committee reviews discount patterns quarterly to detect drift and to check that concessions",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            450.29999999999995,
+            521.339111328125,
+            466.57499999999993
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "are matched by commitments such as multi-year terms or reference participation. This",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            466.57499999999993,
+            505.148193359375,
+            482.8499999999999
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "discipline protects margin while keeping negotiations predictable for customers and",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            482.8499999999999,
+            171.363037109375,
+            499.1249999999999
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "account teams alike.",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            72.0,
+            505.1249999999999,
+            332.71826171875,
+            522.1749999999998
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.2 Pipeline Coverage and Renewal Risk",
+          "parent_id": "h0010",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            526.1749999999998,
+            523.57958984375,
+            542.4499999999998
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "Pipeline coverage is assessed by comparing qualified opportunities against the renewal",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            542.4499999999998,
+            515.2841796875,
+            558.7249999999998
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "volume falling due in the same period, with separate views for new logos and existing",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            558.7249999999998,
+            530.61376953125,
+            574.9999999999998
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "accounts. Renewal risk is flagged where upgrade participation lags, where support ticket",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            574.9999999999998,
+            525.092041015625,
+            591.2749999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "volume spikes, or where the account sponsor has changed. These flags trigger a review",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            591.2749999999997,
+            534.864013671875,
+            607.5499999999997
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "conversation rather than an automatic intervention, preserving account team judgement.",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            613.5499999999997,
+            333.4873046875,
+            630.5999999999997
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.2 Operating Outlook and Board Questions",
+          "parent_id": "h0009",
+          "level": 3,
+          "size": 11,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            634.5999999999997,
+            514.2998046875,
+            650.8749999999997
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "The outlook section frames the questions the board will debate rather than predicting",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            650.8749999999997,
+            521.046875,
+            667.1499999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "outcomes. Members will ask whether managed service growth justifies further regional",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            667.1499999999996,
+            547.086669921875,
+            683.4249999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "capacity, whether the compatibility commitment constrains the release cadence too tightly,",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            683.4249999999996,
+            538.4580078125,
+            699.6999999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "and how discount governance should adapt as larger accounts negotiate. Each question is",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            699.6999999999996,
+            539.416748046875,
+            715.9749999999996
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "paired with the evidence the board expects to see before deciding, keeping the discussion",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            62,
+            23.0,
+            257.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            62,
+            231.758544921875,
+            78.275
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "anchored in observable records.",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10.5,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            62.0,
+            84.275,
+            550.0,
+            218.275
+          ],
+          "block_id": "o0002",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Period",
+              "Output",
+              "Cost",
+              "Surplus"
+            ],
+            [
+              "2022",
+              "77.52",
+              "50.39",
+              "27.13"
+            ],
+            [
+              "2023",
+              "90.08",
+              "58.55",
+              "31.53"
+            ],
+            [
+              "2024",
+              "105.97",
+              "68.88",
+              "37.09"
+            ],
+            [
+              "2025",
+              "120.12",
+              "78.08",
+              "42.04"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            62.0,
+            84.275,
+            550.0,
+            251.275
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            225.275,
+            349.402099609375,
+            238.45000000000002
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Figure 3: Simulated operating indicators across four annual periods",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

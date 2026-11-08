@@ -1,0 +1,2766 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            233.48699989914894,
+            70.0,
+            378.51300010085106,
+            97.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "1. 调研背景与目标",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            109.9,
+            532.0,
+            126.95
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本调研聚焦社区出行与换乘可达性，旨在识别居民日常通勤中的换乘瓶颈与步行接驳短板。调研",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            126.95,
+            534.4200003147125,
+            144.0
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "覆盖4个典型社区，计划收集240份有效问卷，并结合实地观测记录换乘节点等待时长与步行路径",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            144.0,
+            532.0,
+            161.05
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "连续性。目标是为社区微更新与公交线网优化提供可复核的观察依据，而非直接推断因果关系。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            167.05,
+            188.56900015473366,
+            184.10000000000002
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            190.10000000000002,
+            542.0,
+            324.1
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "界定项",
+              "纳入范围",
+              "排除范围",
+              "说明"
+            ],
+            [
+              "空间范围",
+              "社区至换乘节点",
+              "跨区长距离",
+              "步行与骑行"
+            ],
+            [
+              "对象群体",
+              "通勤居民",
+              "过境旅客",
+              "含网格员"
+            ],
+            [
+              "时间范围",
+              "早晚高峰为主",
+              "夜间时段",
+              "平峰补充"
+            ],
+            [
+              "观测单元",
+              "节点与路径",
+              "线网整体",
+              "可重复核查"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            190.10000000000002,
+            542.0,
+            357.1
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            331.1,
+            187.12150011956692,
+            344.27500000000003
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 1：调研范围与对象界定要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            357.1,
+            210.79800015687943,
+            378.8
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "2. 调研范围与对象界定",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            382.8,
+            532.0,
+            399.85
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "调研范围限定为社区出入口至最近换乘节点的步行与骑行路径，以及公交与轨道站点间的换乘衔",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            399.85,
+            532.0,
+            416.90000000000003
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "接。对象包括通勤居民、站点引导员与社区网格员。界定标准以步行可达范围为主，兼顾骑行接",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            416.90000000000003,
+            389.0,
+            433.95000000000005
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "驳，排除跨区长距离出行，确保观察单元边界清晰且可重复核查。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            439.95000000000005,
+            206.68400013446808,
+            458.55000000000007
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "3. 社区换乘节点识别方法",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            462.55000000000007,
+            532.0,
+            479.6000000000001
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "采用路径追踪与节点停留观测相结合的方法，在早高峰与晚高峰分别记录换乘节点的排队长度、",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            479.6000000000001,
+            521.0,
+            496.6500000000001
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "引导标识可见度与无障碍通道占用情况。节点识别以居民实际路径选择为准，辅以站点客流计",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            496.6500000000001,
+            411.0,
+            513.7
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "数，避免仅凭地图距离判定可达性，从而降低对换乘便利程度的误判。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            519.7,
+            212.6270001232624,
+            536.75
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "4. 换乘步行时间与等待观测",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            540.75,
+            532.0,
+            557.8
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "观测员在换乘节点记录步行时间与等待时长，按工作日与周末分层抽样。步行时间以社区门禁至",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            557.8,
+            532.0,
+            574.8499999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "站台的实际行走计，等待时长以到站至上车计。所有记录均标注天气与时段，便于后续比较。观",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            574.8499999999999,
+            356.0,
+            591.8999999999999
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "测结果仅描述样本特征，不用于推断线网调整的因果效应。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            597.8999999999999,
+            212.59850011765957,
+            614.1749999999998
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "5. 步行接驳路径连续性记录",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            618.1749999999998,
+            532.0,
+            635.2249999999998
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "路径连续性记录关注人行道中断、过街等待与坡道缺失三类问题。观测员沿固定路线往返两次，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            635.2249999999998,
+            532.0,
+            652.2749999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "标记中断点位置与绕行距离，并拍摄现场照片存档。记录表要求注明中断原因与临时占道情况，",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            652.2749999999997,
+            455.0,
+            669.3249999999997
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "以便区分长期设施缺陷与短期施工影响，为社区微更新提供可核查的现场证据。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            70,
+            212.59850011765957,
+            86.275
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "6. 换乘等待时长与拥挤感知",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            90.275,
+            532.0,
+            107.325
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "等待时长由观测员计时，拥挤感知由居民在问卷中按五级量表自评。两者分别记录，避免将主观",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            107.325,
+            532.0,
+            124.375
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "感受直接等同于客观等待。分析时对比不同时段与不同站点的分布差异，并注明样本量限制。拥",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            124.375,
+            433.0,
+            141.425
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "挤感知的差异可能受站台空间与引导秩序影响，需结合现场观察谨慎解读。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            147.425,
+            212.6270001232624,
+            164.47500000000002
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "7. 居民出行问卷设计与抽样",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            168.47500000000002,
+            532.0,
+            185.52500000000003
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "问卷围绕出行目的、换乘次数、步行接驳感受与改进意愿设计，采用分层随机抽样，按社区与年",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            185.52500000000003,
+            521.0,
+            202.57500000000005
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "龄段配额。问卷发放前进行小规模预填，修正歧义题项。回收后剔除逻辑矛盾与缺失严重的样",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            202.57500000000005,
+            422.0,
+            219.62500000000006
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "本，保留有效问卷用于描述性统计，不将问卷结果外推为全区总体参数。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            225.62500000000006,
+            188.56900015473366,
+            242.67500000000007
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            248.67500000000007,
+            542.0,
+            382.67500000000007
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0007",
+          "belongs_to": "h0007",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "社区",
+              "计划样本",
+              "有效回收",
+              "备注"
+            ],
+            [
+              "社区甲",
+              "240",
+              "待汇总",
+              "分层配额"
+            ],
+            [
+              "社区乙",
+              "240",
+              "待汇总",
+              "含老年组"
+            ],
+            [
+              "社区丙",
+              "240",
+              "待汇总",
+              "周末补访"
+            ],
+            [
+              "社区丁",
+              "240",
+              "待汇总",
+              "骑行接驳"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            248.67500000000007,
+            542.0,
+            415.67500000000007
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            389.67500000000007,
+            204.12150011956692,
+            402.8500000000001
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 2：居民出行问卷抽样与回收情况",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            415.67500000000007,
+            206.68400013446808,
+            434.2750000000001
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "8. 换乘节点现场核查清单",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            438.2750000000001,
+            532.0,
+            455.3250000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "现场核查清单涵盖引导标识、无障碍坡道、候车座椅、照明与排水五项内容，每项按完好、部分",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            455.3250000000001,
+            532.0,
+            472.3750000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "缺损、缺失三级记录。核查由两名观测员独立完成并交叉比对，分歧项由组长复核。清单结果用",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            472.3750000000001,
+            477.0,
+            489.4250000000001
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "于形成节点问题台账，作为社区与运营方沟通的客观依据，而非直接评价运营绩效。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            495.4250000000001,
+            210.79800015687943,
+            517.1250000000001
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "9. 数据质量控制与复核",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            521.1250000000001,
+            532.0,
+            538.1750000000001
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "数据质量控制包括观测员培训、双人记录与每日抽查。问卷录入采用双录比对，异常值回溯原始",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            538.1750000000001,
+            538.1050000786781,
+            555.225
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "纸质表。现场照片按节点编号归档，确保时间与位置可追溯。复核周期设定为5个工作日，发现问",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            555.225,
+            345.0,
+            572.275
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "题及时更正并留存更正记录，保证调研过程透明可审计。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            578.275,
+            261.01600033044815,
+            606.175
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "10. 主要观察结果与讨论",
+          "parent_id": "root",
+          "level": 1,
+          "size": 18,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            610.175,
+            521.0,
+            627.2249999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "观察结果显示，换乘等待与步行路径中断是居民反映最集中的两类问题，不同社区之间差异明",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            627.2249999999999,
+            532.0,
+            644.2749999999999
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "显。问卷自评与现场观测在部分节点上并不一致，提示主观感受受引导秩序与站台环境影响。讨",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            644.2749999999999,
+            444.0,
+            661.3249999999998
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "论部分强调这些结果为样本描述，不能据此断言设施改造必然带来出行改善。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            667.3249999999998,
+            188.56900015473366,
+            684.3749999999998
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            70,
+            542.0,
+            204
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "观察维度",
+              "主要发现",
+              "证据来源",
+              "解读提示"
+            ],
+            [
+              "步行时间",
+              "社区间差异明显",
+              "现场计时",
+              "样本时段有限"
+            ],
+            [
+              "等待时长",
+              "高峰集中",
+              "节点计数",
+              "受班次密度影响"
+            ],
+            [
+              "路径连续性",
+              "中断点集中",
+              "路径记录",
+              "区分临时占道"
+            ],
+            [
+              "拥挤感知",
+              "自评与观测不一",
+              "问卷量表",
+              "主观感受偏差"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            70,
+            542.0,
+            237
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            211.0,
+            204.12150011956692,
+            224.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 3：观察结果分项汇总与证据来源",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            237,
+            218.56800025701523,
+            258.7
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "11. 换乘可达性分项比较",
+          "parent_id": "h0010",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            262.7,
+            532.0,
+            279.75
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "分项比较从步行时间、等待时长、路径连续性与拥挤感知四个维度展开，按社区并列呈现。比较",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            279.75,
+            532.0,
+            296.8
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "目的在于识别短板集中环节，而非排名优劣。各维度记录口径不同，解读时需注意样本量与观测",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            296.8,
+            323.0,
+            313.85
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "时段的差异，避免将分项得分简单加总为综合指数。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            319.85,
+            188.56900015473366,
+            336.90000000000003
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            342.90000000000003,
+            188.56900015473366,
+            359.95000000000005
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见图 2。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            365.95000000000005,
+            213.34400022029877,
+            384.55000000000007
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "12. 社区间差异与共性归纳",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            388.55000000000007,
+            532.0,
+            405.6000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "社区间差异主要体现在接驳距离与站点引导清晰度上，共性则表现为高峰时段等待集中与无障碍",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            405.6000000000001,
+            532.0,
+            422.6500000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "通道偶有占用。归纳时区分设施性因素与管理性因素，并标注证据来源。共性问题的归纳有助于",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            422.6500000000001,
+            400.0,
+            439.7000000000001
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "形成跨社区共享的改进议题，但不宜直接套用单一社区的解决方案。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            445.7000000000001,
+            196.73200020194054,
+            462.7500000000001
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "13. 分时段换乘压力观察",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            466.7500000000001,
+            532.0,
+            483.8000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "分时段观察覆盖早高峰、平峰与晚高峰三个时段，记录排队长度与站台滞留人数。早高峰压力集",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            483.8000000000001,
+            532.0,
+            500.85000000000014
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "中于进站口，晚高峰则偏向候车区。平峰时段引导标识问题更易暴露。时段差异提示改进措施需",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            500.85000000000014,
+            389.0,
+            517.9000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "考虑时间维度，观察记录仅反映样本时段，不代表全日平均状况。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            523.9000000000001,
+            197.42600019276142,
+            540.1750000000001
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "14. 早高峰进站排队特征",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            544.1750000000001,
+            532.0,
+            561.225
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "早高峰进站排队呈现短时集中特征，排队长度在到站间隔内快速消长。观测员按固定间隔计数，",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            561.225,
+            532.0,
+            578.275
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "记录排队尾部位置与引导员在场情况。排队特征受班次密度与安检通道开放数量影响，分析时需",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            578.275,
+            378.0,
+            595.3249999999999
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "结合现场调度记录，避免将排队长度单独归因于设施容量不足。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            86.0,
+            601.3249999999999,
+            207.92600019276142,
+            617.5999999999999
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "15. 晚高峰候车区滞留情况",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            621.5999999999999,
+            532.0,
+            638.6499999999999
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "晚高峰候车区滞留与班次到达间隔相关，滞留人数在连续两班车间隔内波动明显。观测记录候车",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            638.6499999999999,
+            532.0,
+            655.6999999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "区站立密度与座椅占用情况，并标注引导广播是否清晰。滞留情况受天气与周边活动影响，解读",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            655.6999999999998,
+            323.0,
+            672.7499999999998
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "时应结合当日现场备注，不宜简单外推为常态水平。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            80.0,
+            70,
+            218.73200020194054,
+            87.05
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "16. 平峰时段引导标识可见度",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            91.05,
+            521.0,
+            108.1
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "平峰时段客流较少，引导标识可见度问题更易被观察。观测员从社区出入口方向按正常步速行",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            108.1,
+            532.0,
+            125.14999999999999
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "走，记录首次看清换乘方向标识的位置与遮挡物。可见度受广告牌、绿植与临时摊位影响。记录",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            125.14999999999999,
+            367.0,
+            142.2
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "结果用于提出标识优化建议，但不评价标识设计本身的优劣。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            74.0,
+            148.2,
+            213.34400022029877,
+            166.79999999999998
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "17. 改进建议与实施优先级",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            170.79999999999998,
+            532.0,
+            187.85
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "改进建议按实施难度与居民反映频次排序，优先处理路径中断与引导标识遮挡问题，其次考虑候",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            187.85,
+            538.1050000786781,
+            204.9
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "车区座椅与照明补充。每条建议注明责任主体与核查方式，并设定2个工作日的初步回应期限。建",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            204.9,
+            411.0,
+            221.95000000000002
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "议以观察证据为基础，实施效果需后续跟踪评估，不作事前因果承诺。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            227.95000000000002,
+            188.56900015473366,
+            245.00000000000003
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            70.0,
+            251.00000000000003,
+            542.0,
+            385.0
+          ],
+          "block_id": "o0001",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0017",
+          "belongs_to": "h0017",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "建议事项",
+              "优先级",
+              "责任主体",
+              "核查方式"
+            ],
+            [
+              "路径中断修复",
+              "高",
+              "社区与运营方",
+              "现场复查"
+            ],
+            [
+              "标识遮挡清理",
+              "高",
+              "社区网格员",
+              "照片比对"
+            ],
+            [
+              "候车座椅补充",
+              "中",
+              "运营方",
+              "清单核对"
+            ],
+            [
+              "照明与排水维护",
+              "中",
+              "运营方",
+              "夜间巡查"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            70.0,
+            251.00000000000003,
+            542.0,
+            418.0
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            392.0,
+            212.62150011956692,
+            405.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "表 4：改进建议实施优先级与责任分工",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            418.0,
+            218.56800025701523,
+            439.7
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "18. 调研局限与后续安排",
+          "parent_id": "h0010",
+          "level": 2,
+          "size": 14,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            443.7,
+            532.0,
+            460.75
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "本次调研受样本时段与社区数量限制，观察结果仅代表参与社区在调研期内的状况。问卷自评与",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            460.75,
+            533.2100001573563,
+            477.8
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "现场观测的差异提示需补充纵向跟踪。后续安排包括扩大样本、增加雨天与节假日观测，并在12",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            477.8,
+            323.0,
+            494.85
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "个月内完成一轮回访，以检验改进建议的落实情况。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            500.85,
+            532.0,
+            517.9
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "观测记录应注明天气、时段与观测员编号，便于后续按条件筛选复核；缺失关键字段的记录不纳",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            517.9,
+            257.0,
+            534.9499999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "入描述性统计，以保证样本口径一致。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            540.9499999999999,
+            532.0,
+            557.9999999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "问卷回收后需检查是否存在同一居民重复填写的情况，可按社区与年龄段配额核对，异常集中提",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            557.9999999999999,
+            202.0,
+            575.0499999999998
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "交的批次应回溯发放记录。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            581.0499999999998,
+            532.0,
+            598.0999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "现场照片与纸质记录应同步归档，按节点编号建立索引；照片仅用于佐证路径状况，不用于识别",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            598.0999999999998,
+            202.0,
+            615.1499999999997
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "个人或评价具体运营人员。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            621.1499999999997,
+            532.0,
+            638.1999999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "分项比较时应注意各社区观测天数可能不同，比较前统一折算为日均记录，并在表注中说明折算",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            638.1999999999997,
+            224.0,
+            655.2499999999997
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "方法，避免直接对比原始计数。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            661.2499999999997,
+            532.0,
+            678.2999999999996
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "引导标识可见度记录受观测员身高与行走速度影响，建议固定观测员并记录步速，以减少个体差",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            678.2999999999996,
+            169.0,
+            695.3499999999996
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "异带来的系统偏差。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            532.0,
+            87.05
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "换乘等待时长的计时起点与终点需在培训中统一口径，观测员之间应进行一致性测试，分歧较大",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            87.05,
+            202.0,
+            104.1
+          ],
+          "block_id": "t00024",
+          "type": "text",
+          "text": "的记录由组长复核后采用。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            110.1,
+            542.0,
+            244.1
+          ],
+          "block_id": "o0005",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "比较维度",
+              "记录口径",
+              "数据来源",
+              "解读注意"
+            ],
+            [
+              "步行时间",
+              "门禁至站台",
+              "现场计时",
+              "区分携带行李"
+            ],
+            [
+              "等待时长",
+              "到站至上车",
+              "观测计时",
+              "受班次影响"
+            ],
+            [
+              "路径连续性",
+              "中断点计数",
+              "路径记录",
+              "区分长期短期"
+            ],
+            [
+              "拥挤感知",
+              "五级自评",
+              "问卷",
+              "主观偏差"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            110.1,
+            542.0,
+            277.1
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            251.1,
+            187.12150011956692,
+            264.275
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "图 1：换乘可达性分项比较框架",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            277.1,
+            532.0,
+            294.15000000000003
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "居民拥挤感知属于主观评价，分析时应与客观等待时长并列呈现，不宜将两者合并为单一指标，",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            294.15000000000003,
+            213.0,
+            311.20000000000005
+          ],
+          "block_id": "t00025",
+          "type": "text",
+          "text": "以免掩盖感受与事实的差异。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            317.20000000000005,
+            532.0,
+            334.25000000000006
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "改进建议的责任主体需在社区与运营方之间明确，回应期限仅作为沟通节点，不代表问题必然在",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            334.25000000000006,
+            268.0,
+            351.30000000000007
+          ],
+          "block_id": "t00026",
+          "type": "text",
+          "text": "期限内解决，跟踪记录应如实反映进展。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            357.30000000000007,
+            532.0,
+            374.3500000000001
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "路径连续性记录中的临时占道情况应单独标注，与长期设施缺陷区分；短期施工导致的绕行不宜",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            374.3500000000001,
+            191.0,
+            391.4000000000001
+          ],
+          "block_id": "t00027",
+          "type": "text",
+          "text": "计入常态步行时间比较。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            397.4000000000001,
+            532.0,
+            414.4500000000001
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "问卷中关于改进意愿的题项可能存在社会赞许偏差，解读时应结合现场观察，避免将高意愿直接",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            414.4500000000001,
+            191.0,
+            431.5000000000001
+          ],
+          "block_id": "t00028",
+          "type": "text",
+          "text": "视为高需求或高可行性。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            437.5000000000001,
+            532.0,
+            454.5500000000001
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "数据复核记录应保留更正前后的原始值，便于审计追溯；复核人员与观测人员应适当分离，减少",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            454.5500000000001,
+            180.0,
+            471.60000000000014
+          ],
+          "block_id": "t00029",
+          "type": "text",
+          "text": "自我核查带来的盲区。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            477.60000000000014,
+            532.0,
+            494.65000000000015
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "分时段观察的时段划分需在报告中明确定义，早高峰与晚高峰的起止时间应依据社区实际出行规",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            494.65000000000015,
+            213.0,
+            511.70000000000016
+          ],
+          "block_id": "t00030",
+          "type": "text",
+          "text": "律设定，而非套用统一标准。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            517.7000000000002,
+            532.0,
+            534.7500000000001
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "社区间差异归纳时应注明证据来源是问卷、观测还是访谈，不同来源的结论若不一致，应并列呈",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            534.7500000000001,
+            158.0,
+            551.8000000000001
+          ],
+          "block_id": "t00031",
+          "type": "text",
+          "text": "现而非择一采用。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            557.8000000000001,
+            532.0,
+            574.85
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "后续回访可沿用本次核查清单，保持题项与记录格式一致，以便比较改进前后的变化，但回访结",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            574.85,
+            158.0,
+            591.9
+          ],
+          "block_id": "t00032",
+          "type": "text",
+          "text": "果仍属观察描述。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            597.9,
+            532.0,
+            614.9499999999999
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "样本量限制意味着部分分项比较的统计稳定性不足，报告中应避免使用精确排名，改用区间或定",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            614.9499999999999,
+            158.0,
+            631.9999999999999
+          ],
+          "block_id": "t00033",
+          "type": "text",
+          "text": "性描述表达差异。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            637.9999999999999,
+            532.0,
+            655.0499999999998
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "观测员培训应包含无障碍通道识别与记录规范，确保坡道缺失、占用等情形按统一标准判定，减",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            655.0499999999998,
+            158.0,
+            672.0999999999998
+          ],
+          "block_id": "t00034",
+          "type": "text",
+          "text": "少主观判断差异。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            678.0999999999998,
+            532.0,
+            695.1499999999997
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "问卷预填阶段应邀请不同年龄段居民参与，检验题项表述是否易懂，修订后的版本需记录变更内",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 612.0,
+      "height": 792.0,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            70,
+            23.0,
+            265.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_6",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            306.0,
+            760.0,
+            311.08984375,
+            772.4
+          ],
+          "block_id": "furniture_footer_6",
+          "type": "page_furniture",
+          "text": "6",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            70,
+            125.0,
+            87.05
+          ],
+          "block_id": "t00035",
+          "type": "text",
+          "text": "容以备查。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            70.0,
+            93.05,
+            542.0,
+            227.05
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "时段",
+              "观察重点",
+              "记录指标",
+              "备注"
+            ],
+            [
+              "早高峰",
+              "进站排队",
+              "排队长度",
+              "引导员在场"
+            ],
+            [
+              "平峰",
+              "标识可见度",
+              "首次看清位置",
+              "遮挡物"
+            ],
+            [
+              "晚高峰",
+              "候车滞留",
+              "站立密度",
+              "广播清晰度"
+            ],
+            [
+              "周末",
+              "接驳连续性",
+              "绕行距离",
+              "临时占道"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            70.0,
+            93.05,
+            542.0,
+            260.05
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            70.0,
+            234.05,
+            195.62150011956692,
+            247.22500000000002
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "图 2：分时段换乘压力观察记录项",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

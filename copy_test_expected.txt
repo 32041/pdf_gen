@@ -1,0 +1,5 @@
+PDF copy test - version 0.3.1
+English: ABC xyz 0123456789 - Table 1, Table 2.
+中文：复制测试，表 1、表 2；年、不、量。
+Symbols: € £ © ± × ÷ — 😀 𝔸
+请选中文字复制到记事本，检查与本页是否一致。

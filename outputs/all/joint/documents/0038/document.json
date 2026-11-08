@@ -1,0 +1,718 @@
+{
+  "doc_id": "0038",
+  "kind": "report",
+  "domain": "report",
+  "language": "zh",
+  "title": "基层服务中心无障碍审查报告",
+  "seed": 79,
+  "target_depth": 4,
+  "has_title": true,
+  "numbering_mode": "numbered",
+  "numbering_family": "arabic_dotted",
+  "style": "similar",
+  "template": "classic",
+  "columns": 2,
+  "margin_pt": 62,
+  "font_size": 10.5,
+  "headings": [
+    {
+      "id": "h0001",
+      "title": "基层服务中心无障碍审查报告",
+      "level": 1,
+      "parent_id": "root",
+      "path": [],
+      "text": "基层服务中心无障碍审查报告",
+      "is_document_title": true
+    },
+    {
+      "id": "h0002",
+      "title": "审查背景与范围界定",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        1
+      ],
+      "text": "1 审查背景与范围界定",
+      "is_document_title": false
+    },
+    {
+      "id": "h0003",
+      "title": "审查对象与场地选取",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        1
+      ],
+      "text": "1.1 审查对象与场地选取",
+      "is_document_title": false
+    },
+    {
+      "id": "h0004",
+      "title": "场地基本情况",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        1
+      ],
+      "text": "1.1.1 场地基本情况",
+      "is_document_title": false
+    },
+    {
+      "id": "h0005",
+      "title": "使用者构成",
+      "level": 4,
+      "parent_id": "h0003",
+      "path": [
+        1,
+        1,
+        2
+      ],
+      "text": "1.1.2 使用者构成",
+      "is_document_title": false
+    },
+    {
+      "id": "h0006",
+      "title": "审查依据与工作方法",
+      "level": 3,
+      "parent_id": "h0002",
+      "path": [
+        1,
+        2
+      ],
+      "text": "1.2 审查依据与工作方法",
+      "is_document_title": false
+    },
+    {
+      "id": "h0007",
+      "title": "主要发现与问题归类",
+      "level": 2,
+      "parent_id": "h0001",
+      "path": [
+        2
+      ],
+      "text": "2 主要发现与问题归类",
+      "is_document_title": false
+    },
+    {
+      "id": "h0008",
+      "title": "通行与设施观察",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        1
+      ],
+      "text": "2.1 通行与设施观察",
+      "is_document_title": false
+    },
+    {
+      "id": "h0009",
+      "title": "信息沟通与标识",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        1
+      ],
+      "text": "2.1.1 信息沟通与标识",
+      "is_document_title": false
+    },
+    {
+      "id": "h0010",
+      "title": "人员服务与求助响应",
+      "level": 4,
+      "parent_id": "h0008",
+      "path": [
+        2,
+        1,
+        2
+      ],
+      "text": "2.1.2 人员服务与求助响应",
+      "is_document_title": false
+    },
+    {
+      "id": "h0011",
+      "title": "整改建议与后续安排",
+      "level": 3,
+      "parent_id": "h0007",
+      "path": [
+        2,
+        2
+      ],
+      "text": "2.2 整改建议与后续安排",
+      "is_document_title": false
+    }
+  ],
+  "facts": {
+    "periods": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "output": [
+      76.91,
+      90.49,
+      104.17,
+      116.75
+    ],
+    "cost": [
+      49.99,
+      58.82,
+      67.71,
+      75.89
+    ],
+    "balance": [
+      26.92,
+      31.67,
+      36.46,
+      40.86
+    ],
+    "synthetic": true
+  },
+  "page_width": 595.276,
+  "page_height": 841.89,
+  "paper": "A4",
+  "style_ladder": {
+    "sizes": [
+      18,
+      12,
+      11,
+      11,
+      10.5,
+      10.5
+    ],
+    "indents": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10
+    ],
+    "colors": [
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a",
+      "18384a"
+    ]
+  },
+  "repair_count": 0,
+  "repair_seed": null,
+  "objects": [
+    {
+      "id": "o0001",
+      "owner_id": "h0009",
+      "target_previous_id": "h0009",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "信息沟通与标识",
+      "caption": "表 3：信息标识核对要点与责任岗位",
+      "rows": [
+        [
+          "核对项",
+          "观察要点",
+          "责任岗位",
+          "复核方式"
+        ],
+        [
+          "楼层索引",
+          "字体与对比",
+          "场地管理",
+          "现场复核"
+        ],
+        [
+          "语音叫号",
+          "嘈杂可辨",
+          "服务窗口",
+          "情景测试"
+        ],
+        [
+          "书面指南",
+          "大字版本",
+          "综合受理",
+          "阅读测试"
+        ],
+        [
+          "人工问询",
+          "兜底渠道",
+          "值班主管",
+          "路径跟随"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 3。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 3,
+      "caption_text": "信息标识核对要点与责任岗位",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    },
+    {
+      "id": "o0002",
+      "owner_id": "h0002",
+      "target_previous_id": "h0002",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "审查背景与范围界定",
+      "caption": "表 1：审查场地与样本规模概况",
+      "rows": [
+        [
+          "项目",
+          "数量",
+          "说明",
+          "备注"
+        ],
+        [
+          "审查场地",
+          "4",
+          "跨片区选取",
+          "含新旧场地"
+        ],
+        [
+          "观察样本",
+          "240",
+          "路径跟随记录",
+          "自愿参与"
+        ],
+        [
+          "审查周期",
+          "12",
+          "按周安排",
+          "含复核"
+        ],
+        [
+          "反馈时限",
+          "2",
+          "受理后答复",
+          "工作日计"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "审查场地与样本规模概况",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    },
+    {
+      "id": "o0003",
+      "owner_id": "h0009",
+      "target_previous_id": "h0009",
+      "target_subtype": "normal",
+      "target_relation": "same",
+      "topic": "信息沟通与标识",
+      "caption": "表 4：通行设施观察记录与整改档次",
+      "rows": [
+        [
+          "位置",
+          "观察问题",
+          "整改档次",
+          "责任岗位"
+        ],
+        [
+          "入口坡道",
+          "末端积水",
+          "限期改造",
+          "场地管理"
+        ],
+        [
+          "走廊转角",
+          "扶手中断",
+          "限期改造",
+          "设施维护"
+        ],
+        [
+          "等候区",
+          "告示占道",
+          "立即可改",
+          "值班主管"
+        ],
+        [
+          "卫生间",
+          "回转不足",
+          "需协调",
+          "场地管理"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 4。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 4,
+      "caption_text": "通行设施观察记录与整改档次",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    },
+    {
+      "id": "o0004",
+      "owner_id": "h0003",
+      "target_previous_id": "h0002",
+      "target_subtype": "before_heading",
+      "target_relation": "prev_is_ancestor",
+      "topic": "审查对象与场地选取",
+      "caption": "图 1：审查对象选取考量因素",
+      "rows": [
+        [
+          "考量因素",
+          "说明",
+          "记录方式",
+          "用途"
+        ],
+        [
+          "建成年代",
+          "新旧兼顾",
+          "场地档案",
+          "分组比较"
+        ],
+        [
+          "窗口数量",
+          "业务承载",
+          "现场清点",
+          "场景理解"
+        ],
+        [
+          "来访规模",
+          "高峰压力",
+          "观察估算",
+          "排班参考"
+        ],
+        [
+          "周边人口",
+          "需求结构",
+          "属地访谈",
+          "范围说明"
+        ]
+      ],
+      "reference_text": "相关记录与要求见图 1。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 1,
+      "caption_text": "审查对象选取考量因素",
+      "reference_template": "相关记录与要求见图 {number}。",
+      "owner_locked": true,
+      "object_type": "figure",
+      "image_path": null,
+      "figure_prompt": "Create a clean publication-quality illustration for this fictional report document. Document: 基层服务中心无障碍审查报告. Section: 审查对象与场地选取. Caption: 审查对象选取考量因素. Article context: 审查对象为分布在不同片区的基层服务中心，兼顾老旧场地与近年改造场地，以反映不同建设条件下的共性难题。选取时考虑日均来访量、窗口数量与周边人口结构，并征询属地服务人员意见。选取结果不追求统计代表性，而是优先覆盖问题类型较全的场地，便于形成可复用的整改清单。具体场地数量与样本规模见下表。. Supporting records: [[\"考量因素\", \"说明\", \"记录方式\", \"用途\"], [\"建成年代\", \"新旧兼顾\", \"场地档案\", \"分组比较\"], [\"窗口数量\", \"业务承载\", \"现场清点\", \"场景理解\"], [\"来访规模\", \"高峰压力\", \"观察估算\", \"排班参考\"], [\"周边人口\", \"需求结构\", \"属地访谈\", \"范围说明\"]]. Convey only the supplied facts. Do not invent data or include a figure number.",
+      "figure_status": "placeholder",
+      "figure_height": null,
+      "figure_provenance": {
+        "status": "placeholder",
+        "requested_mode": "placeholder",
+        "image_generated": false,
+        "semantic_source": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1",
+        "adapter": "openai_images"
+      },
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    },
+    {
+      "id": "o0005",
+      "owner_id": "h0006",
+      "target_previous_id": "h0005",
+      "target_subtype": "before_heading",
+      "target_relation": "cross_branch",
+      "topic": "审查依据与工作方法",
+      "caption": "表 2：审查方法与验证手段对照",
+      "rows": [
+        [
+          "方法",
+          "覆盖内容",
+          "验证手段",
+          "局限"
+        ],
+        [
+          "清单观察",
+          "设施与标识",
+          "双人确认",
+          "单时段"
+        ],
+        [
+          "路径跟随",
+          "求助响应",
+          "过程记录",
+          "受观察影响"
+        ],
+        [
+          "记录抽查",
+          "维护台账",
+          "交叉核对",
+          "记录不全"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 2。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 2,
+      "caption_text": "审查方法与验证手段对照",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    },
+    {
+      "id": "o0006",
+      "owner_id": "h0008",
+      "target_previous_id": "h0011",
+      "target_subtype": "far_float",
+      "target_relation": "siblings",
+      "topic": "通行与设施观察",
+      "caption": "表 5：通行与设施观察维度清单",
+      "rows": [
+        [
+          "维度",
+          "观察内容",
+          "记录要点",
+          "后续处理"
+        ],
+        [
+          "坡道",
+          "坡度与排水",
+          "积水位置",
+          "限期改造"
+        ],
+        [
+          "门厅",
+          "门宽与开启",
+          "通行阻碍",
+          "现场沟通"
+        ],
+        [
+          "扶手",
+          "连续与牢固",
+          "中断点",
+          "设施维护"
+        ],
+        [
+          "服务台",
+          "高度与按钮",
+          "可触及性",
+          "试用反馈"
+        ]
+      ],
+      "reference_text": "相关记录与要求见表 5。",
+      "plate_group": null,
+      "row_height": 26,
+      "display_number": 5,
+      "caption_text": "通行与设施观察维度清单",
+      "reference_template": "相关记录与要求见表 {number}。",
+      "owner_locked": true,
+      "object_type": "table",
+      "image_path": null,
+      "figure_prompt": null,
+      "figure_status": null,
+      "figure_height": null,
+      "figure_provenance": {},
+      "content_provenance": {
+        "table_content_provider": "deepseek",
+        "model": "deepseek-flash",
+        "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1"
+      }
+    }
+  ],
+  "content": {
+    "sections": {
+      "h0001": {
+        "title": "基层服务中心无障碍审查报告",
+        "paragraph": "本报告汇总本轮基层服务中心无障碍审查的整体安排与主要发现，覆盖出入口、通行流线、信息沟通与人员服务四个维度。审查以实地观察、使用者访谈与记录核对相结合，力求把可感知的障碍转化为可整改的条目。报告同时说明审查边界：所列为模拟观察结果，用于改进服务流程，不构成对任何机构合规状况的法律判断，也不推断具体伤害的因果结论。"
+      },
+      "h0002": {
+        "title": "审查背景与范围界定",
+        "paragraph": "本次审查聚焦基层服务中心的日常办事场景，包括咨询台、等候区、卫生间与自助设备区。范围界定以使用者从进入场地到完成事项的完整路径为线索，而非仅检查单点设施。审查组明确将临时施工围挡、活动布置等非固定因素单独记录，避免与常态问题混淆。范围说明还列出未纳入的楼层与外部交通接驳，提示后续补充。"
+      },
+      "h0003": {
+        "title": "审查对象与场地选取",
+        "paragraph": "审查对象为分布在不同片区的基层服务中心，兼顾老旧场地与近年改造场地，以反映不同建设条件下的共性难题。选取时考虑日均来访量、窗口数量与周边人口结构，并征询属地服务人员意见。选取结果不追求统计代表性，而是优先覆盖问题类型较全的场地，便于形成可复用的整改清单。具体场地数量与样本规模见下表。"
+      },
+      "h0004": {
+        "title": "场地基本情况",
+        "paragraph": "各场地建成年代与改造历史差异明显，直接影响坡道坡度、门宽与电梯配置。审查组逐一记录入口高差、门扇开启方式与地面材质，并标注雨雪天气下的湿滑风险点。部分场地在改造中增设了低位服务台，但指示标识未同步更新，造成引导断点。基本情况记录作为后续问题归类的底稿，所有描述均为现场观察所得。"
+      },
+      "h0005": {
+        "title": "使用者构成",
+        "paragraph": "来访者中包含行动不便者、视听障碍者与陪同家属，也有大量临时受伤或携带婴幼儿的普通办事人。审查组通过现场观察与自愿访谈了解不同群体的通行难点，注意到陪同人员常承担临时协助角色，说明服务设计不应只面向单一障碍类型。使用者构成信息仅用于理解场景，不用于推断个体需求或评价个人能力。"
+      },
+      "h0006": {
+        "title": "审查依据与工作方法",
+        "paragraph": "审查依据为内部服务规范与通用设计原则，强调通行连续性、信息可获取与人员可求助。方法上采用清单式实地观察、路径跟随与记录抽查三种手段交叉验证，对发现的疑点由两名审查员分别确认。涉及争议的条目记录观察时间与位置，暂不判定责任归属。方法说明同时提示，观察结果反映特定时段状况，可能与高峰时段存在差异。"
+      },
+      "h0007": {
+        "title": "主要发现与问题归类",
+        "paragraph": "发现的问题按通行、信息、服务与应急四类归并，避免按场地罗列造成重复。通行类集中在门槛高差与通道堆物，信息类集中在标识位置过高与文字过小，服务类集中在求助响应不及时，应急类集中在疏散提示不醒目。归类后形成优先级排序，优先处理影响独立完成事项的障碍，其次处理影响体验与效率的问题。"
+      },
+      "h0008": {
+        "title": "通行与设施观察",
+        "paragraph": "通行观察沿入口至窗口的完整路径进行，记录坡道、门厅、走廊与卫生间各段状况。审查组发现部分坡道末端存在积水，扶手在转角处中断，轮椅回转空间被临时告示牌占用。设施方面，低位服务台高度基本可用，但呼叫按钮位置偏后，坐姿使用者难以触及。上述均为模拟观察记录，用于提出改进建议，不据此推断任何事故成因。"
+      },
+      "h0009": {
+        "title": "信息沟通与标识",
+        "paragraph": "信息沟通审查关注标识的可读性与获取渠道的多样性。现场发现楼层索引字体偏小、对比度不足，语音叫号在嘈杂环境下难以辨识，书面办事指南缺少大字版本。审查组建议在关键节点设置连续引导，并保留人工问询作为兜底渠道。标识整改需与业务流程调整同步，否则易出现指向正确但环节脱节的情况。相关核对要点见下表。"
+      },
+      "h0010": {
+        "title": "人员服务与求助响应",
+        "paragraph": "人员服务审查通过路径跟随观察求助发生时的响应过程，包括发现、接近、沟通与转办四个环节。多数工作人员态度积极，但对辅助器具使用与沟通技巧缺乏统一培训，遇到复杂需求时依赖个别经验丰富的同事。审查组建议明确首问责任与转办时限，并在排班中保留机动岗位，以缓解高峰时段响应延迟。"
+      },
+      "h0011": {
+        "title": "整改建议与后续安排",
+        "paragraph": "整改建议按立即可改、限期改造与需协调推进三档划分，明确责任岗位与复核方式。立即可改项包括清理通道堆物、调整告示位置与补充大字指南；限期改造项涉及坡道排水与扶手连续性；需协调推进项涉及标识系统整体更新。后续安排以季度回访为主，结合使用者反馈滚动更新清单，并在下一轮审查中复核整改成效。"
+      }
+    },
+    "continuations": [
+      "审查记录应保留观察时间、位置与观察者姓名，便于后续复核时区分常态问题与临时状况。",
+      "对同一场地不同时段的观察结果应并列保存，避免以单次观察替代全天候判断。",
+      "使用者访谈采取自愿原则，访谈内容仅用于改进服务，不作为评价个人的依据。",
+      "整改清单宜标注责任岗位而非个人姓名，减少人员变动带来的执行中断。",
+      "涉及施工或改造的项目需与场地管理方提前沟通，避免整改期间产生新的通行障碍。",
+      "标识整改应同步更新线上办事指引，防止线上线下信息不一致造成引导混乱。",
+      "呼叫按钮与低位服务台的高度需结合实际使用者试用反馈确定，不宜仅凭图纸判断。",
+      "通道堆物问题反复出现，说明需要固定的存放空间与日常巡查机制相配合。",
+      "语音叫号在嘈杂环境下的可辨识度有限，可考虑视觉提示作为并行渠道。",
+      "工作人员培训宜采用情景演练方式，覆盖辅助器具使用与沟通技巧。",
+      "首问责任落实需要配套转办记录，便于追溯响应过程与时限。",
+      "高峰时段的机动岗位安排应与来访量波动规律相匹配。",
+      "疏散提示的醒目程度需在断电与低照度条件下另行核验。",
+      "坡道排水问题在雨季表现突出，回访时间宜覆盖多雨季节。",
+      "扶手连续性检查应沿完整路径进行，避免只查看起点与终点。",
+      "大字版办事指南的字体大小与对比度需经实际阅读测试确认。",
+      "审查组内部对争议条目采取双人确认，减少主观判断差异。",
+      "观察结果与使用者自述应分别记录，避免相互覆盖造成信息失真。",
+      "季度回访可抽取部分整改项复核，兼顾覆盖面与工作量。",
+      "整改成效评价宜结合使用者反馈与现场复核两类证据。",
+      "临时活动布置应纳入场地使用审批环节，提前评估通行影响。",
+      "卫生间无障碍设施的维护记录应与日常保洁记录合并管理。",
+      "外部交通接驳虽未纳入本轮范围，但使用者反馈较多，宜列入下轮议题。",
+      "审查清单应保持稳定以便纵向比较，新增条目单独标注版本。",
+      "对老旧场地的改造建议需考虑结构与管线条件，避免提出无法落地的方案。",
+      "涉及多部门协调的整改项应明确牵头岗位与沟通节点。",
+      "使用者构成信息仅用于理解场景，不应据此推断个体需求。",
+      "观察记录中的照片应避免拍摄可识别的个人影像。",
+      "整改优先级排序宜公开说明理由，便于各方理解资源投入顺序。",
+      "培训效果可通过模拟求助场景进行检验，而非仅统计培训次数。",
+      "下一轮审查可增加雨天与夜间两个时段，补充现有观察盲区。",
+      "报告结论限于服务改进用途，不构成对合规状况的判断。",
+      "审查排期需避开办事高峰与大型活动日，以免观察本身干扰正常服务秩序。",
+      "每处场地的观察路线应事先固定并记录，保证不同批次之间的结果具备可比性。",
+      "整改时限的设定需参考问题类型与施工条件，不宜对所有条目采用统一期限。",
+      "涉及结构改造的建议应附初步可行性说明，供场地管理方评估资源投入。",
+      "使用者反馈中出现频率较高的诉求宜单独汇总，作为下轮审查的优先议题。",
+      "观察记录填写完毕后由第二人核对，重点检查时间、位置与描述是否对应。",
+      "对无法当场确认的条目，可约定复查日期并在记录中注明待核状态。",
+      "整改完成情况按季度汇总，未完成项需说明原因与预计推进节点。",
+      "培训覆盖范围应包含新入职人员，避免因人员更替出现能力断层。",
+      "辅助器具的存放位置需在多个点位标注，确保临时借用时能够快速找到。",
+      "低位服务台的台面下方净空需实际测量，仅凭外观难以判断轮椅能否靠近。",
+      "电梯内语音提示的音量宜在不同载客情况下测试，防止被环境噪声掩盖。",
+      "入口处的引导标识应结合来访者行进方向设置，减少折返与询问。",
+      "审查过程中发现的问题按场地分别建档，便于横向比较同类场地的差异。",
+      "对争议较大的条目可邀请使用者代表参与现场确认，补充专业视角之外的感受。",
+      "整改前后的对比照片应保持拍摄角度一致，否则难以说明实际变化。",
+      "涉及多场地共性的问题宜形成统一建议，减少重复沟通成本。",
+      "回访时若发现原问题已改变形态，应重新记录而非沿用旧结论。",
+      "审查人员宜定期轮换场地分工，降低因熟悉环境而产生的观察惯性。",
+      "部分条目依赖使用者主观感受，结论表述应注明证据来源与局限。",
+      "场地使用审批环节可增设通行影响自评表，作为临时布置的前置条件。",
+      "对夜间照明条件的核验需携带照度测量工具，目测结果不足以支撑结论。",
+      "整改建议的表述应指向可操作的措施，避免停留在原则性要求层面。",
+      "审查档案的保存期限宜与场地管理周期相匹配，便于追溯历史问题。",
+      "对反复出现的问题可分析其成因，判断是设施缺陷还是管理流程缺位。",
+      "使用者访谈提纲应保持相对稳定，便于不同批次反馈的归纳比较。",
+      "报告中的建议按实施难度分级呈现，方便管理方分阶段安排资源。",
+      "观察时段的选取应覆盖工作日与周末，两类时段的来访结构存在差异。",
+      "整改通知发出后需确认接收方，避免因流转环节造成时限起算不清。",
+      "对已完成的整改项可抽取部分进行现场复核，核实与记录描述是否一致。",
+      "审查结论的形成过程应保留讨论记录，说明分歧条目的处理方式。",
+      "下轮审查启动前宜回顾本轮未闭环事项，避免问题在批次之间遗失。"
+    ],
+    "provenance": {
+      "provider": "deepseek",
+      "requested_model": "deepseek-flash",
+      "model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 1604,
+        "completion_tokens": 2276,
+        "total_tokens": 3880,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 1092
+      },
+      "finish_reason": "stop",
+      "request_hash": "a382df16811a05ef6e72d9127fd86d49e0854318aa46f390e0106605f3ea0cc1",
+      "schema": "llm-content-v1",
+      "validation_retries": 0,
+      "cache_hit": true,
+      "supplement_usage": [
+        {
+          "model": "deepseek-flash",
+          "usage": {
+            "prompt_tokens": 1020,
+            "completion_tokens": 620,
+            "total_tokens": 1640,
+            "prompt_tokens_details": {
+              "cached_tokens": 768
+            },
+            "prompt_cache_hit_tokens": 768,
+            "prompt_cache_miss_tokens": 252
+          },
+          "finish_reason": "stop"
+        }
+      ]
+    }
+  },
+  "variant_index": 5,
+  "augmentation_ids": [],
+  "explicit_hierarchy": true,
+  "title_alignment": "center"
+}

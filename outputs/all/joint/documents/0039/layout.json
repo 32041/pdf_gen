@@ -1,0 +1,4172 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            84.05938671874998,
+            52.0,
+            511.21661328125,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "Demand Forecasting for Public Library Services",
+          "font": "latin",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            269.705078125,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "This paper examines how a four-site library",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            262.1904296875,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "network can forecast demand for lending,",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            267.869140625,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "reference and programming services using",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            138.4,
+            269.7880859375,
+            153.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "circulation logs, visitor counts and program",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            153.9,
+            272.8984375,
+            169.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "registrations. We treat forecasts as decision",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            169.4,
+            265.4326171875,
+            184.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "aids rather than verdicts, and we separate",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            184.9,
+            266.1650390625,
+            200.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "simulated observations from causal claims",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            200.4,
+            238.4013671875,
+            215.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "throughout. The analysis covers data",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            215.9,
+            258.2353515625,
+            231.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "preparation, model comparison, scenario",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            231.4,
+            282.390625,
+            246.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "interpretation and the governance duties that",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            246.9,
+            266.55078125,
+            262.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "keep forecasts accountable to branch staff",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            262.4,
+            123.3916015625,
+            277.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "and residents.",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            283.9,
+            200.298828125,
+            305.59999999999997
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "A Study Scope and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            305.59999999999997,
+            229.119140625,
+            327.29999999999995
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "Forecasting Questions",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            331.29999999999995,
+            284.7978515625,
+            346.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "The study addresses a practical question: how",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            346.79999999999995,
+            276.2333984375,
+            362.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "many loans, visits and program seats should",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            362.29999999999995,
+            281.189453125,
+            377.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "each branch plan for in the coming cycle? We",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            377.79999999999995,
+            286.306640625,
+            393.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "frame forecasting as a planning instrument for",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            393.29999999999995,
+            284.16796875,
+            408.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "staffing, collection rotation and room booking,",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            408.79999999999995,
+            286.0478515625,
+            424.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "not as a performance rating. The scope covers",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            424.29999999999995,
+            263.89453125,
+            439.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "the main circulating collections and public",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            439.79999999999995,
+            280.7939453125,
+            455.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "programs across the participating sites, while",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            455.29999999999995,
+            267.576171875,
+            470.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "excluding interlibrary transfers and one-off",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            470.79999999999995,
+            239.9248046875,
+            486.29999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "outreach events that follow their own",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            486.29999999999995,
+            136.00390625,
+            501.79999999999995
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "scheduling logic.",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            507.79999999999995,
+            285.962890625,
+            526.4
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "A.1 Data Sources and Preparation",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            530.4,
+            278.8017578125,
+            545.9
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "Records come from circulation systems, door",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            545.9,
+            277.4736328125,
+            561.4
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "counters and registration logs covering 2022",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            561.4,
+            236.609375,
+            576.9
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "through 2025. We harmonize branch",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            576.9,
+            275.3203125,
+            592.4
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "identifiers, remove duplicate checkouts, and",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            592.4,
+            277.2392578125,
+            607.9
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "flag closure days and system outages before",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            607.9,
+            285.2568359375,
+            623.4
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "aggregation. Weekly series are constructed so",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            623.4,
+            261.1162109375,
+            638.9
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "that holiday spikes are visible rather than",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            638.9,
+            286.82421875,
+            654.4
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "smoothed away, and every exclusion is logged",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            654.4,
+            239.8857421875,
+            669.9
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "so that reviewers can reconstruct the",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            669.9,
+            253.7578125,
+            685.4
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "prepared dataset from the raw extracts.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            691.4,
+            280.876953125,
+            706.9
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 1.",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "table",
+          "box": [
+            307.638,
+            91.9,
+            543.276,
+            225.9
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Rule",
+              "Action",
+              "Tag",
+              "Reviewer"
+            ],
+            [
+              "Test scans",
+              "Remove",
+              "R1",
+              "Second pass"
+            ],
+            [
+              "Bulk loans",
+              "Exclude",
+              "R2",
+              "Supervisor"
+            ],
+            [
+              "Duplicates",
+              "Collapse",
+              "R3",
+              "Sample"
+            ],
+            [
+              "Outages",
+              "Flag",
+              "R4",
+              "Data lead"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            307.638,
+            91.9,
+            543.276,
+            272.9
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            232.9,
+            525.5874628906249,
+            246.07500000000002
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "Table 1: Cleaning rule checks applied to circulation",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            246.07500000000002,
+            342.36846875,
+            259.25
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "extracts",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            272.9,
+            538.2449335937499,
+            289.95
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "A.1.1 Cleaning Rules for Circulation",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            289.95,
+            367.4924921875,
+            307.0
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "Records",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "figure",
+          "box": [
+            307.638,
+            311.0,
+            543.276,
+            445.0
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Step",
+              "Purpose",
+              "Owner",
+              "Check"
+            ],
+            [
+              "Deduplicate",
+              "Remove repeats",
+              "Analyst",
+              "Sample audit"
+            ],
+            [
+              "Flag closures",
+              "Mark gaps",
+              "Supervisor",
+              "Calendar match"
+            ],
+            [
+              "Aggregate",
+              "Build weeks",
+              "Analyst",
+              "Row counts"
+            ],
+            [
+              "Version",
+              "Freeze extract",
+              "Data lead",
+              "Hash record"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            307.638,
+            311.0,
+            543.276,
+            492.0
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            452.0,
+            518.4944453124999,
+            465.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "Figure 1: Data preparation steps and their review",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            465.175,
+            338.330138671875,
+            478.35
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "owners",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            492.0,
+            538.3508906249999,
+            507.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "Duplicate scans, staff test checkouts and bulk",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            507.5,
+            528.3167109374999,
+            523.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "class loans are removed under written rules",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            523.0,
+            540.6604609374999,
+            538.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "agreed with branch supervisors. Each removal",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            538.5,
+            539.1126093749999,
+            554.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "is tagged with a reason code, and a sample of",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            554.0,
+            505.6458125,
+            569.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "flagged rows is re-checked by a second",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            569.5,
+            522.9846796874999,
+            585.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "reviewer. The cleaning log records the rule",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            585.0,
+            498.3264765625,
+            600.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "version applied, so a later analyst can",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            600.5,
+            531.9788203124999,
+            616.0
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "reproduce the same dataset and see exactly",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            616.0,
+            472.608703125,
+            631.5
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "which records changed and why.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            637.5,
+            532.5501093749999,
+            653.0
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "Supporting records are presented in Table 1.",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            659.0,
+            493.22442578125,
+            676.05
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "A.1.2 Handling Closures and",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            676.05,
+            408.27520703125,
+            693.0999999999999
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "Seasonal Gaps",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            697.0999999999999,
+            534.2102656249999,
+            712.5999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "Closure days, renovation periods and holiday",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            712.5999999999999,
+            491.0413203125,
+            728.0999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "weeks create gaps that distort naive",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            728.0999999999999,
+            530.6458124999999,
+            743.5999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "averages. We mark these intervals explicitly",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            743.5999999999999,
+            524.7131953124999,
+            759.0999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "and model them as known absences rather",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            759.0999999999999,
+            540.4016718749999,
+            774.5999999999999
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "than missing demand. Where a gap exceeds a",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            283.9970703125,
+            67.5
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "full week, the branch series is re-based on the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            254.3291015625,
+            83.0
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "surrounding comparable weeks, and the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            257.1416015625,
+            98.5
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "adjustment is documented alongside the",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            98.5,
+            286.6533203125,
+            114.0
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "original counts so that planners can judge how",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            114.0,
+            272.9814453125,
+            129.5
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "much of a forecast rests on imputed values.",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            135.5,
+            283.021484375,
+            154.1
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "A.2 Constructing Weekly Demand",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            154.1,
+            98.09375,
+            172.7
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "Series",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.7,
+            278.7724609375,
+            192.2
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "Weekly aggregates combine loans, visits and",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            192.2,
+            263.6650390625,
+            207.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "program registrations into separate series",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            207.7,
+            283.5625,
+            223.2
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "rather than a single composite index. Keeping",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            223.2,
+            273.8994140625,
+            238.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "the series apart preserves interpretability: a",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            238.7,
+            275.3642578125,
+            254.2
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "rise in visits without a matching rise in loans",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            254.2,
+            266.0673828125,
+            269.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "suggests different service use. Each series",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            269.7,
+            282.6640625,
+            285.2
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "carries a data-quality flag, and weeks below a",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            285.2,
+            267.0634765625,
+            300.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "completeness threshold are excluded from",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            300.7,
+            281.2138671875,
+            316.2
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "model fitting but retained in the audit trail for",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            316.2,
+            121.3798828125,
+            331.7
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "transparency.",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            337.7,
+            248.1640625,
+            359.4
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "B Model Comparison and",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            359.4,
+            132.4248046875,
+            381.09999999999997
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "Validation",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 14,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            385.09999999999997,
+            285.1201171875,
+            400.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "We compare a seasonal baseline, a regression",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            400.59999999999997,
+            275.6474609375,
+            416.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "with calendar and weather covariates, and a",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            416.09999999999997,
+            276.1845703125,
+            431.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "gradient-boosted model across the prepared",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            431.59999999999997,
+            274.65625,
+            447.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "series. Validation uses rolling-origin splits so",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            447.09999999999997,
+            281.609375,
+            462.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "that each model is tested only on weeks after",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            462.59999999999997,
+            276.53125,
+            478.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "its training window. Accuracy is reported per",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            478.09999999999997,
+            236.951171875,
+            493.59999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "branch and per service line, because",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            493.59999999999997,
+            275.7158203125,
+            509.09999999999997
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "aggregate scores can hide a branch where a",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            509.09999999999997,
+            271.228515625,
+            524.5999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "model consistently under-predicts weekend",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            524.5999999999999,
+            96.2333984375,
+            540.0999999999999
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "demand.",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            546.0999999999999,
+            275.802734375,
+            564.6999999999999
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "B.1 Evaluation Metrics and Error",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            564.6999999999999,
+            114.107421875,
+            583.3
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "Patterns",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            587.3,
+            254.7490234375,
+            602.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "Forecast error is summarized with mean",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            602.8,
+            285.056640625,
+            618.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "absolute percentage error and a bias measure",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            618.3,
+            212.087890625,
+            633.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "that reveals systematic over- or",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            633.8,
+            282.6103515625,
+            649.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "under-prediction. Errors cluster around school",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            649.3,
+            286.951171875,
+            664.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "holiday transitions and program launch weeks,",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            664.8,
+            263.640625,
+            680.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "which suggests calendar features deserve",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            680.3,
+            279.6220703125,
+            695.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "more weight than weather variables. We also",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            695.8,
+            248.6455078125,
+            711.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "report error by branch size, since small",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            711.3,
+            284.7197265625,
+            726.8
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "branches show wider relative error even when",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            726.8,
+            217.37109375,
+            742.3
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "absolute differences are modest.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            748.3,
+            276.912109375,
+            763.8
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "Supporting records are presented in Table 4.",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            52,
+            533.3518671874999,
+            69.05
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "B.1.1 Backtesting Across Branches",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            73.05,
+            536.1243281249999,
+            88.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "Backtests replay 12 weeks of history for each",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            88.55,
+            499.7327265625,
+            104.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "of the 4 sites, refitting models at fixed",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            104.05,
+            513.2288203124999,
+            119.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "intervals. Results show that the seasonal",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            119.55,
+            529.3518671874999,
+            135.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "baseline is competitive for loans but weaker",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            135.05,
+            526.2854609374999,
+            150.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "for program registrations, which respond to",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            150.55,
+            526.5833124999999,
+            166.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "announcement timing. These are simulated",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            166.05,
+            534.4348749999999,
+            181.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "backtest observations, not evidence that any",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            181.55,
+            537.7014765624999,
+            197.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "single model causes better service outcomes;",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            197.05,
+            519.4397578124999,
+            212.55
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "they indicate where model choice matters",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            212.55,
+            399.307921875,
+            228.05
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "most for planning.",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            307.638,
+            234.05,
+            543.276,
+            368.05
+          ],
+          "block_id": "o0006",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0010",
+          "belongs_to": "h0010",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column1",
+          "rows": [
+            [
+              "Service",
+              "Interval use",
+              "Risk",
+              "Note"
+            ],
+            [
+              "Loans",
+              "Midpoint",
+              "Low",
+              "Stable"
+            ],
+            [
+              "Visits",
+              "Upper bound",
+              "Queueing",
+              "Peak hours"
+            ],
+            [
+              "Programs",
+              "Wide range",
+              "Seats",
+              "Announcement"
+            ],
+            [
+              "Reference",
+              "Sampled",
+              "Coverage",
+              "Tally gap"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            307.638,
+            234.05,
+            543.276,
+            415.05
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            375.05,
+            537.7522578124999,
+            388.225
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "Figure 2: Interpretation guide for forecast intervals by",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            388.225,
+            338.085265625,
+            401.40000000000003
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "service",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            415.05,
+            486.612609375,
+            432.1
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "B.1.2 Interpreting Forecast",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            317.638,
+            432.1,
+            372.616515625,
+            449.15000000000003
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "Intervals",
+          "parent_id": "h0008",
+          "level": 4,
+          "size": 11,
+          "font": "bold",
+          "lane": "column1",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            453.15000000000003,
+            533.3167109374999,
+            468.65000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "Point forecasts are presented with prediction",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            468.65000000000003,
+            521.5247187499999,
+            484.15000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "intervals so planners can see the plausible",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            484.15000000000003,
+            534.9866328124999,
+            499.65000000000003
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "range. A branch planning staffing against the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            499.65000000000003,
+            535.0159296874999,
+            515.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "upper bound will over-staff on average, while",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            515.1500000000001,
+            541.8323359374999,
+            530.6500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "planning against the lower bound risks queues",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            530.6500000000001,
+            529.8694453124999,
+            546.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "at peak hours. We recommend choosing the",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            546.1500000000001,
+            529.5422968749999,
+            561.6500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "interval width according to the cost of being",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            561.6500000000001,
+            538.5120234374999,
+            577.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "wrong for each service, and we label intervals",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            577.1500000000001,
+            483.7854609375,
+            592.6500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "as simulated estimates rather than",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            592.6500000000001,
+            367.6428828125,
+            608.1500000000001
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "guarantees.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            614.1500000000001,
+            536.5149531249999,
+            629.6500000000001
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "Supporting records are presented in Figure 2.",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null,
+          "refers_to": "o0006"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            287.638,
+            186
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Duty",
+              "Role",
+              "Timing",
+              "Output"
+            ],
+            [
+              "Assumption check",
+              "Supervisor",
+              "Pre-roster",
+              "Memo"
+            ],
+            [
+              "Error review",
+              "Analyst",
+              "Quarterly",
+              "Report"
+            ],
+            [
+              "Model change",
+              "Data lead",
+              "As needed",
+              "Rationale"
+            ],
+            [
+              "Decision record",
+              "Manager",
+              "Each cycle",
+              "Log entry"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            287.638,
+            233
+          ],
+          "target_subtype": "before_heading"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            257.45263671875,
+            206.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "Table 2: Review duties and cadence for forecast",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            206.175,
+            102.236328125,
+            219.35
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "governance",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            233,
+            192.048828125,
+            251.6
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "B.2 Governance and",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            56.0,
+            251.6,
+            211.279296875,
+            270.2
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "Implementation Duties",
+          "parent_id": "h0007",
+          "level": 3,
+          "size": 12,
+          "font": "bold",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            274.2,
+            275.115234375,
+            289.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "Forecasts enter branch planning only after a",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            289.7,
+            257.1513671875,
+            305.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "review meeting where supervisors check",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            305.2,
+            265.0859375,
+            320.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "assumptions, note local events and record",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            320.7,
+            287.322265625,
+            336.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "dissent. The review produces a decision memo",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            336.2,
+            261.3896484375,
+            351.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "with owners and review dates, and model",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            351.7,
+            283.044921875,
+            367.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "changes require a documented rationale. This",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            367.2,
+            271.0283203125,
+            382.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "governance keeps forecasting accountable:",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            382.7,
+            275.30078125,
+            398.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "staff know which numbers drive rosters, and",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            398.2,
+            280.88671875,
+            413.7
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "residents can ask how service levels were set",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            413.7,
+            285.2568359375,
+            429.2
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "without confronting an unexplained algorithm.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            435.2,
+            276.912109375,
+            450.7
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "Supporting records are presented in Table 2.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            456.7,
+            276.912109375,
+            472.2
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "Supporting records are presented in Table 3.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            478.2,
+            287.638,
+            612.2
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Check",
+              "Owner",
+              "Status",
+              "Evidence"
+            ],
+            [
+              "Calendar match",
+              "Supervisor",
+              "Open",
+              "Closure list"
+            ],
+            [
+              "Interval brief",
+              "Analyst",
+              "Open",
+              "Plain summary"
+            ],
+            [
+              "Owner named",
+              "Manager",
+              "Open",
+              "Memo"
+            ],
+            [
+              "Shadow run",
+              "Data lead",
+              "Open",
+              "Comparison"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            478.2,
+            287.638,
+            659.2
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            619.2,
+            262.68212890625,
+            632.375
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "Table 3: Implementation readiness checks before",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            632.375,
+            147.512939453125,
+            645.5500000000001
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "forecasts drive rosters",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            659.2,
+            249.0361328125,
+            674.7
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "Branch supervisors should confirm that",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            674.7,
+            266.9755859375,
+            690.2
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "holiday calendars used in fitting match the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            690.2,
+            272.791015625,
+            705.7
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "actual closure schedule; a mismatch quietly",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            705.7,
+            285.037109375,
+            721.2
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "shifts seasonal effects and inflates error in the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            721.2,
+            209.2216796875,
+            736.7
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "weeks surrounding each break.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            742.7,
+            262.3515625,
+            758.2
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "When a counter fails for part of a day, the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            758.2,
+            275.3251953125,
+            773.7
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "affected week should be flagged rather than",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            52,
+            532.2473749999999,
+            67.5
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "scaled up, because scaling assumes a stable",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            67.5,
+            540.0501093749999,
+            83.0
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "visitor pattern that the outage itself may have",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            83.0,
+            358.370421875,
+            98.5
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "disturbed.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            104.5,
+            504.014953125,
+            120.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "Model documentation should name the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            120.0,
+            523.0432734374999,
+            135.5
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "training window, feature set and validation",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            135.5,
+            517.3401484374999,
+            151.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "split so that a later analyst can reproduce",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            151.0,
+            534.2688593749999,
+            166.5
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "results without reconstructing decisions from",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            166.5,
+            441.6174921875,
+            182.0
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "memory or informal notes.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            188.0,
+            531.8958124999999,
+            203.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "Program registration series often lead actual",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            203.5,
+            504.346984375,
+            219.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "attendance; planners should keep both",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            219.0,
+            530.3870234374999,
+            234.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "measures visible so that forecasted demand",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            234.5,
+            526.4954218749999,
+            250.0
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "reflects seats offered as well as seats filled.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            256.0,
+            542.8772578124999,
+            271.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "Rolling-origin validation is preferred to a single",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            271.5,
+            500.343078125,
+            287.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "holdout because library demand shifts",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            287.0,
+            520.9827265624999,
+            302.5
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "gradually and one split can flatter a model",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            302.5,
+            496.54425,
+            318.0
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "that performs poorly in other periods.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            324.0,
+            513.8538203124999,
+            339.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "Where two models disagree sharply for a",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            339.5,
+            518.0725703124999,
+            355.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "branch, the review meeting should record",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            355.0,
+            519.1809687499999,
+            370.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "both ranges and the reasoning behind the",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            370.5,
+            535.5628046874999,
+            386.0
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "chosen planning figure rather than averaging",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            386.0,
+            346.690734375,
+            401.5
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "silently.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            407.5,
+            536.3879999999999,
+            423.0
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "Small branches need wider intervals; treating",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            423.0,
+            517.4085078124999,
+            438.5
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "their forecasts with the same precision as",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            438.5,
+            529.3372187499999,
+            454.0
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "large sites invites overconfidence in staffing",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            454.0,
+            430.3967890625,
+            469.5
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "and collection decisions.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            475.5,
+            516.0169062499999,
+            491.0
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "Weather covariates add little explanatory",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            491.0,
+            535.4846796874999,
+            506.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "value in our simulated tests, so teams should",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            506.5,
+            528.2337031249999,
+            522.0
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "weigh whether the data collection burden is",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            522.0,
+            463.624328125,
+            537.5
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "justified before retaining them.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            543.5,
+            532.0081171874999,
+            559.0
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "Renovation periods should be excluded from",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            559.0,
+            542.7503046874999,
+            574.5
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "fitting but retained in reporting, since planners",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            574.5,
+            525.2356562499999,
+            590.0
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "still need to know what demand looked like",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            590.0,
+            465.2796015625,
+            605.5
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "before and after the disruption.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            611.5,
+            522.4329218749999,
+            627.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "Forecast review should occur before roster",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            627.0,
+            533.1946406249999,
+            642.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "deadlines, not after, so that adjustments can",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            642.5,
+            512.9944453124999,
+            658.0
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "still influence staffing rather than merely",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            658.0,
+            421.417296875,
+            673.5
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "annotate past choices.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            679.5,
+            535.8020624999999,
+            695.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "Any change to cleaning rules should trigger a",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            695.0,
+            538.3460078124999,
+            710.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "refit and a short note explaining the expected",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            710.5,
+            532.3694453124999,
+            726.0
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "effect, because rule changes can move error",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            726.0,
+            529.4202265624999,
+            741.5
+          ],
+          "block_id": "t00022",
+          "type": "text",
+          "text": "metrics without any real change in demand.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            307.638,
+            747.5,
+            543.2190546874999,
+            763.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "Reference desk queries are poorly captured by",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column1",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            250.369140625,
+            67.5
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "door counters alone; a separate tally or",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            67.5,
+            256.2138671875,
+            83.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "sampling scheme improves visibility into",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            83.0,
+            266.2138671875,
+            98.5
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "demand that never reaches the circulation",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            98.5,
+            91.3310546875,
+            114.0
+          ],
+          "block_id": "t00023",
+          "type": "text",
+          "text": "system.",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "latin",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            120.0,
+            287.638,
+            254.0
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0008",
+          "belongs_to": "h0008",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "Criterion",
+              "Baseline",
+              "Regression",
+              "Boosted"
+            ],
+            [
+              "Seasonal fit",
+              "Strong",
+              "Moderate",
+              "Strong"
+            ],
+            [
+              "Calendar use",
+              "None",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Interpretability",
+              "High",
+              "High",
+              "Low"
+            ],
+            [
+              "Setup effort",
+              "Low",
+              "Medium",
+              "High"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            120.0,
+            287.638,
+            287.0
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            261.0,
+            277.918212890625,
+            274.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "Table 4: Model comparison criteria used in validation",
+          "font": "latin",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}

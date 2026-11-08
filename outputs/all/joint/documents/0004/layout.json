@@ -1,0 +1,2356 @@
+{
+  "renderer": "python-benchmark-v0.5.0",
+  "numbering_passes": 2,
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_1",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_1",
+          "type": "page_furniture",
+          "text": "1",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            207.63799999999998,
+            52.0,
+            387.638,
+            79.9
+          ],
+          "block_id": "h0001",
+          "type": "title",
+          "text": "服务运营情境考核试卷",
+          "font": "cjk",
+          "size": 18,
+          "parent_id": "root",
+          "level": 1,
+          "lane": "spanning_top",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            91.9,
+            532.0,
+            107.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "本试卷用于评估考生在服务运营情境中综合运用调度、质量、容量与补救知识的能力。考试时长与课程安排一",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            107.4,
+            535.3000004291534,
+            122.9
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "致，教学周为12周，共24次课、48学时。试卷包含情境选择题、计算分析题与案例决策题，所有数据均为模拟",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            122.9,
+            402.0,
+            138.4
+          ],
+          "block_id": "t00001",
+          "type": "text",
+          "text": "情境，不涉及真实机构。考生须在答题纸上写明推理步骤，仅给出结论不得分。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            144.4,
+            159.79000014066696,
+            159.9
+          ],
+          "block_id": "ref_o0004",
+          "type": "text",
+          "text": "相关记录与要求见表 3。",
+          "parent_id": "h0001",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0004"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            165.9,
+            169.34800016880035,
+            184.5
+          ],
+          "block_id": "h0002",
+          "type": "title",
+          "text": "1 试卷说明与答题规范",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            188.5,
+            532.0,
+            204.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "本卷共分两部分：情境判断与计算分析。考生须使用黑色签字笔作答，计算题保留两位小数。试卷中出现的产",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            204.0,
+            542.0,
+            219.5
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "出、成本与结余数据均为模拟指标，仅用于考核分析能力。答题时须先列出关键假设，再给出计算过程，最后写",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            219.5,
+            482.0,
+            235.0
+          ],
+          "block_id": "t00002",
+          "type": "text",
+          "text": "出管理含义。未写假设或单位缺失的答案酌情扣分。考试期间不得使用具有通信功能的电子设备。",
+          "parent_id": "h0002",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            241.0,
+            193.19600027799606,
+            258.05
+          ],
+          "block_id": "h0003",
+          "type": "title",
+          "text": "1.1 第一部分 情境判断与选择",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            262.05,
+            542.0,
+            277.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "本部分给出若干服务运营情境，要求考生判断最合适的运营策略或改进措施。每题只有一个最佳答案，多选不得",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            277.55,
+            542.0,
+            293.05
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "分。情境覆盖排队管理、服务蓝图、容量规划与补救服务等主题。考生应结合服务特性与运营目标进行推理，而",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            293.05,
+            392.0,
+            308.55
+          ],
+          "block_id": "t00003",
+          "type": "text",
+          "text": "非凭直觉选择。本部分旨在检验考生对服务运营核心概念的辨识与迁移能力。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            314.55,
+            159.79000014066696,
+            330.05
+          ],
+          "block_id": "ref_o0006",
+          "type": "text",
+          "text": "相关记录与要求见表 1。",
+          "parent_id": "h0003",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0006"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            336.05,
+            201.35900032520294,
+            353.1
+          ],
+          "block_id": "h0004",
+          "type": "title",
+          "text": "1.1.1 情境一 排队与容量决策",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            357.1,
+            543.276,
+            491.1
+          ],
+          "block_id": "o0006",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0003",
+          "belongs_to": "h0003",
+          "caption_ids": [
+            "o0006_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "情境主题",
+              "核心概念",
+              "判断依据",
+              "常见误区"
+            ],
+            [
+              "排队管理",
+              "等待感知",
+              "公平理论",
+              "只看客观时间"
+            ],
+            [
+              "服务蓝图",
+              "失误点识别",
+              "流程分析",
+              "混淆前后台"
+            ],
+            [
+              "补救服务",
+              "三维公平",
+              "匹配原则",
+              "过度补偿"
+            ],
+            [
+              "容量规划",
+              "弹性配置",
+              "需求波动",
+              "忽视员工负荷"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            357.1,
+            543.276,
+            524.1
+          ],
+          "target_subtype": "after_section"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            498.1,
+            169.12150011956692,
+            511.27500000000003
+          ],
+          "block_id": "o0006_caption",
+          "type": "caption",
+          "text": "表 1：情境判断题主要考点分布",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0006",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            524.1,
+            538.6500002145767,
+            539.6
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "某模拟服务中心在四个站点运行，样本量为240次服务接触。近期观察显示高峰时段等待时间上升，而低谷时段",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            539.6,
+            542.0,
+            555.1
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "人员闲置。考生需判断应优先采取预约分流、动态排班还是扩容措施，并说明理由。请结合服务接触特性与容量",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            555.1,
+            252.0,
+            570.6
+          ],
+          "block_id": "t00004",
+          "type": "text",
+          "text": "弹性分析，指出单一措施可能带来的副作用。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            576.6,
+            159.79000014066696,
+            592.1
+          ],
+          "block_id": "ref_o0001",
+          "type": "text",
+          "text": "相关记录与要求见图 1。",
+          "parent_id": "h0004",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0001"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            598.1,
+            180.91900028288364,
+            614.375
+          ],
+          "block_id": "h0005",
+          "type": "title",
+          "text": "1.1.1.1 排队情境的细化分析",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            618.375,
+            542.0,
+            633.875
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "以下两个子情境分别聚焦等待感知与容量利用率。考生须运用排队论基本关系，判断服务台数量与到达率变化对",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            633.875,
+            542.0,
+            649.375
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "等待时间的影响方向，并讨论顾客感知等待与客观等待的差异。分析时须明确所采用的假设，例如到达过程与服",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            649.375,
+            282.0,
+            664.875
+          ],
+          "block_id": "t00005",
+          "type": "text",
+          "text": "务时间的分布特征，并说明假设变化对结论的影响。",
+          "parent_id": "h0005",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            670.875,
+            212.5175004005432,
+            687.15
+          ],
+          "block_id": "h0006",
+          "type": "title",
+          "text": "1.1.1.1.1 子情境一 等待感知干预",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            691.15,
+            542.0,
+            706.65
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "某模拟服务厅在等候区提供进度提示与预计等待时间。考生需分析此类信息干预可能如何影响顾客的等待感知与",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            706.65,
+            542.0,
+            722.15
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "放弃率，并指出在何种条件下信息干预可能适得其反。请结合公平感知与服务补救理论作答，说明干预措施与运",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            722.15,
+            292.0,
+            737.65
+          ],
+          "block_id": "t00006",
+          "type": "text",
+          "text": "营指标之间的可能联系，避免作出确定性的因果断言。",
+          "parent_id": "h0006",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_2",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_2",
+          "type": "page_furniture",
+          "text": "2",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            52,
+            212.5175004005432,
+            68.275
+          ],
+          "block_id": "h0007",
+          "type": "title",
+          "text": "1.1.1.1.2 子情境二 容量弹性配置",
+          "parent_id": "h0005",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            72.275,
+            538.6500002145767,
+            87.775
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "某模拟服务网点在四个站点间调配人员，样本接触量为240次。考生需比较固定排班与弹性排班在服务水平和人",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            87.775,
+            542.0,
+            103.275
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "力成本之间的权衡，并提出一个可操作的弹性配置方案。方案须说明触发调整的观察指标与调整幅度，并讨论弹",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            103.275,
+            242.0,
+            118.775
+          ],
+          "block_id": "t00007",
+          "type": "text",
+          "text": "性配置对员工负荷与服务质量的可能影响。",
+          "parent_id": "h0007",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.775,
+            214.7710003554821,
+            141.05
+          ],
+          "block_id": "h0008",
+          "type": "title",
+          "text": "1.1.1.2 情境二 服务蓝图与失误预防",
+          "parent_id": "h0004",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            145.05,
+            532.0,
+            160.55
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "某模拟服务流程包含前台接触、后台支持与顾客自助三个环节。考生需绘制简化的服务蓝图，标出可能的失误",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            160.55,
+            542.0,
+            176.05
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "点，并提出预防性措施。请区分失误预防与失误补救的不同作用时机，并说明为何仅依靠补救难以维持长期服务",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            176.05,
+            282.0,
+            191.55
+          ],
+          "block_id": "t00008",
+          "type": "text",
+          "text": "质量。回答须体现对服务接触关键环节的识别能力。",
+          "parent_id": "h0008",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            197.55,
+            223.35900032520294,
+            214.60000000000002
+          ],
+          "block_id": "h0009",
+          "type": "title",
+          "text": "1.1.2 情境三 补救服务与公平感知",
+          "parent_id": "h0003",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            218.60000000000002,
+            542.0,
+            234.10000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "某模拟服务组织在发生服务失误后提供补偿。考生需评价补偿方案在分配公平、程序公平与互动公平三个维度上",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            234.10000000000002,
+            542.0,
+            249.60000000000002
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "的表现，并提出改进建议。请说明补救措施应及时、适度并与失误严重程度匹配，同时讨论过度补救可能引发的",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            249.60000000000002,
+            322.0,
+            265.1
+          ],
+          "block_id": "t00009",
+          "type": "text",
+          "text": "公平感知问题。回答应避免将模拟观察直接等同于因果结论。",
+          "parent_id": "h0009",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            271.1,
+            180.91900028288364,
+            287.375
+          ],
+          "block_id": "h0020",
+          "type": "title",
+          "text": "1.1.2.1 补救公平三维度评价",
+          "parent_id": "h0009",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            291.375,
+            542.0,
+            306.875
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "评价补救方案时，考生应分别考察分配公平、程序公平与互动公平。分配公平关注补偿额度是否与失误严重程度",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            306.875,
+            542.0,
+            322.375
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "匹配，可结合模拟数据中不同情境的补偿差异进行判断；程序公平关注申诉与处理流程是否透明、可追溯；互动",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            322.375,
+            542.0,
+            337.875
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "公平关注服务人员的致歉态度与信息告知是否真诚及时。三者缺一不可，仅提高补偿额度而忽视程序与互动，往",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            337.875,
+            342.0,
+            353.375
+          ],
+          "block_id": "t00010",
+          "type": "text",
+          "text": "往难以提升整体公平感知，回答时应逐维度给出证据与改进方向。",
+          "parent_id": "h0020",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            359.375,
+            201.91900028288364,
+            375.65
+          ],
+          "block_id": "h0021",
+          "type": "title",
+          "text": "1.1.2.2 过度补救的公平感知风险",
+          "parent_id": "h0009",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            379.65,
+            542.0,
+            395.15
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "补救措施应与失误严重程度适度匹配，过度补救可能引发新的公平感知问题。若对轻微失误给予高额补偿，其他",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            395.15,
+            542.0,
+            410.65
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "顾客可能产生相对剥夺感，认为资源分配失衡；同时可能诱导部分顾客的投机行为，抬高服务成本。考生应讨论",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            410.65,
+            542.0,
+            426.15
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "补偿标准的分级设计，说明如何依据失误影响范围与损失程度设定补偿上限，并结合模拟观察指出过度补救的潜",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            426.15,
+            262.0,
+            441.65
+          ],
+          "block_id": "t00011",
+          "type": "text",
+          "text": "在风险，避免将观察结果直接等同于因果结论。",
+          "parent_id": "h0021",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            447.65,
+            157.73200020194054,
+            464.7
+          ],
+          "block_id": "h0010",
+          "type": "title",
+          "text": "1.2 第一部分答题要求",
+          "parent_id": "h0002",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            468.7,
+            542.0,
+            484.2
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "本部分每题须在答题纸指定位置作答，选择题填写选项字母，简答题写出关键理由。考生应结合情境中的模拟数",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            484.2,
+            542.0,
+            499.7
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "据与运营概念进行判断，不得仅凭常识作答。对于涉及指标比较的题目，须说明比较基准与判断依据。未按要求",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            499.7,
+            222.0,
+            515.2
+          ],
+          "block_id": "t00012",
+          "type": "text",
+          "text": "作答或超出答题区域的答案不予评阅。",
+          "parent_id": "h0010",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            521.2,
+            220.03600025177002,
+            539.8000000000001
+          ],
+          "block_id": "h0011",
+          "type": "title",
+          "text": "2 第二部分 计算分析与案例决策",
+          "parent_id": "h0001",
+          "level": 2,
+          "size": 12,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            543.8000000000001,
+            542.0,
+            559.3000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "本部分要求考生基于模拟运营数据完成计算并作出管理决策。数据涉及四个年度的产出、成本与结余指标，以及",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            559.3000000000001,
+            542.0,
+            574.8000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "服务响应与评审时限。考生须展示计算过程，解释指标含义，并结合服务运营目标提出改进建议。所有数值均为",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            574.8000000000001,
+            292.0,
+            590.3000000000001
+          ],
+          "block_id": "t00013",
+          "type": "text",
+          "text": "模拟情境数据，不得视为真实机构的财务或运营披露。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            596.3000000000001,
+            159.79000014066696,
+            611.8000000000001
+          ],
+          "block_id": "ref_o0003",
+          "type": "text",
+          "text": "相关记录与要求见表 5。",
+          "parent_id": "h0011",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0003"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            617.8000000000001,
+            204.19600027799606,
+            634.85
+          ],
+          "block_id": "h0012",
+          "type": "title",
+          "text": "2.1 计算题一 运营绩效趋势分析",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            638.85,
+            542.0,
+            654.35
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "下表给出四个年度的模拟产出、成本与结余数据。考生须计算各年度结余率，分析产出与成本的变化趋势，并判",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            654.35,
+            542.0,
+            669.85
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "断运营效率是否改善。请说明结余率变化可能来自产出增长、成本控制或两者共同作用，并指出仅凭结余率判断",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            669.85,
+            222.0,
+            685.35
+          ],
+          "block_id": "t00014",
+          "type": "text",
+          "text": "效率的局限性。计算须保留两位小数。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            691.35,
+            159.79000014066696,
+            706.85
+          ],
+          "block_id": "ref_o0002",
+          "type": "text",
+          "text": "相关记录与要求见表 4。",
+          "parent_id": "h0012",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0002"
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            712.85,
+            234.35900032520294,
+            729.9
+          ],
+          "block_id": "h0013",
+          "type": "title",
+          "text": "2.1.1 计算题二 服务响应与评审时限",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            733.9,
+            543.1000001430511,
+            749.4
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "某模拟服务流程承诺在2天内响应顾客请求，并在5天内完成评审。考生须分析该时限组合对顾客等待感知与内部",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            749.4,
+            542.0,
+            764.9
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "排队的影响，并提出调整建议。请说明缩短响应时限与缩短评审时限分别对前台与后台能力提出的不同要求，并",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_3",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_3",
+          "type": "page_furniture",
+          "text": "3",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            52,
+            222.0,
+            67.5
+          ],
+          "block_id": "t00015",
+          "type": "text",
+          "text": "讨论时限承诺与补救成本之间的关系。",
+          "parent_id": "h0013",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            73.5,
+            204.2710003554821,
+            89.775
+          ],
+          "block_id": "h0014",
+          "type": "title",
+          "text": "2.1.1.1 案例决策 容量与质量协同",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            93.775,
+            539.1400010585785,
+            109.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "某模拟服务组织在四个站点运营，样本量为240次服务接触。近期产出从82.48增长至115.48，成本从53.61上升",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            109.275,
+            536.9800002574921,
+            124.775
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "至75.06。考生须判断该增长是否伴随服务质量下降风险，并提出容量与质量协同的管理方案。方案须包含监测",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            124.775,
+            182.0,
+            140.275
+          ],
+          "block_id": "t00016",
+          "type": "text",
+          "text": "指标、调整机制与责任分工。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            146.275,
+            159.79000014066696,
+            161.775
+          ],
+          "block_id": "ref_o0005",
+          "type": "text",
+          "text": "相关记录与要求见表 2。",
+          "parent_id": "h0014",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null,
+          "refers_to": "o0005"
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            167.775,
+            543.276,
+            301.775
+          ],
+          "block_id": "o0005",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0014",
+          "belongs_to": "h0014",
+          "caption_ids": [
+            "o0005_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "评价维度",
+              "方案要素",
+              "监测指标",
+              "调整机制"
+            ],
+            [
+              "容量匹配",
+              "弹性排班",
+              "利用率",
+              "阈值触发"
+            ],
+            [
+              "质量保障",
+              "过程检查",
+              "失误率",
+              "定期评审"
+            ],
+            [
+              "成本控制",
+              "失误成本",
+              "补救支出",
+              "月度分析"
+            ],
+            [
+              "顾客感知",
+              "等待提示",
+              "满意度",
+              "反馈闭环"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            167.775,
+            543.276,
+            334.775
+          ],
+          "target_subtype": "normal"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            308.775,
+            186.12150011956692,
+            321.95
+          ],
+          "block_id": "o0005_caption",
+          "type": "caption",
+          "text": "表 2：容量与质量协同方案评价矩阵",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0005",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            334.775,
+            233.5175004005432,
+            351.04999999999995
+          ],
+          "block_id": "h0015",
+          "type": "title",
+          "text": "2.1.1.1.1 决策子题一 增长与质量权衡",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            355.04999999999995,
+            540.6400002241135,
+            370.54999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "考生须分析产出增长40.0%背景下，服务接触量增加对员工负荷与失误率的可能影响。请结合服务补救成本与顾",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            370.54999999999995,
+            542.0,
+            386.04999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "客流失风险，讨论是否应放慢增长节奏或增加质量投入。回答须区分模拟观察与因果推断，说明哪些结论需要进",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            386.04999999999995,
+            122.0,
+            401.54999999999995
+          ],
+          "block_id": "t00017",
+          "type": "text",
+          "text": "一步证据支持。",
+          "parent_id": "h0015",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            407.54999999999995,
+            254.5175004005432,
+            423.82499999999993
+          ],
+          "block_id": "h0016",
+          "type": "title",
+          "text": "2.1.1.1.2 决策子题二 成本控制与服务标准",
+          "parent_id": "h0014",
+          "level": 6,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            427.82499999999993,
+            541.9600005149841,
+            443.32499999999993
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "考生须在成本从53.61升至75.06的情境下，提出兼顾服务标准的成本控制措施。请说明哪些成本属于可避免的失",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            443.32499999999993,
+            542.0,
+            458.82499999999993
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "误成本，哪些属于维持服务能力必要的投入，并讨论削减必要投入可能带来的长期后果。回答应体现对成本结构",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            458.82499999999993,
+            162.0,
+            474.32499999999993
+          ],
+          "block_id": "t00018",
+          "type": "text",
+          "text": "与服务特性关系的理解。",
+          "parent_id": "h0016",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            480.32499999999993,
+            170.41900028288364,
+            496.5999999999999
+          ],
+          "block_id": "h0017",
+          "type": "title",
+          "text": "2.1.1.2 案例决策答题规范",
+          "parent_id": "h0013",
+          "level": 5,
+          "size": 10.5,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            500.5999999999999,
+            542.0,
+            516.0999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "案例决策题要求考生先界定问题，再提出方案，最后说明实施条件与风险。方案须与情境数据一致，不得引入未",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            516.0999999999999,
+            542.0,
+            531.5999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "给出的数值。考生应明确区分事实描述、模拟观察与管理建议，避免将相关性表述为因果关系。答题篇幅建议控",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            531.5999999999999,
+            252.0,
+            547.0999999999999
+          ],
+          "block_id": "t00019",
+          "type": "text",
+          "text": "制在合理范围内，重点突出决策逻辑与依据。",
+          "parent_id": "h0017",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            62.0,
+            553.0999999999999,
+            234.35900032520294,
+            570.1499999999999
+          ],
+          "block_id": "h0018",
+          "type": "title",
+          "text": "2.1.2 计算题三 服务能力与需求匹配",
+          "parent_id": "h0012",
+          "level": 4,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            574.1499999999999,
+            537.4700011014938,
+            589.6499999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "某模拟服务系统在四个站点配置能力，年度产出从82.48增至115.48，结余从28.87增至40.42。考生须分析能力",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            589.6499999999999,
+            542.0,
+            605.1499999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "利用率与结余之间的关系，并提出需求管理措施。请说明需求管理、能力调整与排队管理三类策略的适用条件，",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            605.1499999999999,
+            232.0,
+            620.6499999999999
+          ],
+          "block_id": "t00020",
+          "type": "text",
+          "text": "并讨论各策略对顾客感知的差异化影响。",
+          "parent_id": "h0018",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            626.6499999999999,
+            157.73200020194054,
+            643.6999999999998
+          ],
+          "block_id": "h0019",
+          "type": "title",
+          "text": "2.2 第二部分答题要求",
+          "parent_id": "h0011",
+          "level": 3,
+          "size": 11,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": "18384a"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            647.6999999999998,
+            542.0,
+            663.1999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "本部分计算题须写出公式、代入过程与结果，案例题须分点陈述问题、方案与依据。考生应使用试卷提供的模拟",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            663.1999999999998,
+            532.0,
+            678.6999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "数据，不得自行编造数值。对于涉及趋势判断的题目，须说明比较的基期与观察期。答案应逻辑清晰、层次分",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            678.6999999999998,
+            222.0,
+            694.1999999999998
+          ],
+          "block_id": "t00021",
+          "type": "text",
+          "text": "明，管理建议须与计算结果相互印证。",
+          "parent_id": "h0019",
+          "level": null,
+          "size": 10,
+          "font": "cjk",
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": false,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_4",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_4",
+          "type": "page_furniture",
+          "text": "4",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52.0,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0004",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0001",
+          "belongs_to": "h0001",
+          "caption_ids": [
+            "o0004_caption"
+          ],
+          "lane": "column0",
+          "rows": [
+            [
+              "部分",
+              "题型",
+              "建议时长",
+              "分值占比"
+            ],
+            [
+              "第一部分",
+              "情境选择",
+              "约三成",
+              "三成"
+            ],
+            [
+              "第二部分",
+              "计算分析",
+              "约四成",
+              "四成"
+            ],
+            [
+              "第二部分",
+              "案例决策",
+              "约三成",
+              "三成"
+            ],
+            [
+              "全程",
+              "检查复核",
+              "预留少量",
+              "不单独计分"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52.0,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "far_float"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52.0,
+            193.0,
+            186.12150011956692,
+            206.175
+          ],
+          "block_id": "o0004_caption",
+          "type": "caption",
+          "text": "表 3：试卷结构与作答时间分配建议",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0004",
+          "level": null,
+          "lane": "column0",
+          "color_hex": null
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.276,
+      "height": 841.89,
+      "plate": true,
+      "operations": [
+        {
+          "kind": "text",
+          "box": [
+            52,
+            23.0,
+            247.2265625,
+            35.4
+          ],
+          "block_id": "furniture_header_5",
+          "type": "page_furniture",
+          "text": "SYNTHETIC DOCUMENT | RESEARCH PROTOTYPE",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "spanning_top",
+          "color_hex": null
+        },
+        {
+          "kind": "text",
+          "box": [
+            297.638,
+            809.89,
+            302.72784375,
+            822.29
+          ],
+          "block_id": "furniture_footer_5",
+          "type": "page_furniture",
+          "text": "5",
+          "font": "latin",
+          "size": 8,
+          "parent_id": "root",
+          "level": null,
+          "lane": "footer",
+          "color_hex": null
+        },
+        {
+          "kind": "figure",
+          "box": [
+            52,
+            52,
+            543.276,
+            186
+          ],
+          "block_id": "o0001",
+          "type": "figure",
+          "text": "",
+          "level": null,
+          "parent_id": "h0004",
+          "belongs_to": "h0004",
+          "caption_ids": [
+            "o0001_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "年度",
+              "产出",
+              "成本",
+              "结余"
+            ],
+            [
+              "2022",
+              "82.48",
+              "53.61",
+              "28.87"
+            ],
+            [
+              "2023",
+              "94.15",
+              "61.20",
+              "32.95"
+            ],
+            [
+              "2024",
+              "106.75",
+              "69.39",
+              "37.36"
+            ],
+            [
+              "2025",
+              "115.48",
+              "75.06",
+              "40.42"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": "placeholder",
+          "float_box": [
+            52,
+            52,
+            543.276,
+            219
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            193.0,
+            228.62150011956692,
+            206.175
+          ],
+          "block_id": "o0001_caption",
+          "type": "caption",
+          "text": "图 1：四个年度模拟运营产出、成本与结余对比",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0001",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52,
+            219,
+            543.276,
+            327
+          ],
+          "block_id": "o0002",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0012",
+          "belongs_to": "h0012",
+          "caption_ids": [
+            "o0002_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "评分维度",
+              "优秀表现",
+              "合格表现",
+              "待改进"
+            ],
+            [
+              "结余率计算",
+              "步骤完整准确",
+              "结果正确",
+              "公式错误"
+            ],
+            [
+              "趋势判断",
+              "多指标印证",
+              "单指标判断",
+              "无依据"
+            ],
+            [
+              "局限性说明",
+              "指出因果风险",
+              "提及局限",
+              "未讨论"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52,
+            219,
+            543.276,
+            360
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            334.0,
+            177.62150011956692,
+            347.175
+          ],
+          "block_id": "o0002_caption",
+          "type": "caption",
+          "text": "表 4：运营绩效趋势分析评分要点",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0002",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        },
+        {
+          "kind": "table",
+          "box": [
+            52,
+            360,
+            543.276,
+            494
+          ],
+          "block_id": "o0003",
+          "type": "table",
+          "text": "",
+          "level": null,
+          "parent_id": "h0011",
+          "belongs_to": "h0011",
+          "caption_ids": [
+            "o0003_caption"
+          ],
+          "lane": "spanning_body",
+          "rows": [
+            [
+              "检查项",
+              "要求",
+              "分值提示",
+              "常见问题"
+            ],
+            [
+              "假设说明",
+              "明确列出",
+              "高",
+              "遗漏假设"
+            ],
+            [
+              "计算过程",
+              "公式代入",
+              "高",
+              "仅写结果"
+            ],
+            [
+              "管理含义",
+              "结合情境",
+              "中",
+              "泛泛而谈"
+            ],
+            [
+              "因果区分",
+              "明确标注",
+              "中",
+              "混淆相关"
+            ]
+          ],
+          "row_height": 26,
+          "image_path": null,
+          "figure_status": null,
+          "float_box": [
+            52,
+            360,
+            543.276,
+            527
+          ],
+          "target_subtype": "plate"
+        },
+        {
+          "kind": "text",
+          "box": [
+            52,
+            501.0,
+            203.12150011956692,
+            514.175
+          ],
+          "block_id": "o0003_caption",
+          "type": "caption",
+          "text": "表 5：计算分析与案例决策答题检查清单",
+          "font": "cjk",
+          "size": 8.5,
+          "parent_id": "o0003",
+          "level": null,
+          "lane": "spanning_body",
+          "color_hex": null
+        }
+      ]
+    }
+  ]
+}
